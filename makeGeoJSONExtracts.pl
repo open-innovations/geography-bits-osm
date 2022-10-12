@@ -18,9 +18,13 @@ while(<FILE>){
 	if($line =~ /"osm_id":"([^\"]+)"/){
 		$id = $1;
 		if($good{$id}){
-			print "$counter: $id\n";
+			$dir = int($id/1e5)*100000;
+			if(!-d "data/OSM/$dir"){
+				`mkdir data/OSM/$dir`;
+			}
+			print "$counter: $id ($dir)\n";
 			$line =~ s/\,[\n\r]*$//g;
-			open(GEO,">","search/geojson/$id.geojson");
+			open(GEO,">","data/OSM/$dir/$id.geojson");
 			print GEO $line;
 			close(GEO);
 			$counter++;
