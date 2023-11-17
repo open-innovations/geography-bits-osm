@@ -51,6 +51,7 @@ Stachy	Okres Prachatice, Jihocesky kraj	423936	10	1222	49.10179	13.66659
 Stachy	Okres Prachatice, Jihocesky kraj	438039	8	1222	49.10179	13.66659
 Stacy	Chisago County, Minnesota	137261	8	1470	45.39802	-92.98744
 Stade	Lower Saxony	444799	8	45634	53.59337	9.47629
+Stade	Lower Saxony	62482	6	45634	53.59337	9.47629
 Stadecken-Elsheim	Rheinland-Pfalz	1239662	8	4438	49.91222	8.12528
 Stadelhofen	Upper Franconia, Bavaria	1077533	8	1264	50.00317	11.19757
 Staden	Provincie West-Vlaanderen, Flanders	901843	8	10786	50.97456	3.01469
@@ -99,6 +100,7 @@ Stainborough	Barnsley, England	1264069	10	0	53.52623	-1.518
 Stainburn	North Yorkshire, England	7678352	10	1666	53.93333	-1.61667
 Staindrop	County Durham, England	8614356	10	1310	54.58102	-1.80708
 Stainforth	Doncaster, England	1271831	10	6483	53.6	-1.03333
+Stainforth	Doncaster, England	7314855	10	6483	53.6	-1.03333
 Stains	Seine-Saint-Denis, Ile-de-France	158809	8	32601	48.95	2.38333
 Stainton	Doncaster, England	1271370	10	0	53.43333	-1.16667
 Stainz	Politischer Bezirk Deutschlandsberg, Styria	36137	8	1677	46.89444	15.26722
@@ -111,6 +113,7 @@ Stallhofen	Politischer Bezirk Voitsberg, Styria	51342	8	1231	47.05	15.21667
 Stallingborough	North East Lincolnshire, England	611149	10	1073	53.58675	-0.18489
 Stallings	Union County, North Carolina	179856	8	15270	35.0907	-80.68618
 Stallion Springs	Kern County, California	114446	8	2488	35.08886	-118.64259
+Stallwang	Lower Bavaria, Bavaria	959648	8	1382	48.55838	12.23108
 Stalowa Wola	Powiat stalowowolski, Subcarpathia	1472854	7	66495	50.58286	22.05334
 Stalowa Wola	Powiat stalowowolski, Subcarpathia	2970392	8	66495	50.58286	22.05334
 Stalpeni	Comuna Stalpeni, Arges	13140569	8	5088	45.05	24.96667
@@ -155,6 +158,12 @@ Stanislaw Gorny	Powiat wadowicki, Lesser Poland	3530708	8	1017	49.91155	19.62931
 Stanislawice	Powiat bochenski, Lesser Poland	6060835	8	1300	49.9855	20.35123
 Stanislawow	Powiat minski, Mazovia	11695769	8	2200	52.28937	21.54848
 Stanislawow	Powiat minski, Mazovia	13216912	8	2200	52.28937	21.54848
+Stanislawow	Powiat minski, Mazovia	3343488	8	2200	52.28937	21.54848
+Stanislawow	Powiat minski, Mazovia	3582942	8	2200	52.28937	21.54848
+Stanislawow	Powiat minski, Mazovia	3589461	8	2200	52.28937	21.54848
+Stanislawow	Powiat minski, Mazovia	4017576	8	2200	52.28937	21.54848
+Stanislawow	Powiat minski, Mazovia	4105168	8	2200	52.28937	21.54848
+Stanislawow	Powiat minski, Mazovia	5343995	8	2200	52.28937	21.54848
 Stanislawow Pierwszy	Powiat legionowski, Mazovia	2382970	8	1176	52.37485	21.05184
 Stankov	Okres Domazlice, Plzensky kraj	439129	8	3026	49.55348	13.06976
 Stanley	Chippewa County, Wisconsin	251899	8	3569	44.95997	-90.93708
@@ -169,6 +178,7 @@ Stanowice	Powiat swidnicki, Lower Silesia	5860433	8	1200	50.93106	16.37426
 Stans	Nidwalden	1683112	8	7475	46.95805	8.36609
 Stansbury park	Tooele County, Utah	198833	8	5145	40.63772	-112.29606
 Stansstad	Nidwalden	1683113	8	4471	46.9768	8.33553
+Stansted Mountfitchet	Essex, England	2264398	10	5429	51.9	0.2
 Stansted Mountfitchet	Essex, England	3340493	10	5429	51.9	0.2
 Stanthorpe	Southern Downs, Queensland	11678041	9	5378	-28.65425	151.93388
 Stanton	Martin County, Texas	6587603	8	2936	32.12929	-101.78846
@@ -211,8 +221,12 @@ Stara Tura	Okres Nove Mesto nad Vahom, Trenciansky kraj	1551268	10	8832	48.77721
 Stara Tura	Okres Nove Mesto nad Vahom, Trenciansky kraj	1556720	9	8832	48.77721	17.69433
 Stara Ushytsya	Kamyanets-Podilskyy Raion, Khmelnytskyi Oblast	4596328	9	2097	48.59427	27.07487
 Stara Ves nad Ondrejnici	Okres Ostrava-mesto, Moravskoslezsky	434054	10	2450	49.72775	18.1885
+Stara Ves nad Ondrejnici	Okres Ostrava-mesto, Moravskoslezsky	436801	8	2450	49.72775	18.1885
+Stara Ves nad Ondrejnici	Okres Ostrava-mesto, Moravskoslezsky	436978	8	2450	49.72775	18.1885
 Stara Ves nad Ondrejnici	Okres Ostrava-mesto, Moravskoslezsky	437333	8	2450	49.72775	18.1885
+Stara Wies	Powiat brzozowski, Subcarpathia	6090579	8	3100	49.71505	22.00441
 Stara Wies	Powiat brzozowski, Subcarpathia	6947784	8	3100	49.71505	22.00441
+Stara Zagora	Obshtina Stara Zagora, Stara Zagora	1300657	6	143431	42.43278	25.64194
 Stara Zagora	Obshtina Stara Zagora, Stara Zagora	1947830	7	143431	42.43278	25.64194
 Starachowice	Powiat starachowicki, Swietokrzyskie	2920608	7	53739	51.0374	21.07126
 Starachowice	Powiat starachowicki, Swietokrzyskie	2921189	8	53739	51.0374	21.07126
@@ -255,6 +269,7 @@ Starogard Gdanski	Powiat starogardzki, Pomerania	2615394	7	48202	53.96396	18.526
 Starogard Gdanski	Powiat starogardzki, Pomerania	2615397	8	48202	53.96396	18.52638
 Starokostyantyniv	Khmelnytskyi Oblast	3353648	9	34571	49.75522	27.21229
 Starowa Gora	Powiat lodzki wschodni, Lodz Voivodeship	12137652	8	1300	51.69134	19.48374
+Staroye Selo	Lviv Oblast	4105754	9	2119	49.70769	24.19327
 Starse	Starse	1676324	8	803	46.46583	15.76722
 Startforth	County Durham, England	8604270	10	0	54.53851	-1.93016
 Stary Bohumin	Okres Karvina, Moravskoslezsky	426211	10	23034	49.9169	18.33619
@@ -275,6 +290,7 @@ Staryi Sambir	Lviv Oblast	6956616	9	5603	49.44199	23.00185
 Staryy Merchyk	Kharkiv	3555597	8	1709	49.98147	35.75904
 Staryya Darohi	Minsk	6722616	8	10094	53.0402	28.267
 Staryya Darohi	Minsk	6781152	10	10094	53.0402	28.267
+Staryya Darohi	Minsk	7570424	10	10094	53.0402	28.267
 Staskov	Okres Cadca, Zilinsky kraj	2145251	9	2764	49.421	18.68694
 Staskov	Okres Cadca, Zilinsky kraj	2226180	10	2764	49.421	18.68694
 Stassfurt	Saxony-Anhalt	82601	8	22960	51.85186	11.58508
@@ -298,6 +314,7 @@ Staufenberg	Regierungsbezirk Giessen, Hesse	14286267	10	8346	50.66197	8.73158
 Staufenberg	Regierungsbezirk Giessen, Hesse	418610	8	8346	50.66197	8.73158
 Staunton	City of Staunton, Virginia	3864617	6	24416	38.14991	-79.0732
 Staunton	Macoupin County, Illinois	126809	8	5018	39.01227	-89.79121
+Stavanger	Stavanger, Rogaland	10150658	7	144877	58.97005	5.73332
 Stavelot	Province de Liege, Wallonia	2409290	8	6646	50.395	5.93124
 Stavenisse	Gemeente Tholen, Zeeland	1379230	10	1505	51.5875	4.0125
 Stavroupoli	Nomos Thessalonikis, Central Macedonia	8629807	8	46008	40.66944	22.93806
@@ -312,7 +329,9 @@ Stearns	McCreary County, Kentucky	130511	8	1416	36.69897	-84.47744
 Stebnyk	Lviv Oblast	2122761	9	20398	49.30098	23.55197
 Steborice	Okres Opava, Moravskoslezsky	432713	10	1330	49.93708	17.80547
 Steborice	Okres Opava, Moravskoslezsky	437623	8	1330	49.93708	17.80547
+Stechovice	Okres Praha-zapad, Central Bohemia	425512	10	1377	49.85109	14.40543
 Stechovice	Okres Praha-zapad, Central Bohemia	435999	10	1377	49.85109	14.40543
+Stechovice	Okres Praha-zapad, Central Bohemia	438814	8	1377	49.85109	14.40543
 Stechovice	Okres Praha-zapad, Central Bohemia	442421	8	1377	49.85109	14.40543
 Steckborn	Bezirk Frauenfeld, Thurgau	1684559	8	3229	47.66667	8.98333
 Stedesdorf	Lower Saxony	2012458	8	1715	53.63333	7.66667
@@ -342,9 +361,11 @@ Steenwijk	Gemeente Steenwijkerland, Overijssel	2695554	10	17138	52.7875	6.12083
 Steenwijkerwold	Gemeente Steenwijkerland, Overijssel	2695576	10	1720	52.80417	6.06389
 Steeple Bumpstead	Essex, England	3304062	10	1432	52.04346	0.44808
 Steeple Claydon	Buckinghamshire, England	3819262	10	2114	51.93643	-0.98328
+Steeton	Bradford, England	5674739	10	4196	53.88333	-1.95
 Stefan cel Mare	Comuna Stefan Cel Mare, Calarasi	13833310	8	3236	44.42639	27.64556
 Stefanaconi	Provincia di Vibo-Valentia, Calabria	39679	8	2466	38.67788	16.1242
 Stefanesti	Comuna Stefanesti, Botosani	10576555	8	1264	47.79169	27.20053
+Stefanesti	Comuna Stefanesti, Botosani	10628840	8	1264	47.79169	27.20053
 Steffisburg	Thun District, Bern	1682674	8	15191	46.77807	7.63249
 Stegaurach	Upper Franconia, Bavaria	1077557	8	6804	49.86543	10.84385
 Stegen	Freiburg Region, Baden-Wurttemberg	74462	8	4490	47.98333	7.96667
@@ -400,6 +421,7 @@ Steinheim	Regierungsbezirk Detmold, North Rhine-Westphalia	110471	8	13797	51.870
 Steinheim	Regierungsbezirk Detmold, North Rhine-Westphalia	1437822	10	13797	51.87066	9.09136
 Steinheim am Albuch	Regierungsbezirk Stuttgart, Baden-Wurttemberg	2791804	8	9013	48.6909	10.06382
 Steinheim an der Murr	Regierungsbezirk Stuttgart, Baden-Wurttemberg	405287	8	11374	48.96821	9.27708
+Steinhofel	Brandenburg	11125373	9	4672	52.4	14.16667
 Steinhofel	Brandenburg	1384806	8	4672	52.4	14.16667
 Steinhofel	Brandenburg	3335462	9	4672	52.4	14.16667
 Steinhoring	Upper Bavaria, Bavaria	929926	8	3759	48.08679	12.0314
@@ -407,6 +429,7 @@ Steinhorst	Lower Saxony	1392623	8	1397	52.68333	10.4
 Steinigtwolmsdorf	Saxony	1307626	8	3422	51.06314	14.3454
 Steinkirchen	Lower Saxony	444924	8	1650	53.56601	9.61111
 Steinkirchen	Upper Bavaria, Bavaria	934764	8	1185	48.38333	12.08333
+Steinkjer	Steinkjer, Trondelag	10143420	7	20000	64.01487	11.49537
 Steinmauern	Karlsruhe Region, Baden-Wurttemberg	907221	8	2916	48.90095	8.19692
 Steinmaur	Bezirk Dielsdorf, Zurich	1682212	8	1438	47.4971	8.45216
 Steinsel	Steinsel, Luxembourg	1702385	9	1879	49.67694	6.12389
@@ -430,6 +453,7 @@ Stelzenberg	Rheinland-Pfalz	191521	8	1291	49.37756	7.73814
 Stenay	Meuse, Grand Est	916326	8	3115	49.49489	5.18606
 Stendal	Saxony-Anhalt	1284750	8	37722	52.6069	11.85867
 Stendal	Saxony-Anhalt	3651556	9	37722	52.6069	11.85867
+Stendal	Saxony-Anhalt	62725	6	37722	52.6069	11.85867
 Stende	Stende, Talsi Municipality	7833412	7	1559	57.14497	22.53482
 Stene	Provincie West-Vlaanderen, Flanders	2247922	9	6310	51.20437	2.91259
 Stenico	Provincia autonoma di Trento, Trentino-Alto Adige	46785	8	562	46.05124	10.85562
@@ -480,6 +504,7 @@ Stevenson	Jackson County, Alabama	13812409	8	1991	34.86869	-85.83942
 Stevenson	Skamania County, Washington	238073	8	1497	45.69567	-121.88452
 Stevensville	Berrien County, Michigan	135075	8	1119	42.01449	-86.51947
 Stevensville	Ravalli County, Montana	142435	8	1922	46.50992	-114.09316
+Steventon	Oxfordshire, England	3811715	10	1485	51.62473	-1.32145
 Steventon	Oxfordshire, England	74156	10	1485	51.62473	-1.32145
 Stevington	Bedford, England	5312629	10	552	52.16848	-0.55515
 Stevoort	Provincie Limburg, Flanders	4193328	9	3713	50.91862	5.25327
@@ -505,6 +530,7 @@ Stigler	Haskell County, Oklahoma	185039	8	2766	35.25371	-95.12302
 Stigliano	Provincia di Matera, Basilicate	40431	8	4520	40.40237	16.22983
 Stignano	Provincia di Reggio Calabria, Calabria	39616	8	715	38.41705	16.47011
 Still	Bas-Rhin, Grand Est	93467	8	1604	48.54982	7.40444
+Stillington	Stockton-on-Tees, England	7903065	10	1210	54.60529	-1.42191
 Stillman Valley	Ogle County, Illinois	125772	8	1072	42.10725	-89.17927
 Stillwater	Payne County, Oklahoma	185207	8	48967	36.11561	-97.05837
 Stillwater	Washington County, Minnesota	137853	8	18924	45.05636	-92.80604
@@ -527,6 +553,7 @@ Stitna nad Vlari	Okres Zlin, Zlin	429767	10	2500	49.06881	17.98274
 Stity	Okres Sumperk, Olomoucky	436965	8	2049	49.96122	16.76576
 Stiwoll	Politischer Bezirk Graz-Umgebung, Styria	34838	8	722	47.1	15.21667
 Stizhkivske	Donetsk Oblast	2916663	9	4480	48.11333	38.4925
+Stjordal	Stjordal, Trondelag	407291	7	0	63.46803	10.91776
 Stobrec	Grad Split, Split-Dalmatia	11180346	8	2978	43.5025	16.52222
 Stochov	Okres Kladno, Central Bohemia	425039	10	5538	50.14631	13.96345
 Stochov	Okres Kladno, Central Bohemia	440952	8	5538	50.14631	13.96345
@@ -543,6 +570,7 @@ Stockheim	Upper Franconia, Bavaria	1021761	8	5286	50.30639	11.28172
 Stockport	Borough of Stockport, England	146658	8	139052	53.40979	-2.15761
 Stocksbridge	Sheffield, England	1264059	10	13069	53.48249	-1.59373
 Stockse	Lower Saxony	1183245	8	1400	52.64067	9.34027
+Stockstadt am Main	Regierungsbezirk Unterfranken, Bavaria	443926	8	7663	49.97005	9.07153
 Stockstadt am Main	Regierungsbezirk Unterfranken, Bavaria	534354	8	7663	49.97005	9.07153
 Stockton	Cedar County, Missouri	141716	8	1859	37.69893	-93.79604
 Stockton	Jo Daviess County, Illinois	126836	8	1792	42.34974	-90.00679
@@ -560,6 +588,7 @@ Stod	Okres Plzen-jih, Plzensky kraj	423482	10	3532	49.63909	13.16474
 Stod	Okres Plzen-jih, Plzensky kraj	439661	8	3532	49.63909	13.16474
 Stodolishche	Smolenskaya Oblast'	3534271	10	3198	54.18594	32.64925
 Stodtlen	Regierungsbezirk Stuttgart, Baden-Wurttemberg	915560	8	1957	49	10.3
+Stoeckheim	Lower Saxony	4727235	10	8460	52.21055	10.52216
 Stoenesti	Comuna Floresti-Stoenesti, Giurgiu	13799978	8	1902	44.48569	25.71196
 Stoernstein	Upper Palatinate, Bavaria	1059458	8	1445	49.73232	12.20547
 Stoessen	Saxony-Anhalt	2404087	8	1191	51.1144	11.92405
@@ -580,6 +609,7 @@ Stokkem	Provincie Limburg, Flanders	6522354	9	3722	51.02326	5.74499
 Stokrooie	Provincie Limburg, Flanders	4196236	9	2047	50.96637	5.28142
 Stoky	Okres Havlickuv Brod, Vysocina	433720	10	1540	49.50249	15.58863
 Stoky	Okres Havlickuv Brod, Vysocina	440442	8	1540	49.50249	15.58863
+Stolac	Federation of B&H	9037550	9	7733	43.084	17.95995
 Stolberg	Regierungsbezirk Koeln, North Rhine-Westphalia	157996	8	56377	50.77368	6.22595
 Stolin	Brest	6722280	8	10491	51.89115	26.84597
 Stollberg	Saxony	2985142	7	11235	50.70999	12.78034
@@ -625,6 +655,7 @@ Stony Stratford	Milton Keynes, England	5323786	10	0	52.05682	-0.85281
 Stonyfell	Burnside, South Australia	9099545	9	1176	-34.93422	138.67674
 Stopnica	Powiat buski, Swietokrzyskie	6501187	8	1545	50.44018	20.9378
 Store	Store	1681497	8	2257	46.22083	15.31389
+Storkow	Brandenburg	11042237	9	9550	52.25662	13.93337
 Storm Lake	Buena Vista County, Iowa	128325	8	10910	42.64109	-95.20972
 Stornara	Provincia di Foggia, Apulia	41216	8	5144	41.28672	15.77003
 Stornarella	Provincia di Foggia, Apulia	41193	8	4992	41.25591	15.73023
@@ -649,6 +680,7 @@ Stowbtsy	Minsk	6722620	8	15400	53.4785	26.7434
 Stowe	Lamoille County, Vermont	8890137	8	4314	44.46533	-72.68456
 Stowmarket	Suffolk, England	4866469	10	21028	52.18893	0.99774
 Stra	Provincia di Venezia, Veneto	44928	8	6200	45.41123	12.01418
+Strabane	Derry City and Strabane, Northern Ireland	4631848	10	14198	54.82373	-7.46916
 Strabychovo	Transcarpathia	12279855	9	3255	48.38993	22.5494
 Strachocina	Powiat sanocki, Subcarpathia	6969549	8	1100	49.60815	22.08836
 Strachowka	Powiat wolominski, Mazovia	13216690	8	390	52.42692	21.635
@@ -662,6 +694,7 @@ Strafford	Strafford County, New Hampshire	370094	8	3862	43.32703	-71.18423
 Straja	Comuna Straja, Suceava	11768791	8	5304	47.91667	25.55
 Strakonice	Okres Strakonice, Jihocesky kraj	425590	10	23545	49.26141	13.90237
 Strakonice	Okres Strakonice, Jihocesky kraj	438853	8	23545	49.26141	13.90237
+Straldzha	Obshtina Straldzha, Yambol	1947831	7	5817	42.6	26.68333
 Stralendorf	Mecklenburg-Vorpommern	1451515	7	1536	53.57498	11.30356
 Stralendorf	Mecklenburg-Vorpommern	1451547	8	1536	53.57498	11.30356
 Strallegg	Politischer Bezirk Weiz, Styria	52129	8	911	47.41165	15.72534
@@ -673,17 +706,21 @@ Strambino	Torino, Piedmont	44788	8	4673	45.3799	7.88967
 Stramproy	Gemeente Weert, Limburg	1414455	10	4510	51.19417	5.71944
 Strancice	Okres Praha-vychod, Central Bohemia	428614	10	1505	49.94811	14.67745
 Strancice	Okres Praha-vychod, Central Bohemia	437882	8	1505	49.94811	14.67745
+Stranda	Stranda, More og Romsdal	406852	7	2499	62.30864	6.93717
 Strande	Schleswig-Holstein	554638	8	1552	54.43333	10.16667
 Strandhill	Sligo, Connacht	2963263	10	1753	54.27194	-8.59333
+Strandhill	Sligo, Connacht	3546549	10	1753	54.27194	-8.59333
 Strangolagalli	Provincia di Frosinone, Lazio	41393	8	561	41.59992	13.49228
 Strani	Okres Uherske Hradiste, Zlin	431724	10	3803	48.90216	17.70671
 Strani	Okres Uherske Hradiste, Zlin	437478	8	3803	48.90216	17.70671
 Strasbourg	Bas-Rhin, Grand Est	4630050	7	274845	48.58392	7.74553
 Strasbourg	Bas-Rhin, Grand Est	71033	8	274845	48.58392	7.74553
 Strasburg	Lancaster County, Pennsylvania	188813	8	2906	39.98316	-76.18412
+Strasburg	Shenandoah County, Virginia	133321	8	6586	38.98872	-78.35862
 Strasburg	Shenandoah County, Virginia	206811	8	6586	38.98872	-78.35862
 Strasburg	Tuscarawas County, Ohio	182805	8	2679	40.59478	-81.52679
 Strasice	Okres Rokycany, Plzensky kraj	425603	10	2442	49.73552	13.75755
+Strasice	Okres Rokycany, Plzensky kraj	438834	8	2442	49.73552	13.75755
 Strasice	Okres Rokycany, Plzensky kraj	439814	8	2442	49.73552	13.75755
 Strass in Steiermark	Politischer Bezirk Leibnitz, Styria	3823199	8	1552	46.72722	15.62444
 Strassberg	Tuebingen Region, Baden-Wurttemberg	2797574	8	2755	48.17805	9.09059
@@ -726,6 +763,7 @@ Straussfurt	Thuringia	2411249	8	1963	51.16667	10.98333
 Stravaj	Rrethi i Librazhdit, Elbasan	1250612	8	0	41.00528	20.42306
 Strawberry Point	Clayton County, Iowa	128800	8	1236	42.6836	-91.53403
 Strawczyn	Powiat kielecki, Swietokrzyskie	6248713	8	1000	50.94177	20.42135
+Straz	Okres Tachov, Plzensky kraj	436450	8	1057	49.66878	12.77546
 Straz	Okres Tachov, Plzensky kraj	436592	8	1057	49.66878	12.77546
 Straz nad Nisou	Okres Liberec, Liberecky kraj	432144	10	1877	50.79099	15.02683
 Straz nad Nisou	Okres Liberec, Liberecky kraj	438955	8	1877	50.79099	15.02683
@@ -733,8 +771,10 @@ Straz pod Ralskem	Okres Ceska Lipa, Liberecky kraj	434345	10	4068	50.7028	14.801
 Straz pod Ralskem	Okres Ceska Lipa, Liberecky kraj	439007	8	4068	50.7028	14.80102
 Straza	Straza	1681529	8	1996	45.78	15.07278
 Strazhitsa	Obshtina Strazhitsa, Veliko Tarnovo	1930167	7	5728	43.23333	25.96667
+Strazna	Okres Olomouc, Olomoucky	429735	10	1770	49.83104	17.13275
 Strazna	Okres Olomouc, Olomoucky	433308	10	1770	49.83104	17.13275
 Strazna	Okres Olomouc, Olomoucky	438509	8	1770	49.83104	17.13275
+Strazna	Okres Olomouc, Olomoucky	440573	8	1770	49.83104	17.13275
 Straznice	Okres Hodonin, South Moravian	436907	8	5900	48.90102	17.3168
 Strazov	Okres Klatovy, Plzensky kraj	436208	8	1326	49.30326	13.24623
 Strazske	Okres Michalovce, Kosicky kraj	2386513	10	4474	48.8735	21.83668
@@ -755,6 +795,7 @@ Strel'na	St.-Petersburg	367376	8	12800	59.85189	30.03611
 Strelcha	Obshtina Strelcha, Pazardzhik	1974022	7	4545	42.5	24.31667
 Strelci	Kichevo	6437871	8	1563	41.54046	21.00563
 Strelice	Okres Brno-venkov, South Moravian	433544	10	3103	49.15221	16.50399
+Strelice	Okres Brno-venkov, South Moravian	438705	8	3103	49.15221	16.50399
 Strelice	Okres Brno-venkov, South Moravian	442508	8	3103	49.15221	16.50399
 Strembo	Provincia autonoma di Trento, Trentino-Alto Adige	46896	8	523	46.1203	10.75087
 Strenci	Strenci, Valmiera	1858188	7	1593	57.62574	25.68535
@@ -775,6 +816,7 @@ Strmilov	Okres Jindrichuv Hradec, Jihocesky kraj	427835	10	1399	49.15846	15.1993
 Strmilov	Okres Jindrichuv Hradec, Jihocesky kraj	437488	8	1399	49.15846	15.19934
 Strobl	Politischer Bezirk Salzburg-Umgebung, Salzburg	86691	8	1393	47.71667	13.48333
 Strombeek-Bever	Provincie Vlaams-Brabant, Flanders	3479543	9	13727	50.91039	4.35582
+Stromberg	Rheinland-Pfalz	1243984	8	3221	50.45779	7.60041
 Stromiec	Powiat bialobrzeski, Mazovia	3574084	8	909	51.647	21.09229
 Stromsburg	Polk County, Nebraska	169509	8	1132	41.11418	-97.59894
 Stroncone	Provincia di Terni, Umbria	42022	8	2332	42.51196	12.6477
@@ -782,6 +824,7 @@ Strong	Franklin County, Maine	12184749	8	1309	44.80756	-70.2209
 Strongoli	Provincia di Crotone, Calabria	39849	8	3857	39.26576	17.05413
 Strongsville	Cuyahoga County, Ohio	181927	8	44668	41.3145	-81.83569
 Stronie	Powiat wadowicki, Lesser Poland	3533837	8	1200	49.83056	19.67497
+Stronie	Powiat wadowicki, Lesser Poland	6033340	8	1200	49.83056	19.67497
 Stronie Slaskie	Powiat klodzki, Lower Silesia	3019743	8	6192	50.29554	16.87397
 Stronie Slaskie	Powiat klodzki, Lower Silesia	6419570	8	6192	50.29554	16.87397
 Stropkov	Okres Stropkov, Presovsky kraj	2321148	10	10874	49.20211	21.65216
@@ -813,6 +856,8 @@ Struvenhutten	Schleswig-Holstein	422749	8	1062	53.86667	10.05
 Stryi	Lviv Oblast	7986302	9	61404	49.26171	23.84721
 Stryker	Williams County, Ohio	182818	8	1309	41.50366	-84.41412
 Strykow	Powiat zgierski, Lodz Voivodeship	2925966	8	3297	51.90224	19.60536
+Strykow	Powiat zgierski, Lodz Voivodeship	6625789	8	3297	51.90224	19.60536
+Stryn	Stryn, Vestland	409079	7	2106	61.90259	6.7179
 Stryszawa	Powiat suski, Lesser Poland	3569167	8	5266	49.71327	19.52185
 Stryszow	Powiat wadowicki, Lesser Poland	3535218	8	2101	49.82569	19.61763
 Stryzhavka	Vinnytsya Raion, Vinnytsya Oblast	5257894	9	9165	49.30955	28.47208
@@ -838,7 +883,9 @@ Studenec	Okres Semily, Liberecky kraj	439033	8	1734	50.55344	15.54936
 Studenicani	Studenichani	6951967	8	18219	41.92208	21.53483
 Studenka	Okres Novy Jicin, Moravskoslezsky	437003	8	10341	49.72342	18.07853
 Studenok	Kharkiv	3553627	9	1440	49.08888	37.48999
+Studenok	Kharkiv	3560089	9	1440	49.08888	37.48999
 Studina	Comuna Studina, Olt	9742500	8	4723	43.96667	24.41667
+Studzienice	Powiat bytowski, Pomerania	7619523	8	816	54.09262	17.57581
 Studzionka	Powiat pszczynski, Silesia	5604883	8	2000	49.96232	18.7728
 Stuetzerbach	Thuringia	165445	9	1698	50.63333	10.86667
 Stuhlfelden	Politischer Bezirk Zell am See, Salzburg	1022091	8	1143	47.28761	12.52755
@@ -848,6 +895,8 @@ Stuhr	Lower Saxony	2692076	10	32507	53.03333	8.75
 Stulln	Upper Palatinate, Bavaria	962183	8	1683	49.41667	12.13333
 Stupava	Okres Malacky, Bratislavsky Kraj	2206939	10	15095	48.27474	17.03173
 Stupava	Okres Malacky, Bratislavsky Kraj	2206975	9	15095	48.27474	17.03173
+Stupava	Okres Malacky, Bratislavsky Kraj	429575	10	15095	48.27474	17.03173
+Stupava	Okres Malacky, Bratislavsky Kraj	437475	8	15095	48.27474	17.03173
 Sturbridge	Worcester County, Massachusetts	1844197	8	2253	42.10843	-72.07869
 Sturgeon Bay	Door County, Wisconsin	251647	8	8956	44.83416	-87.37704
 Sturgis	Meade County, South Dakota	194941	8	6688	44.40971	-103.50908

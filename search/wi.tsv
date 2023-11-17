@@ -45,6 +45,7 @@ Wielka Wies	Powiat tarnowski, Lesser Poland	6106807	8	1311	49.93631	20.82304
 Wielki Kack	Gdynia, Pomerania	2606802	9	10012	54.46754	18.4881
 Wielkie Oczy	Powiat lubaczowski, Subcarpathia	6901495	8	880	50.02357	23.16407
 Wielopole Skrzynskie	Powiat ropczycko-sedziszowski, Subcarpathia	4855759	8	3982	49.94564	21.61491
+Wielopole Skrzynskie	Powiat ropczycko-sedziszowski, Subcarpathia	6089155	8	3982	49.94564	21.61491
 Wielsbeke	Provincie West-Vlaanderen, Flanders	1336257	9	8828	50.9	3.36667
 Wielsbeke	Provincie West-Vlaanderen, Flanders	898561	8	8828	50.9	3.36667
 Wielun	Powiat wielunski, Lodz Voivodeship	1903950	8	21892	51.22097	18.56964
@@ -63,6 +64,10 @@ Wiernsheim	Karlsruhe Region, Baden-Wurttemberg	308392	8	6391	48.88333	8.85
 Wieruszow	Powiat wieruszowski, Lodz Voivodeship	2910022	8	8692	51.29488	18.15547
 Wierzawice	Powiat lezajski, Subcarpathia	6898709	8	3408	50.23623	22.4509
 Wierzbica	Powiat Radomski, Mazovia	3425064	8	3956	51.2494	21.08259
+Wierzbica	Powiat Radomski, Mazovia	6159231	8	3956	51.2494	21.08259
+Wierzbica	Powiat Radomski, Mazovia	6438293	8	3956	51.2494	21.08259
+Wierzbica	Powiat Radomski, Mazovia	6504605	8	3956	51.2494	21.08259
+Wierzbica	Powiat Radomski, Mazovia	7475931	8	3956	51.2494	21.08259
 Wierzbna	Powiat jaroslawski, Subcarpathia	6759861	8	1201	50.03311	22.60128
 Wierzbno	Powiat olawski, Lower Silesia	6373129	8	1047	50.93674	17.17961
 Wierzchlas	Powiat wielunski, Lodz Voivodeship	3662330	8	2000	51.20457	18.66543
@@ -121,6 +126,7 @@ Wijtschate	Provincie West-Vlaanderen, Flanders	1276816	9	1978	50.78632	2.88369
 Wikon	Willisau District, Lucerne	1682931	8	1218	47.26339	7.96801
 Wila	Bezirk Pfaeffikon, Zurich	1682240	8	1387	47.41928	8.84524
 Wilamowice	Powiat Bielski, Silesia	2817213	8	2813	49.91701	19.15237
+Wilamowice	Powiat Bielski, Silesia	3635311	8	2813	49.91701	19.15237
 Wilanow	Warszawa, Mazovia	2536108	9	14032	52.16311	21.08748
 Wilber	Saline County, Nebraska	169642	8	1870	40.48139	-96.96058
 Wilberforce	Hawkesbury, New South Wales	5500004	9	2972	-33.56256	150.83784
@@ -197,6 +203,7 @@ Willebroek	Provincie Antwerpen, Flanders	3899303	9	22808	51.06041	4.36019
 Willebroek	Provincie Antwerpen, Flanders	414233	8	22808	51.06041	4.36019
 Willems	North, Hauts-de-France	58626	8	2855	50.63206	3.2384
 Willerby	East Riding of Yorkshire, England	593648	10	0	53.76099	-0.44186
+Willerby	East Riding of Yorkshire, England	7823788	10	0	53.76099	-0.44186
 Willerwald	Moselle, Grand Est	123362	8	1262	49.02481	7.03726
 Willetton	Canning, Western Australia	5153331	9	19262	-32.05251	115.88782
 Williams	Coconino County, Arizona	6022701	8	3122	35.24946	-112.191
@@ -230,7 +237,9 @@ Williamstown North	Hobsons Bay, Victoria	2410223	9	1556	-37.85515	144.88259
 Williamsville	Sangamon County, Illinois	126328	8	1496	39.95422	-89.54871
 Williamtown	Port Stephens Shire, New South Wales	6059330	9	1091	-32.80638	151.84361
 Willich	Duesseldorf District, North Rhine-Westphalia	88547	8	51843	51.26371	6.54734
+Willingen	Regierungsbezirk Kassel, Hesse	13780334	9	6132	51.29418	8.6091
 Willingen	Regierungsbezirk Kassel, Hesse	198593	8	6132	51.29418	8.6091
+Willingen	Regierungsbezirk Kassel, Hesse	533268	8	6132	51.29418	8.6091
 Willingen	Regierungsbezirk Kassel, Hesse	8833549	10	6132	51.29418	8.6091
 Willingham	Cambridgeshire, England	1630268	10	4015	52.31404	0.05776
 Willingshausen	Regierungsbezirk Kassel, Hesse	4060929	9	5385	50.85	9.2
@@ -268,7 +277,10 @@ Willstaett	Freiburg Region, Baden-Wurttemberg	452980	8	9061	48.54071	7.89314
 Willunga	Onkaparinga, South Australia	7275879	9	2269	-35.27127	138.55417
 Wilmer	Dallas County, Texas	114464	8	3928	32.58902	-96.68527
 Wilmerding	Allegheny County, Pennsylvania	187480	8	2156	40.3909	-79.81005
+Wilmersdorf	Berlin	11125329	9	101877	52.48333	13.31667
 Wilmersdorf	Berlin	55740	10	101877	52.48333	13.31667
+Wilmersdorf	Berlin	8349244	9	101877	52.48333	13.31667
+Wilmersdorf	Berlin	86258	9	101877	52.48333	13.31667
 Wilmette	Cook County, Illinois	123455	8	27413	42.07225	-87.72284
 Wilmington	Clinton County, Ohio	182387	8	12449	39.44534	-83.82854
 Wilmington	Middlesex County, Massachusetts	1842130	8	22325	42.54648	-71.17367
@@ -298,6 +310,7 @@ Wilstedt	Lower Saxony	965604	8	1718	53.19493	9.09595
 Wilster	Schleswig-Holstein	448020	8	4443	53.92253	9.37465
 Wilston	Brisbane, Queensland	11677732	9	3807	-27.43218	153.01904
 Wilsum	Lower Saxony	1818115	8	1608	52.53333	6.85
+Wilsum	Lower Saxony	2696360	10	1608	52.53333	6.85
 Wilten	Innsbruck Stadt, Tyrol	8182616	9	18142	47.25829	11.38808
 Wilthen	Saxony	1309672	8	6304	51.09745	14.3929
 Wiltingen	Rheinland-Pfalz	1255971	8	1349	49.65919	6.59255
@@ -309,6 +322,7 @@ Wilton	Wiltshire, England	3412214	10	3579	51.07926	-1.8621
 Wilton	Wollondilly, New South Wales	6076760	9	3020	-34.24053	150.69771
 Wilton Manors	Broward County, Florida	117946	8	12385	26.16036	-80.13893
 Wiltz	Wiltz	1357531	8	4816	49.96547	5.9339
+Wiluna	Wiluna, Western Australia	11690168	9	1432	-26.5921	120.22402
 Wimberley	Hays County, Texas	6586534	8	2670	29.99744	-98.09862
 Wimblington	Cambridgeshire, England	1609067	10	4239	52.50925	0.08416
 Wimborne Minster	Dorset, England	5616890	10	14884	50.78333	-1.98333
@@ -406,6 +420,7 @@ Wing	District of Rutland, England	3447372	10	0	52.61775	-0.6827
 Wingate	County Durham, England	8651972	10	5134	54.73242	-1.37896
 Wingate	Union County, North Carolina	179927	8	3854	34.98432	-80.44923
 Wingen-sur-Moder	Bas-Rhin, Grand Est	1172733	8	1563	48.919	7.37955
+Wingen-sur-Moder	Bas-Rhin, Grand Est	89516	8	1563	48.919	7.37955
 Wingene	Provincie West-Vlaanderen, Flanders	1387970	8	12887	51.05782	3.27359
 Wingene	Provincie West-Vlaanderen, Flanders	1387971	9	12887	51.05782	3.27359
 Wingerode	Thuringia	2813813	8	1243	51.39032	10.23954
@@ -469,12 +484,14 @@ Winston	Mount Isa, Queensland	11676736	9	1125	-20.70374	139.49913
 Winston Hills	Parramatta, New South Wales	5503475	9	11572	-33.77645	150.98051
 Winston-Salem	Forsyth County, North Carolina	180101	8	241218	36.09986	-80.24422
 Winsum	Het Hogeland, Groningen	1468239	10	1365	53.33	6.52083
+Winsum	Het Hogeland, Groningen	2656470	10	1365	53.33	6.52083
 Winter Garden	Orange County, Florida	117701	8	40356	28.56528	-81.58618
 Winter Gardens	San Diego County, California	2294406	8	20631	32.83116	-116.93336
 Winter Haven	Polk County, Florida	119048	8	37689	28.02224	-81.73286
 Winter Park	Orange County, Florida	1181807	8	29943	28.6	-81.33924
 Winter Springs	Seminole County, Florida	117442	8	34789	28.69889	-81.30812
 Winterbach	Regierungsbezirk Stuttgart, Baden-Wurttemberg	401644	8	7844	48.79918	9.47914
+Winterbach	Regierungsbezirk Stuttgart, Baden-Wurttemberg	964237	8	7844	48.79918	9.47914
 Winterberg	Regierungsbezirk Arnsberg, North Rhine-Westphalia	157414	8	14601	51.19248	8.53468
 Winterbourne	South Gloucestershire, England	3573136	10	0	51.52327	-2.50437
 Winterbourne	West Berkshire, England	3988016	10	2168	51.44609	-1.3466
@@ -528,6 +545,8 @@ Wisla	Powiat cieszynski, Silesia	2441779	7	11379	49.65629	18.8591
 Wislica	Powiat buski, Swietokrzyskie	6476531	8	680	50.34891	20.67438
 Wismar	Mecklenburg-Vorpommern	62599	8	45255	53.89314	11.45286
 Wisner	Cuming County, Nebraska	169461	8	1184	41.98722	-96.91421
+Wisniew	Powiat siedlecki, Mazovia	11125157	8	870	52.07265	22.29392
+Wisniewo	Powiat mlawski, Mazovia	6832953	8	473	53.06474	20.34805
 Wisniowa	Powiat myslenicki, Lesser Poland	3567047	8	1900	49.7878	20.11502
 Wisniowa	Powiat strzyzowski, Subcarpathia	6875919	8	1826	49.86897	21.65508
 Wisniowa	Powiat strzyzowski, Subcarpathia	6933110	8	1826	49.86897	21.65508

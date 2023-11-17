@@ -1,6 +1,7 @@
 Pia	Pyrenees-Orientales, Occitanie	18351	8	5640	42.74475	2.92043
 Piacabucu	Piacabucu, Alagoas	303812	8	9861	-10.40556	-36.43444
 Piacabucu	Piacabucu, Alagoas	6179429	9	9861	-10.40556	-36.43444
+Piacenza	Provincia di Piacenza, Emilia-Romagna	43332	6	103607	45.05242	9.69342
 Piacenza	Provincia di Piacenza, Emilia-Romagna	43981	8	103607	45.05242	9.69342
 Piacenza d'Adige	Provincia di Padova, Veneto	44268	8	1004	45.12749	11.54333
 Piagge	Provincia di Pesaro e Urbino, The Marches	6841831	10	600	43.73381	12.96851
@@ -36,12 +37,16 @@ Piara Waters	Armadale, Western Australia	11689362	9	8892	-32.13344	115.91634
 Piario	Provincia di Bergamo, Lombardy	46438	8	1109	45.89649	9.92726
 Pias	Provincia de Zamora, Castille and Leon	340038	8	0	42.08333	-7
 Piasco	Provincia di Cuneo, Piedmont	43307	8	2536	44.56106	7.4442
+Piaseczno	Powiat piaseczynski, Mazovia	11150556	8	36278	52.0814	21.02397
 Piaseczno	Powiat piaseczynski, Mazovia	336134	8	36278	52.0814	21.02397
+Piaseczno	Powiat piaseczynski, Mazovia	3380212	8	36278	52.0814	21.02397
+Piaseczno	Powiat piaseczynski, Mazovia	6623865	8	36278	52.0814	21.02397
 Piasek	Powiat pszczynski, Silesia	5586180	8	3342	50.01055	18.94807
 Piaski	Powiat swidnicki, Lublin	3107069	8	2634	51.13892	22.84856
 Piaski	Powiat swidnicki, Lublin	6866893	8	2634	51.13892	22.84856
 Piastow	Powiat pruszkowski, Mazovia	2996965	8	23290	52.18435	20.83952
 Piastow	Powiat pruszkowski, Mazovia	336303	7	23290	52.18435	20.83952
+Piastow	Powiat pruszkowski, Mazovia	3380049	8	23290	52.18435	20.83952
 Piateda Centro	Provincia di Sondrio, Lombardy	46777	8	1027	46.1596	9.93495
 Piatek	Powiat leczycki, Lodz Voivodeship	5412165	8	2130	52.0689	19.4797
 Piatnica	Powiat Lomzynski, Podlasie	7085453	8	1800	53.19657	22.09591
@@ -66,9 +71,11 @@ Picayune	Pearl River County, Mississippi	7151797	8	10675	30.52556	-89.67788
 Piccadilly	Kalgoorlie/Boulder, Western Australia	11690116	9	2323	-30.7428	121.46418
 Picciano	Provincia di Pescara, Abruzzo	42033	8	635	42.47525	13.9899
 Picerno	Provincia di Potenza, Basilicate	40644	8	3330	40.63975	15.64232
+Pichari	Provincia de La Convencion, Cusco	1925263	8	0	-12.5	-73.81667
 Pichigua	Provincia de Espinar, Cusco	1925267	8	266	-14.68139	-71.41694
 Pichirhua	Provincia de Abancay, Apurimac	1929581	8	128	-13.86083	-73.07361
 Pichl bei Wels	Wels-Land, Upper Austria	64792	8	707	48.18515	13.89882
+Pichucalco	Pichucalco, Chiapas	5999660	6	14212	17.51	-93.11591
 Picinisco	Provincia di Frosinone, Lazio	41417	8	304	41.64568	13.86791
 Pickens	Holmes County, Mississippi	3746234	8	1075	32.88374	-89.97147
 Pickens	Pickens County, South Carolina	194097	8	3173	34.88345	-82.70736
@@ -97,6 +104,8 @@ Picui	Picui, Paraiba	6231386	9	10779	-6.51056	-36.34694
 Picun Leufu	Departamento de Picun Leufu, Neuquen	2662000	8	3222	-39.51614	-69.28765
 Pidbuzh	Lviv Oblast	4655223	9	2739	49.33194	23.25117
 Pidhaytsi	Ternopil Oblast	3167397	9	2688	49.2678	25.12766
+Pidhaytsi	Ternopil Oblast	3167398	9	2688	49.2678	25.12766
+Pidhirtsi	Lviv Oblast	5171875	9	1076	49.94611	24.9795
 Pidhirtsi	Lviv Oblast	7376249	9	1076	49.94611	24.9795
 Piding	Upper Bavaria, Bavaria	941790	8	5259	47.76667	12.91667
 Pidkamin	Lviv Oblast	4172890	9	2128	49.94599	25.31672
@@ -124,6 +133,7 @@ Piedmont	Wayne County, Missouri	141267	8	1977	37.15449	-90.69567
 Piedra Blanca	Piedra Blanca, Monsenor Nouel	7373854	6	8531	18.84431	-70.31688
 Piedra Gorda	Camuy Arriba Barrio, Camuy	4467829	9	1927	18.43411	-66.88768
 Piedra del Aguila	Departamento de Collon-Cura, Neuquen	3444413	8	3372	-40.04811	-70.0741
+Piedrabuena	Provincia de Ciudad Real, Castille-La Mancha	344350	8	4863	39.03536	-4.17512
 Piedrahita de Castro	Provincia de Zamora, Castille and Leon	340039	8	134	41.68089	-5.72886
 Piedralaves	Provincia de Avila, Castille and Leon	340668	8	2135	40.31721	-4.70025
 Piedramillera	Provincia de Navarra, Navarre	344398	8	61	42.632	-2.20416
@@ -138,6 +148,7 @@ Piedratajada	Provincia de Zaragoza, Aragon	342780	8	166	42.12124	-0.80373
 Piegaro	Provincia di Perugia, Umbria	42245	8	757	42.96596	12.08409
 Piegut-Pluviers	Dordogne, Nouvelle-Aquitaine	146001	8	1396	45.62288	0.68955
 Piekary	Powiat krakowski, Lesser Poland	3224794	8	1200	50.02495	19.79616
+Piekary	Powiat krakowski, Lesser Poland	6043712	8	1200	50.02495	19.79616
 Piekary Slaskie	Piekary Slaskie, Silesia	2425996	8	59757	50.38017	18.92653
 Piekary Slaskie	Piekary Slaskie, Silesia	2812111	7	59757	50.38017	18.92653
 Piekary Slaskie	Piekary Slaskie, Silesia	369439	6	59757	50.38017	18.92653
@@ -258,6 +269,7 @@ Pignone	Provincia di La Spezia, Liguria	42918	8	328	44.1778	9.72327
 Pigra	Provincia di Como, Lombardy	46589	8	266	45.95735	9.12649
 Piguee	Partido de Saavedra, Buenos Aires	3405695	8	0	-37.60509	-62.40333
 Pihtipudas	Saarijaervi-Viitasaari, Central Finland	2424664	8	4777	63.38333	25.56667
+Pihuamo	Pihuamo, Jalisco	5606150	6	6838	19.24991	-103.38275
 Pijao	Pijao, Quindio	1309478	6	5668	4.3335	-75.70463
 Pijijiapan	Pijijiapan, Chiapas	5999661	6	16917	15.68618	-93.20938
 Pijino del Carmen	Pijino del Carmen, Magdalena	1423462	6	11071	9.32908	-74.45302
@@ -316,17 +328,22 @@ Pilot Butte	Saskatchewan	9628627	6	2137	50.48011	-104.41911
 Pilot Mountain	Surry County, North Carolina	180140	8	1465	36.38653	-80.4695
 Pilot Point	Denton County, Texas	6571670	8	4093	33.3965	-96.96056
 Pilot Rock	Umatilla County, Oregon	186745	8	1513	45.48318	-118.82998
+Pilpichaca	Huaytara, Huancavelica	1933624	8	673	-13.32795	-75.00178
 Pilsach	Upper Palatinate, Bavaria	551071	8	2659	49.32137	11.50311
 Pilsen	Okres Plzen-mesto, Plzensky kraj	424270	10	168733	49.74747	13.37759
 Pilsen	Okres Plzen-mesto, Plzensky kraj	438344	8	168733	49.74747	13.37759
 Pilsley	Derbyshire, England	4717605	10	3183	53.15	-1.36667
 Pilsting	Lower Bavaria, Bavaria	959899	8	6194	48.70116	12.65105
+Piltown	Kilkenny, Leinster	5903465	10	1187	52.35333	-7.34028
 Piltown	Kilkenny, Leinster	6527652	9	1187	52.35333	-7.34028
 Pilu	Comuna Pilu, Arad	11487767	8	1943	46.56667	21.35
 Pilzno	Powiat debicki, Subcarpathia	3011985	8	4535	49.97883	21.29228
 Pima	Graham County, Arizona	4198751	8	2524	32.89656	-109.82835
 Pimampiro	Canton Pimampiro, Imbabura	113984	6	7408	0.39116	-77.94068
 Pimampiro	Canton Pimampiro, Imbabura	2660207	8	7408	0.39116	-77.94068
+Pimenta Bueno	Pimenta Bueno, Rondonia	325843	8	25762	-11.6725	-61.19361
+Pimenta Bueno	Pimenta Bueno, Rondonia	8401080	9	25762	-11.6725	-61.19361
+Pimenteiras	Pimenteiras, Piaui	302687	8	3819	-6.24528	-41.41917
 Pimentel	Pimentel, Duarte	7386295	6	9550	19.18416	-70.10884
 Pimentel	Provincia de Chiclayo, Lambayeque	1969751	8	15552	-6.83667	-79.93417
 Pimlico	Townsville, Queensland	11676813	9	2578	-19.28172	146.78803
@@ -341,6 +358,7 @@ Pina de Montalgrao	Provincia de Castello, Valencia	347363	8	146	40.01667	-0.65
 Pinagsibaan	Province of Batangas, Calabarzon	11259955	10	2671	13.83479	121.32118
 Pinal de Amoles	Pinal de Amoles, Queretaro	4063667	8	2000	21.13448	-99.6259
 Pinal de Amoles	Pinal de Amoles, Queretaro	5606152	6	2000	21.13448	-99.6259
+Pinar del Rio	Municipio de Pinar del Rio, Pinar del Rio	1854617	4	186990	22.41667	-83.69667
 Pinar del Rio	Municipio de Pinar del Rio, Pinar del Rio	2575071	6	186990	22.41667	-83.69667
 Pinarbasi	Kastamonu	1801996	6	2491	41.60388	33.11099
 Pinarejo	Provincia de Cuenca, Castille-La Mancha	343296	8	352	39.61639	-2.42592
@@ -413,6 +431,8 @@ Piney	Garland County, Arkansas	8026177	8	4699	34.50314	-93.12602
 Piney Green	Onslow County, North Carolina	180394	8	13293	34.716	-77.32024
 Piney Point Village	Harris County, Texas	2947143	8	3376	29.75995	-95.51716
 Pingba	Chongqing	14057256	8	10342	31.99823	108.51737
+Pingdingshan	Pingdingshan Shi, Henan	3259379	5	979130	33.73847	113.30119
+Pingdu	Ji'an Shi, Jiangxi	2950508	6	0	27.3863	114.61018
 Pingelap	Pingelap Municipality, Pohnpei	3823807	8	0	6.20589	160.70327
 Pinggau	Politischer Bezirk Hartberg-Fuerstenfeld, Styria	37728	8	1338	47.44232	16.06713
 Pingluo Chengguanzhen	Shizuishan Shi, Ningxia Hui Autonomous Region	3307097	6	0	38.90377	106.54128
@@ -421,12 +441,16 @@ Pingqiao	Xinyang Shi, Henan	10021432	8	0	32.09583	114.12028
 Pingree Grove	Kane County, Illinois	125804	8	6648	42.06864	-88.41342
 Pingtung	Pingtung, Taiwan	2127210	8	0	22.67135	120.48814
 Pingxiang	Dingxi Shi, Gansu	10221793	8	0	35.2079	105.25058
+Pingxiang	Pingxiang Shi, Jiangxi	3189984	5	893550	27.61672	113.85353
 Pingzhuang	Chifeng Shi, Inner Mongolia	10549913	8	67273	42.03722	119.28889
+Pingzhuang	Chifeng Shi, Inner Mongolia	2753362	6	67273	42.03722	119.28889
 Pinhais	Pinhais, Parana	297611	8	117000	-25.44472	-49.1925
+Pinhais	Pinhais, Parana	9283604	10	117000	-25.44472	-49.1925
 Pinhal Novo	Palmela, District of Setubal	6444934	8	23510	38.63106	-8.91376
 Pinhao	Pinhao, Parana	297477	8	15141	-25.69556	-51.65972
 Pinheiral	Pinheiral, Rio de Janeiro	2217374	8	19469	-22.51278	-44.00056
 Pinheiro	Pinheiro, Maranhao	332882	8	38893	-2.52139	-45.0825
+Pinheiro Machado	Pinheiro Machado, Rio Grande do Sul	242479	8	11176	-31.57833	-53.38111
 Pinheiro Machado	Pinheiro Machado, Rio Grande do Sul	7656783	9	11176	-31.57833	-53.38111
 Pinhel	Pinhel, Guarda	5332866	7	0	40.77403	-7.06675
 Pinhel	Pinhel, Guarda	6391668	8	0	40.77403	-7.06675
@@ -512,15 +536,19 @@ Piquillin	Departamento de Rio Primero, Cordoba	3918424	8	1170	-31.30158	-63.7578
 Pira	Provincia de Huaraz, Ancash	1953315	8	510	-9.58165	-77.70769
 Piracaia	Piracaia, Sao Paulo	298428	8	26075	-23.05389	-46.35806
 Piracaia	Piracaia, Sao Paulo	5349704	9	26075	-23.05389	-46.35806
+Piracanjuba	Piracanjuba, Goias	334583	8	16736	-17.30278	-49.01667
 Piraces	Provincia de Huesca, Aragon	347471	8	103	42.00448	-0.31769
 Piracicaba	Piracicaba, Sao Paulo	298413	8	342209	-22.72528	-47.64917
 Piracicaba	Piracicaba, Sao Paulo	5683215	9	342209	-22.72528	-47.64917
+Piracuruca	Piracuruca, Piaui	302775	8	18852	-3.92806	-41.70917
 Pirae	Iles du Vent	5829525	8	14475	-17.51667	-149.53333
 Pirai	Pirai, Rio de Janeiro	14599673	9	19105	-22.62917	-43.89806
 Pirai	Pirai, Rio de Janeiro	2217375	8	19105	-22.62917	-43.89806
+Pirai do Sul	Pirai Do Sul, Parana	297820	8	16409	-24.52611	-49.94861
 Piraino	Messina, Sicily	39554	8	332	38.16127	14.861
 Piraju	Piraju, Sao Paulo	298248	8	25270	-23.19361	-49.38389
 Piraju	Piraju, Sao Paulo	5684932	9	25270	-23.19361	-49.38389
+Pirajui	Pirajui, Sao Paulo	298362	8	17503	-21.99861	-49.45722
 Pirajui	Pirajui, Sao Paulo	5683216	9	17503	-21.99861	-49.45722
 Pirane	Departamento de Pirane, Formosa	3306899	8	19124	-25.73239	-59.10879
 Pirapemas	Pirapemas, Maranhao	332928	8	6439	-3.72667	-44.22333
@@ -539,6 +567,7 @@ Pirching am Traubenberg	Politischer Bezirk Suedoststeiermark, Styria	3945119	8	6
 Pirdop	Obshtina Pirdop, Sofia	3255170	7	8136	42.7	24.18333
 Pire-sur-Seiche	Ille-et-Vilaine, Brittany	140822	9	2065	48.01	-1.43086
 Pirenopolis	Pirenopolis, Goias	334551	8	13615	-15.85072	-48.96087
+Pires do Rio	Pires Do Rio, Goias	334523	8	24822	-17.29972	-48.27944
 Pirey	Doubs, Bourgogne-Franche-Comte	122703	8	1504	47.26136	5.96466
 Pirg	Rrethi i Korces, Korce	1252597	8	0	40.785	20.70611
 Piriac-sur-Mer	Loire-Atlantique, Pays de la Loire	180711	8	2046	47.37936	-2.54652
@@ -570,9 +599,11 @@ Pisba	Pisba, Boyaca	1315427	6	307	5.72396	-72.48646
 Piscina	Torino, Piedmont	43794	8	2710	44.91874	7.42532
 Piscinas	Provincia del Sud Sardegna, Sardinia	39782	8	839	39.07435	8.66634
 Pisciotta	Provincia di Salerno, Campania	40275	8	750	40.1089	15.23456
+Pisco	Provincia de Pisco, Ica	1899018	6	61869	-13.71029	-76.20538
 Pisco	Provincia de Pisco, Ica	1899043	8	61869	-13.71029	-76.20538
 Piscoyacu	Provincia de Huallaga, San Martin	1971713	8	0	-6.97984	-76.76813
 Piscu Vechi	Comuna Piscu Vechi, Dolj	9695251	8	5445	43.9	23.16667
+Pisecna	Okres Jesenik, Olomoucky	436762	8	1063	50.27303	17.25373
 Pisecna	Okres Jesenik, Olomoucky	437058	8	1063	50.27303	17.25373
 Pisek	Okres Frydek-Mistek, Moravskoslezsky	437827	8	1776	49.55924	18.80231
 Pisek	Okres Pisek, Jihocesky kraj	434423	10	29774	49.3088	14.1475
@@ -587,6 +618,7 @@ Pisoniano	Citta metropolitana di Roma Capitale, Lazio	41631	8	772	41.90816	12.95
 Pissos	Landes, Nouvelle-Aquitaine	2114469	8	1189	44.30894	-0.77859
 Pissotte	Vendee, Pays de la Loire	318201	8	1202	46.49653	-0.80789
 Pissouri	Pissouri, Limassol	13017401	8	1078	34.66942	32.70132
+Pissy-Poville	Seine-Maritime, Normandy	114345	8	1291	49.52986	0.99281
 Pissy-Poville	Seine-Maritime, Normandy	1622687	8	1291	49.52986	0.99281
 Pist	Okres Opava, Moravskoslezsky	435710	10	2096	49.97857	18.19349
 Pist	Okres Opava, Moravskoslezsky	437658	8	2096	49.97857	18.19349
@@ -599,6 +631,7 @@ Pisz	Powiat piski, Warmia-Masuria	2992489	8	19232	53.62744	21.81253
 Pital	Pital, Huila	1342107	6	12246	2.2665	-75.80442
 Pital	San Carlos, Alajuela	6362814	8	2046	10.45056	-84.27406
 Pitalito	Pitalito, Huila	1342132	6	53685	1.85371	-76.05071
+Pitanga	Pitanga, Parana	297615	8	18652	-24.75722	-51.76139
 Pitangueiras	Pitangueiras, Sao Paulo	298083	8	28540	-21.00944	-48.22167
 Pitangueiras	Pitangueiras, Sao Paulo	5349706	9	28540	-21.00944	-48.22167
 Pitangui	Pitangui, Minas Gerais	315300	8	18858	-19.68278	-44.89028
@@ -617,6 +650,7 @@ Pitimbu	Pitimbu, Paraiba	6208933	9	7862	-7.47056	-34.80861
 Pitman	Gloucester County, New Jersey	170495	8	8898	39.73289	-75.13157
 Pitoa	North	3765004	8	11454	9.3839	13.50231
 Pitres	Eure, Normandy	536209	8	2339	49.31667	1.23333
+Pitrufquen	Provincia de Cautin, Araucania	1768825	8	13743	-38.98635	-72.63721
 Pitstone	Buckinghamshire, England	3752145	10	3674	51.8283	-0.63987
 Pitt Meadows	Metro Vancouver Regional District, British Columbia	2221141	8	18573	49.22119	-122.68965
 Pitt Town	Hawkesbury, New South Wales	5571580	9	2982	-33.58718	150.85857
@@ -642,11 +676,14 @@ Pitzenberg	Politischer Bezirk Voecklabruck, Upper Austria	102965	8	118	48.07361	
 Piubega	Provincia di Mantova, Lombardy	44453	8	835	45.22677	10.53195
 Piuma	Piuma, Espirito Santo	1826739	8	17634	-20.83778	-40.72194
 Piuma	Piuma, Espirito Santo	1875639	9	17634	-20.83778	-40.72194
+Piura	Provincia de Piura, Piura	1986151	4	484475	-5.19449	-80.63282
+Piura	Provincia de Piura, Piura	1986161	6	484475	-5.19449	-80.63282
 Piura	Provincia de Piura, Piura	1986208	8	484475	-5.19449	-80.63282
 Piuro	Provincia di Sondrio, Lombardy	47093	8	1913	46.32979	9.42064
 Pivdenne	Kharkiv	3557549	9	8053	49.8832	36.06846
 Pivdenne	Kharkiv	3559880	8	8053	49.8832	36.06846
 Piverone	Torino, Piedmont	45024	8	908	45.44557	8.00745
+Pivijay	Pivijay, Magdalena	11890151	6	33047	10.46167	-74.61621
 Pivka	Pivka	1675847	8	2088	45.68292	14.19588
 Piwniczna-Zdroj	Powiat nowosadecki, Lesser Poland	2892417	8	5793	49.44056	20.71423
 Pizarra	Provincia de Malaga, Andalusia	343082	8	7345	36.76543	-4.70833

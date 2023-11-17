@@ -1,4 +1,6 @@
 A Rua	Provincia de Ourense, Galicia	339840	8	4975	42.40048	-7.10268
+Ar Rayyan	Baladiyat ar Rayyan	27331	4	272465	25.29194	51.42444
+Ar Riyad	Al-Hawija District, Kirkuk	11069474	6	0	35.26964	43.91067
 Ar Rumaythiyah	Hawalli	5432599	6	58135	29.31167	48.07417
 Arab	Marshall County, Alabama	110391	8	8295	34.31815	-86.49582
 Araban	Gaziantep	1808031	6	11128	37.42667	37.689
@@ -13,12 +15,15 @@ Aracatuba	Aracatuba, Sao Paulo	5349571	9	170024	-21.20889	-50.43278
 Aracena	Provincia de Huelva, Andalusia	348878	8	7351	37.89396	-6.56116
 Araches-la-Frasse	Haute-Savoie, Auvergne-Rhone-Alpes	104895	8	1879	46.04297	6.63145
 Arachinovo	Arachinovo	6099221	8	12800	42.02639	21.56194
+Aracoiaba	Aracoiaba, Ceara	302495	8	13425	-4.37111	-38.81417
 Aracoiaba	Aracoiaba, Pernambuco	303613	8	13095	-7.79028	-35.09083
 Aracoiaba	Aracoiaba, Pernambuco	6188340	9	13095	-7.79028	-35.09083
 Aracoiaba da Serra	Aracoiaba Da Serra, Sao Paulo	298446	8	15395	-23.50528	-47.61417
 Aracoiaba da Serra	Aracoiaba Da Serra, Sao Paulo	5684846	9	15395	-23.50528	-47.61417
+Aracruz	Aracruz, Espirito Santo	1843539	8	58271	-19.82028	-40.27333
 Aracruz	Aracruz, Espirito Santo	1915819	10	58271	-19.82028	-40.27333
 Aracruz	Aracruz, Espirito Santo	1915831	9	58271	-19.82028	-40.27333
+Aracuai	Aracuai, Minas Gerais	314720	8	22005	-16.84972	-42.07028
 Arad	Municipiul Arad, Arad	10488682	8	169065	46.18333	21.31667
 Arad	Southern District	1376910	8	26756	31.25882	35.21282
 Aradan	Semnan	14133095	7	0	35.24941	52.49422
@@ -26,21 +31,25 @@ Aradas	Aveiro	6021062	8	7295	40.62084	-8.64195
 Aradeo	Provincia di Lecce, Apulia	40286	8	9570	40.12921	18.12951
 Aradippou	Aradippou, Larnaka	13757555	8	13349	34.94779	33.58813
 Arafo	Provincia de Santa Cruz de Tenerife, Canary Islands	345078	8	5375	28.33971	-16.42244
+Aragarcas	Aragarcas, Goias	334509	8	16781	-15.8975	-52.25083
 Aragon	Polk County, Georgia	119633	8	1243	34.04565	-85.05606
 Aragona	Agrigento, Sicily	39231	8	8779	37.39904	13.61974
 Aragua	Monagas	14360276	8	0	9.97026	-63.48727
 Aragua de Barcelona	Municipio Aragua, Anzoategui	14436550	8	34048	9.45588	-64.82928
 Araguaiana	Araguaiana, Mato Grosso	333628	8	3512	-15.73389	-51.83139
 Araguana	Araguana, Maranhao	332834	8	0	-2.94639	-45.66098
+Araguari	Araguari, Minas Gerais	314597	8	96565	-18.64722	-48.18722
 Aragues del Puerto	Provincia de Huesca, Aragon	340015	8	143	42.70641	-0.66999
 Arahuay	Provincia de Canta, Lima region	1944679	8	356	-11.62222	-76.66944
 Arahuetes	Provincia de Segovia, Castille and Leon	345707	8	58	41.13762	-3.85664
 Araioses	Araioses, Maranhao	332920	8	8667	-2.89	-41.90306
 Arakli	Trabzon	1236151	6	29917	40.93854	40.05842
+Aral	Aksu Diqu, Xinjiang	2748887	6	260000	40.54184	81.26566
 Aralik	Igdir	1251329	6	0	39.87278	44.51917
 Araluen	Alice Springs, Northern Territory	11716667	9	2820	-23.69601	133.854
 Arama	Provincia de Guipuzcoa, Basque Country	343225	8	161	43.06335	-2.1654
 Aramango	Provincia de Bagua, Amazonas	1973473	8	0	-5.41639	-78.43583
+Aramberri	Aramberri, Nuevo Leon	5605527	6	2538	24.09984	-99.81729
 Aramecina	Valle	13776589	6	1071	13.74222	-87.71028
 Aramengo	Provincia di Asti, Piedmont	44160	8	109	45.10085	8.00003
 Aramon	Gard, Occitanie	384254	8	4101	43.89113	4.68058
@@ -55,6 +64,7 @@ Arandilla	Provincia de Burgos, Castille and Leon	343552	8	188	41.73778	-3.42914
 Arandilla del Arroyo	Provincia de Cuenca, Castille-La Mancha	340311	8	36	40.51056	-2.38355
 Aranga	Provincia da Coruna, Galicia	12566240	9	2246	43.23469	-8.01705
 Aranga	Provincia da Coruna, Galicia	342628	8	2246	43.23469	-8.01705
+Arangaon	Ahmadnagar, Maharashtra	10347864	6	29591	19.02681	74.71487
 Arangelovac	Sumadija, Central Serbia	8768755	9	24309	44.30694	20.56
 Aranguren	Departamento de Victoria, Entre Rios	2885731	7	1581	-32.24252	-60.16107
 Arani	Cochabamba	4503307	6	3906	-17.56854	-65.76883
@@ -205,10 +215,13 @@ Arcos de las Salinas	Provincia de Teruel, Aragon	345369	8	126	39.98333	-1.03333
 Arcot	Vellore, Tamil Nadu	10325949	6	51943	12.90569	79.31897
 Arcoverde	Arcoverde, Pernambuco	303736	8	57163	-8.41889	-37.05389
 Arcoverde	Arcoverde, Pernambuco	6199439	9	57163	-8.41889	-37.05389
+Arcozelo	Vila Nova de Gaia, Porto	4055523	8	14352	41.06187	-8.63192
+Arcozelo	Vila Nova de Gaia, Porto	5713273	8	14352	41.06187	-8.63192
 Arcozelo	Vila Nova de Gaia, Porto	5991739	8	14352	41.06187	-8.63192
 Arcueil	Val-de-Marne, Ile-de-France	103967	8	17308	48.79993	2.33256
 Arcugnano-Torri	Provincia di Vicenza, Veneto	45022	8	2499	45.49579	11.5477
 Ardabil	Ardabil	6725965	7	410753	38.2498	48.2933
+Ardahan	Ardahan	1251450	4	21020	41.10871	42.70222
 Ardakan	Yazd	8812049	7	58834	32.31001	54.01747
 Ardal	Chaharmahal and Bakhtiari	6800893	7	0	31.99969	50.66231
 Ardales	Provincia de Malaga, Andalusia	346018	8	2631	36.87804	-4.84694
@@ -220,6 +233,7 @@ Arden Hills	Ramsey County, Minnesota	136614	8	9951	45.05024	-93.15661
 Ardenno	Provincia di Sondrio, Lombardy	46944	8	3051	46.16714	9.64729
 Ardentes	Indre, Centre	1664976	8	3356	46.74191	1.83428
 Ardeoani	Comuna Ardeoani, Bacau	14194836	8	2532	46.53333	26.6
+Ardesen	Rize	1725592	6	67965	41.19064	40.97935
 Ardesio	Provincia di Bergamo, Lombardy	46506	8	2315	45.93613	9.9295
 Ardglass	Newry Mourne and Down, Northern Ireland	4589300	10	1676	54.26312	-5.60981
 Ardin	Deux-Sevres, Nouvelle-Aquitaine	146544	8	1185	46.47417	-0.5577
@@ -261,6 +275,7 @@ Arenas de San Juan	Provincia de Ciudad Real, Castille-La Mancha	347970	8	1083	39
 Arenas de San Pedro	Provincia de Avila, Castille and Leon	343605	8	6539	40.21041	-5.08694
 Arenas del Rey	Provincia de Granada, Andalusia	342622	8	1978	36.95799	-3.89362
 Arenc	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6581661	10	1645	43.31583	5.36698
+Arendal	Arendal, Agder	406036	7	30916	58.46151	8.77253
 Arendonk	Provincie Antwerpen, Flanders	1274223	8	12247	51.32267	5.08289
 Arenillas	Provincia de Soria, Castille and Leon	346357	8	29	41.34706	-2.84618
 Arenoso	Arenoso, Duarte	7376870	6	2897	19.18732	-69.85917
@@ -273,6 +288,8 @@ Arenzana de Abajo	Provincia de La Rioja, La Rioja	344005	8	252	42.38599	-2.7194
 Arenzana de Arriba	Provincia de La Rioja, La Rioja	344002	8	32	42.38745	-2.69494
 Arenzano	Provincia di Genova, Liguria	43144	8	11226	44.40521	8.68315
 Areosa	Viana do Castelo	5714252	8	4626	41.71779	-8.85707
+Arequipa	Provincia de Arequipa, Arequipa	1879287	4	1008290	-16.39889	-71.535
+Arequipa	Provincia de Arequipa, Arequipa	1887794	6	1008290	-16.39889	-71.535
 Arequipa	Provincia de Arequipa, Arequipa	1887796	8	1008290	-16.39889	-71.535
 Ares	Ares, Rio Grande do Norte	301152	8	7231	-6.19444	-35.16028
 Ares	Ares, Rio Grande do Norte	6247876	9	7231	-6.19444	-35.16028
@@ -289,6 +306,7 @@ Arevabuyr	Ararat	14434550	7	1041	40.03607	44.46948
 Arevalillo de Cega	Provincia de Segovia, Castille and Leon	341419	8	41	41.16174	-3.88911
 Arevalo	Provincia de Avila, Castille and Leon	343627	8	7689	41.06255	-4.72042
 Arevalo de la Sierra	Provincia de Soria, Castille and Leon	346356	8	95	41.94723	-2.40033
+Arezzo	Province of Arezzo, Tuscany	42366	6	100734	43.46276	11.88068
 Arezzo	Province of Arezzo, Tuscany	42414	8	100734	43.46276	11.88068
 Argaka	Argaka, Pafos	12474068	8	1078	35.06586	32.49226
 Argamasilla de Alba	Provincia de Ciudad Real, Castille-La Mancha	347971	8	6902	39.12917	-3.09247
@@ -345,6 +363,7 @@ Arguisuelas	Provincia de Cuenca, Castille-La Mancha	343277	8	160	39.83333	-1.816
 Argujillo	Provincia de Zamora, Castille and Leon	340494	8	344	41.31156	-5.58763
 Argungu	Argungu, Kebbi	3707936	6	45584	12.74482	4.52514
 Argusto	Provincia di Catanzaro, Calabria	39698	8	392	38.68051	16.43627
+Arguvan	Malatya	1826364	6	3282	38.77375	38.26328
 Argyle	Denton County, Texas	3497065	8	3905	33.12123	-97.18335
 Arhavi	Artvin	1838463	6	16217	41.35121	41.30456
 Ari	Provincia di Chieti, Abruzzo	41910	8	482	42.28967	14.25856
@@ -367,10 +386,14 @@ Arija	Provincia de Burgos, Castille and Leon	348921	8	198	42.9935	-3.94497
 Arilje	Zlatibor, Central Serbia	8063567	9	6762	43.75306	20.09556
 Arima	Borough of Arima	11146288	4	35000	10.63737	-61.28228
 Arino	Provincia de Teruel, Aragon	345362	8	902	41.03019	-0.59206
+Arinos	Arinos, Minas Gerais	315064	8	10077	-15.91694	-46.10556
+Arinos	Arinos, Minas Gerais	6159090	9	10077	-15.91694	-46.10556
 Arinthod	Jura, Bourgogne-Franche-Comte	1530449	9	1273	46.39339	5.56616
 Arinthod	Jura, Bourgogne-Franche-Comte	7858560	8	1273	46.39339	5.56616
 Ario de Rosales	Ario, Michoacan	5605530	6	16595	19.209	-101.70743
 Ariogala	Raseiniai, Kaunas	2712050	8	3653	55.262	23.477
+Ariquemes	Ariquemes, Rondonia	325888	8	58096	-9.91333	-63.04083
+Ariquemes	Ariquemes, Rondonia	7623617	9	58096	-9.91333	-63.04083
 Arisdorf	Bezirk Liestal, Basel-Landschaft	1683615	8	1538	47.51323	7.76515
 Aristau	Bezirk Muri, Aargau	1684255	8	1313	47.28692	8.36356
 Aristobulo del Valle	Departamento de Cainguas, Misiones	4035026	8	20683	-27.09625	-54.89626
@@ -388,6 +411,7 @@ Arkansas City	Cowley County, Kansas	130164	8	12136	37.06197	-97.03837
 Arkansas City	Desha County, Arkansas	8531704	8	327	33.60872	-91.20678
 Arkel	Molenlanden, South Holland	165008	10	2980	51.86417	4.99444
 Arki	Solan, Himachal Pradesh	9981059	6	3293	31.15196	76.96675
+Arklow	Wicklow, Leinster	3402399	10	13163	52.79443	-6.14958
 Arklow	Wicklow, Leinster	4557616	10	13163	52.79443	-6.14958
 Arkoma	Le Flore County, Oklahoma	183932	8	1925	35.35454	-94.4341
 Arlanc	Puy-de-Dome, Auvergne-Rhone-Alpes	357550	8	1895	45.41389	3.72528
@@ -502,6 +526,7 @@ Aroche	Provincia de Huelva, Andalusia	348870	8	0	37.94213	-6.9576
 Arochukwu	Arochukwu, Abia	3713504	6	10776	5.38941	7.91235
 Aroeiras	Aroeiras, Paraiba	301425	8	7019	-7.54528	-35.7075
 Aroeiras	Aroeiras, Paraiba	6214924	9	7019	-7.54528	-35.7075
+Aroes	Fafe, Braga	6022348	8	4855	41.45553	-8.21419
 Arola	Provincia Verbano-Cusio-Ossola, Piedmont	46209	8	232	45.80867	8.35808
 Aron	Mayenne, Pays de la Loire	446755	8	1642	48.29745	-0.55862
 Arona	Provincia de Santa Cruz de Tenerife, Canary Islands	345076	8	78614	28.09962	-16.68102
@@ -533,6 +558,7 @@ Arradon	Morbihan, Brittany	149742	8	5206	47.62616	-2.82288
 Arraga	Departamento de Silipica, Santiago del Estero	9410387	8	0	-28.04978	-64.22254
 Arrah	Bhojpur, Bihar	10266925	6	223676	25.55629	84.66335
 Arraial do Cabo	Arraial Do Cabo, Rio de Janeiro	2215539	8	26163	-22.96611	-42.02778
+Arraias	Arraias, Tocantins	336746	8	10778	-12.93139	-46.93833
 Arraijan	Distrito Arraijan, Panama Oeste	11491018	8	76815	8.9398	-79.64038
 Arraiolos	Arraiolos, Evora	5402583	7	0	38.72363	-7.98478
 Arraiolos	Arraiolos, Evora	6437619	8	0	38.72363	-7.98478
@@ -551,8 +577,10 @@ Arriach	Politischer Bezirk Villach Land, Carinthia	106162	8	329	46.72921	13.8504
 Arriaga	Arriaga, Chiapas	5999500	6	24447	16.23589	-93.89995
 Arriate	Provincia de Malaga, Andalusia	341435	8	3821	36.80005	-5.1408
 Arrifana	Santa Maria da Feira, Aveiro	6022189	8	6927	40.91565	-8.49657
+Arrifana	Santa Maria da Feira, Aveiro	6553858	8	6927	40.91565	-8.49657
 Arrifes	Ponta Delgada, Azores	7540338	8	6981	37.76667	-25.7
 Arrigorriaga	Bizkaia, Basque Country	340587	8	12435	43.21006	-2.88562
+Arroio Grande	Arroio Grande, Rio Grande do Sul	242292	8	16117	-32.2375	-53.08694
 Arroio Grande	Arroio Grande, Rio Grande do Sul	7500926	9	16117	-32.2375	-53.08694
 Arroio do Meio	Arroio Do Meio, Rio Grande do Sul	242537	8	16331	-29.40111	-51.945
 Arroio do Meio	Arroio Do Meio, Rio Grande do Sul	7445720	9	16331	-29.40111	-51.945
@@ -610,6 +638,7 @@ Artegna	Udine, Friuli Venezia Giulia	179248	8	2588	46.23929	13.15399
 Arteixo	Provincia da Coruna, Galicia	342626	8	29762	43.30482	-8.50749
 Arteixo	Provincia da Coruna, Galicia	9477423	9	29762	43.30482	-8.50749
 Artemare	Ain, Auvergne-Rhone-Alpes	147866	8	1081	45.87441	5.69366
+Artemisa	Artemisa	2576644	4	68073	22.81667	-82.75944
 Artemisa	Artemisa	2576646	6	68073	22.81667	-82.75944
 Artena	Citta metropolitana di Roma Capitale, Lazio	41464	8	10805	41.74126	12.90667
 Artenara	Provincia de Las Palmas, Canary Islands	345128	8	1565	28.02055	-15.64693
@@ -629,6 +658,7 @@ Arthon	Indre, Centre	1746809	8	1002	46.69361	1.69857
 Arthon-en-Retz	Loire-Atlantique, Pays de la Loire	93962	9	2888	47.11655	-1.9392
 Arthur	Arthur County, Nebraska	169510	8	117	41.57165	-101.69156
 Arthur	Douglas County, Illinois	127069	8	2288	39.71476	-88.47228
+Artieda	Provincia de Zaragoza, Aragon	12286105	9	0	42.58538	-0.98422
 Artieda	Provincia de Zaragoza, Aragon	342656	8	0	42.58538	-0.98422
 Artigas	Artigas	1617618	4	41909	-30.4	-56.46667
 Artigas	Artigas	3443435	8	41909	-30.4	-56.46667
@@ -641,13 +671,19 @@ Artondale	Pierce County, Washington	237262	8	12653	47.29954	-122.62069
 Artres	North, Hauts-de-France	54531	8	1092	50.29482	3.54013
 Artur Nogueira	Artur Nogueira, Sao Paulo	298163	8	40403	-22.57306	-47.1725
 Artur Nogueira	Artur Nogueira, Sao Paulo	5684848	9	40403	-22.57306	-47.1725
+Artvin	Artvin	223448	4	24266	41.18161	41.82172
+Arua	Arua District, Northern Region	3501793	4	55585	3.02013	30.91105
 Arucas	Provincia de Las Palmas, Canary Islands	345131	8	36259	28.11983	-15.52325
 Arudy	Pyrenees-Atlantiques, Nouvelle-Aquitaine	2120173	8	2417	43.1064	-0.43333
 Aruja	Aruja, Sao Paulo	297934	8	72077	-23.39611	-46.32083
 Aruja	Aruja, Sao Paulo	5683039	9	72077	-23.39611	-46.32083
+Arukuela	Raasiku vald, Harjumaa	350808	9	1829	59.36686	25.07618
+Arukuela	Raasiku vald, Harjumaa	353378	9	1829	59.36686	25.07618
+Arukuela	Raasiku vald, Harjumaa	353496	9	1829	59.36686	25.07618
 Arundel	Gold Coast, Queensland	11675466	9	10085	-27.93768	153.36302
 Arundel	West Sussex, England	2960986	10	3285	50.85423	-0.55393
 Aruppukkottai	Virudhunagar, Tamil Nadu	10312713	6	85369	9.5096	78.09588
+Arusha	Arusha City, Arusha	1243810	4	341136	-3.36667	36.68333
 Arusha	Arusha City, Arusha	13015762	5	341136	-3.36667	36.68333
 Arvada	Jefferson County, Colorado	112912	8	115368	39.80276	-105.08748
 Arvada	Jefferson County, Colorado	5476350	8	115368	39.80276	-105.08748
@@ -676,3 +712,4 @@ Arzon	Morbihan, Brittany	959443	8	2193	47.54943	-2.89588
 Arzua	Provincia da Coruna, Galicia	12603283	9	6597	42.93333	-8.15
 Arzua	Provincia da Coruna, Galicia	342625	8	6597	42.93333	-8.15
 Arzua	Provincia da Coruna, Galicia	9098131	7	6597	42.93333	-8.15
+`Arrabah	West Bank	1392179	8	9703	32.40517	35.20189

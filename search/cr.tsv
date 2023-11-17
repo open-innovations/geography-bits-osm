@@ -26,6 +26,7 @@ Cramlington	Northumberland, England	8418548	10	33180	55.08652	-1.58598
 Crampoia	Comuna Crampoaia, Olt	9744241	8	3212	44.30215	24.74513
 Cran-Gevrier	Haute-Savoie, Auvergne-Rhone-Alpes	74551	9	19354	45.9	6.1
 Cranberry Township	Butler County, Pennsylvania	4131949	8	28098	40.68496	-80.10714
+Cranberry Township	Butler County, Pennsylvania	8681727	8	28098	40.68496	-80.10714
 Cranbourne	Casey, Victoria	2427466	9	21281	-38.11342	145.28326
 Cranbourne East	Casey, Victoria	2434305	9	24679	-38.11531	145.29814
 Cranbourne North	Casey, Victoria	2427460	9	24683	-38.07758	145.29871
@@ -63,6 +64,7 @@ Craveggia	Provincia Verbano-Cusio-Ossola, Piedmont	46914	8	484	46.14124	8.48907
 Craven Arms	Shropshire, England	7062170	10	2595	52.44308	-2.83562
 Cravinhos	Cravinhos, Sao Paulo	297946	8	32689	-21.34028	-47.72944
 Cravinhos	Cravinhos, Sao Paulo	5349604	9	32689	-21.34028	-47.72944
+Cravo Norte	Cravo Norte, Departamento de Arauca	1314632	6	4787	6.30173	-70.20415
 Crawfordsville	Montgomery County, Indiana	127413	8	16024	40.04115	-86.87445
 Crawfordville	Taliaferro County, Georgia	119683	8	508	33.55402	-82.89598
 Crawinkel	Thuringia	1269964	9	1640	50.78333	10.78333
@@ -100,6 +102,7 @@ Cremia	Provincia di Como, Lombardy	46841	8	761	46.08649	9.27114
 Cremieu	Isere, Auvergne-Rhone-Alpes	109953	8	3427	45.72557	5.24911
 Cremlingen	Lower Saxony	1432639	8	12808	52.24794	10.65506
 Cremolino	Provincia di Alessandria, Piedmont	43394	8	202	44.63674	8.58584
+Cremona	Provincia di Cremona, Lombardy	43893	6	71223	45.13325	10.02129
 Cremona	Provincia di Cremona, Lombardy	44189	8	71223	45.13325	10.02129
 Cremorne	North Sydney, New South Wales	5655122	9	11069	-33.82679	151.22633
 Cremorne	Yarra, Victoria	2384449	9	1564	-37.8318	144.9938
@@ -175,6 +178,7 @@ Crewe	Nottoway County, Virginia	206892	8	2241	37.17321	-78.12333
 Crewkerne	Somerset, England	2826811	10	7826	50.88298	-2.79588
 Creys-Mepieu	Isere, Auvergne-Rhone-Alpes	10364157	9	1180	45.73333	5.48333
 Creys-Mepieu	Isere, Auvergne-Rhone-Alpes	104404	8	1180	45.73333	5.48333
+Creysse	Dordogne, Nouvelle-Aquitaine	122579	8	2390	44.85514	0.56551
 Creysse	Dordogne, Nouvelle-Aquitaine	145261	8	2390	44.85514	0.56551
 Crezancy	Aisne, Hauts-de-France	2953977	8	1257	49.04833	3.51047
 Crib Point	Mornington Peninsula, Victoria	2449657	9	3095	-38.35	145.2
@@ -206,9 +210,12 @@ Crisolles	Oise, Hauts-de-France	197566	8	1026	49.6225	3.01451
 Crispano	Napoli, Campania	40941	8	12249	40.95251	14.28993
 Crispiano	Provincia di Taranto, Apulia	40611	8	12429	40.60379	17.2329
 Crissey	Saone-et-Loire, Bourgogne-Franche-Comte	1169808	8	2166	46.81652	4.88185
+Crissey	Saone-et-Loire, Bourgogne-Franche-Comte	148704	8	2166	46.81652	4.88185
 Crissier	Ouest Lausannois District, Vaud	1684931	8	6612	46.54586	6.57567
 Crissolo	Provincia di Cuneo, Piedmont	43463	8	210	44.69953	7.15602
+Cristalina	Cristalina, Goias	334440	8	36531	-16.76769	-47.6153
 Cristelo	Barcelos, Braga	4056695	8	1875	41.47964	-8.69785
+Cristelo	Barcelos, Braga	5928407	8	1875	41.47964	-8.69785
 Cristian	Comuna Cristian, Brasov	10367677	8	3849	45.61667	25.46667
 Cristian	Comuna Cristian, Sibiu	9846495	8	3437	45.78333	24.03333
 Cristina	Provincia de Badajoz, Extremadura	345927	8	568	38.83745	-6.09867
@@ -223,6 +230,7 @@ Crivat	Comuna Crivat, Calarasi	13803934	8	2747	44.19338	26.43846
 Crivillen	Provincia de Teruel, Aragon	343892	8	110	40.88325	-0.57666
 Crivitz	Mecklenburg-Vorpommern	3422276	7	4970	53.57316	11.65194
 Crivitz	Mecklenburg-Vorpommern	449933	8	4970	53.57316	11.65194
+Crixas	Crixas, Goias	334422	8	11559	-14.54889	-49.96917
 Crizbav	Comuna Crizbav, Brasov	10520136	8	1373	45.81515	25.46718
 Crna Trava	Jablanica, Central Serbia	7220954	9	0	42.80988	22.29881
 Crna na Koroskem	Crna na Koroskem	1675624	8	2409	46.47045	14.85009
@@ -248,6 +256,7 @@ Crompond	Westchester County, New York	175590	8	2292	41.29509	-73.86541
 Cromwell	Middlesex County, Connecticut	11059417	8	13750	41.5951	-72.64537
 Crondall	Hampshire, England	3739912	10	1239	51.23285	-0.86329
 Cronulla	Sutherland Shire, New South Wales	2911989	9	17703	-34.06251	151.14961
+Crook	County Durham, England	8307636	10	9498	54.71252	-1.7497
 Crooks	Minnehaha County, South Dakota	194964	8	1329	43.6647	-96.81089
 Crookston	Polk County, Minnesota	137165	8	7787	47.77414	-96.60812
 Crooksville	Perry County, Ohio	182307	8	2498	39.76896	-82.09209
@@ -324,6 +333,7 @@ Crumlin	Dublin City, Leinster	5480742	10	11294	53.32154	-6.31439
 Crump	Hardin County, Tennessee	195491	8	1400	35.22175	-88.31809
 Cruseilles	Haute-Savoie, Auvergne-Rhone-Alpes	75191	8	3757	46.0298	6.10831
 Crusnes	Meurthe et Moselle, Grand Est	1140178	8	1642	49.43406	5.91557
+Cruz	Cruz, Ceara	302458	8	8723	-2.9211	-40.17589
 Cruz Alta	Cruz Alta, Rio Grande do Sul	242367	8	65275	-28.64397	-53.60633
 Cruz Alta	Cruz Alta, Rio Grande do Sul	7926601	9	65275	-28.64397	-53.60633
 Cruz Alta	Departamento de Marcos Juarez, Cordoba	9377209	8	6862	-33.00887	-61.80746

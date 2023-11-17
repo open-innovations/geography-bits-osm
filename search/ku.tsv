@@ -1,10 +1,12 @@
 Kuah	Langkawi, Kedah	4763405	6	30212	6.32649	99.8432
 Kuala Baru	Aceh	8922302	6	0	2.24731	97.78697
+Kuala Belait	Belait	3853884	4	31178	4.58361	114.2312
 Kuala Belait	Belait	7411520	8	31178	4.58361	114.2312
 Kuala Kangsar	Daerah Kuala Kangsar, Perak	12508550	6	39331	4.76667	100.93333
 Kuala Lumpur	WP. Kuala Lumpur, Kuala Lumpur	2939672	4	1453975	3.1412	101.68653
 Kuala Pilah	Kuala Pilah, Negeri Sembilan	10976220	6	19510	2.7389	102.2487
 Kuala Selangor	Kuala Selangor, Selangor	10714137	6	55887	3.35	101.25
+Kuala Selangor	Kuala Selangor, Selangor	2932285	4	55887	3.35	101.25
 Kuala Terengganu	Kuala Terengganu, Terengganu	12570056	6	426500	5.3302	103.1408
 Kuangyuan	Kunming Shi, Yunnan	2723834	6	0	24.91379	103.14789
 Kuantan	Kuantan, Pahang	10744343	6	548014	3.8077	103.326
@@ -29,6 +31,7 @@ Kuehndorf	Thuringia	2828163	8	1116	50.6086	10.4894
 Kuehrstedt	Lower Saxony	1528134	9	1149	53.57747	8.80091
 Kuellstedt	Thuringia	2515183	8	1578	51.27582	10.2804
 Kuenzelsau	Regierungsbezirk Stuttgart, Baden-Wurttemberg	362660	8	15070	49.2818	9.68352
+Kuerti	Altay Diqu, Xinjiang	9374702	8	10093	47.20003	89.30531
 Kuesten	Lower Saxony	1818752	8	1449	52.97779	11.0624
 Kugluktuk	Nunavut	6247427	8	1382	67.82743	-115.09649
 Kuhardt	Rheinland-Pfalz	1250427	8	1927	49.14583	8.31444
@@ -37,7 +40,10 @@ Kuhbach	Swabia, Bavaria	161967	7	3997	48.49101	11.18691
 Kuhbach	Swabia, Bavaria	3123521	9	3997	48.49101	11.18691
 Kuhdasht	Lorestan Province	13321641	7	100208	33.53335	47.60999
 Kuhmalahti	Tampere, Pirkanmaa	14384358	10	1143	61.5	24.56667
+Kuhmo	Kehys-Kainuu, Kainuu	2525694	8	10214	64.13333	29.51667
+Kuhmoinen	Tampere, Pirkanmaa	1704307	8	2824	61.56667	25.18333
 Kujama	Chikun, Kaduna	3709514	8	12967	10.45767	7.63808
+Kuje	Kuje, FCT	3717263	6	97367	8.87952	7.22756
 Kukawa	Guzamala, Borno	3721184	6	16077	12.92475	13.56617
 Kukawa	Guzamala, Borno	3721367	8	16077	12.92475	13.56617
 Kukes	Kukes	1248537	8	17832	42.07694	20.42194
@@ -46,6 +52,7 @@ Kukljica	Kukljica, Zadarska	12589668	8	0	44.03472	15.24556
 Kukmirn	Politischer Bezirk Guessing, Burgenland	109728	8	718	47.07544	16.21033
 Kukow	Powiat suski, Lesser Poland	3569123	8	1319	49.73252	19.48485
 Kukra Hill	South Caribbean Coast	14467676	10	0	12.24096	-83.74517
+Kukra Hill	South Caribbean Coast	5776226	6	0	12.24096	-83.74517
 Kukur	Rrethi i Gramshit, Elbasan	1250581	8	0	40.86778	20.36361
 Kukurecani	Bitola	6498827	8	2395	41.09562	21.32454
 Kula	Kula, Manisa	1821205	6	31100	38.54726	28.64976
@@ -58,13 +65,16 @@ Kulim	Kulim, Kedah	6166150	6	170889	5.36499	100.56177
 Kulmain	Upper Palatinate, Bavaria	975286	8	2452	49.9	11.9
 Kulmbach	Upper Franconia, Bavaria	1022764	8	27565	50.10068	11.45032
 Kulp	Diyarbakir	1842159	6	26569	38.49754	41.00668
+Kulpahar	Mahoba, Uttar Pradesh	10016687	6	18976	25.32007	79.63931
 Kulpmont	Northumberland County, Pennsylvania	187827	8	2851	40.79342	-76.47245
 Kulsheim	Regierungsbezirk Stuttgart, Baden-Wurttemberg	401803	8	5854	49.66942	9.52361
 Kultayevo	Perm Krai	1516862	10	4235	57.8948	55.9378
 Kulu	Konya	1250969	6	47037	39.09513	33.07989
+Kulu	Kulu, Himachal Pradesh	364055	5	19831	31.95835	77.10823
 Kulu	Kulu, Himachal Pradesh	9977197	6	19831	31.95835	77.10823
 Kuluin	Sunshine Coast, Queensland	11675226	9	2351	-26.65779	153.05608
 Kulun	Tongliao Shi, Inner Mongolia	10565704	8	0	42.73056	121.77556
+Kulun	Tongliao Shi, Inner Mongolia	2753404	6	0	42.73056	121.77556
 Kuluncak	Malatya	1826312	6	8495	38.87656	37.66279
 Kulykiv	Lviv Oblast	3904898	9	3963	49.97954	24.07817
 Kumagaya	Kumagaya Shi, Saitama	1769196	7	195277	36.13497	139.39004
@@ -80,6 +90,7 @@ Kumbotso	Kumbotso, Kano	3710327	6	0	11.89002	8.503
 Kumbotso	Kumbotso, Kano	3710622	8	0	11.89002	8.503
 Kumhausen	Lower Bavaria, Bavaria	191258	8	4812	48.50938	12.15637
 Kumi	Kumi District, Eastern Region	3498173	4	11400	1.46083	33.93611
+Kumlinge	Kumlinge, Alands skaergard	2375653	8	384	60.26013	20.77892
 Kumlu	Hatay	1240893	6	0	36.36353	36.45502
 Kumluca	Antalya	1727186	6	0	36.37028	30.28694
 Kummerfeld	Schleswig-Holstein	443359	8	2012	53.69262	9.79099
@@ -101,13 +112,18 @@ Kungur	Perm Krai	3437242	10	66389	57.4368	56.9593
 Kunhegyes	Jasz-Nagykun-Szolnok	1325120	8	8462	47.36667	20.63333
 Kunheim	Haut-Rhin, Grand Est	69292	8	1719	48.07657	7.53489
 Kunice	Powiat legnicki, Lower Silesia	5967263	8	1100	51.22231	16.24809
+Kunigami	Okinawa	4534036	7	4908	26.75886	128.16304
 Kunin	Okres Novy Jicin, Moravskoslezsky	430838	10	1811	49.63377	17.98965
 Kunin	Okres Novy Jicin, Moravskoslezsky	437962	8	1811	49.63377	17.98965
 Kunmadaras	Jasz-Nagykun-Szolnok	1332838	8	5826	47.43333	20.8
+Kunming	Kunming Shi, Yunnan	2723597	5	3855346	25.03889	102.71833
 Kunnamkulam	Thrissur District, Kerala	11313312	6	63903	10.64667	76.06695
+Kunovice	Okres Uherske Hradiste, Zlin	431362	10	5148	49.04499	17.47011
+Kunovice	Okres Uherske Hradiste, Zlin	437092	8	5148	49.04499	17.47011
 Kunovice	Okres Uherske Hradiste, Zlin	437383	8	5148	49.04499	17.47011
 Kunow	Powiat ostrowiecki, Swietokrzyskie	2908892	8	3078	50.96156	21.28058
 Kunoy	Kunoy, Nordoyar	2296579	8	70	62.30388	-6.64754
+Kunreuth	Upper Franconia, Bavaria	1080504	8	1411	50.23321	11.53119
 Kunshan	Suzhou Shi, Jiangsu	4591878	6	2092496	31.37762	120.95431
 Kunshan	Suzhou Shi, Jiangsu	7791944	8	2092496	31.37762	120.95431
 Kunstat	Okres Blansko, South Moravian	436850	8	2798	49.50645	16.51722
@@ -125,6 +141,7 @@ Kunzak	Okres Jindrichuv Hradec, Jihocesky kraj	438418	8	1484	49.12119	15.19028
 Kunzell	Regierungsbezirk Kassel, Hesse	454880	8	16124	50.5442	9.71792
 Kunzing	Lower Bavaria, Bavaria	959819	8	3262	48.66667	13.08333
 Kuopio	Kuopio, North Savo	1214215	8	121557	62.89238	27.67703
+Kuopio	Kuopio, North Savo	2426369	8	121557	62.89238	27.67703
 Kuopio	Kuopio, North Savo	919417	9	121557	62.89238	27.67703
 Kuortane	Kuusiokunnat, South Ostrobothnia	2366532	8	4219	62.8	23.5
 Kup	Powiat opolski, Opole Voivodeship	9752051	8	1200	50.80659	17.88351
@@ -137,6 +154,7 @@ Kuppam	Chittoor, Andhra Pradesh	10240213	6	19854	12.74931	78.34189
 Kuppenheim	Karlsruhe Region, Baden-Wurttemberg	907229	8	7533	48.82794	8.25417
 Kupres	Federation of B&H	10020662	9	0	43.99273	17.27639
 Kups	Upper Franconia, Bavaria	1021760	8	8282	50.19265	11.27599
+Kupwara	Jammu and Kashmir	10389554	6	14711	34.03056	74.26417
 Kura	Kura, Kano	3710329	6	9537	11.77232	8.42631
 Kuraby	Brisbane, Queensland	11675393	9	8037	-27.60683	153.09367
 Kurakhove	Donetsk Oblast	3934092	9	18506	47.98437	37.27909
@@ -157,6 +175,7 @@ Kurnach	Regierungsbezirk Unterfranken, Bavaria	182347	8	4332	49.85	10.03333
 Kurnbach	Karlsruhe Region, Baden-Wurttemberg	659841	8	2440	49.0775	8.84556
 Kurnell	Sutherland Shire, New South Wales	2910812	9	2236	-34.01088	151.20512
 Kurnool	Kurnool, Andhra Pradesh	10179306	6	460184	15.82887	78.03602
+Kurnool	Kurnool, Andhra Pradesh	2022277	5	460184	15.82887	78.03602
 Kuroishi	Kuroishi Shi, Aomori	4107423	7	38615	40.64581	140.58354
 Kuromatsunai	Suttsu-gun, Hokkaido	4087858	7	2739	42.66806	140.30611
 Kurort Gohrisch	Saxony	534531	8	2234	50.91234	14.10687
@@ -164,6 +183,7 @@ Kurort Jonsdorf	Saxony	418118	8	1905	50.85751	14.70922
 Kurort Oberwiesenthal	Saxony	536633	8	2592	50.41943	12.96836
 Kurort Oybin	Saxony	418115	8	1617	50.84105	14.74124
 Kurort Oybin	Saxony	418575	10	1617	50.84105	14.74124
+Kurow	Powiat pulawski, Lublin	6566646	8	2804	51.38941	22.18637
 Kurow	Powiat pulawski, Lublin	7767448	8	2804	51.38941	22.18637
 Kurraba Point	North Sydney, New South Wales	5650674	9	1471	-33.84235	151.22256
 Kurrajong Heights	Hawkesbury, New South Wales	5559112	9	1327	-33.52772	150.62907
@@ -193,6 +213,7 @@ Kusey	Saxony-Anhalt	3693969	9	1123	52.57987	11.09056
 Kusey	Saxony-Anhalt	5308033	10	1123	52.57987	11.09056
 Kushima	Kushima Shi, Miyazaki	3990180	7	22102	31.48621	131.2421
 Kushimoto	Higashimuro-gun, Wakayama	3352044	7	16243	33.46839	135.77909
+Kushiro	Kushiro Shi, Hokkaido	4069477	7	167875	42.975	144.37472
 Kushnytsia	Transcarpathia	13712273	9	4508	48.45272	23.26166
 Kushove	Rrethi i Gramshit, Elbasan	1250606	8	0	40.78889	20.18889
 Kussnacht	Bezirk Kuessnacht, Schwyz	1688587	6	11777	47.08557	8.44206
@@ -219,6 +240,8 @@ Kutzenhausen	Swabia, Bavaria	452560	8	2482	48.34202	10.69459
 Kutztown	Berks County, Pennsylvania	188491	8	5028	40.51732	-75.77742
 Kuurne	Provincie West-Vlaanderen, Flanders	2244303	9	12638	50.85143	3.2824
 Kuurne	Provincie West-Vlaanderen, Flanders	960211	8	12638	50.85143	3.2824
+Kuusalu	Kuusalu vald, Harjumaa	350346	7	1238	59.44389	25.44139
+Kuusamo	Koillismaa, North Ostrobothnia	2525741	8	17400	65.96447	29.18878
 Kuwana	Kuwana-shi, Mie	4538612	7	140051	35.05192	136.66958
 Kuytun	Changji Huizu Zizhizhou, Xinjiang	2751492	6	0	44.42707	84.90069
 Kuyucak	Aydin	1246164	6	7017	37.9133	28.45917

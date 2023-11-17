@@ -15,6 +15,7 @@ Clapham	Bedford, England	5302528	10	4560	52.16085	-0.49529
 Clapham	Mitcham, South Australia	9099224	9	1592	-34.98989	138.60158
 Clapiers	Herault, Occitanie	28913	8	5237	43.65833	3.88917
 Clara	Uibh Fhaili, Leinster	4123605	10	3242	53.3425	-7.61389
+Clara	Uibh Fhaili, Leinster	6524969	9	3242	53.3425	-7.61389
 Clara City	Chippewa County, Minnesota	137337	8	1320	44.95496	-95.3664
 Clare	Clare County, Michigan	135080	8	3082	43.81947	-84.76863
 Clare	Clare and Gilbert Valleys, South Australia	6589318	9	3223	-33.83325	138.61064
@@ -160,6 +161,7 @@ Clermont	Oise, Hauts-de-France	165224	8	11025	49.37897	2.41258
 Clermont	Oise, Hauts-de-France	1665590	7	11025	49.37897	2.41258
 Clermont-Creans	Sarthe, Pays de la Loire	107697	8	1107	47.71831	-0.01459
 Clermont-Ferrand	Puy-de-Dome, Auvergne-Rhone-Alpes	110866	8	147865	45.77969	3.08682
+Clermont-Ferrand	Puy-de-Dome, Auvergne-Rhone-Alpes	1693143	7	147865	45.77969	3.08682
 Clermont-en-Argonne	Meuse, Grand Est	920040	8	1621	49.10711	5.07002
 Clerval	Doubs, Bourgogne-Franche-Comte	111418	9	1107	47.39167	6.49925
 Clervaux	Clervaux	1353121	8	1103	50.05472	6.03139
@@ -182,6 +184,7 @@ Clever	Christian County, Missouri	140350	8	2517	37.03033	-93.47297
 Cleves	Hamilton County, Ohio	182228	8	3386	39.16172	-84.74912
 Clewiston	Hendry County, Florida	1216642	8	7505	26.75423	-80.93368
 Clichy-sous-Bois	Seine-Saint-Denis, Ile-de-France	162858	8	29062	48.9102	2.55323
+Clifden	County Galway, Connacht	4165608	10	1597	53.48907	-10.0191
 Clifford	City and Borough of Leeds, England	4781572	10	0	53.89513	-1.34557
 Clifford	Herefordshire, England	6183859	10	0	52.1	-3.1
 Cliffside Park	Bergen County, New Jersey	170592	8	24857	40.82149	-73.98764
@@ -237,10 +240,18 @@ Clive	Polk County, Iowa	128332	8	15447	41.60304	-93.72411
 Clive	Shropshire, England	4581080	10	530	52.81335	-2.72295
 Clivio	Provincia di Varese, Lombardy	46311	8	1607	45.86278	8.93083
 Cliza	Cochabamba	4505781	8	8654	-17.58777	-65.93253
+Clogherhead	Louth, Leinster	2385360	10	2145	53.79361	-6.2375
 Clogherhead	Louth, Leinster	3546811	10	2145	53.79361	-6.2375
+Clogherhead	Louth, Leinster	4512078	10	2145	53.79361	-6.2375
+Clogherhead	Louth, Leinster	4631980	10	2145	53.79361	-6.2375
+Clogherhead	Louth, Leinster	4642236	10	2145	53.79361	-6.2375
+Clogherhead	Louth, Leinster	4755074	10	2145	53.79361	-6.2375
+Clogherhead	Louth, Leinster	4759736	10	2145	53.79361	-6.2375
+Clogherhead	Louth, Leinster	5682868	10	2145	53.79361	-6.2375
 Clohars-Carnoet	Finistere, Brittany	75602	8	4085	47.79631	-3.58558
 Clohars-Fouesnant	Finistere, Brittany	276861	8	1994	47.89756	-4.06814
 Clonas-sur-Vareze	Isere, Auvergne-Rhone-Alpes	168183	8	1387	45.41382	4.79077
+Cloncurry	Cloncurry, Queensland	11677394	9	3810	-20.70718	140.51303
 Clondalkin	South Dublin, Leinster	4554391	10	14508	53.32444	-6.39722
 Clonskeagh	Dublin City, Leinster	10272815	10	4500	53.31467	-6.23148
 Clonskeagh	Dublin City, Leinster	5526121	10	4500	53.31467	-6.23148
@@ -264,6 +275,7 @@ Clowne	Derbyshire, England	957624	10	7590	53.27449	-1.26406
 Cloyes-sur-le-Loir	Eure-et-Loir, Centre	2069762	9	2741	47.99726	1.23711
 Cluis	Indre, Centre	2133713	8	1040	46.54486	1.74933
 Cluj-Napoca	Municipiul Cluj-Napoca, Cluj	3277038	8	316748	46.76667	23.6
+Cluj-Napoca	Municipiul Cluj-Napoca, Cluj	91733	4	316748	46.76667	23.6
 Clunes	Hepburn, Victoria	3135042	9	1725	-37.29473	143.78636
 Cluny	Saone-et-Loire, Bourgogne-Franche-Comte	540378	8	4581	46.43318	4.65845
 Cluses	Haute-Savoie, Auvergne-Rhone-Alpes	75352	8	19789	46.06251	6.57497

@@ -1,4 +1,5 @@
 Guabal	Distrito de Boqueron, Chiriqui	8839666	8	147	8.57466	-82.5373
+Guabiraba	Barra De Guabiraba, Pernambuco	4278341	10	9285	-8.41667	-35.66667
 Guabito	Distrito de Changuinola, Bocas del Toro	9127075	8	1978	9.49437	-82.61152
 Guaca	Guaca, Santander	1423473	6	1637	6.87621	-72.85594
 Guacamayas	Guacamayas, Boyaca	1423512	6	772	6.46243	-72.50465
@@ -6,6 +7,9 @@ Guacari	Guacari, Valle del Cauca	1473616	6	19637	3.76383	-76.33292
 Guachaves	Santacruz, Narino	11894050	6	0	1.2224	-77.67766
 Guachene	Guachene, Cauca	1453518	6	0	3.13333	-76.3927
 Guacheta	Guacheta, Cundinamarca	11895070	6	4245	5.38425	-73.68617
+Guachinango	Guachinango, Jalisco	5605818	6	1847	20.57723	-104.3804
+Guachipas	Departamento de Guachipas, Salta	3059847	5	0	-25.52031	-65.50937
+Guachochi	Guachochi, Chihuahua	5605819	6	14513	26.82001	-107.0745
 Guachucal	Guachucal, Narino	11333637	6	4014	0.96093	-77.73161
 Guacimo	Guacimo, Limon	5714398	8	7022	10.2129	-83.68793
 Guacui	Guacui, Espirito Santo	1828865	8	19786	-20.77556	-41.67944
@@ -35,6 +39,7 @@ Guadalupe Etla	Guadalupe Etla, Oaxaca	5999643	6	1851	17.17268	-96.81022
 Guadalupe Santa Ana	Guadalupe, Puebla	6037672	6	2195	18.0914	-98.12079
 Guadalupe Septien	Pedro Escobedo, Queretaro	4063558	8	2635	20.52746	-100.11352
 Guadalupe Tlachco	Santa Cruz Tlaxcala, Tlaxcala	1391405	8	3350	19.32852	-98.11044
+Guadalupe y Calvo	Guadalupe y Calvo, Chihuahua	5605823	6	5816	26.09117	-106.9626
 Guadalupito	Viru, La Libertad	1968003	8	0	-8.95028	-78.62278
 Guadamur	Province of Toledo, Castille-La Mancha	345083	8	1737	39.81178	-4.14885
 Guadarrama	Provincia de Madrid, Madrid	346597	8	14800	40.6727	-4.08949
@@ -47,15 +52,19 @@ Guagua	Province of Pampanga, Central Luzon	3300553	6	9519	14.9653	120.6325
 Guaiba	Guaiba, Rio Grande do Sul	242368	8	101024	-30.11389	-51.325
 Guaiba	Guaiba, Rio Grande do Sul	7021591	9	101024	-30.11389	-51.325
 Guaimaca	Francisco Morazan	13759992	6	12899	14.53333	-86.81667
+Guaimaro	Camaguey	5892224	6	39358	21.05222	-77.3499
 Guaira	Guaira, Sao Paulo	298257	8	34092	-20.31833	-48.31056
 Guaira	Guaira, Sao Paulo	5349626	9	34092	-20.31833	-48.31056
 Guaitarilla	Guaitarilla, Narino	11329285	6	6280	1.13103	-77.54815
 Guaiuba	Guaiuba, Ceara	302489	8	21820	-4.03972	-38.63722
+Guajara Mirim	Guajara-Mirim, Rondonia	325856	8	34119	-10.78356	-65.33552
+Guajara Mirim	Guajara-Mirim, Rondonia	8395810	9	34119	-10.78356	-65.33552
 Gualaca	Distrito de Gualaca, Chiriqui	8488609	8	3453	8.53006	-82.29971
 Gualaceo	Canton Gualaceo, Azuay	107289	6	17122	-2.89264	-78.77814
 Gualaceo	Canton Gualaceo, Azuay	3842906	8	17122	-2.89264	-78.77814
 Gualaco	Olancho	13747688	6	3601	15.02521	-86.07076
 Gualan	Municipio de Gualan, Zacapa	4559592	6	19354	15.11952	-89.35721
+Gualaquiza	Canton Gualaquiza, Morona-Santiago	108522	6	4611	-3.40359	-78.58166
 Gualaquiza	Canton Gualaquiza, Morona-Santiago	2661225	8	4611	-3.40359	-78.58166
 Gualchos	Provincia de Granada, Andalusia	339938	8	2559	36.74467	-3.39079
 Gualdo	Provincia di Macerata, The Marches	42293	8	371	43.06585	13.34328
@@ -74,23 +83,30 @@ Guamal	Guamal, Meta	1438575	6	13857	3.88043	-73.76566
 Guamini	Partido de Guamini, Buenos Aires	3405784	8	0	-37.01381	-62.41858
 Guamo	Guamo, Tolima	1356410	6	30516	4.03078	-74.9701
 Guanabacoa	Havana	5501389	6	112964	23.12518	-82.30067
+Guanacevi	Guanacevi, Durango	5605827	6	2908	25.93125	-105.95717
 Guanagazapa	Municipio de Guanagazapa, Escuintla	4469377	6	2842	14.22598	-90.64332
 Guanaja	Bay Islands	13757009	6	1942	16.44795	-85.89431
 Guanajay	Artemisa	2576651	6	25258	22.92616	-82.68687
 Guanambi	Guanambi, Bahia	362502	8	58877	-14.22333	-42.78139
 Guanambi	Guanambi, Bahia	6402272	9	58877	-14.22333	-42.78139
 Guananico	Guananico, Puerto Plata	7366332	6	2620	19.72693	-70.92294
+Guancheng	Liaocheng Shi, Shandong	5675852	6	0	36.48031	115.4351
 Guandou	Wuhu Shi, Anhui	3262030	6	0	31.37829	118.39759
 Guane	Pinar del Rio	2575066	6	16548	22.20179	-84.08484
 Guanghe Chengguanzhen	Linxia Huizu Zizhizhou, Gansu	2700757	6	0	35.48153	103.57604
 Guanglu		9660490	8	12449	39.17522	122.3779
 Guangshui	Suizhou Shi, Hubei	8640809	8	154771	31.6199	113.9978
+Guangyuan	Guangyuan Shi, Sichuan	2787606	5	516424	32.44201	105.823
 Guangzhou	Guangzhou Shi, Guangdong	3287346	5	16096724	23.11667	113.25
+Guangzhoulu	Jinchang Shi, Gansu	2705763	6	0	38.49915	102.16809
 Guanhaes	Guanhaes, Minas Gerais	314726	8	23727	-18.775	-42.9325
 Guanica	Guanica Barrio-Pueblo, Guanica	4467736	6	9224	17.97163	-66.90795
+Guankou	Changsha Shi, Hunan	3200778	6	1380000	28.15861	113.62709
 Guano	Canton Guano, Chimborazo	108868	6	12659	-1.60789	-78.63105
 Guano	Canton Guano, Chimborazo	3728485	8	12659	-1.60789	-78.63105
+Guanshan	Yangquan Shi, Shanxi	3285003	6	0	37.8081	113.597
 Guanta	Municipio Guanta, Anzoategui	14451186	8	0	10.23453	-64.59708
+Guantanamo	Municipio de Guantanamo, Guantanamo	1854634	4	272801	20.14444	-75.20917
 Guantanamo	Municipio de Guantanamo, Guantanamo	5927813	6	272801	20.14444	-75.20917
 Guanzate	Provincia di Como, Lombardy	45845	8	5548	45.72758	9.01984
 Guapi	Guapi, Cauca	1310021	6	13853	2.57082	-77.88542
@@ -114,14 +130,18 @@ Guaramirim	Guaramirim, Santa Catarina	296785	8	21422	-26.47306	-49.00278
 Guaranda	Canton Guaranda, Bolivar	108906	6	22199	-1.59263	-79.00098
 Guaranda	Canton Guaranda, Bolivar	3728258	8	22199	-1.59263	-79.00098
 Guaranesia	Guaranesia, Minas Gerais	314584	8	17437	-21.29917	-46.8025
+Guarani	Departamento de Obera, Misiones	11810174	9	4530	-27.52323	-55.16077
 Guarani	Departamento de Obera, Misiones	3972902	8	4530	-27.52323	-55.16077
 Guaraniacu	Guaraniacu, Parana	297581	8	7781	-25.10083	-52.87806
 Guarapari	Guarapari, Espirito Santo	1823223	8	100925	-20.67182	-40.50196
 Guarapari	Guarapari, Espirito Santo	1850538	9	100925	-20.67182	-40.50196
+Guarapuava	Guarapuava, Parana	297846	8	150850	-25.39048	-51.46541
 Guararapes	Guararapes, Sao Paulo	298374	8	27557	-21.26083	-50.64278
 Guararapes	Guararapes, Sao Paulo	5683115	9	27557	-21.26083	-50.64278
 Guararema	Guararema, Sao Paulo	298363	8	23572	-23.415	-46.035
 Guararema	Guararema, Sao Paulo	5349620	9	23572	-23.415	-46.035
+Guaratinga	Itabela, Bahia	362191	8	9519	-16.58564	-39.78189
+Guaratinga	Itabela, Bahia	6586681	9	9519	-16.58564	-39.78189
 Guaratingueta	Guaratingueta, Sao Paulo	298076	8	105880	-22.81639	-45.1925
 Guaratingueta	Guaratingueta, Sao Paulo	5349621	9	105880	-22.81639	-45.1925
 Guaratuba	Guaratuba, Parana	297484	8	18906	-25.88278	-48.57472
@@ -129,6 +149,7 @@ Guarbecque	Pas-de-Calais, Hauts-de-France	1161288	8	1299	50.61162	2.48895
 Guarcino	Provincia di Frosinone, Lazio	41539	8	1157	41.79917	13.31439
 Guarda	Guarda	1778021	8	32111	40.53733	-7.26575
 Guarda	Guarda	2403607	7	32111	40.53733	-7.26575
+Guarda	Guarda	3905924	6	32111	40.53733	-7.26575
 Guarda Veneta	Provincia di Rovigo, Veneto	43917	8	845	44.98188	11.80178
 Guardabosone	Provincia di Vercelli, Piedmont	45786	8	307	45.70187	8.24932
 Guardamar del Segura	Provincia de Alicante, Valencia	343124	8	16329	38.09031	-0.65556
@@ -160,6 +181,7 @@ Guarulhos	Guarulhos, Sao Paulo	298165	8	1169577	-23.46278	-46.53333
 Guarulhos	Guarulhos, Sao Paulo	5349623	9	1169577	-23.46278	-46.53333
 Guarumal	Distrito de Alanje, Chiriqui	8420726	8	1575	8.34787	-82.52977
 Guarumal	Distrito de Sona, Veraguas	14451134	8	477	7.79886	-81.25846
+Guasave	Guasave, Sinaloa	5605829	6	71196	25.56745	-108.46756
 Guasca	Guasca, Cundinamarca	10688528	6	3540	4.86601	-73.87748
 Guasila	Provincia del Sud Sardegna, Sardinia	39964	8	2687	39.5598	9.04404
 Guasipati	Municipio Roscio, Bolivar	14526634	8	27988	7.47702	-61.89666
@@ -183,6 +205,7 @@ Guayabetal	Guayabetal, Cundinamarca	1356238	6	2017	4.21472	-73.81719
 Guayama	Guayama Barrio-Pueblo, Guayama	4467974	6	21575	17.98413	-66.11378
 Guayanilla	Guayanilla Barrio-Pueblo, Guayanilla	4468327	6	5213	18.01913	-66.79184
 Guayape	Olancho	13749468	6	1703	14.71667	-86.83333
+Guayaquil	Canton Guayaquil, Guayas	109443	6	2723665	-2.19616	-79.88621
 Guayaquil	Canton Guayaquil, Guayas	2033916	9	2723665	-2.19616	-79.88621
 Guayaquil	Canton Guayaquil, Guayas	2033928	9	2723665	-2.19616	-79.88621
 Guayaquil	Canton Guayaquil, Guayas	2403848	8	2723665	-2.19616	-79.88621
@@ -194,12 +217,15 @@ Guaza de Campos	Provincia de Palencia, Castille and Leon	342262	8	69	42.13365	-4
 Guazacapan	Santa Rosa	4460169	6	7080	14.07417	-90.41667
 Guazzora	Provincia di Alessandria, Piedmont	43987	8	308	45.01392	8.84822
 Gubbio	Provincia di Perugia, Umbria	42390	8	14378	43.34996	12.57309
+Gubio	Gubio, Borno	3721176	6	0	12.49749	12.78089
+Guce	Giresun	1835988	6	0	40.8932	38.7982
 Guckingen	Rheinland-Pfalz	537143	8	1041	50.39091	8.00726
 Guclukonak	Sirnak	1751839	6	4549	37.46957	41.90593
 Gudar	Provincia de Teruel, Aragon	347481	8	80	40.44107	-0.72048
 Gudari	Rayagada, Odisha	10116765	6	6895	19.34762	83.78128
 Gudensberg	Regierungsbezirk Kassel, Hesse	452195	8	9032	51.17706	9.36748
 Guderhandviertel	Lower Saxony	444925	8	1239	53.54919	9.6096
+Gudibanda	Chikkaballapur, Karnataka	10216525	6	9255	13.67099	77.70414
 Gudivada	Krishna, Andhra Pradesh	10154525	6	116161	16.43547	80.99555
 Gudiyatham	Vellore, Tamil Nadu	10325952	6	93973	12.94601	78.87377
 Gudja	Il-Gudja	7510557	8	3023	35.84917	14.50306
@@ -210,6 +236,7 @@ Gudul	Ankara	1739269	6	5929	40.21051	32.24552
 Gudur	Nellore, Andhra Pradesh	10222920	6	74851	14.15093	79.8521
 Guebwiller	Haut-Rhin, Grand Est	78931	8	12548	47.91667	7.2
 Guecelard	Sarthe, Pays de la Loire	107532	8	2734	47.87626	0.12928
+Gueckedou	Prefecture de Guekedou, Nzerekore	3401661	6	79140	8.56744	-10.1336
 Gueenes	Bizkaia, Basque Country	344362	8	6681	43.21252	-3.09497
 Gueepsa	Gueepsa, Santander	1315462	6	2471	6.02505	-73.57313
 Guegon	Morbihan, Brittany	145103	8	2587	47.93788	-2.56491
@@ -220,6 +247,7 @@ Guelph	Wellington County, Ontario	7486148	6	115760	43.54594	-80.25599
 Guemar	Haut-Rhin, Grand Est	66768	8	1370	48.18869	7.39706
 Guemene-Penfao	Loire-Atlantique, Pays de la Loire	113648	8	4963	47.63043	-1.8327
 Guemene-sur-Scorff	Morbihan, Brittany	112624	8	1289	48.06791	-3.20456
+Guemez	Gueemez, Tamaulipas	5605841	6	1925	23.91865	-99.00609
 Guenange	Moselle, Grand Est	2399784	8	7409	49.29945	6.20535
 Guengat	Finistere, Brittany	280574	8	1686	48.0421	-4.2055
 Guenin	Morbihan, Brittany	140583	8	1304	47.90731	-2.98032
@@ -250,6 +278,8 @@ Guestrow	Mecklenburg-Vorpommern	1971863	8	31217	53.7972	12.17337
 Guetenbach	Freiburg Region, Baden-Wurttemberg	1240884	8	1322	48.05	8.15
 Guetersloh	Regierungsbezirk Detmold, North Rhine-Westphalia	138119	8	96180	51.90693	8.37853
 Guethary	Pyrenees-Atlantiques, Nouvelle-Aquitaine	166719	8	1370	43.42419	-1.60901
+Guetzkow	Mecklenburg-Vorpommern	1433750	8	2582	53.72432	13.10664
+Guetzkow	Mecklenburg-Vorpommern	8080185	9	2582	53.72432	13.10664
 Gueugnon	Saone-et-Loire, Bourgogne-Franche-Comte	1169818	8	8486	46.60357	4.06286
 Gueux	Marne, Grand Est	2613530	8	1453	49.25048	3.91024
 Guevejar	Provincia de Granada, Andalusia	339941	8	1943	37.25759	-3.59691
@@ -261,16 +291,20 @@ Guglingen	Regierungsbezirk Stuttgart, Baden-Wurttemberg	410517	8	6198	49.06642	9
 Guglionesi	Provincia di Campobasso, Molise	41606	8	4844	41.92093	14.916
 Guhagar	Ratnagiri, Maharashtra	10354705	6	3425	17.48415	73.19289
 Guia	Albufeira, Faro	6430026	8	4173	37.12959	-8.29963
+Guia Lopes da Laguna	Guia Lopes Da Laguna, Mato Grosso do Sul	333979	8	9681	-21.45778	-56.11417
+Guia Lopes da Laguna	Guia Lopes Da Laguna, Mato Grosso do Sul	5214119	9	9681	-21.45778	-56.11417
 Guia de Isora	Provincia de Santa Cruz de Tenerife, Canary Islands	13598845	10	20536	28.21154	-16.77947
 Guia de Isora	Provincia de Santa Cruz de Tenerife, Canary Islands	340391	8	20536	28.21154	-16.77947
 Guichainville	Eure, Normandy	74859	8	2473	49.00139	1.19305
 Guichen	Ille-et-Vilaine, Brittany	149721	8	7142	47.96813	-1.79576
 Guichon	Guichon, Paysandu	3313938	8	5051	-32.35846	-57.19778
 Guiclan	Finistere, Brittany	1283570	8	2138	48.55065	-3.96177
+Guider	North	3753517	8	84647	9.9333	13.94671
 Guidizzolo	Provincia di Mantova, Lombardy	44653	8	4782	45.32056	10.57801
 Guidong Chengguanzhen	Prefecture of Chenzhou, Hunan	2095170	6	0	26.07903	113.94062
 Guidonia Montecelio	Citta metropolitana di Roma Capitale, Lazio	41687	8	67516	41.99362	12.72238
 Guiglia	Provincia di Modena, Emilia-Romagna	43117	8	1635	44.42432	10.96125
+Guiglo	Montagnes	10757680	7	39134	6.54368	-7.4935
 Guignen	Ille-et-Vilaine, Brittany	149726	8	2645	47.92092	-1.86298
 Guignes	Seine-et-Marne, Ile-de-France	80760	8	2639	48.63333	2.8
 Guignicourt	Aisne, Hauts-de-France	416937	9	2226	49.43714	3.96755
@@ -289,6 +323,7 @@ Guildhall	Essex County, Vermont	3076755	8	256	44.56506	-71.55981
 Guilers	Finistere, Brittany	1112848	8	7328	48.42702	-4.55978
 Guilford	New Haven County, Connecticut	11049392	8	22498	41.28899	-72.68176
 Guilherand-Granges	Ardeche, Auvergne-Rhone-Alpes	127521	8	11365	44.93278	4.87372
+Guilin	Guilin Shi, Guangxi	3471982	5	1572300	25.28022	110.29639
 Guillac	Morbihan, Brittany	145104	8	1170	47.91096	-2.46651
 Guillena	Provincia de Sevilla, Andalusia	345243	8	11109	37.54262	-6.05626
 Guillestre	Hautes-Alpes, Provence-Alpes-Cote d'Azur	80451	8	2409	44.6595	6.64948
@@ -301,6 +336,7 @@ Guimaraes	Guimaraes, Braga	3924938	7	40604	41.44443	-8.29619
 Guimbal	Province of Iloilo, Western Visayas	3498990	6	7232	10.6633	122.3228
 Guimera	Provincia de Lleida, Catalonia	346070	8	370	41.5645	1.18528
 Guin	Marion County, Alabama	110694	8	2322	33.96566	-87.91475
+Guindapunan	Province of Leyte, Eastern Visayas	4675043	10	2279	11.30278	124.70583
 Guindulman	Bohol, Central Visayas	12431454	6	4686	9.7629	124.4878
 Guines	Pas-de-Calais, Hauts-de-France	286837	8	5342	50.86708	1.87025
 Guingamp	Cotes-d'Armor, Brittany	1652299	7	9023	48.56259	-3.15289
@@ -311,6 +347,7 @@ Guipavas	Finistere, Brittany	1189520	8	13755	48.43411	-4.40197
 Guipel	Ille-et-Vilaine, Brittany	116111	8	1557	48.29824	-1.72141
 Guipry	Ille-et-Vilaine, Brittany	165706	9	3281	47.82529	-1.8422
 Guira de Melena	Artemisa	2576652	6	69879	22.79613	-82.50667
+Guiratinga	Guiratinga, Mato Grosso	333657	8	10934	-16.34534	-53.76177
 Guirguillano	Provincia de Navarra, Navarre	14431896	9	96	42.71725	-1.87798
 Guirguillano	Provincia de Navarra, Navarre	341935	8	96	42.71725	-1.87798
 Guisa	Granma	5915225	6	18408	20.25494	-76.5393
@@ -325,9 +362,12 @@ Guitres	Gironde, Nouvelle-Aquitaine	2873244	8	1607	45.04143	-0.18644
 Guitry	Goh-Djiboua	10757673	7	0	5.51952	-5.24038
 Guixi	Chongqing	2693275	6	188980	30.33355	107.34545
 Guixi	Yingtan Shi, Jiangxi	3245897	6	73732	28.28857	117.21329
+Guiyang	Guiyang Shi, Guizhou	2782246	5	3037159	26.58333	106.71667
 Gujan-Mestras	Gironde, Nouvelle-Aquitaine	111073	8	19184	44.636	-1.06815
+Gujba	Gujba, Yobe	3698572	6	11359	11.49959	11.93396
 Gujba	Gujba, Yobe	3698658	8	11359	11.49959	11.93396
 Gujiang	Yuncheng Shi, Shanxi	3224217	6	0	35.49399	111.55334
+Gujo	Gujo-shi, Gifu	4716688	7	41858	35.73691	136.95852
 Gulagac	Aksaray	1717635	6	0	38.39576	34.34576
 Gulang	Wuwei Shi, Gansu	165844	6	0	37.46657	102.89428
 Gulaobei	Yichangshi, Hubei	8669632	8	0	30.51941	111.42664
@@ -347,6 +387,7 @@ Gulliver	Townsville, Queensland	11676861	9	2797	-19.28814	146.77691
 Gulma	Argungu, Kebbi	3708042	8	6719	12.64231	4.35545
 Gulmarrad	Clarence Valley, New South Wales	6069909	9	1658	-29.487	153.23341
 Gulnar	Mersin	1442756	6	12385	36.34148	33.39921
+Gulou	Beijing	2988899	6	0	40.36997	116.83352
 Gulou	Beijing	8217881	8	0	40.36997	116.83352
 Gulou	Liaocheng Shi, Shandong	5675850	6	0	36.44414	115.96418
 Gulpen	Gulpen-Wittem, Limburg	2721279	10	3560	50.81583	5.88889
@@ -368,8 +409,10 @@ Gummi	Gummi, Zamfara	3706962	6	38744	12.14484	5.11776
 Gumtow	Brandenburg	1289820	8	4093	52.98333	12.25
 Gumtow	Brandenburg	9606023	9	4093	52.98333	12.25
 Gumushacikoy	Amasya	1724394	6	14734	40.87306	35.21472
+Gumushane	Gumushane	223541	4	32250	40.46001	39.47176
 Gumusova	Duzce	1393956	6	0	40.84694	30.94111
 Gun Barrel City	Henderson County, Texas	114638	8	5985	32.33459	-96.15136
+Guna	Guna, Madhya Pradesh	1973967	5	153689	24.64691	77.3113
 Gunbalanya	West Arnhem, Northern Territory	11716613	9	1121	-12.32474	133.05087
 Gunbarrel	Boulder County, Colorado	113202	8	9263	40.06335	-105.17107
 Gundagai	Gundagai, New South Wales	5989501	9	1715	-35.06352	148.10365
@@ -393,21 +436,26 @@ Gunnedah	Gunnedah, New South Wales	6063570	9	9761	-30.98065	150.25838
 Gunness	North Lincolnshire, England	1277325	10	2253	53.5908	-0.72834
 Gunnison	Gunnison County, Colorado	6915551	8	6076	38.54582	-106.92532
 Gunnison	Sanpete County, Utah	198654	8	3238	39.15524	-111.81826
+Gunsan	Jeollabuk-do	7619922	6	243406	35.97861	126.71139
 Gunskirchen	Wels-Land, Upper Austria	63176	8	3778	48.13333	13.95
 Guntakal Junction	Anantapur, Andhra Pradesh	10200114	6	120964	15.17112	77.36244
 Gunter	Grayson County, Texas	6584382	8	1394	33.44789	-96.74749
 Guntersblum	Rheinland-Pfalz	1239656	8	3702	49.7975	8.34556
 Guntersleben	Regierungsbezirk Unterfranken, Bavaria	181169	8	4472	49.86972	9.905
 Guntersville	Marshall County, Alabama	110444	8	8385	34.35823	-86.29446
+Guntin	Provincia de Lugo, Galicia	12603495	9	0	42.88702	-7.69259
+Guntin	Provincia de Lugo, Galicia	12603536	9	0	42.88702	-7.69259
 Guntin	Provincia de Lugo, Galicia	340425	8	0	42.88702	-7.69259
 Guntur	Guntur, Andhra Pradesh	10156634	6	530577	16.29974	80.45729
 Guntur	Guntur, Andhra Pradesh	2022220	5	530577	16.29974	80.45729
+Gunupur	Rayagada, Odisha	10116762	6	22264	19.0804	83.80879
 Gunyuzu	Eskisehir	1238928	6	0	39.38345	31.80995
 Gunzenhausen	Regierungsbezirk Mittelfranken, Bavaria	1015096	8	16477	49.11663	10.75971
 Gunzgen	Bezirk Olten, Solothurn	1683513	8	1604	47.31375	7.83102
 Guocun	Chongqing	14077147	8	21326	30.56618	108.16933
 Guojia	Tianshui Shi, Gansu	6772044	8	37008	34.97276	105.55838
 Guoyuan Xincun	Tianjin Municipality, Tianjin	3286886	6	0	39.22187	117.13018
+Guozhen	Baoji Shi, Shaanxi	3048908	6	85415	34.36591	107.35904
 Gura Foii	Comuna Gura Foii, Dambovita	13838358	8	2319	44.75	25.28333
 Gura Humorului	Oras Gura Humorului, Suceava	10495788	8	15728	47.55	25.9
 Gura Ialomitei	Comuna Gura Ialomitei, Ialomita	13833796	8	1372	44.71608	27.7531
@@ -439,6 +487,10 @@ Guroymak	Bitlis	1836398	6	25826	38.5758	42.01558
 Gurrea de Gallego	Provincia de Huesca, Aragon	341533	8	1742	42.01541	-0.7615
 Gurro	Provincia Verbano-Cusio-Ossola, Piedmont	46809	8	229	46.08498	8.56772
 Gursu	Bursa	1273957	6	24510	40.21876	29.19487
+Gurun	Sivas	1731766	6	12715	38.72225	37.27097
+Gurupa	Gurupa, Para	185621	8	6461	-1.405	-51.64
+Gurupa	Gurupa, Para	6417826	9	6461	-1.405	-51.64
+Gurupi	Gurupi, Tocantins	336840	8	64789	-11.72917	-49.06861
 Gusau	Gusau, Zamfara	3706963	6	226857	12.17024	6.66412
 Gusenburg	Rheinland-Pfalz	1257091	8	1187	49.63333	6.9
 Gusendos de los Oteros	Provincia de Leon, Castille and Leon	339997	8	173	42.37818	-5.43088
@@ -461,6 +513,7 @@ Guthrie	Logan County, Oklahoma	185198	8	11270	35.87894	-97.42532
 Guthrie	Todd County, Kentucky	130626	8	1437	36.64838	-87.16639
 Guthrie Center	Guthrie County, Iowa	129136	8	1513	41.67721	-94.5033
 Gutierre-Munoz	Provincia de Avila, Castille and Leon	347007	8	119	40.98295	-4.63839
+Gutierrez	Gutierrez, Cundinamarca	1421811	6	772	4.25472	-74.0025
 Gutierrez Zamora	Gutierrez Zamora, Veracruz	4537017	6	13651	20.45347	-97.08588
 Gutierrez Zamora	Gutierrez Zamora, Veracruz	6060515	7	13651	20.45347	-97.08588
 Guttaring	Politischer Bezirk Sankt Veit an der Glan, Carinthia	105506	8	878	46.88536	14.51071
@@ -470,14 +523,19 @@ Guttenberg	Clayton County, Iowa	128793	8	1861	42.78582	-91.09957
 Guttenberg	Hudson County, New Jersey	170707	8	11665	40.79205	-74.00375
 Guttingen	Bezirk Kreuzlingen, Thurgau	1684525	8	1336	47.60349	9.28742
 Guwahati	Kamrup Metropolitan, Assam	10045969	6	899094	26.1844	91.7458
+Guwei	Yuncheng Shi, Shanxi	3224221	6	0	34.71034	110.6571
 Guxhagen	Regierungsbezirk Kassel, Hesse	452207	8	5433	51.2	9.48333
 Guyancourt	Yvelines, Ile-de-France	30272	8	31989	48.77334	2.07393
+Guyang	Xiangxi Tujiazu Miaozu Zizhizhou, Hunan	2972162	6	0	28.61385	109.93253
 Guyang	Zhenjiang Shi, Jiangsu	5670792	6	0	32.13538	119.44209
 Guymon	Texas County, Oklahoma	185073	8	11921	36.6828	-101.48155
 Guyra	Armidale Regional, New South Wales	6063571	9	1989	-30.2168	151.66785
 Guyton	Effingham County, Georgia	119537	8	1856	32.3363	-81.3915
+Guyuan	Guyuan Shi, Ningxia Hui Autonomous Region	2793583	5	411854	36.00667	106.28083
+Guyuk	Guyuk, Adamawa	3720364	6	0	9.90663	11.92753
 Guzelyurt	Aksaray	1717636	6	3748	38.27722	34.37194
 Guzhan	Gannan Zangzu Zizhizhou, Gansu	6389978	8	4717	34.69461	103.2966
 Guzman	Distrito de Nata, Cocle	9362959	8	228	8.52264	-80.58554
 Guzmango	Provincia de Contumaza, Cajamarca	1900636	8	222	-7.38333	-78.9
 Guzow	Powiat zyrardowski, Mazovia	13510489	8	1108	52.11626	20.33672
+Guzow	Powiat zyrardowski, Mazovia	3423389	8	1108	52.11626	20.33672

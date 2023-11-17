@@ -65,6 +65,7 @@ Bichi	Bichi, Kano	3710307	6	0	12.23385	8.24063
 Bichi	Bichi, Kano	3710377	8	0	12.23385	8.24063
 Bichl	Upper Bavaria, Bavaria	935270	8	2007	47.7201	11.41231
 Bicinicco	Udine, Friuli Venezia Giulia	179111	8	796	45.93211	13.253
+Bickenbach	Regierungsbezirk Darmstadt, Hesse	1182304	8	5338	49.75917	8.6175
 Bickenbach	Regierungsbezirk Darmstadt, Hesse	452416	8	5338	49.75917	8.6175
 Bicknell	Knox County, Indiana	127813	8	2892	38.77421	-87.30779
 Bicorp	Provincia de Valencia, Valencia	346691	8	645	39.13215	-0.7872
@@ -87,6 +88,7 @@ Bidingen	Swabia, Bavaria	447977	8	1738	47.82974	10.72623
 Bidwill	Blacktown, New South Wales	3045784	9	4264	-33.73013	150.82219
 Biebelried	Regierungsbezirk Unterfranken, Bavaria	283565	8	1183	49.76667	10.08333
 Biebesheim	Regierungsbezirk Darmstadt, Hesse	443925	8	6626	49.78088	8.46696
+Biebrich	Regierungsbezirk Darmstadt, Hesse	539701	8	38758	50.0415	8.24878
 Biebrich	Regierungsbezirk Darmstadt, Hesse	5408628	9	38758	50.0415	8.24878
 Biecz	Powiat gorlicki, Lesser Poland	2888453	8	4564	49.73596	21.26301
 Biedenkopf	Regierungsbezirk Giessen, Hesse	225480	8	13788	50.91125	8.53016
@@ -99,7 +101,10 @@ Bielany	Warszawa, Mazovia	2531981	9	134854	52.29242	20.93531
 Bielany Wroclawskie	Powiat wroclawski, Lower Silesia	5412115	8	3219	51.0361	16.9677
 Bielawa	Powiat dzierzoniowski, Lower Silesia	2708845	7	29971	50.69075	16.623
 Bielawa	Powiat dzierzoniowski, Lower Silesia	3148251	8	29971	50.69075	16.623
+Bielawa	Powiat dzierzoniowski, Lower Silesia	5992045	8	29971	50.69075	16.623
 Bielefeld	Regierungsbezirk Detmold, North Rhine-Westphalia	62646	6	331906	52.03333	8.53333
+Bieligutai	Xilin Gol Meng, Inner Mongolia	10481422	8	0	44.0303	114.98036
+Bieligutai	Xilin Gol Meng, Inner Mongolia	2753017	6	0	44.0303	114.98036
 Bieliny	Powiat kielecki, Swietokrzyskie	6335984	8	1900	50.84947	20.94149
 Bieliny	Powiat nizanski, Subcarpathia	6845306	8	1061	50.44237	22.30482
 Biella	Provincia di Biella, Piedmont	44913	6	43030	45.56304	8.05796
@@ -136,6 +141,7 @@ Bierun	Powiat bierunsko-ledzinski, Silesia	2828733	8	19659	50.09	19.09291
 Bierun	Powiat bierunsko-ledzinski, Silesia	2828747	7	19659	50.09	19.09291
 Bierutow	Powiat olesnicki, Lower Silesia	2942238	8	5065	51.12443	17.54607
 Biescas	Provincia de Huesca, Aragon	348030	8	0	42.62897	-0.32135
+Biesdorf	Berlin	12304519	9	28955	52.50906	13.5534
 Biesdorf	Berlin	409208	10	28955	52.50906	13.5534
 Biesenthal	Brandenburg	1318341	8	5512	52.76616	13.64416
 Biesheim	Haut-Rhin, Grand Est	69291	8	2424	48.04118	7.54474
@@ -183,6 +189,7 @@ Biguglia	Upper Corsica, Corsica	1928160	8	5552	42.62692	9.42018
 Bihac	Federation of B&H	13473176	9	75641	44.81694	15.87083
 Bihain	Province du Luxembourg, Wallonia	12897747	9	1562	50.23946	5.80849
 Bihar Sharif	Nalanda, Bihar	10279546	6	244230	25.20084	85.52389
+Biharamulo	Biharamulo District, Kagera	1600822	5	34038	-2.63194	31.30889
 Biharia	Comuna Biharea, Bihor	11318314	8	3493	47.15	21.91667
 Bihariganj	Madhepura, Bihar	10297037	6	32805	25.73415	86.98837
 Biharkeresztes	Hajdu-Bihar	1444159	8	4237	47.13333	21.71667
@@ -195,6 +202,8 @@ Bijela	Herceg Novi	2187903	8	2395	42.45333	18.65556
 Bijeljina	Srpska	14508586	9	37692	44.75874	19.21437
 Bijelo Brdo	Erdut, Osjecko-Baranjska	12876695	8	1961	45.51722	18.87083
 Bijelo Polje	Bijelo Polje	12434568	8	15400	43.03834	19.74758
+Bijelo Polje	Bijelo Polje	12512551	8	15400	43.03834	19.74758
+Bijie	Bijie Diqu, Guizhou	2780074	5	1137383	27.30193	105.28627
 Bijni	Chirang, Assam	10041935	6	12990	26.49588	90.70298
 Bijnor	Bijnor, Uttar Pradesh	1958009	5	84593	29.373	78.13636
 Bijuesca	Provincia de Zaragoza, Aragon	342295	8	99	41.54083	-1.92039
@@ -202,8 +211,11 @@ Bikapur	Faizabad, Uttar Pradesh	10023816	6	13177	26.59534	82.13272
 Biking	Bohol, Central Visayas	11302565	10	2907	9.59382	123.84303
 Bikramganj	Rohtas, Bihar	10270839	6	42626	25.21073	84.25508
 Bila Krynytsia	Zhytomyr	4749772	9	1029	50.63982	29.47041
+Bila Lhota	Okres Olomouc, Olomoucky	432567	10	1091	49.70953	16.97507
 Bila Lhota	Okres Olomouc, Olomoucky	433669	10	1091	49.70953	16.97507
+Bila Lhota	Okres Olomouc, Olomoucky	438374	8	1091	49.70953	16.97507
 Bila Lhota	Okres Olomouc, Olomoucky	438676	8	1091	49.70953	16.97507
+Bila Lhota	Okres Olomouc, Olomoucky	440903	8	1091	49.70953	16.97507
 Bila Tremesna	Okres Trutnov, Kralovehradecky kraj	435012	10	1345	50.44465	15.74101
 Bila Tremesna	Okres Trutnov, Kralovehradecky kraj	440070	8	1345	50.44465	15.74101
 Bila Tserkva	Kiev	2069683	9	199163	49.8004	30.12851
@@ -219,11 +231,13 @@ Bilderstoeckchen	Regierungsbezirk Koeln, North Rhine-Westphalia	2613715	10	15430
 Bildeston	Suffolk, England	4639517	10	1054	52.10658	0.90916
 Bile	Luhansk	2396427	8	6775	48.49523	39.05051
 Bileca	Opstina Bileca, Srpska	8850390	9	13257	42.87645	18.42967
+Bilecik	Bilecik	223420	4	40285	40.14192	29.97932
 Biled	Comuna Biled, Timis	11322069	8	6230	45.88639	20.95889
 Bilgola Plateau	Northern Beaches, New South Wales	5613303	9	3424	-33.64781	151.31212
 Bilgoraj	Powiat bilgorajski, Lublin	2006113	7	26987	50.54114	22.72204
 Bilgoraj	Powiat bilgorajski, Lublin	2810391	8	26987	50.54114	22.72204
 Bilgram	Hardoi, Uttar Pradesh	10015377	6	27173	27.17509	80.03201
+Bilhaur	Kanpur, Uttar Pradesh	10019383	6	19333	26.84345	80.06388
 Bilice	Bilice, Sibensko-Kniniska	12907572	8	0	43.78869	15.87473
 Bilieu	Isere, Auvergne-Rhone-Alpes	184466	8	1066	45.44809	5.54268
 Bilina	Okres Teplice, Ustecky kraj	434368	10	15738	50.54854	13.77535
@@ -265,6 +279,7 @@ Bilokurakyne	Luhansk	2398610	8	7712	49.53458	38.72723
 Biloli	Nanded, Maharashtra	10340188	6	14716	18.77385	77.72463
 Bilovec	Okres Novy Jicin, Moravskoslezsky	436987	8	7486	49.75639	18.01581
 Bilovice	Okres Uherske Hradiste, Zlin	429400	10	1634	49.09965	17.54961
+Bilovice	Okres Uherske Hradiste, Zlin	430571	10	1634	49.09965	17.54961
 Bilovice	Okres Uherske Hradiste, Zlin	437501	8	1634	49.09965	17.54961
 Bilovice nad Svitavou	Okres Brno-venkov, South Moravian	429745	10	2600	49.24708	16.67247
 Bilovice nad Svitavou	Okres Brno-venkov, South Moravian	442028	8	2600	49.24708	16.67247
@@ -277,6 +292,7 @@ Bilytske	Donetsk Oblast	3940064	9	7913	48.40642	37.18111
 Bilzen	Provincie Limburg, Flanders	10507939	9	29622	50.87325	5.5184
 Bilzen	Provincie Limburg, Flanders	1246112	8	29622	50.87325	5.5184
 Bim Son	Thanh Hoa	7125704	6	53754	20.07806	105.86028
+Bima	Kota Bima, West Nusa Tenggara	13263886	5	155140	-8.46006	118.72667
 Bima	Kota Bima, West Nusa Tenggara	13263887	5	155140	-8.46006	118.72667
 Bimenes	Province of Asturias, Asturias	345849	8	1948	43.31667	-5.55
 Bin Xian	Harbin Shi, Heilongjiang	2755758	6	62017	45.74274	127.46053
@@ -295,9 +311,11 @@ Bindawa	Bindawa, Katsina	3711546	8	0	12.66987	7.80865
 Bindki	Fatehpur, Uttar Pradesh	10022418	6	36058	26.03613	80.57617
 Bindlach	Upper Franconia, Bavaria	1071015	8	7229	49.98167	11.61389
 Bindoon	Chittering, Western Australia	11689556	9	1156	-31.38663	116.09664
+Bindura	Mashonaland Central	5596168	6	37423	-17.30192	31.33056
 Binefar	Provincia de Huesca, Aragon	343816	8	8890	41.85141	0.29433
 Binetto	Bari, Apulia	41000	8	2080	41.02343	16.70988
 Binfield	Bracknell Forest, England	3872695	10	0	51.43159	-0.7881
+Binga	Matabeleland North	7878255	6	4327	-17.62027	27.34139
 Bingara	Gwydir, New South Wales	6069699	9	1435	-29.86931	150.57204
 Bingen	Tuebingen Region, Baden-Wurttemberg	2805401	8	3017	48.11127	9.27238
 Bingen am Rhein	Rheinland-Pfalz	660349	8	24657	49.96675	7.8992
@@ -306,15 +324,18 @@ Bingham	Nottinghamshire, England	195572	10	9131	52.94978	-0.95907
 Bingham Farms	Oakland County, Michigan	134535	8	1133	42.51587	-83.27326
 Bingley	Bradford, England	6192104	10	20327	53.84861	-1.83857
 Bingo	Province du Boulkiemde, Centre-Ouest	5011759	6	0	12.30092	-1.8348
+Bingol	Bingoel	223444	4	80568	38.88472	40.49389
 Bingtuan Sanshiliu Tuan	Bayingolin Mongol Zizhizhou, Xinjiang	5731941	8	7600	39.24379	88.89959
 Binh Gia	Lang Son	6881753	6	0	21.96094	106.36448
 Binh Son	Quang Ngai Province	2518221	6	0	15.29776	108.76124
 Binhe	Beijing	2988900	6	0	40.13347	117.10852
+Binhe	Zhongwei Shi, Ningxia Hui Autonomous Region	2793620	6	0	37.51084	105.18445
 Binhu	Nanjing Shi, Jiangsu	2139809	6	0	32.03008	118.75768
 Binic	Cotes-d'Armor, Brittany	342460	9	3272	48.60074	-2.82602
 Bining	Moselle, Grand Est	90786	8	1192	49.03729	7.25273
 Binissalem	Illes Balears, Balearic Islands	347546	8	8143	39.68744	2.84396
 Binjai	Kota Binjai, North Sumatra	8484617	5	228763	3.6001	98.4854
+Binji	Binji, Sokoto	3707369	6	6717	13.22294	4.90888
 Binji	Binji, Sokoto	3707412	8	6717	13.22294	4.90888
 Binka	Subarnapur, Odisha	10110122	6	15095	21.02626	83.81197
 Binkom	Provincie Vlaams-Brabant, Flanders	3942528	9	1546	50.87163	4.88414
@@ -326,6 +347,7 @@ Binondo	Capital District, Metro Manila	141867	8	20491	14.6	120.96667
 Binsfeld	Rheinland-Pfalz	1259124	8	1110	49.96667	6.71667
 Binswangen	Swabia, Bavaria	956786	8	1326	48.55798	10.64249
 Binzen	Freiburg Region, Baden-Wurttemberg	1130304	8	2661	47.63333	7.61667
+Binzhou	Binzhou Shi, Shandong	4434116	5	682717	37.36667	118.01667
 Bioggio	Lugano District, Ticino	1684628	8	1784	46.01357	8.91103
 Bioglio-Portula-Andre	Provincia di Biella, Piedmont	45437	8	504	45.61516	8.13602
 Biol	Isere, Auvergne-Rhone-Alpes	180472	8	1343	45.4914	5.3855
@@ -336,9 +358,11 @@ Biota	Provincia de Zaragoza, Aragon	342294	8	1158	42.26214	-1.18735
 Bippen	Lower Saxony	2010986	8	3015	52.58333	7.73333
 Biratnagar	Morang, Province 1	10433476	7	182324	26.45505	87.27007
 Biratnagar	Morang, Province 1	7458894	8	182324	26.45505	87.27007
+Biratori	Saru-gun, Hokkaido	4068768	7	5305	42.58333	142.13333
 Birchgrove	Inner West, New South Wales	5680948	9	3191	-33.85164	151.18243
 Birchington-on-Sea	Kent, England	2567121	10	9827	51.37575	1.3048
 Birchwood	Washington County, Minnesota	136633	8	1139	45.06108	-92.97605
+Birchwood	Washington County, Minnesota	13972630	10	1139	45.06108	-92.97605
 Bircza	Powiat przemyski, Subcarpathia	6854763	8	1000	49.69173	22.47854
 Birda	Comuna Birda, Timis	11485096	8	1032	45.42996	21.34359
 Birdham	West Sussex, England	2990955	10	1166	50.79606	-0.83067
@@ -349,6 +373,7 @@ Birenbach	Regierungsbezirk Stuttgart, Baden-Wurttemberg	2825741	8	1941	48.74732	
 Birendranagar	Surkhet, Karnali Pradesh	10488781	7	31381	28.59669	81.61658
 Birendranagar	Surkhet, Karnali Pradesh	5959078	8	31381	28.59669	81.61658
 Birendranagar	Surkhet, Karnali Pradesh	5959080	9	31381	28.59669	81.61658
+Bireun	Aceh	5474497	5	47670	5.203	96.7009
 Birganj	Parsa, Province 2	12389468	7	133238	27.01709	84.8808
 Birganj	Parsa, Province 2	6642641	9	133238	27.01709	84.8808
 Biri	Province of Northern Samar, Eastern Visayas	3759171	6	2597	12.68333	124.36361
@@ -368,6 +393,7 @@ Birkenheide	Rheinland-Pfalz	422696	8	3309	49.48139	8.26194
 Birkenwerder	Brandenburg	1310088	8	7122	52.69106	13.27833
 Birkfeld	Politischer Bezirk Weiz, Styria	3876905	8	1634	47.35	15.68333
 Birkirkara	Birkirkara	7510585	8	21676	35.89722	14.46111
+Birlenbach	Rheinland-Pfalz	3294245	10	1587	50.35815	8.00273
 Birlenbach	Rheinland-Pfalz	537136	8	1587	50.35815	8.00273
 Birmingham	City and Borough of Birmingham, England	162378	8	1141816	52.48142	-1.89983
 Birmingham	Jefferson County, Alabama	111031	8	212461	33.52066	-86.80249
@@ -381,6 +407,9 @@ Birnin Magaji	Birnin Magaji-Kiyaw, Zamfara	3706984	8	0	12.5592	6.89459
 Birniwa	Biriniwa, Jigawa	3703239	6	9334	12.7907	10.23614
 Birniwa	Biriniwa, Jigawa	3703296	8	9334	12.7907	10.23614
 Birr	Bezirk Brugg, Aargau	1684273	8	3884	47.43432	8.20891
+Birr	Uibh Fhaili, Leinster	4124655	10	5741	53.09139	-7.91333
+Birr	Uibh Fhaili, Leinster	4218414	10	5741	53.09139	-7.91333
+Birr	Uibh Fhaili, Leinster	4600495	10	5741	53.09139	-7.91333
 Birresborn	Rheinland-Pfalz	134038	8	1299	50.18333	6.63333
 Birrong	Canterbury-Bankstown, New South Wales	5555796	9	3092	-33.89255	151.02075
 Birsfelden	Bezirk Arlesheim, Basel-Landschaft	1683626	8	10232	47.5529	7.62322
@@ -393,6 +422,7 @@ Birtley	Northumberland, England	8511306	10	0	55.08333	-2.18333
 Biru	Nagqu Shi, Tibet	12321568	8	0	31.48319	93.67741
 Birzai	Birzai, Panevezys	2632179	8	14911	56.2	24.75
 Birzai	Birzai, Panevezys	6528345	8	14911	56.2	24.75
+Birzai	Birzai, Panevezys	9095000	9	14911	56.2	24.75
 Birzebbuga	Birzebbuga	7510570	8	8668	35.82583	14.52694
 Bisaccia	Provincia di Avellino, Campania	40974	8	918	41.00923	15.37699
 Bisacquino	Palermo, Sicily	39313	8	4557	37.70352	13.26051
@@ -410,6 +440,7 @@ Bischbrunn	Regierungsbezirk Unterfranken, Bavaria	5905585	10	1880	49.87028	9.489
 Bischheim	Bas-Rhin, Grand Est	69349	8	17434	48.61612	7.75343
 Bischoffen	Regierungsbezirk Giessen, Hesse	13779970	9	3478	50.7	8.45
 Bischoffen	Regierungsbezirk Giessen, Hesse	215971	8	3478	50.7	8.45
+Bischofferode	Thuringia	7746913	9	2085	51.49656	10.44396
 Bischoffsheim	Bas-Rhin, Grand Est	75802	8	3131	48.48703	7.48967
 Bischofsgruen	Upper Franconia, Bavaria	1070994	8	2072	50.05122	11.79997
 Bischofsheim	Regierungsbezirk Darmstadt, Hesse	444944	8	12075	49.99389	8.36722
@@ -454,11 +485,13 @@ Bisingen	Tuebingen Region, Baden-Wurttemberg	2779025	8	9321	48.31012	8.91738
 Biskupice Radlowskie	Powiat tarnowski, Lesser Poland	6113138	8	1091	50.12069	20.85943
 Biskupiec	Powiat nowomiejski, Warmia-Masuria	6876404	8	1927	53.50056	19.35056
 Biskupiec	Powiat olsztynski, Warmia-Masuria	2990611	8	10340	53.86467	20.95692
+Biskupin	Wroclaw, Lower Silesia	5899219	8	11292	51.10097	17.10442
 Bislig	Province of Surigao del Sur, Caraga	4656531	6	67567	8.21528	126.31639
 Bismarck	Burleigh County, North Dakota	181648	8	71167	46.80833	-100.78374
 Bismarck	Saint Francois County, Missouri	141478	8	1500	37.76922	-90.62485
 Bismark	Saxony-Anhalt	3643296	9	3313	52.66195	11.55638
 Bismark	Saxony-Anhalt	4718581	10	3313	52.66195	11.55638
+Bismil	Diyarbakir	1357023	6	74493	37.84514	40.65931
 Bison	Perkins County, South Dakota	195019	8	339	45.52026	-102.46127
 Bispingen	Lower Saxony	1809013	8	6284	53.08312	9.99772
 Bissegem	Provincie West-Vlaanderen, Flanders	961270	9	5310	50.82378	3.22844
@@ -482,6 +515,8 @@ Bitche	Moselle, Grand Est	107085	8	5668	49.05232	7.42992
 Bitetto	Bari, Apulia	41027	8	11374	41.04146	16.74806
 Bitica	Litoral	12719075	8	1464	1.4261	9.62316
 Bitin	Province of Laguna, Calabarzon	8029906	10	5758	14.11647	121.22194
+Bitlis	Bitlis	223441	4	46111	38.40115	42.10784
+Bitola	Bitola	6434323	8	86528	41.03143	21.33474
 Bitola	Bitola	6435563	8	86528	41.03143	21.33474
 Bitonto	Bari, Apulia	40976	8	51661	41.11006	16.69086
 Bitritto	Bari, Apulia	41017	8	10773	41.04336	16.82682
@@ -492,6 +527,7 @@ Bittern	Mornington Peninsula, Victoria	2447654	9	3612	-38.33333	145.16667
 Bitton	South Gloucestershire, England	3569396	10	492	51.42479	-2.45965
 Bituima	Bituima, Cundinamarca	1353401	6	473	4.87252	-74.53925
 Bitz	Tuebingen Region, Baden-Wurttemberg	2779377	8	3792	48.244	9.09144
+Biu	Biu, Borno	3721172	6	95005	10.61285	12.19458
 Biure	Provincia de Girona, Catalonia	347608	8	0	42.33734	2.89513
 Biviers	Isere, Auvergne-Rhone-Alpes	80413	8	2622	45.23333	5.8
 Bivolari	Comuna Bivolari, Iasi	12593951	8	4530	47.53333	27.43333
@@ -501,6 +537,7 @@ Biwer	Biwer, Grevenmacher	532144	8	653	49.70605	6.37201
 Bixad	Comuna Bixad, Satu Mare	11672594	8	7369	47.93333	23.4
 Bixby	Tulsa County, Oklahoma	184226	8	24657	35.94204	-95.88332
 Biyang	Huangshan Shi, Anhui	13382259	8	36905	29.92885	117.94638
+Biyang	Huangshan Shi, Anhui	2992497	6	36905	29.92885	117.94638
 Bizanet	Aude, Occitanie	1948870	8	1158	43.16498	2.87046
 Bizanos	Pyrenees-Atlantiques, Nouvelle-Aquitaine	167652	8	5055	43.28753	-0.35164
 Bize-Minervois	Aude, Occitanie	2220866	8	1055	43.31843	2.87078

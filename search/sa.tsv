@@ -1,5 +1,6 @@
 Sa Pa	Lao Cai	12540572	8	10554	22.34023	103.84415
 Sa Pa	Lao Cai	7097141	6	10554	22.34023	103.84415
+Sa Thay	Kon Tum	7063090	6	0	14.41377	107.79339
 Sa'ertu	Daqing Shi, Heilongjiang	2755194	6	0	46.58576	125.09501
 Sa`adat Shahr	Fars	11142431	7	0	30.07921	53.13464
 Saaba	Kadiogo Province, Centre	5675758	6	0	12.37136	-1.41468
@@ -12,6 +13,7 @@ Saanen	Obersimmental-Saanen District, Bern	1682641	8	6621	46.48945	7.26003
 Saarbruecken	Saarland	1187159	8	179349	49.23262	7.00982
 Saarburg	Rheinland-Pfalz	1256034	8	6222	49.60641	6.54365
 Saarhoelzbach	Saarland	6842790	9	1737	49.51585	6.60742
+Saarijaervi	Saarijaervi-Viitasaari, Central Finland	1702335	8	10011	62.70486	25.25396
 Saarlouis	Saarland	1184570	8	38333	49.31366	6.75154
 Saarlouis	Saarland	5374360	9	38333	49.31366	6.75154
 Saarwellingen	Saarland	1184566	8	13930	49.3543	6.80487
@@ -23,6 +25,7 @@ Sabac	Macva, Central Serbia	6923343	9	55114	44.74667	19.69
 Sabadell	Provincia de Barcelona, Catalonia	344202	8	206493	41.54329	2.10942
 Sabae	Sabae-shi, Fukui	4799801	7	66291	35.94647	136.18498
 Sabaino	Provincia de Antabamba, Apurimac	1929586	8	737	-14.31279	-72.94515
+Sabak Bernam	Sabak Bernam, Selangor	10714136	6	17251	3.7698	100.9879
 Sabalito	Coto Brus, Puntarenas	8477229	8	0	8.81814	-82.90911
 Sabana	Cibuco Barrio, Vega Baja	4467672	9	1946	18.46078	-66.3585
 Sabana	Cibuco Barrio, Vega Baja	4467881	9	1946	18.46078	-66.3585
@@ -32,6 +35,8 @@ Sabana Grande de Palenque	Sabana Grande De Palenque, San Cristobal	7159795	6	480
 Sabana Hoyos	Sabana Hoyos Barrio, Arecibo	4468116	9	1823	18.43384	-66.61378
 Sabana Iglesia	Sabana Iglesia, Santiago	7380752	6	5135	19.32114	-70.75992
 Sabana Seca	Sabana Seca Barrio, Toa Baja	4468539	9	6247	18.42689	-66.18461
+Sabana Yegua	Padre Las Casas, Azua	7394762	6	10624	18.71667	-71.01667
+Sabana de Torres	Sabana de Torres, Santander	11897251	6	27845	7.3915	-73.49574
 Sabana de la Mar	Sabana de La Mar, Hato Mayor	7407668	6	13977	19.05934	-69.38843
 Sabanagrande	Francisco Morazan	13775385	6	2056	13.80778	-87.25917
 Sabanagrande	Sabanagrande, Atlantico	1341558	6	24880	10.79115	-74.76059
@@ -54,6 +59,7 @@ Sabbioneta	Provincia di Mantova, Lombardy	44001	8	1624	44.99787	10.48848
 Sabden	Lancashire, England	8250763	10	1422	53.83355	-2.33728
 Sabero	Provincia de Leon, Castille and Leon	345731	8	1555	42.83593	-5.14875
 Sabetha	Nemaha County, Kansas	129957	8	2585	39.90222	-95.80082
+Sabha	Sabha	2060184	4	130000	27.03766	14.42832
 Sabile	Sabile, Talsi Municipality	1984210	7	1347	57.04577	22.57261
 Sabina	Clinton County, Ohio	182386	8	2534	39.48867	-83.63687
 Sabinal	Uvalde County, Texas	8494502	8	1717	29.31746	-99.46644
@@ -62,12 +68,15 @@ Sabinopolis	Sabinopolis, Minas Gerais	315285	8	9713	-18.66611	-43.08389
 Sabinov	Okres Sabinov, Presovsky kraj	2277097	10	12290	49.10309	21.0988
 Sabinov	Okres Sabinov, Presovsky kraj	2277122	9	12290	49.10309	21.0988
 Sabiote	Provincia de Jaen, Andalusia	339981	8	3958	38.06916	-3.31448
+Sablayan	Occidental Mindoro, Mimaropa	3515197	6	38383	12.8346	120.769
 Sable-sur-Sarthe	Sarthe, Pays de la Loire	107700	8	14734	47.83765	-0.33294
 Sablet	Vaucluse, Provence-Alpes-Cote d'Azur	187039	8	1375	44.19265	5.00566
 Sablonceaux	Charente-Maritime, Nouvelle-Aquitaine	125219	8	1069	45.71948	-0.88765
 Sablons	Gironde, Nouvelle-Aquitaine	2869261	8	1228	45.02568	-0.19368
 Sablons	Isere, Auvergne-Rhone-Alpes	104521	8	1695	45.32104	4.77449
+Sabon Birni	Sabon Birni, Sokoto	3707381	6	0	13.56387	6.32355
 Sabon Birni	Sabon Birni, Sokoto	3707571	8	0	13.56387	6.32355
+Sabon Wuse	Niger	12193652	7	0	9.33424	7.26114
 Saboya	Saboya, Boyaca	1344654	6	1375	5.69636	-73.76932
 Sabran	Gard, Occitanie	383123	8	1841	44.15099	4.54775
 Sabres	Landes, Nouvelle-Aquitaine	162252	8	1393	44.14896	-0.74123
@@ -144,6 +153,7 @@ Sadowie	Powiat opatowski, Swietokrzyskie	6587401	8	600	50.85261	21.36884
 Sadska	Okres Nymburk, Central Bohemia	429221	10	3221	50.13596	14.98633
 Sadska	Okres Nymburk, Central Bohemia	437275	8	3221	50.13596	14.98633
 Sadu	Comuna Sadu, Sibiu	9982545	8	2430	45.66667	24.18333
+Saedinenie	Obshtina Saedinenie, Plovdiv	1362235	8	6427	42.26667	24.55
 Saedinenie	Obshtina Saedinenie, Plovdiv	1955805	7	6427	42.26667	24.55
 Saekylae	Rauma, Satakunta	2385028	8	4870	61.03333	22.33333
 Saelele	Comuna Saelele, Teleorman	13677964	8	2134	43.85577	24.72789
@@ -155,6 +165,8 @@ Saerbeck	Regierungsbezirk Muenster, North Rhine-Westphalia	155713	8	7027	52.1737
 Saerkisalo	Salo, Southwest Finland	38029	9	0	60.11389	22.95
 Saeul	Saeul, Redange	1355855	8	316	49.72722	5.98639
 Saeynaetsalo	Jyvaeskylae, Central Finland	1709451	9	3322	62.14025	25.76948
+Safana	Safana, Katsina	3711513	6	0	12.41075	7.41456
+Safana	Safana, Katsina	3711800	8	0	12.41075	7.41456
 Safana	Safana, Katsina	3711801	8	0	12.41075	7.41456
 Safashahr	Fars	11173638	7	0	30.6131	53.1954
 Safed	Northern District	1379335	8	36094	32.96465	35.496
@@ -185,6 +197,7 @@ Saggart	South Dublin, Leinster	4473206	10	3133	53.28028	-6.44444
 Saginaw	Tarrant County, Texas	6571681	8	22079	32.86013	-97.36391
 Sagliano Micca	Provincia di Biella, Piedmont	45491	8	1453	45.62576	8.04332
 Sagra	Provincia de Alicante, Valencia	340932	8	425	38.81102	-0.06559
+Sagrada Familia	Provincia de Barcelona, Catalonia	6566797	10	51623	41.40408	2.17332
 Sagrado	Gorizia, Friuli Venezia Giulia	179116	8	1300	45.87393	13.48418
 Sagres	Vila do Bispo, Faro	6431749	8	1939	37.00864	-8.94311
 Sagron Mis	Provincia autonoma di Trento, Trentino-Alto Adige	46981	8	207	46.19471	11.9432
@@ -195,11 +208,13 @@ Sagy	Val d'Oise, Ile-de-France	551642	8	1189	49.04988	1.95216
 Sahagun	Provincia de Leon, Castille and Leon	345049	8	2846	42.37085	-5.02942
 Sahagun	Sahagun, Cordoba	1324942	6	59188	8.94617	-75.44275
 Sahalahti	Tampere, Pirkanmaa	14384359	10	2141	61.4746	24.32652
+Saharanpur	Saharanpur, Uttar Pradesh	1958012	5	484873	29.9679	77.54522
 Saharanpur	Saharanpur, Uttar Pradesh	9998605	6	484873	29.9679	77.54522
 Saharsa	Saharsa, Bihar	1568262	5	145764	25.87498	86.59611
 Sahaswan	Budaun, Uttar Pradesh	10012222	6	60953	28.07227	78.75082
 Sahawar	Kasganj, Uttar Pradesh	10012220	6	22201	27.79603	78.83373
 Sahinbey	Gaziantep	1808099	6	0	37.04836	37.34371
+Sahuaripa	Sahuaripa, Sonora	5606204	6	4041	29.05408	-109.23399
 Sahuarita	Pima County, Arizona	8281657	8	25707	31.95758	-110.95565
 Sahuayo de Morelos	Sahuayo, Michoacan	5606205	6	64431	20.05859	-102.71575
 Sahun	Provincia de Huesca, Aragon	348110	8	323	42.5759	0.46546
@@ -211,7 +226,9 @@ Saidpur	Ghazipur, Uttar Pradesh	10038302	6	22904	25.53749	83.22378
 Saignelegier	Franches-Montagnes District, Jura	1685626	8	2194	47.25619	6.99648
 Saignon	Vaucluse, Provence-Alpes-Cote d'Azur	108224	8	1009	43.86308	5.42838
 Saiha	Saiha, Mizoram	10081486	6	22654	22.49183	92.98143
+Saiha	Saiha, Mizoram	2029050	5	22654	22.49183	92.98143
 Saihan Tal	Xilin Gol Meng, Inner Mongolia	10478435	8	0	42.73583	112.65139
+Saihan Tal	Xilin Gol Meng, Inner Mongolia	2753025	6	0	42.73583	112.65139
 Saijo	Saijo Shi, Ehime	4050306	7	58823	33.91667	133.18333
 Saiki	Saiki-shi, Oita	4004860	7	49065	32.95	131.9
 Sail-sous-Couzan	Loire, Auvergne-Rhone-Alpes	569461	8	1009	45.73482	3.96898
@@ -308,10 +325,12 @@ Saint Peter	Nicollet County, Minnesota	136859	8	11196	44.32358	-93.95801
 Saint Peter Port	St Peter Port	12346049	8	16488	49.45981	-2.53527
 Saint Peters	Kent, England	1605596	8	125370	51.36667	1.41667
 Saint Peters	Saint Charles County, Missouri	141554	8	52575	38.80033	-90.62651
+Saint Petersburg	St.-Petersburg	337422	4	5351935	59.93863	30.31413
 Saint Pierre	Moka	13476407	10	16414	-20.2215	57.53431
 Saint Pierre	Moka	13476461	8	16414	-20.2215	57.53431
 Saint Robert	Pulaski County, Missouri	141110	8	4340	37.8281	-92.17767
 Saint Rose	Saint Charles Parish, Louisiana	131713	8	8122	29.94687	-90.32313
+Saint Saviour	Saint Saviour	2372005	8	0	49.45694	-2.63583
 Saint Stephen	Berkeley County, South Carolina	194123	8	1697	33.40433	-79.92174
 Saint-Adolphe-d'Howard	Laurentides, Quebec	7697469	8	3702	45.96679	-74.33253
 Saint-Affrique	Aveyron, Occitanie	75829	8	8548	43.95575	2.88915
@@ -331,12 +350,15 @@ Saint-Amable	Monteregie, Quebec	7903244	8	9486	45.65008	-73.29916
 Saint-Amand	Manche, Normandy	401437	9	2045	49.04338	-0.96491
 Saint-Amand	Province du Hainaut, Wallonia	3468569	9	1056	50.50611	4.54988
 Saint-Amand-Longpre	Loir-et-Cher, Centre	1401558	8	1083	47.68333	1.01667
+Saint-Amand-Montrond	Cher, Centre	1974664	7	11976	46.72284	2.50494
 Saint-Amand-Montrond	Cher, Centre	546984	8	11976	46.72284	2.50494
 Saint-Amand-en-Puisaye	Nievre, Bourgogne-Franche-Comte	161730	8	1398	47.52913	3.074
 Saint-Amand-les-Eaux	North, Hauts-de-France	53462	8	17808	50.44718	3.43076
 Saint-Amand-sur-Sevre	Deux-Sevres, Nouvelle-Aquitaine	151700	8	1298	46.86933	-0.79572
 Saint-Amans-Soult	Tarn, Occitanie	138688	8	1839	43.4775	2.48712
 Saint-Amans-Valtoret	Tarn, Occitanie	1401570	8	1027	43.48171	2.49074
+Saint-Amans-Valtoret	Tarn, Occitanie	2017170	8	1027	43.48171	2.49074
+Saint-Amans-Valtoret	Tarn, Occitanie	2061860	8	1027	43.48171	2.49074
 Saint-Amant-Tallende	Puy-de-Dome, Auvergne-Rhone-Alpes	126360	8	1781	45.669	3.10788
 Saint-Amant-de-Boixe	Charente, Nouvelle-Aquitaine	396711	8	1164	45.79775	0.13444
 Saint-Amarin	Haut-Rhin, Grand Est	945108	8	2556	47.87494	7.0294
@@ -372,9 +394,11 @@ Saint-Antoine-l'Abbaye	Isere, Auvergne-Rhone-Alpes	191713	9	1008	45.16667	5.2166
 Saint-Antonin	Bas-Saint-Laurent, Quebec	8223959	8	0	47.7607	-69.47745
 Saint-Apollinaire	Cote d'Or, Bourgogne-Franche-Comte	152125	8	5211	47.33333	5.08333
 Saint-Armel	Ille-et-Vilaine, Brittany	145091	8	1708	48.01247	-1.59146
+Saint-Armel	Ille-et-Vilaine, Brittany	959441	8	1708	48.01247	-1.59146
 Saint-Arnoult	Seine-Maritime, Normandy	104888	8	1301	49.52676	0.67117
 Saint-Arnoult-en-Yvelines	Yvelines, Ile-de-France	1178989	8	5698	48.57111	1.9395
 Saint-Astier	Dordogne, Nouvelle-Aquitaine	1980762	8	4914	45.14526	0.52745
+Saint-Astier	Dordogne, Nouvelle-Aquitaine	2981277	8	4914	45.14526	0.52745
 Saint-Aubert	North, Hauts-de-France	55589	8	1448	50.20805	3.41727
 Saint-Aubin	Jura, Bourgogne-Franche-Comte	161699	8	1600	47.03336	5.32666
 Saint-Aubin-Routot	Seine-Maritime, Normandy	1405479	8	1150	49.52341	0.32602
@@ -410,6 +434,7 @@ Saint-Basile-le-Grand	Monteregie, Quebec	7903229	8	15605	45.53338	-73.28246
 Saint-Baudelle	Mayenne, Pays de la Loire	1113932	8	1062	48.2806	-0.64019
 Saint-Bauzille-de-Putois	Herault, Occitanie	269983	8	1283	43.89551	3.73618
 Saint-Beauzire	Puy-de-Dome, Auvergne-Rhone-Alpes	135806	8	2114	45.84964	3.17947
+Saint-Beauzire	Puy-de-Dome, Auvergne-Rhone-Alpes	2339615	8	2114	45.84964	3.17947
 Saint-Benin-d'Azy	Nievre, Bourgogne-Franche-Comte	161853	8	1275	46.99914	3.39267
 Saint-Benoit	Reunion	280168	8	35310	-21.03795	55.71546
 Saint-Benoit	Reunion	3389682	7	35310	-21.03795	55.71546
@@ -430,6 +455,7 @@ Saint-Bonnet-pres-Riom	Puy-de-Dome, Auvergne-Rhone-Alpes	110288	8	1673	45.92972	
 Saint-Branchs	Indre-et-Loire, Centre	77903	8	2307	47.22655	0.77306
 Saint-Brandan	Cotes-d'Armor, Brittany	339054	8	2232	48.38972	-2.8698
 Saint-Bres	Herault, Occitanie	276564	8	2811	43.66731	4.0293
+Saint-Bres	Herault, Occitanie	2923327	8	2811	43.66731	4.0293
 Saint-Brevin-les-Pins	Loire-Atlantique, Pays de la Loire	93904	8	10396	47.24693	-2.16647
 Saint-Briac-sur-Mer	Ille-et-Vilaine, Brittany	145072	8	1934	48.62048	-2.13348
 Saint-Brice	Charente, Nouvelle-Aquitaine	374710	8	1021	45.68832	-0.27697
@@ -455,6 +481,7 @@ Saint-Cast-le-Guildo	Cotes-d'Armor, Brittany	378688	8	3363	48.63039	-2.25889
 Saint-Cere	Lot, Occitanie	123603	8	3887	44.85931	1.89127
 Saint-Cergue	Nyon District, Vaud	1685134	8	1816	46.4459	6.15737
 Saint-Cergues	Haute-Savoie, Auvergne-Rhone-Alpes	105047	8	2783	46.23005	6.31924
+Saint-Cernin	Cantal, Auvergne-Rhone-Alpes	123808	9	1137	45.0585	2.42081
 Saint-Cernin	Cantal, Auvergne-Rhone-Alpes	447649	8	1137	45.0585	2.42081
 Saint-Cesaire	Monteregie, Quebec	7903251	8	3815	45.41678	-72.99914
 Saint-Cezaire-sur-Siagne	Alpes-Maritimes, Provence-Alpes-Cote d'Azur	1387777	8	3383	43.65015	6.79219
@@ -542,6 +569,7 @@ Saint-Didier-sous-Riverie	Rhone, Auvergne-Rhone-Alpes	147184	9	1214	45.59627	4.6
 Saint-Didier-sur-Chalaronne	Ain, Auvergne-Rhone-Alpes	140131	8	2521	46.17714	4.81626
 Saint-Die-des-Vosges	Vosges, Grand Est	1668349	7	24628	48.28429	6.94921
 Saint-Die-des-Vosges	Vosges, Grand Est	86754	8	24628	48.28429	6.94921
+Saint-Dizier	Haute-Marne, Grand Est	3193890	7	31918	48.63773	4.94892
 Saint-Dizier	Haute-Marne, Grand Est	418777	8	31918	48.63773	4.94892
 Saint-Dolay	Morbihan, Brittany	135738	8	2116	47.54482	-2.15487
 Saint-Domineuc	Ille-et-Vilaine, Brittany	145242	8	1576	48.37298	-1.87633
@@ -550,6 +578,7 @@ Saint-Doulchard	Cher, Centre	50583	8	9433	47.10371	2.352
 Saint-Drezery	Herault, Occitanie	276505	8	1974	43.73203	3.97809
 Saint-Dye-sur-Loire	Loir-et-Cher, Centre	274367	8	1089	47.65595	1.48847
 Saint-Edouard	Monteregie, Quebec	7785075	8	1672	45.23338	-73.51588
+Saint-Edouard	Monteregie, Quebec	9923873	10	1672	45.23338	-73.51588
 Saint-Egreve	Isere, Auvergne-Rhone-Alpes	85944	8	15904	45.23313	5.68154
 Saint-Eloi	Nievre, Bourgogne-Franche-Comte	1550642	8	1937	46.97342	3.22228
 Saint-Eloy-de-Gy	Cher, Centre	191438	8	1392	47.15552	2.34267
@@ -558,6 +587,7 @@ Saint-Emilion	Gironde, Nouvelle-Aquitaine	89248	8	2619	44.89258	-0.15609
 Saint-Epain	Indre-et-Loire, Centre	1621657	8	1478	47.14482	0.53668
 Saint-Ephrem-de-Beauce	Quebec	8089953	8	1385	46.06677	-70.94905
 Saint-Erblon	Ille-et-Vilaine, Brittany	145265	8	2431	48.01959	-1.65224
+Saint-Erblon	Ille-et-Vilaine, Brittany	1730506	8	2431	48.01959	-1.65224
 Saint-Erme-Outre-et-Ramecourt	Aisne, Hauts-de-France	1029505	8	1885	49.51464	3.8406
 Saint-Esprit	Martinique	297322	8	8508	14.55	-60.93333
 Saint-Estephe	Gironde, Nouvelle-Aquitaine	963201	8	1949	45.2648	-0.77182
@@ -612,6 +642,7 @@ Saint-Gabriel	Lanaudiere, Quebec	7710958	8	2901	46.30007	-73.38245
 Saint-Galmier	Loire, Auvergne-Rhone-Alpes	108572	8	5485	45.59787	4.31086
 Saint-Gatien-des-Bois	Calvados, Normandy	280190	8	1230	49.35	0.18333
 Saint-Gaudens	Upper Garonne, Occitanie	160931	8	12193	43.10813	0.72318
+Saint-Gaudens	Upper Garonne, Occitanie	1649039	7	12193	43.10813	0.72318
 Saint-Gaultier	Indre, Centre	2142706	8	1985	46.63518	1.41289
 Saint-Gedeon	Saguenay/Lac-Saint-Jean, Quebec	8374534	8	1859	48.50009	-71.76581
 Saint-Gelais	Deux-Sevres, Nouvelle-Aquitaine	152017	8	1528	46.38292	-0.38986
@@ -731,6 +762,7 @@ Saint-Hilaire-Petitville	Manche, Normandy	406169	9	1417	49.3025	-1.21995
 Saint-Hilaire-Saint-Mesmin	Loiret, Centre	151038	8	2582	47.86614	1.83351
 Saint-Hilaire-de-Brethmas	Gard, Occitanie	76082	8	3992	44.08114	4.1247
 Saint-Hilaire-de-Chaleons	Loire-Atlantique, Pays de la Loire	102381	8	1760	47.10328	-1.86577
+Saint-Hilaire-de-Clisson	Loire-Atlantique, Pays de la Loire	5761463	9	1754	47.06197	-1.30946
 Saint-Hilaire-de-Clisson	Loire-Atlantique, Pays de la Loire	80332	8	1754	47.06197	-1.30946
 Saint-Hilaire-de-Loulay	Vendee, Pays de la Loire	169182	9	3840	47.0019	-1.33079
 Saint-Hilaire-de-Riez	Vendee, Pays de la Loire	156350	8	9358	46.72106	-1.94594
@@ -764,6 +796,7 @@ Saint-James	Manche, Normandy	6838336	8	3014	48.5218	-1.32629
 Saint-James	Manche, Normandy	964497	9	3014	48.5218	-1.32629
 Saint-Jans-Cappel	North, Hauts-de-France	74151	8	1513	50.76387	2.72227
 Saint-Jean	Upper Garonne, Occitanie	120280	8	9147	43.66519	1.50459
+Saint-Jean-Baptiste	Monteregie, Quebec	7903219	8	1703	45.3806	-74.0121
 Saint-Jean-Bonnefonds	Loire, Auvergne-Rhone-Alpes	122791	8	6076	45.45609	4.44223
 Saint-Jean-Brevelay	Morbihan, Brittany	145083	8	2647	47.84507	-2.72293
 Saint-Jean-Cap-Ferrat	Alpes-Maritimes, Provence-Alpes-Cote d'Azur	174957	8	2149	43.68843	7.33361
@@ -802,12 +835,14 @@ Saint-Jean-en-Royans	Drome, Auvergne-Rhone-Alpes	61042	8	3101	45.01968	5.29223
 Saint-Jean-la-Poterie	Morbihan, Brittany	128106	8	1453	47.63618	-2.12603
 Saint-Jean-le-Blanc	Loiret, Centre	147556	8	9025	47.89327	1.9154
 Saint-Jean-le-Vieux	Ain, Auvergne-Rhone-Alpes	145599	8	1518	46.03005	5.38798
+Saint-Jean-le-Vieux	Ain, Auvergne-Rhone-Alpes	88097	8	1518	46.03005	5.38798
 Saint-Jean-les-Deux-Jumeaux	Seine-et-Marne, Ile-de-France	1307943	8	1344	48.9514	3.01959
 Saint-Jean-sur-Couesnon	Ille-et-Vilaine, Brittany	972090	9	1015	48.28988	-1.36911
 Saint-Jean-sur-Mayenne	Mayenne, Pays de la Loire	1138450	8	1256	48.13318	-0.75277
 Saint-Jean-sur-Richelieu	Monteregie, Quebec	1600484	8	98036	45.30713	-73.26259
 Saint-Jean-sur-Veyle	Ain, Auvergne-Rhone-Alpes	139615	8	1067	46.25902	4.91712
 Saint-Jeannet	Alpes-Maritimes, Provence-Alpes-Cote d'Azur	157935	8	3768	43.74718	7.14299
+Saint-Jeannet	Alpes-Maritimes, Provence-Alpes-Cote d'Azur	2136805	8	3768	43.74718	7.14299
 Saint-Jeoire	Haute-Savoie, Auvergne-Rhone-Alpes	75376	8	3006	46.13733	6.46172
 Saint-Jerome	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6600597	10	10087	43.33404	5.41733
 Saint-Jerome	Laurentides, Quebec	7698652	8	54948	45.78036	-74.00365
@@ -825,9 +860,11 @@ Saint-Joseph-du-Lac	Laurentides, Quebec	7699990	8	6195	45.53338	-73.9992
 Saint-Josse	Pas-de-Calais, Hauts-de-France	156299	8	1088	50.46801	1.6618
 Saint-Josse-ten-Noode	Bruxelles-Capitale, Brussels Capital	58262	8	27366	50.8538	4.37282
 Saint-Jouan-des-Guerets	Ille-et-Vilaine, Brittany	145548	8	2725	48.5989	-1.97361
+Saint-Jouin-Bruneval	Seine-Maritime, Normandy	280249	8	1617	49.64275	0.164
 Saint-Jouin-Bruneval	Seine-Maritime, Normandy	3007586	8	1617	49.64275	0.164
 Saint-Jouvent	Haute-Vienne, Nouvelle-Aquitaine	116643	8	1427	45.95749	1.20472
 Saint-Juery	Tarn, Occitanie	135662	8	6997	43.94838	2.20913
+Saint-Juery	Tarn, Occitanie	2573173	8	6997	43.94838	2.20913
 Saint-Julien	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6600673	10	9939	43.31334	5.44935
 Saint-Julien	Cote d'Or, Bourgogne-Franche-Comte	152158	8	1278	47.40029	5.14163
 Saint-Julien	Cotes-d'Armor, Brittany	339089	8	1897	48.45219	-2.81462
@@ -866,6 +903,7 @@ Saint-Lambert	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6598069	10	9456	43.28
 Saint-Lambert-de-Lauzon	Chaudiere-Appalaches, Quebec	8180116	8	2443	46.58624	-71.20892
 Saint-Lambert-du-Lattay	Maine-et-Loire, Pays de la Loire	158562	9	1550	47.30227	-0.63309
 Saint-Lambert-la-Potherie	Maine-et-Loire, Pays de la Loire	178357	8	2405	47.48315	-0.67791
+Saint-Lary-Soulan	Hautes-Pyrenees, Occitanie	2099363	8	1068	42.81713	0.32238
 Saint-Lary-Soulan	Hautes-Pyrenees, Occitanie	2303265	8	1068	42.81713	0.32238
 Saint-Lary-Soulan	Hautes-Pyrenees, Occitanie	2471286	10	1068	42.81713	0.32238
 Saint-Lattier	Isere, Auvergne-Rhone-Alpes	191712	8	1119	45.08815	5.20352
@@ -904,6 +942,8 @@ Saint-Leger-sous-Cholet	Maine-et-Loire, Pays de la Loire	295105	8	2797	47.09339	
 Saint-Leger-sur-Dheune	Saone-et-Loire, Bourgogne-Franche-Comte	2897598	8	1317	46.84548	4.63607
 Saint-Leger-sur-Roanne	Loire, Auvergne-Rhone-Alpes	134332	8	1009	46.04174	3.99644
 Saint-Leon-sur-l'Isle	Dordogne, Nouvelle-Aquitaine	1981046	8	2013	45.11464	0.5043
+Saint-Leon-sur-l'Isle	Dordogne, Nouvelle-Aquitaine	2074927	8	2013	45.11464	0.5043
+Saint-Leon-sur-l'Isle	Dordogne, Nouvelle-Aquitaine	571098	8	2013	45.11464	0.5043
 Saint-Leonard	Madawaska County, New Brunswick	1099568	8	2700	47.16317	-67.9246
 Saint-Leonard	Montreal, Quebec	8803537	10	73423	45.58773	-73.59501
 Saint-Leonard	Pas-de-Calais, Hauts-de-France	180024	8	4057	50.69058	1.62536
@@ -918,6 +958,7 @@ Saint-Leu-la-Foret	Val d'Oise, Ile-de-France	222519	8	16075	49.01667	2.25
 Saint-Liboire	Monteregie, Quebec	7927125	8	1775	45.65068	-72.76348
 Saint-Livres	Morges District, Vaud	1685137	8	568	46.50794	6.38753
 Saint-Lizier	Ariege, Occitanie	1955354	8	1698	43.00185	1.13739
+Saint-Lo	Manche, Normandy	1656340	7	21722	49.11624	-1.09031
 Saint-Lo	Manche, Normandy	404816	8	21722	49.11624	-1.09031
 Saint-Loubes	Gironde, Nouvelle-Aquitaine	525558	8	7678	44.91716	-0.42859
 Saint-Louis	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6600226	10	9188	43.34809	5.35463
@@ -1006,6 +1047,7 @@ Saint-Martin-du-Fouilloux	Maine-et-Loire, Pays de la Loire	319078	8	1454	47.4311
 Saint-Martin-du-Frene	Ain, Auvergne-Rhone-Alpes	140756	8	1149	46.13591	5.55049
 Saint-Martin-du-Manoir	Seine-Maritime, Normandy	110008	8	1460	49.53213	0.23759
 Saint-Martin-du-Mont	Ain, Auvergne-Rhone-Alpes	142157	8	1433	46.10261	5.32801
+Saint-Martin-du-Mont	Ain, Auvergne-Rhone-Alpes	1916242	8	1433	46.10261	5.32801
 Saint-Martin-du-Tertre	Val d'Oise, Ile-de-France	7485202	10	2493	49.10743	2.34533
 Saint-Martin-du-Tertre	Val d'Oise, Ile-de-France	898953	8	2493	49.10743	2.34533
 Saint-Martin-du-Tertre	Yonne, Bourgogne-Franche-Comte	949239	8	1492	48.21659	3.26151
@@ -1018,6 +1060,7 @@ Saint-Martin-la-Plaine	Loire, Auvergne-Rhone-Alpes	127133	8	3482	45.54635	4.5974
 Saint-Martin-le-Beau	Indre-et-Loire, Centre	77763	8	2594	47.35566	0.90953
 Saint-Martin-le-Vinoux	Isere, Auvergne-Rhone-Alpes	85939	8	5589	45.20297	5.7163
 Saint-Martin-sur-Ocre	Loiret, Centre	164464	8	1225	47.65942	2.6581
+Saint-Martin-sur-Ocre	Loiret, Centre	960844	9	1225	47.65942	2.6581
 Saint-Martin-sur-Oust	Morbihan, Brittany	146202	8	1384	47.74594	-2.25431
 Saint-Mathieu	Haute-Vienne, Nouvelle-Aquitaine	116681	8	1181	45.70619	0.75865
 Saint-Mathieu	Monteregie, Quebec	7785152	8	1879	45.31678	-73.51587
@@ -1101,6 +1144,7 @@ Saint-Norbert	Lanaudiere, Quebec	7710965	8	1059	46.16949	-73.31494
 Saint-Omer	Pas-de-Calais, Hauts-de-France	2214006	7	18250	50.74834	2.26091
 Saint-Omer	Pas-de-Calais, Hauts-de-France	94401	8	18250	50.74834	2.26091
 Saint-Omer-en-Chaussee	Oise, Hauts-de-France	533706	8	1249	49.53142	2.00335
+Saint-Orens-de-Gameville	Upper Garonne, Occitanie	133291	8	12576	43.55182	1.53413
 Saint-Orens-de-Gameville	Upper Garonne, Occitanie	158906	8	12576	43.55182	1.53413
 Saint-Ouen	Loir-et-Cher, Centre	279687	8	3197	47.81404	1.08067
 Saint-Ouen	Seine-Saint-Denis, Ile-de-France	87002	8	39353	48.90654	2.33339
@@ -1112,6 +1156,7 @@ Saint-Ouen-du-Tilleul	Eure, Normandy	550362	8	1487	49.29723	0.9476
 Saint-Ouen-en-Belin	Sarthe, Pays de la Loire	107505	8	1269	47.83307	0.21035
 Saint-Ouen-l'Aumone	Val d'Oise, Ile-de-France	73899	8	22977	49.04353	2.12134
 Saint-Ours	Puy-de-Dome, Auvergne-Rhone-Alpes	123778	8	1425	45.85024	2.89163
+Saint-Oyen	Valle d'Aosta, Aosta Valley	128042	9	217	45.82439	7.21372
 Saint-Oyen	Valle d'Aosta, Aosta Valley	46152	8	217	45.82439	7.21372
 Saint-Pabu	Finistere, Brittany	546990	8	1561	48.56495	-4.60034
 Saint-Pacome	Bas-Saint-Laurent, Quebec	8217848	8	1087	47.40457	-69.95025
@@ -1120,6 +1165,7 @@ Saint-Pair-sur-Mer	Manche, Normandy	1016001	8	3741	48.81455	-1.56761
 Saint-Pal-de-Mons	Haute-Loire, Auvergne-Rhone-Alpes	138372	8	1823	45.24634	4.27416
 Saint-Palais	Pyrenees-Atlantiques, Nouvelle-Aquitaine	2068818	8	2038	43.32828	-1.03397
 Saint-Palais-sur-Mer	Charente-Maritime, Nouvelle-Aquitaine	121741	8	3656	45.64255	-1.0881
+Saint-Pantaleon-de-Larche	Correze, Nouvelle-Aquitaine	123523	9	3863	45.14122	1.44652
 Saint-Pantaleon-de-Larche	Correze, Nouvelle-Aquitaine	659697	8	3863	45.14122	1.44652
 Saint-Pardoux	Deux-Sevres, Nouvelle-Aquitaine	422242	9	1337	46.5714	-0.306
 Saint-Pardoux-Isaac	Lot-et-Garonne, Nouvelle-Aquitaine	2733595	8	1270	44.61174	0.37283
@@ -1238,6 +1284,7 @@ Saint-Quentin-la-Poterie	Gard, Occitanie	383359	8	2986	44.0454	4.44112
 Saint-Quentin-sur-Isere	Isere, Auvergne-Rhone-Alpes	87837	8	1326	45.27843	5.54463
 Saint-Quentin-sur-le-Homme	Manche, Normandy	1004432	8	1125	48.64751	-1.31806
 Saint-Rambert-en-Bugey	Ain, Auvergne-Rhone-Alpes	145675	8	2191	45.94734	5.4363
+Saint-Rambert-en-Bugey	Ain, Auvergne-Rhone-Alpes	6531570	10	2191	45.94734	5.4363
 Saint-Raphael	Var, Provence-Alpes-Cote d'Azur	190208	8	34918	43.42332	6.7735
 Saint-Remi	Monteregie, Quebec	7785079	8	6891	45.26678	-73.61588
 Saint-Remi-de-Tingwick	Centre-du-Quebec, Quebec	7997273	8	0	45.86677	-71.81581
@@ -1274,6 +1321,7 @@ Saint-Saturnin-les-Apt	Vaucluse, Provence-Alpes-Cote d'Azur	108280	8	2523	43.933
 Saint-Saturnin-les-Avignon	Vaucluse, Provence-Alpes-Cote d'Azur	181297	8	4093	43.95501	4.92548
 Saint-Saturnin-sur-Loire	Maine-et-Loire, Pays de la Loire	333050	9	1273	47.39438	-0.43565
 Saint-Saulve	North, Hauts-de-France	53418	8	11303	50.37141	3.55612
+Saint-Sauvant	Vienne, Nouvelle-Aquitaine	138516	8	1366	46.36111	0.0562
 Saint-Sauvant	Vienne, Nouvelle-Aquitaine	144596	8	1366	46.36111	0.0562
 Saint-Sauves-d'Auvergne	Puy-de-Dome, Auvergne-Rhone-Alpes	125450	8	1104	45.60679	2.68768
 Saint-Sauveur	Gironde, Nouvelle-Aquitaine	398666	8	1294	45.2022	-0.835
@@ -1310,6 +1358,7 @@ Saint-Sever	Landes, Nouvelle-Aquitaine	75951	8	4913	43.75726	-0.57181
 Saint-Sever-Calvados	Calvados, Normandy	133914	9	1486	48.84035	-1.04773
 Saint-Simeon	Capitale-Nationale, Quebec	7717111	8	1300	47.84431	-69.87837
 Saint-Simeon-de-Bressieux	Isere, Auvergne-Rhone-Alpes	180451	8	2773	45.3385	5.26591
+Saint-Simon	Cantal, Auvergne-Rhone-Alpes	124628	8	1037	44.9632	2.48994
 Saint-Simon	Cantal, Auvergne-Rhone-Alpes	135751	8	1037	44.9632	2.48994
 Saint-Sorlin-en-Bugey	Ain, Auvergne-Rhone-Alpes	146719	8	1067	45.88576	5.36688
 Saint-Sorlin-en-Valloire	Drome, Auvergne-Rhone-Alpes	63455	8	1669	45.28774	4.94903
@@ -1347,6 +1396,7 @@ Saint-Tite	Mauricie, Quebec	7715906	8	3880	46.73336	-72.56581
 Saint-Trivier-de-Courtes	Ain, Auvergne-Rhone-Alpes	139132	8	1025	46.4598	5.07762
 Saint-Trivier-sur-Moignans	Ain, Auvergne-Rhone-Alpes	145100	8	1683	46.07233	4.89721
 Saint-Trojan-les-Bains	Charente-Maritime, Nouvelle-Aquitaine	113762	8	1474	45.8415	-1.20813
+Saint-Trojan-les-Bains	Charente-Maritime, Nouvelle-Aquitaine	2950566	8	1474	45.8415	-1.20813
 Saint-Tronc	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6598485	10	14372	43.27093	5.42285
 Saint-Tropez	Var, Provence-Alpes-Cote d'Azur	970823	8	5939	43.26764	6.64049
 Saint-Urbain	Finistere, Brittany	446205	8	1273	48.39996	-4.22733
@@ -1386,6 +1436,7 @@ Saint-Vincent-sur-Oust	Morbihan, Brittany	128104	8	1180	47.69996	-2.1469
 Saint-Vit	Doubs, Bourgogne-Franche-Comte	121899	8	4549	47.18333	5.81667
 Saint-Vite	Lot-et-Garonne, Nouvelle-Aquitaine	148957	8	1308	44.47333	0.94004
 Saint-Vith	Province de Liege, Wallonia	2433430	8	9135	50.28146	6.12724
+Saint-Vivien-de-Medoc	Gironde, Nouvelle-Aquitaine	117859	8	1595	45.43062	-1.0358
 Saint-Vivien-de-Medoc	Gironde, Nouvelle-Aquitaine	160890	8	1595	45.43062	-1.0358
 Saint-Vrain	Essonne, Ile-de-France	324999	8	2816	48.54302	2.33331
 Saint-Wandrille-Rancon	Seine-Maritime, Normandy	104708	9	1194	49.52658	0.76497
@@ -1453,6 +1504,7 @@ Sainte-Honorine-du-Fay	Calvados, Normandy	280435	8	1145	49.07775	-0.49295
 Sainte-Jamme-sur-Sarthe	Sarthe, Pays de la Loire	107411	8	1742	48.14213	0.1672
 Sainte-Julie	Monteregie, Quebec	7903245	8	29019	45.58338	-73.33246
 Sainte-Julienne	Lanaudiere, Quebec	7704062	8	3263	45.96677	-73.71587
+Sainte-Livrade-sur-Lot	Lot-et-Garonne, Nouvelle-Aquitaine	141906	8	6420	44.39824	0.58931
 Sainte-Livrade-sur-Lot	Lot-et-Garonne, Nouvelle-Aquitaine	407811	8	6420	44.39824	0.58931
 Sainte-Lizaigne	Indre, Centre	2143280	8	1173	47.00695	2.02266
 Sainte-Luce	Martinique	296405	8	9196	14.46848	-60.92138
@@ -1468,6 +1520,7 @@ Sainte-Marie	Reunion	280212	8	31636	-20.89686	55.55056
 Sainte-Marie-Kerque	Pas-de-Calais, Hauts-de-France	185526	8	1443	50.89917	2.13664
 Sainte-Marie-aux-Chenes	Moselle, Grand Est	1162528	8	3422	49.19262	6.0015
 Sainte-Marie-aux-Mines	Haut-Rhin, Grand Est	85635	8	6189	48.24649	7.18385
+Sainte-Marie-de-Gosse	Landes, Nouvelle-Aquitaine	76037	8	1016	43.55	-0.23333
 Sainte-Marie-de-Re	Charente-Maritime, Nouvelle-Aquitaine	112858	8	2832	46.15023	-1.31084
 Sainte-Marie-des-Champs	Seine-Maritime, Normandy	113358	8	1561	49.6212	0.77904
 Sainte-Marie-sur-Semois	Province du Luxembourg, Wallonia	11819864	9	1584	49.67124	5.5638
@@ -1507,6 +1560,7 @@ Saintes-Maries-de-la-Mer	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	414459	8	2
 Sainthia	Birbhum, West Bengal	10366331	6	43221	23.94826	87.68045
 Saintry-sur-Seine	Essonne, Ile-de-France	190665	8	5308	48.5964	2.49515
 Saints	Seine-et-Marne, Ile-de-France	185782	9	1286	48.76066	3.04645
+Saitlaw	Mamit, Mizoram	12035237	5	11043	23.97187	92.57454
 Saivres	Deux-Sevres, Nouvelle-Aquitaine	152492	8	1218	46.43263	-0.23682
 Saix	Tarn, Occitanie	453750	8	3509	43.58109	2.18267
 Saizerais	Meurthe et Moselle, Grand Est	113087	8	1269	48.7925	6.0447
@@ -1532,7 +1586,13 @@ Sakawa	Takaoka-gun, Kochi	4033423	7	13223	33.50744	133.28478
 Sakete	Plateau	2945792	6	30111	6.73618	2.65866
 Sakhnin	Northern District	1392988	8	31702	32.86422	35.29707
 Sakhnovshchyna	Kharkiv	3551319	8	7010	49.14894	35.87374
+Sakiai	Sakiai, Marijampole County	12227205	8	4998	54.95339	23.04779
+Sakiai	Sakiai, Marijampole County	12665266	8	4998	54.95339	23.04779
 Sakiai	Sakiai, Marijampole County	3995103	8	4998	54.95339	23.04779
+Sakiai	Sakiai, Marijampole County	5269507	8	4998	54.95339	23.04779
+Sakiai	Sakiai, Marijampole County	5292635	8	4998	54.95339	23.04779
+Sakiai	Sakiai, Marijampole County	6949354	8	4998	54.95339	23.04779
+Sakiai	Sakiai, Marijampole County	8333571	8	4998	54.95339	23.04779
 Saks	Calhoun County, Alabama	111007	8	10744	33.69871	-85.83969
 Saku	Saku Shi, Nagano	3629135	7	99131	36.21667	138.48333
 Saku	Saku vald, Harjumaa	355398	7	4548	59.30354	24.66382
@@ -1787,6 +1847,7 @@ Salto Dupi	Mirono, Ngoebe-Bugle	11313183	8	0	8.35043	-81.88822
 Salto de Agua	Salto de Agua, Chiapas	5999673	6	5199	17.55435	-92.33941
 Salto de Pirapora	Salto De Pirapora, Sao Paulo	298476	8	32227	-23.64889	-47.57333
 Salto de Pirapora	Salto De Pirapora, Sao Paulo	5684945	9	32227	-23.64889	-47.57333
+Salto del Guaira	Saltos Del Guaira, Canindeyu	5158168	8	7385	-24.0625	-54.30694
 Saltrio	Provincia di Varese, Lombardy	46375	8	2870	45.87347	8.92436
 Saltvik	Saltvik, Alands landsbygd	2587478	8	1691	60.28333	20.05
 Saltville	Smyth County, Virginia	206865	8	2031	36.8815	-81.76206
@@ -1802,6 +1863,7 @@ Salvador	Salvador, Bahia	362362	8	2711840	-12.97111	-38.51083
 Salvador	Salvador, Bahia	6194430	9	2711840	-12.97111	-38.51083
 Salvador de Zapardiel	Provincia de Valladolid, Castille and Leon	347703	8	186	41.11696	-4.87486
 Salvaleon	Provincia de Badajoz, Extremadura	344108	8	2172	38.5102	-6.78627
+Salvaleon de Higueey	Higueey, La Altagracia	7401358	6	123787	18.61501	-68.70798
 Salvan	Saint-Maurice District, Valais	1685371	8	1127	46.1189	7.02078
 Salvaterra	Provincia di Reggio Emilia, Emilia-Romagna	9499524	10	3643	44.59925	10.7686
 Salvaterra de Magos	Salvaterra de Magos, Santarem	5400572	7	5165	39.02788	-8.7935
@@ -1817,6 +1879,7 @@ Salvitelle	Provincia di Salerno, Campania	40617	8	453	40.59064	15.4576
 Saly	Borsod-Abauj-Zemplen	1418456	8	2174	47.95	20.66667
 Salyersville	Magoffin County, Kentucky	130607	8	1816	37.75259	-83.06878
 Salz	Regierungsbezirk Unterfranken, Bavaria	387325	8	2311	50.30842	10.21205
+Salz	Regierungsbezirk Unterfranken, Bavaria	9363077	9	2311	50.30842	10.21205
 Salza Irpina	Provincia di Avellino, Campania	40881	8	651	40.91893	14.88996
 Salza di Pinerolo	Torino, Piedmont	43846	8	79	44.94004	7.05241
 Salzano	Provincia di Venezia, Veneto	45250	8	7450	45.52221	12.10151
@@ -1856,11 +1919,13 @@ Samara	Nicoya, Guanacaste	6413424	8	1071	9.88147	-85.52809
 Samarate	Provincia di Varese, Lombardy	45462	8	14172	45.6241	8.78507
 Samassi	Provincia del Sud Sardegna, Sardinia	39951	8	5321	39.48208	8.90538
 Samastipur	Samastipur, Bihar	10285697	6	57575	25.86222	85.77953
+Samastipur	Samastipur, Bihar	1960291	5	57575	25.86222	85.77953
 Samatan	Gers, Occitanie	125551	8	2059	43.4926	0.93079
 Samatzai	Provincia del Sud Sardegna, Sardinia	39935	8	1671	39.48297	9.03466
 Samayac	Quetzaltenango	4473085	6	8994	14.58084	-91.46135
 Samba	Samba, Jammu and Kashmir	10376821	6	26893	32.56245	75.11993
 Sambalpur	Sambalpur, Odisha	1984036	5	162887	21.46527	83.97573
+Sambas	West Kalimantan	10621497	5	0	1.33333	109.25
 Sambas	West Kalimantan	10621697	6	0	1.33333	109.25
 Sambata de Sus	Comuna Sambata de Sus, Brasov	10367448	8	1465	45.76178	24.82053
 Sambelia	West Nusa Tenggara	3815241	6	0	-8.3791	116.6869
@@ -1885,6 +1950,7 @@ Samer	Pas-de-Calais, Hauts-de-France	1206593	8	3265	50.6384	1.74628
 Samerberg	Upper Bavaria, Bavaria	2186939	8	2569	47.77654	12.19139
 Samford Valley	Moreton Bay, Queensland	11675299	9	3016	-27.3727	152.86699
 Samil	Braganca Municipality, Braganca	5803690	8	1246	41.77632	-6.75698
+Saminaka	Lere, Kaduna	3709564	8	7165	10.41227	8.68748
 Saminaka	Lere, Kaduna	3709586	8	7165	10.41227	8.68748
 Saminaka	Lere, Kaduna	3722483	8	7165	10.41227	8.68748
 Samir de los Canos	Provincia de Zamora, Castille and Leon	342534	8	221	41.6728	-6.16415
@@ -1919,6 +1985,7 @@ Sampues	Sampues, Sucre	1324934	6	21204	9.18361	-75.38167
 Samsat	Adiyaman	1825794	6	9308	37.58194	38.47417
 Samson	Fremantle, Western Australia	11689180	9	1868	-32.06996	115.7977
 Samson	Geneva County, Alabama	13706415	8	1928	31.11295	-86.04605
+Samsun	Samsun	223451	4	394050	41.27976	36.3361
 Samswegen	Saxony-Anhalt	3974810	9	1939	52.26059	11.56174
 Samtens	Mecklenburg-Vorpommern	1438068	8	2085	54.35481	13.29311
 Samugheo	Provincia di Oristano, Sardinia	40133	8	3183	39.94854	8.94152
@@ -1947,6 +2014,7 @@ San Alberto	San Alberto, Alto Parana	6552054	8	4989	-24.96667	-54.9
 San Alberto	San Alberto, Cesar	1423491	6	10627	7.76107	-73.3922
 San Amaro	Provincia de Ourense, Galicia	344457	8	1354	42.37385	-8.07347
 San Andres	Distrito de Bugaba, Chiriqui	11058239	8	1152	8.6022	-82.72449
+San Andres	Riva Palacio, Chihuahua	5606190	6	662	28.54726	-106.5035
 San Andres	San Andres, Santander	1423485	6	3032	6.81148	-72.84929
 San Andres Ahuashuatepec	Tzompantepec, Tlaxcala	1391423	8	10114	19.37831	-98.10654
 San Andres Calpan	Calpan, Puebla	6037615	6	7161	19.10356	-98.46188
@@ -2086,6 +2154,7 @@ San Biagio di Callalta	Provincia di Treviso, Veneto	45696	8	2584	45.68361	12.377
 San Biase	Provincia di Campobasso, Molise	41510	8	247	41.71526	14.59049
 San Blas Atempa	San Blas Atempa, Oaxaca	5999719	6	11959	16.33103	-95.22559
 San Bonifacio	Provincia di Verona, Veneto	44902	8	17347	45.39595	11.27352
+San Borja	El Beni	10868035	8	24610	-14.85195	-66.74954
 San Bruno	San Mateo County, California	9946925	8	43185	37.63049	-122.41108
 San Buenaventura	Provincia de Canta, Lima region	1944803	8	134	-11.48889	-76.66194
 San Buenaventura	San Buenaventura, Coahuila	5606221	6	20480	27.06193	-101.54891
@@ -2252,6 +2321,7 @@ San Fernando	San Fernando	7363416	4	55419	10.27969	-61.46835
 San Fernando	San Fernando, Chiapas	5999734	6	9651	16.87153	-93.20759
 San Fernando de Atabapo	Municipio Autonomo Atabapo, Amazonas	14540392	8	11929	4.04564	-67.69934
 San Fernando de Henares	Provincia de Madrid, Madrid	347592	8	40981	40.42386	-3.53261
+San Fernando de Monte Cristi	Monte Cristi	3411021	4	17001	19.84799	-71.64604
 San Fernando de Monte Cristi	Monte Cristi	7390957	6	17001	19.84799	-71.64604
 San Fili	Provincia di Cosenza, Calabria	39900	8	1275	39.33971	16.14448
 San Filippo del Mela	Messina, Sicily	39563	8	2002	38.17007	15.27338
@@ -2396,6 +2466,7 @@ San Ignacio	Departamento de San Ignacio, Misiones	3489868	8	0	-27.25586	-55.5339
 San Ignacio	Francisco Morazan	13759762	6	2330	14.65	-87.03333
 San Ignacio	Provincia de San Ignacio, Cajamarca	1900270	8	7912	-5.14583	-79.00139
 San Ignacio Cerro Gordo	San Ignacio Cerro Gordo, Jalisco	5606239	6	9774	20.74558	-102.53466
+San Ignacio Rio Muerto	San Ignacio Rio Muerto, Sonora	5606240	6	7718	27.41656	-110.24584
 San Ildefonso	Provincia de Segovia, Castille and Leon	344597	8	5426	40.90182	-4.00685
 San Ildefonso Amatlan	San Ildefonso Amatlan, Oaxaca	5999753	6	883	16.3339	-96.49122
 San Ildefonso Villa Alta	San Ildefonso Villa Alta, Oaxaca	5999755	6	1309	17.33827	-96.15232
@@ -2485,6 +2556,7 @@ San Jose de Feliciano	Departamento de Feliciano, Entre Rios	12603650	8	11137	-30
 San Jose de Gracia	San Jose de Gracia, Aguascalientes	5606245	6	4927	22.14837	-102.41474
 San Jose de Guaribe	Municipio San Jose de Guaribe, Guarico	14507965	8	0	9.86025	-65.81306
 San Jose de Jachal	Departamento de Jachal, San Juan	2877683	8	21018	-30.24057	-68.74693
+San Jose de Jachal	Departamento de Jachal, San Juan	3578126	5	21018	-30.24057	-68.74693
 San Jose de Mayo	San Jose	2679983	8	36529	-34.3375	-56.71361
 San Jose de Miranda	San Jose de Miranda, Santander	1314973	6	1096	6.6587	-72.73344
 San Jose de Ocoa	San Jose de Ocoa	3421243	4	21148	18.54661	-70.50631
@@ -2496,6 +2568,7 @@ San Jose de la Montana	San Jose de La Montana, Antioquia	1316181	6	2819	6.85028	
 San Jose de las Lajas	Mayabeque	5539171	6	54847	22.96139	-82.15111
 San Jose del Fragua	San Jose del Fragua, Caqueta	1460028	6	0	1.33196	-75.97409
 San Jose del Golfo	Municipio de San Jose del Golfo, Guatemala	3271048	6	4908	14.76414	-90.37228
+San Jose del Guaviare	San Jose del Guaviare, Guaviare	11378346	6	52815	2.57286	-72.64591
 San Jose del Palmar	Novita, Choco	1343038	6	2392	4.89616	-76.23422
 San Jose del Potrero	Comayagua	12030251	6	1091	14.83999	-87.28405
 San Jose del Progreso	San Jose del Progreso, Oaxaca	5999774	6	2833	16.68673	-96.68472
@@ -2510,6 +2583,8 @@ San Juan	Eastern Manila District, Metro Manila	2997747	10	121430	14.6	121.0333
 San Juan	Grecia, Alajuela	5631850	8	7729	10.10248	-84.31694
 San Juan	Grecia, Alajuela	7369100	8	7729	10.10248	-84.31694
 San Juan	Hidalgo County, Texas	6587517	8	36556	26.18924	-98.15529
+San Juan	Province of Batangas, Calabarzon	12181183	10	0	13.83379	121.3982
+San Juan	Province of Batangas, Calabarzon	6219237	10	0	13.83379	121.3982
 San Juan	Province of Laguna, Calabarzon	12302522	10	3212	14.05715	121.22931
 San Juan	Province of Laguna, Calabarzon	4117649	10	3212	14.05715	121.22931
 San Juan	Province of Laguna, Calabarzon	7115296	10	3212	14.05715	121.22931
@@ -2540,9 +2615,12 @@ San Juan Chamelco	Municipio de San Juan Chamelco, Alta Verapaz	4557547	6	11944	1
 San Juan Chilateca	San Juan Chilateca, Oaxaca	5999791	6	1442	16.83042	-96.66915
 San Juan Colorado	San Juan Colorado, Oaxaca	5999794	6	5561	16.46066	-97.95431
 San Juan Cotzal	Quiche	377425	6	11046	15.43368	-91.03481
+San Juan Cotzocon	San Juan Cotzocon, Oaxaca	5999796	6	3700	17.16373	-95.78259
 San Juan Diuxi	San Juan Diuxi, Oaxaca	5999797	6	1222	17.28597	-97.37005
 San Juan Ermita	Municipio de San Juan la Ermita, Chiquimula	4492382	6	1623	14.76471	-89.43014
+San Juan Evangelista	San Juan Evangelista, Veracruz	6037779	6	4044	17.88615	-95.13961
 San Juan Guelavia	San Juan Guelavia, Oaxaca	5999799	6	3002	16.95507	-96.54359
+San Juan Guichicovi	San Juan Guichicovi, Oaxaca	5999800	6	4284	16.96231	-95.09418
 San Juan Huactzinco	San Juan Huactzinco, Tlaxcala	1391420	8	6687	19.23342	-98.25259
 San Juan Huactzinco	San Juan Huactzinco, Tlaxcala	5999801	6	6687	19.23342	-98.25259
 San Juan Ihualtepec	San Juan Ihualtepec, Oaxaca	5999802	6	408	17.74023	-98.2889
@@ -2581,6 +2659,7 @@ San Juan de Manapiare	Municipio Autonomo Manapiare, Amazonas	14540623	8	0	5.3266
 San Juan de Oriente	Municipio de San Juan de Oriente, Masaya	6097233	10	2111	11.90624	-86.07343
 San Juan de Payara	Municipio Pedro Camejo, Apure	14541933	8	0	7.64636	-67.6072
 San Juan de Rioseco	Tenjo, Cundinamarca	1412959	6	0	4.84778	-74.62148
+San Juan de Sabinas	San Juan de Sabinas, Coahuila	5606248	6	1415	27.92942	-101.30495
 San Juan de Uraba	San Juan de Uraba, Antioquia	1343471	6	19992	8.75924	-76.52969
 San Juan de la Encinilla	Provincia de Avila, Castille and Leon	344323	8	121	40.8302	-4.83957
 San Juan de la Maguana	San Juan de la Maguana, San Juan	7400847	6	72950	18.80588	-71.22991
@@ -2609,7 +2688,9 @@ San Justo	Partido de La Matanza, Buenos Aires	1748245	8	0	-34.6766	-58.56058
 San Justo	Provincia de Zamora, Castille and Leon	342535	8	328	42.13321	-6.62388
 San Justo de la Vega	Provincia de Leon, Castille and Leon	339750	8	2077	42.45696	-6.01825
 San Lawrenz	Saint Lawrence	7508580	8	530	36.05556	14.20361
+San Lazzaro	Bologna, Emilia-Romagna	10002576	10	22350	44.4705	11.40851
 San Lazzaro	Bologna, Emilia-Romagna	43173	8	22350	44.4705	11.40851
+San Lazzaro	Bologna, Emilia-Romagna	9420772	10	22350	44.4705	11.40851
 San Leandro	Alameda County, California	3156240	8	90712	37.72493	-122.15608
 San Leo	Provincia di Rimini, Emilia-Romagna	42716	8	204	43.89637	12.3446
 San Leonardo	Udine, Friuli Venezia Giulia	179110	8	113	46.11913	13.53085
@@ -2677,7 +2758,10 @@ San Luis Amatlan	San Luis Amatlan, Oaxaca	5999843	6	742	16.38652	-96.49824
 San Luis Apizaquito	Apizaco, Tlaxcala	1391377	8	6099	19.42524	-98.11709
 San Luis Jilotepeque	Municipio de San Luis Jilotepeque, Jalapa	4490162	6	10306	14.64724	-89.72463
 San Luis Obispo	San Luis Obispo County, California	112148	8	47339	35.28275	-120.65962
+San Luis Rio Colorado	San Luis Rio Colorado, Sonora	5606257	6	158089	32.45612	-114.77186
+San Luis de Palenque	San Luis de Palenque, Casanare	11313177	6	2032	5.42139	-71.73167
 San Luis de Since	San Luis de Since, Sucre	1324950	6	30768	9.24391	-75.14675
+San Luis de la Paz	San Luis de la Paz, Guanajuato	5606258	6	49914	21.29771	-100.51736
 San Luis del Cordero	San Luis del Cordero, Durango	5606259	6	1584	25.4151	-104.27844
 San Lupo	Provincia di Benevento, Campania	41176	8	709	41.26148	14.63528
 San Mames de Burgos	Provincia de Burgos, Castille and Leon	343115	8	285	42.33685	-3.79397
@@ -2726,6 +2810,7 @@ San Martin de Bolanos	San Martin de Bolanos, Jalisco	5605592	6	2282	21.68257	-10
 San Martin de Bolanos	San Martin de Bolanos, Jalisco	5606264	6	2282	21.68257	-103.81325
 San Martin de Boniches	Provincia de Cuenca, Castille-La Mancha	341338	8	89	39.9	-1.56667
 San Martin de Elines	Provincia de Cantabria, Cantabria	341103	8	1258	42.82864	-3.86865
+San Martin de Loba	Bolivar	1328503	6	0	8.936	-74.03975
 San Martin de Montalban	Province of Toledo, Castille-La Mancha	347920	8	745	39.70186	-4.38796
 San Martin de Oscos	Province of Asturias, Asturias	343615	8	471	43.26587	-6.96241
 San Martin de Pusa	Province of Toledo, Castille-La Mancha	347921	8	790	39.78404	-4.63252
@@ -2774,6 +2859,7 @@ San Mateo Atenco	San Mateo Atenco, Mexico	5606266	6	67890	19.26757	-99.53214
 San Mateo Ayecac	Puebla	1391410	8	3366	19.27898	-98.39466
 San Mateo Cajonos	San Mateo Cajonos, Oaxaca	5999854	6	471	17.16147	-96.20777
 San Mateo Etlatongo	San Mateo Etlatongo, Oaxaca	5999855	6	427	17.41609	-97.27389
+San Mateo Ixtatan	Municipio de San Mateo Ixtatan, Huehuetenango	377263	6	13213	15.83194	-91.47806
 San Mateo Nejapam	San Mateo Nejapam, Oaxaca	5999856	6	1009	17.65604	-98.41662
 San Mateo Pinas	San Mateo Pinas, Oaxaca	5999858	6	297	16.00049	-96.33449
 San Mateo Yoloxochitlan	San Mateo Yoloxochitlan, Oaxaca	5999864	6	2650	18.14341	-96.86865
@@ -2805,6 +2891,7 @@ San Miguel	Distrito de Balboa, Panama	11308843	8	967	8.45685	-78.93695
 San Miguel	Partido de San Miguel, Buenos Aires	2029703	8	157532	-34.54335	-58.71229
 San Miguel	Province of Batangas, Calabarzon	12891770	10	2997	13.874	121.1983
 San Miguel	Province of Leyte, Eastern Visayas	5426246	6	3401	11.26722	124.8325
+San Miguel	Province of Palawan, Mimaropa	3631300	6	2972	11.4924	119.8703
 San Miguel	Provincia de La Mar, Ayacucho	1930997	8	8400	-13.0125	-73.98083
 San Miguel	San Miguel, Santander	1343721	6	624	6.57583	-72.64591
 San Miguel Abejones	Abejones, Oaxaca	5999485	6	1009	17.43684	-96.60866
@@ -2812,6 +2899,7 @@ San Miguel Acatan	Municipio de San Miguel Acatan, Huehuetenango	377282	6	2773	15
 San Miguel Achiutla	San Miguel Achiutla, Oaxaca	5999868	6	342	17.309	-97.48392
 San Miguel Aloapam	San Miguel Aloapam, Oaxaca	5999870	6	1680	17.41136	-96.69154
 San Miguel Chicaj	Municipio de San Miguel Chicaj, Baja Verapaz	4559357	6	13747	15.09472	-90.39442
+San Miguel Chimalapa	San Miguel Chimalapa, Oaxaca	5999874	6	1444	16.71424	-94.74811
 San Miguel Coatlan	San Miguel Coatlan, Oaxaca	5999875	6	1938	16.19701	-96.69458
 San Miguel Contla	Santa Cruz Tlaxcala, Tlaxcala	1391407	8	5761	19.36111	-98.1325
 San Miguel Duenas	Sacatepequez	374556	6	8424	14.52241	-90.79938
@@ -2830,6 +2918,7 @@ San Miguel Tecomatlan	San Miguel Tecomatlan, Oaxaca	5999886	6	210	17.39454	-97.2
 San Miguel Tenango	San Miguel Tenango, Oaxaca	5999887	6	640	16.26659	-95.59532
 San Miguel Tlacamama	San Miguel Tlacamama, Oaxaca	5999890	6	2004	16.41547	-98.06301
 San Miguel Tlacotepec	San Miguel Tlacotepec, Oaxaca	5999891	6	1621	17.45621	-98.00547
+San Miguel Totolapan	San Miguel Totolapan, Guerrero	5606267	6	4319	18.16132	-100.39049
 San Miguel Xoxtla	San Miguel Xoxtla, Puebla	4000511	6	11269	19.16763	-98.30758
 San Miguel de Aguayo	Provincia de Cantabria, Cantabria	340792	8	148	43.05383	-4.0255
 San Miguel de Allende	San Miguel de Allende, Guanajuato	2372616	8	69811	20.91528	-100.74389
@@ -2987,13 +3076,19 @@ San Pedro de Coche	Nueva Esparta	14422067	8	6704	10.78131	-63.99675
 San Pedro de Gaillos	Provincia de Segovia, Castille and Leon	344037	8	368	41.22662	-3.80921
 San Pedro de Latarce	Provincia de Valladolid, Castille and Leon	347702	8	611	41.73556	-5.32592
 San Pedro de Lloc	Provincia de Pacasmayo, La Libertad	1968042	8	16250	-7.4289	-79.50416
+San Pedro de Macoris	San Pedro de Macoris	3422259	4	217899	18.4539	-69.30864
 San Pedro de Macoris	San Pedro de Macoris	7405546	6	217899	18.4539	-69.30864
 San Pedro de Merida	Provincia de Badajoz, Extremadura	344102	8	791	38.95007	-6.18645
 San Pedro de Rozados	Provincia de Salamanca, Castille and Leon	341029	8	343	40.79008	-5.73716
+San Pedro de Uraba	San Pedro de Uraba, Antioquia	1324933	6	30527	8.27515	-76.37641
+San Pedro de la Cueva	San Pedro de la Cueva, Sonora	5606277	6	1056	29.28684	-109.73696
 San Pedro del Arroyo	Provincia de Avila, Castille and Leon	339587	8	499	40.80213	-4.87075
+San Pedro del Gallo	San Pedro del Gallo, Durango	5606278	6	634	25.56411	-104.29284
+San Pedro del Parana	San Pedro Del Parana, Itapua	11800652	8	5722	-26.83387	-56.20694
 San Pedro del Pinatar	Murcia	346008	8	23738	37.83568	-0.79102
 San Pedro del Romeral	Provincia de Cantabria, Cantabria	340793	8	579	43.11514	-3.8186
 San Pedro del Valle	Provincia de Salamanca, Castille and Leon	341028	8	125	41.03332	-5.86025
+San Pedro y San Pablo Tequistepec	San Pedro y San Pablo Teposcolula, Oaxaca	5999888	6	458	18.06106	-97.71816
 San Pedro y San Pablo Tequistepec	San Pedro y San Pablo Teposcolula, Oaxaca	5999949	6	458	18.06106	-97.71816
 San Pelayo	Provincia de Valladolid, Castille and Leon	347701	8	40	41.68033	-5.03403
 San Pelayo	San Pelayo, Cordoba	1343455	6	5637	8.95833	-75.83627
@@ -3107,6 +3202,7 @@ San Sebastian Nicananduta	San Sebastian Nicananduta, Oaxaca	5999954	6	1346	17.51
 San Sebastian Rio Hondo	San Sebastian Rio Hondo, Oaxaca	5999955	6	1002	16.1838	-96.46535
 San Sebastian Teitipac	San Sebastian Teitipac, Oaxaca	5999957	6	1735	16.95192	-96.61427
 San Sebastian Tutla	San Sebastian Tutla, Oaxaca	5999958	6	4534	17.05834	-96.67604
+San Sebastian de Buenavista	San Sebastian de Buenavista, Magdalena	1423448	6	0	9.23778	-74.35166
 San Sebastian de Mariquita	Municipio de San Sebastian de Mariquita, Tolima	1309452	6	33340	5.19889	-74.89295
 San Sebastian de Yali	Municipio de San Sebastian de Yali, Jinotega	14595584	10	4514	13.3054	-86.18641
 San Sebastian de la Gomera	Provincia de Santa Cruz de Tenerife, Canary Islands	340733	8	8964	28.09163	-17.11331
@@ -3153,6 +3249,8 @@ San Vicente Pacaya	Municipio de San Vicente Pacaya, Escuintla	4469381	6	7162	14.
 San Vicente Tancuayalab	San Luis Potosi	5606283	6	6444	21.71886	-98.58769
 San Vicente de Alcantara	Provincia de Badajoz, Extremadura	340011	8	0	39.36132	-7.13766
 San Vicente de Arevalo	Provincia de Avila, Castille and Leon	344021	8	223	40.96773	-4.80194
+San Vicente de Canete	Provincia de Canete, Lima region	1944830	8	25517	-13.07556	-76.38528
+San Vicente de Chucuri	San Vicente de Chucuri, Santander	1423504	6	11265	6.881	-73.40977
 San Vicente de Tagua Tagua	Provincia de Cachapoal, O'Higgins Region	1666367	8	29560	-34.43859	-71.07751
 San Vicente de la Barquera	Provincia de Cantabria, Cantabria	345459	8	4475	43.38509	-4.39934
 San Vicente de la Cabeza	Provincia de Zamora, Castille and Leon	341720	8	543	41.80696	-6.24993
@@ -3213,6 +3311,8 @@ Sanchorreja	Provincia de Avila, Castille and Leon	339894	8	138	40.66475	-4.91494
 Sanchotello	Provincia de Salamanca, Castille and Leon	345383	8	282	40.43812	-5.75394
 Sancoins	Cher, Centre	1069679	8	3576	46.83314	2.92238
 Sancraiu	Comuna Sancraiu, Cluj	13601314	8	1826	46.83333	22.98333
+Sancti Spiritus	Sancti Spiritus	1923793	4	127069	21.92972	-79.4425
+Sancti Spiritus	Sancti Spiritus	5884866	6	127069	21.92972	-79.4425
 Sanctorum	Sanctorum de Lazaro Cardenas, Tlaxcala	1391348	8	4731	19.49333	-98.47156
 Sanctuary Point	Shoalhaven Shire, New South Wales	6076712	9	7020	-35.10361	150.62667
 Sand	Bas-Rhin, Grand Est	85841	8	1134	48.38319	7.61233
@@ -3220,6 +3320,7 @@ Sand	Nord-Odal, Innlandet	412536	7	946	60.3922	11.5403
 Sand Springs	Tulsa County, Oklahoma	184998	8	19783	36.13981	-96.10889
 Sandamu	Sandamu, Katsina	3711514	6	0	12.96163	8.36017
 Sandamu	Sandamu, Katsina	3711802	8	0	12.96163	8.36017
+Sandanski	Obshtina Sandanski, Blagoevgrad	1978212	7	28510	41.56667	23.28333
 Sandaohezi	Changji Huizu Zizhizhou, Xinjiang	9436845	8	60129	44.32597	85.62009
 Sandavagur	Vaga Municipality, Vagar	2154109	8	779	62.05372	-7.14982
 Sandbach	Cheshire East, England	364333	10	17976	53.14515	-2.36251
@@ -3236,6 +3337,7 @@ Sandgate	Brisbane, Queensland	11677795	9	4837	-27.32198	153.06951
 Sandhausen	Karlsruhe Region, Baden-Wurttemberg	453405	8	14336	49.34278	8.65917
 Sandhurst	Bracknell Forest, England	3872622	10	20803	51.34675	-0.78655
 Sandhurst	Frankston, Victoria	2425622	9	4838	-38.081	145.20767
+Sandia	Provincia de Sandia, Puno	1919868	6	3675	-14.32141	-69.4654
 Sandia	Provincia de Sandia, Puno	1919888	8	3675	-14.32141	-69.4654
 Sandigliano	Provincia di Biella, Piedmont	45171	8	1645	45.52204	8.0766
 Sandikli	Afyonkarahisar	1263755	6	42981	38.46472	30.26946
@@ -3281,6 +3383,7 @@ Sanfre	Provincia di Cuneo, Piedmont	43544	8	2538	44.7518	7.80289
 Sanfront	Provincia di Cuneo, Piedmont	43385	8	1190	44.64698	7.32243
 Sangalhos	Anadia, Aveiro	6018446	8	4516	40.48678	-8.46968
 Sangallaya	Provincia de Huarochiri, Lima region	1944831	8	0	-12.16667	-76.26667
+Sangamner	Ahmadnagar, Maharashtra	10347869	6	67309	19.56784	74.21154
 Sangano	Torino, Piedmont	43999	8	3459	45.02508	7.44987
 Sangarcia	Provincia de Segovia, Castille and Leon	344596	8	445	40.95023	-4.41085
 Sangarren	Provincia de Huesca, Aragon	348112	8	278	42.01921	-0.43323
@@ -3292,19 +3395,25 @@ Sanger	Denton County, Texas	6571683	8	7747	33.36317	-97.1739
 Sanger	Fresno County, California	2920201	8	24950	36.70801	-119.55597
 Sangerhausen	Saxony-Anhalt	2399162	8	23347	51.47221	11.29533
 Sangerville	Piscataquis County, Maine	12203889	8	1320	45.16478	-69.35644
+Sanggau	West Kalimantan	10621499	5	0	0.13333	110.6
 Sangiano	Provincia di Varese, Lombardy	46407	8	1536	45.87508	8.63333
 Sangineto	Provincia di Cosenza, Calabria	39996	8	484	39.60553	15.91481
+Sangmelima	South	3824003	8	54251	2.93333	11.98333
 Sangolqui	Canton Ruminahui, Pichincha	113713	6	5114	-0.33405	-78.45217
 Sangolqui	Canton Ruminahui, Pichincha	3747781	8	5114	-0.33405	-78.45217
 Sangre Grande	Sangre Grande	7363640	4	15968	10.58705	-61.13008
+Sangrur	Sangrur, Punjab	9513553	5	88615	30.24506	75.84488
 Sangueesa/Zangoza	Provincia de Navarra, Navarre	339993	8	5030	42.57483	-1.28283
 Sanguem	South Goa, Goa	10090771	6	6119	15.22901	74.15149
 Sanguinet	Landes, Nouvelle-Aquitaine	76224	8	2168	44.48355	-1.07553
 Sanguinetto	Provincia di Verona, Veneto	44374	8	3697	45.18567	11.14412
 Sangzhe	Chongqing	12287042	8	26221	29.27837	108.39822
+Sanhe	Chongqing	2693276	6	140954	29.86864	107.73027
+Sanhe	Guyuan Shi, Ningxia Hui Autonomous Region	2793619	6	0	36.5641	105.639
 Sanhui	Chongqing	11498834	8	51413	30.08167	106.5912
 Sanibel	Lee County, Florida	1216827	8	7236	26.44897	-82.02231
 Sanislau	Comuna Sanislau, Satu Mare	11671578	8	5072	47.63333	22.33333
+Sanjiaocheng	Haibei Tibetan Autonomous Prefecture, Qinghai	4543631	6	11196	36.89083	100.99972
 Sanjo	Sanjo Shi, Niigata	4453944	7	82893	37.61667	138.95
 Sanka	Powiat krakowski, Lesser Poland	3219095	8	1159	50.06871	19.64596
 Sankrail	Haora, West Bengal	10371826	6	27523	22.54997	88.22515
@@ -3341,6 +3450,7 @@ Sankt Johann im Pongau	Politischer Bezirk Sankt Johann im Pongau, Salzburg	99012
 Sankt Johann im Saggautal	Politischer Bezirk Leibnitz, Styria	49817	8	380	46.70389	15.40278
 Sankt Johann in der Haide	Politischer Bezirk Hartberg-Fuerstenfeld, Styria	36899	8	862	47.2808	16.02579
 Sankt Julian	Rheinland-Pfalz	1246778	8	1260	49.61667	7.51667
+Sankt Katharinen	Rheinland-Pfalz	1244234	8	3534	50.58333	7.38333
 Sankt Katharinen	Rheinland-Pfalz	443575	8	3534	50.58333	7.38333
 Sankt Lambrecht	Politischer Bezirk Murau, Styria	3858075	8	1316	47.06667	14.3
 Sankt Leon-Rot	Karlsruhe Region, Baden-Wurttemberg	453402	8	12192	49.26593	8.61803
@@ -3390,11 +3500,14 @@ Sankt Wendel	Saarland	1184603	8	26904	49.46633	7.16814
 Sankt Wendel	Saarland	7645413	9	26904	49.46633	7.16814
 Sankt Wolfgang	Upper Bavaria, Bavaria	934757	8	4102	48.21667	12.13333
 Sankt Wolfgang im Salzkammergut	Politischer Bezirk Gmunden, Upper Austria	66033	8	2794	47.73932	13.44666
+Sanliurfa	Sanliurfa	223434	4	449549	37.16708	38.79392
 Sanlucar de Barrameda	Provincia de Cadiz, Andalusia	346649	8	68037	36.77808	-6.3515
 Sanlucar de Guadiana	Provincia de Huelva, Andalusia	347487	8	363	37.47268	-7.46546
 Sanlucar la Mayor	Provincia de Sevilla, Andalusia	347038	8	12749	37.38758	-6.20346
 Sanmao	Zhenjiang Shi, Jiangsu	3429711	6	0	32.23931	119.81536
+Sanmenxia	Henan	2992284	5	669307	34.77472	111.18139
 Sanmihaiu Roman	Comuna Sanmihaiu Roman, Timis	10488641	8	4343	45.70444	21.08889
+Sanming	Sanming Shi, Fujian	3181479	5	602166	26.24861	117.61861
 Sanmu	Sanmu-shi, Chiba	2679913	7	0	35.62756	140.41762
 Sannat	Sannat	7508590	8	1681	36.02444	14.24278
 Sannazzaro de' Burgondi	Provincia di Pavia, Lombardy	44148	8	5232	45.10226	8.90635
@@ -3636,6 +3749,7 @@ Santa Catarina Pinula	Municipio de Santa Catarina Pinula, Guatemala	1477249	6	67
 Santa Catarina Quiane	Santa Catarina Quiane, Oaxaca	5999984	6	1813	16.88255	-96.74067
 Santa Catarina Tayata	Santa Catarina Tayata, Oaxaca	5999986	6	277	17.34715	-97.55822
 Santa Catarina Tlaltempan	Santa Catarina Tlaltempan, Puebla	6037789	6	874	18.61541	-98.0808
+Santa Catarina de Tepehuanes	Tepehuanes, Durango	5606476	6	4761	25.33961	-105.72445
 Santa Caterina Albanese	Provincia di Cosenza, Calabria	39993	8	329	39.5859	16.07039
 Santa Caterina Villarmosa	Provincia di Caltanissetta, Sicily	39268	8	5507	37.59034	14.03554
 Santa Caterina dello Ionio	Provincia di Catanzaro, Calabria	39652	8	733	38.53324	16.52176
@@ -3672,6 +3786,7 @@ Santa Comba	Provincia da Coruna, Galicia	346197	8	10487	43.03306	-8.80925
 Santa Comba	Provincia da Coruna, Galicia	9499715	9	10487	43.03306	-8.80925
 Santa Comba Dao	Santa Comba Dao, Viseu	5331550	7	11597	40.39856	-8.1316
 Santa Cristina Gela	Palermo, Sicily	39432	8	616	37.98514	13.32747
+Santa Cristina Valgardena	Bolzano, Trentino-Alto Adige	12882026	9	1477	46.56299	11.73216
 Santa Cristina d'Aro	Provincia de Girona, Catalonia	342520	8	5089	41.81667	3
 Santa Cristina d'Aspromonte	Provincia di Reggio Calabria, Calabria	39584	8	820	38.2548	15.96996
 Santa Cristina de Valmadrigal	Provincia de Leon, Castille and Leon	344181	8	328	42.35446	-5.30929
@@ -3733,6 +3848,7 @@ Santa Cruz de Bezana	Provincia de Cantabria, Cantabria	340795	8	11279	43.4437	-3
 Santa Cruz de Boedo	Provincia de Palencia, Castille and Leon	348096	8	49	42.52531	-4.37398
 Santa Cruz de Bravo	Santa Cruz de Bravo, Oaxaca	6000004	6	364	17.58096	-98.22378
 Santa Cruz de El Seibo	El Seibo	3422238	4	23547	18.76559	-69.03886
+Santa Cruz de El Seibo	El Seibo	7400878	6	23547	18.76559	-69.03886
 Santa Cruz de Grio	Provincia de Zaragoza, Aragon	347428	8	213	41.3705	-1.43009
 Santa Cruz de Moncayo	Provincia de Zaragoza, Aragon	347427	8	112	41.8824	-1.75637
 Santa Cruz de Moya	Provincia de Cuenca, Castille-La Mancha	341331	8	384	39.95	-1.26667
@@ -3757,6 +3873,7 @@ Santa Cruz del Valle	Provincia de Avila, Castille and Leon	339588	8	492	40.2516	
 Santa Cruz del Valle Urbion	Provincia de Burgos, Castille and Leon	347675	8	113	42.30558	-3.2214
 Santa Cruz do Capibaribe	Santa Cruz Do Capibaribe, Pernambuco	303669	8	76450	-7.9575	-36.20472
 Santa Cruz do Capibaribe	Santa Cruz Do Capibaribe, Pernambuco	6197132	9	76450	-7.9575	-36.20472
+Santa Cruz do Rio Pardo	Santa Cruz Do Rio Pardo, Sao Paulo	298106	8	37336	-22.89889	-49.6325
 Santa Cruz do Rio Pardo	Santa Cruz Do Rio Pardo, Sao Paulo	5684948	9	37336	-22.89889	-49.6325
 Santa Cruz do Sul	Santa Cruz Do Sul, Rio Grande do Sul	242631	8	106113	-29.7175	-52.42583
 Santa Domenica Talao	Provincia di Cosenza, Calabria	40104	8	998	39.81875	15.8538
@@ -3851,6 +3968,7 @@ Santa Lucia di Serino	Provincia di Avellino, Campania	40843	8	1399	40.87042	14.8
 Santa Lucija	Saint Lucia	7510558	8	3760	35.86278	14.5075
 Santa Luzia	Santa Luzia, Minas Gerais	3408930	10	243503	-19.76972	-43.85139
 Santa Luzia	Santa Luzia, Minas Gerais	368834	8	243503	-19.76972	-43.85139
+Santa Luzia	Santa Luzia, Minas Gerais	5418244	10	243503	-19.76972	-43.85139
 Santa Luzia	Santa Luzia, Minas Gerais	5535367	10	243503	-19.76972	-43.85139
 Santa Luzia	Santa Luzia, Paraiba	301284	8	13243	-6.87222	-36.91861
 Santa Luzia	Santa Luzia, Paraiba	6229301	9	13243	-6.87222	-36.91861
@@ -3879,6 +3997,7 @@ Santa Maria Atzompa	Santa Maria Atzompa, Oaxaca	6000017	6	21788	17.10165	-96.776
 Santa Maria Camotlan	Santa Maria Camotlan, Oaxaca	6000018	6	1581	17.89688	-97.692
 Santa Maria Capua Vetere	Provincia di Caserta, Campania	41043	8	31743	41.08156	14.25342
 Santa Maria Chachoapam	Santa Maria Chachoapam, Oaxaca	6000019	6	435	17.5257	-97.28422
+Santa Maria Chimalapa	Santa Maria Chimalapa, Oaxaca	6000021	6	2540	16.90639	-94.68333
 Santa Maria Chimalhuacan	Chimalhuacan, Mexico	5605654	6	612383	19.42155	-98.95038
 Santa Maria Chiquimula	Municipio de Santa Maria Chiquimula, Totonicapan	4484756	6	6980	15.02992	-91.3292
 Santa Maria Colotepec	Santa Maria Colotepec, Oaxaca	6000022	6	1369	15.89737	-96.93951
@@ -3917,6 +4036,8 @@ Santa Maria Zoquitlan	Santa Maria Zoquitlan, Oaxaca	6000064	6	1686	16.55886	-96.
 Santa Maria a Monte	Province of Pisa, Tuscany	42571	8	6438	43.70793	10.69196
 Santa Maria d'Olo	Provincia de Barcelona, Catalonia	339509	8	1044	41.86667	2.03333
 Santa Maria da Boa Vista	Santa Maria Da Boa Vista, Pernambuco	303698	8	14695	-8.80778	-39.82556
+Santa Maria da Boa Vista	Santa Maria Da Boa Vista, Pernambuco	6205888	9	14695	-8.80778	-39.82556
+Santa Maria da Vitoria	Santa Maria Da Vitoria, Bahia	362499	8	23488	-13.38814	-44.19868
 Santa Maria de Cayon	Provincia de Cantabria, Cantabria	340796	8	6710	43.30849	-3.8368
 Santa Maria de Corco	Provincia de Barcelona, Catalonia	339488	8	2141	42.03333	2.36667
 Santa Maria de Huerta	Provincia de Soria, Castille and Leon	344753	8	405	41.26667	-2.16667
@@ -3945,6 +4066,7 @@ Santa Maria del Monte de Cea	Provincia de Leon, Castille and Leon	344178	8	321	4
 Santa Maria del Oro	Santa Maria del Oro, Nayarit	5606301	6	4482	21.3339	-104.58696
 Santa Maria del Paramo	Provincia de Leon, Castille and Leon	344177	8	3120	42.35512	-5.75151
 Santa Maria del Real	Olancho	13737150	6	4587	14.76667	-85.95
+Santa Maria del Rio	Santa Maria del Rio, San Luis Potosi	5606308	6	13099	21.79615	-100.73815
 Santa Maria del Rosario	Santa Maria del Rosario, Oaxaca	6000065	6	55	17.35276	-97.5948
 Santa Maria del Tule	Santa Maria del Tule, Oaxaca	6000066	6	7636	17.04712	-96.63573
 Santa Maria del Val	Provincia de Cuenca, Castille-La Mancha	341335	8	96	40.50439	-2.04115
@@ -3953,6 +4075,7 @@ Santa Maria di Licodia	Catania, Sicily	39305	8	6810	37.61684	14.89337
 Santa Maria di Sala	Provincia di Venezia, Veneto	45096	8	2408	45.50699	12.03565
 Santa Maria do Para	Santa Maria Do Para, Para	185580	8	12915	-1.35028	-47.57556
 Santa Maria do Para	Santa Maria Do Para, Para	6458077	9	12915	-1.35028	-47.57556
+Santa Maria do Suacui	Santa Maria Do Suacui, Minas Gerais	315110	8	9936	-18.19028	-42.41417
 Santa Maria in Calanca	Region Moesa, Grisons	1684153	8	0	46.26285	9.14485
 Santa Maria la Asuncion	Santa Maria la Asuncion, Oaxaca	6000067	6	1701	18.10722	-96.81917
 Santa Maria la Longa	Udine, Friuli Venezia Giulia	179212	8	1229	45.93403	13.28911
@@ -4020,6 +4143,7 @@ Santa Rosa de Viterbo	Santa Rosa De Viterbo, Sao Paulo	298307	8	21473	-21.47278	
 Santa Rosa de Viterbo	Santa Rosa De Viterbo, Sao Paulo	5349739	9	21473	-21.47278	-47.36306
 Santa Rosa de Viterbo	Santa Rosa de Viterbo, Boyaca	1315387	6	11329	5.87401	-72.98217
 Santa Rosa del Conlara	Departamento de Junin, San Luis	11777481	8	4489	-32.34286	-65.20323
+Santa Rosa del Sur	Santa Rosa del Sur, Bolivar	1335168	6	8904	7.96444	-74.05444
 Santa Severina	Provincia di Crotone, Calabria	39811	8	1903	39.1477	16.91112
 Santa Sofia	Provincia di Forli-Cesena, Emilia-Romagna	42694	8	3037	43.94724	11.90867
 Santa Sofia	Santa Sofia, Boyaca	1306569	6	1058	5.70908	-73.60404
@@ -4029,9 +4153,11 @@ Santa Sylvina	Fray Justo Santa Maria de Oro, Chaco	1645140	8	9040	-27.83261	-61.
 Santa Tecla	La Libertad	8705400	6	124694	13.67694	-89.27972
 Santa Teresa	Dona Ana County, New Mexico	171075	8	4258	31.85594	-106.63916
 Santa Teresa	Santa Teresa, Espirito Santo	1842745	8	9156	-19.93556	-40.60028
+Santa Teresa	Santa Teresa, Espirito Santo	1844876	10	9156	-19.93556	-40.60028
 Santa Teresa	Santa Teresa, Espirito Santo	1910743	9	9156	-19.93556	-40.60028
 Santa Teresa di Riva	Messina, Sicily	39431	8	7977	37.94635	15.36671
 Santa Teresita	Province of Batangas, Calabarzon	10650886	6	2849	13.86639	120.98139
+Santa Terezinha	Santa Terezinha, Mato Grosso	333731	8	7564	-10.47059	-50.51359
 Santa Ursula	Provincia de Santa Cruz de Tenerife, Canary Islands	340717	8	14013	28.42613	-16.48876
 Santa Uxia de Ribeira	Provincia da Coruna, Galicia	12646072	9	27067	42.55352	-8.99094
 Santa Uxia de Ribeira	Provincia da Coruna, Galicia	346201	8	27067	42.55352	-8.99094
@@ -4039,6 +4165,7 @@ Santa Venera	Saint Venera	7510548	8	6264	35.89083	14.47417
 Santa Venerina	Catania, Sicily	39330	8	5000	37.69103	15.1388
 Santa Victoria	Departamento de Santa Victoria, Salta	3059860	5	0	-22.25124	-64.96549
 Santa Vitoria	Santa Vitoria, Minas Gerais	315182	8	11656	-18.83861	-50.12139
+Santa Vitoria do Palmar	Santa Vitoria Do Palmar, Rio Grande do Sul	242299	8	27775	-33.51889	-53.36806
 Santa Vitoria do Palmar	Santa Vitoria Do Palmar, Rio Grande do Sul	7438171	9	27775	-33.51889	-53.36806
 Santa Vittoria	Provincia di Reggio Emilia, Emilia-Romagna	9297195	10	2003	44.85483	10.63348
 Santa Vittoria d'Alba	Provincia di Cuneo, Piedmont	43476	8	2512	44.69864	7.93733
@@ -4108,10 +4235,13 @@ Santiago Camotlan	Santiago Camotlan, Oaxaca	6000075	6	0	17.44541	-96.18509
 Santiago Chazumba	Santiago Chazumba, Oaxaca	6000076	6	1918	18.19012	-97.67983
 Santiago Chimaltenango	Municipio de Santiago Chimaltenango, Huehuetenango	377273	6	3020	15.47658	-91.69656
 Santiago Choapam	Santiago Choapam, Oaxaca	6000077	6	1099	17.36084	-95.92219
+Santiago Comaltepec	Santiago Comaltepec, Oaxaca	6000078	6	710	17.56547	-96.54873
 Santiago Huajolotitlan	Santiago Huajolotitlan, Oaxaca	6000079	6	2018	17.82783	-97.73266
 Santiago Huauclilla	Santiago Huauclilla, Oaxaca	6000080	6	233	17.45179	-97.07277
 Santiago Ixcuintepec	Santiago Ixcuintepec, Oaxaca	6000082	6	1361	16.9354	-95.62282
+Santiago Ixcuintla	Santiago Ixcuintla, Nayarit	7697234	6	18241	21.81295	-105.20844
 Santiago Ixtayutla	Santiago Ixtayutla, Oaxaca	6000083	6	1901	16.56649	-97.65285
+Santiago Juxtlahuaca	Santiago Juxtlahuaca, Oaxaca	6000086	6	9565	17.33462	-98.01147
 Santiago Lachiguiri	Santiago Lachiguiri, Oaxaca	6000087	6	1652	16.68706	-95.53067
 Santiago Lalopa	Santiago Lalopa, Oaxaca	6000088	6	496	17.41786	-96.24893
 Santiago Laollaga	Santiago Laollaga, Oaxaca	6000089	6	2550	16.58418	-95.20707
@@ -4125,6 +4255,7 @@ Santiago Miltepec	Santiago Miltepec, Oaxaca	6000093	6	335	17.98461	-97.69006
 Santiago Nejapilla	Santiago Nejapilla, Oaxaca	6000096	6	192	17.41983	-97.37411
 Santiago Nundiche	Santiago Nundiche, Oaxaca	6000098	6	108	17.33136	-97.67392
 Santiago Nuyoo	Santiago Nuyoo, Oaxaca	6000099	6	403	17.01449	-97.76659
+Santiago Papasquiaro	Santiago Papasquiaro, Durango	5606332	6	26121	25.04389	-105.41917
 Santiago Sacatepequez	Sacatepequez	374557	6	24210	14.6351	-90.67654
 Santiago Suchilquitongo	Santiago Suchilquitongo, Oaxaca	6000101	6	7276	17.25316	-96.87825
 Santiago Tangamandapio	Tangamandapio, Michoacan	5606428	6	10463	19.95568	-102.43546
@@ -4149,6 +4280,7 @@ Santiago de Alcantara	Provincia de Caceres, Extremadura	1898687	8	0	39.60661	-7.
 Santiago de Anaya	Santiago de Anaya, Hidalgo	5606341	6	2214	20.3841	-98.96512
 Santiago de Calatrava	Provincia de Jaen, Andalusia	339979	8	876	37.75382	-4.17093
 Santiago de Cao	Ascope, La Libertad	1968045	8	21982	-7.95889	-79.23917
+Santiago de Chuco	Provincia de Santiago de Chuco, La Libertad	1967975	6	6759	-8.14099	-78.17329
 Santiago de Chuco	Provincia de Santiago de Chuco, La Libertad	1968047	8	6759	-8.14099	-78.17329
 Santiago de Compostela	Provincia da Coruna, Galicia	12704377	9	95092	42.88052	-8.54569
 Santiago de Compostela	Provincia da Coruna, Galicia	3203720	10	95092	42.88052	-8.54569
@@ -4183,6 +4315,7 @@ Santimbru	Comuna Santimbru, Alba	11349376	8	2679	46.13333	23.65
 Santiponce	Provincia de Sevilla, Andalusia	347042	8	7561	37.43553	-6.04106
 Santisimo Rosario	Province of Laguna, Calabarzon	9291370	10	4190	13.99661	121.30918
 Santiso	Provincia da Coruna, Galicia	12578522	9	0	42.87388	-8.05497
+Santiso	Provincia da Coruna, Galicia	12582467	9	0	42.87388	-8.05497
 Santiso	Provincia da Coruna, Galicia	12623594	9	0	42.87388	-8.05497
 Santiso	Provincia da Coruna, Galicia	346205	8	0	42.87388	-8.05497
 Santiso	Provincia da Coruna, Galicia	9482776	9	0	42.87388	-8.05497
@@ -4215,9 +4348,12 @@ Santo Antonio de Padua	Santo Antonio De Padua, Rio de Janeiro	2215557	8	33076	-2
 Santo Antonio de Posse	Santo Antonio De Posse, Sao Paulo	298138	8	18148	-22.60611	-46.91944
 Santo Antonio de Posse	Santo Antonio De Posse, Sao Paulo	5684951	9	18148	-22.60611	-46.91944
 Santo Antonio do Amparo	Santo Antonio Do Amparo, Minas Gerais	315189	8	16730	-20.94639	-44.91889
+Santo Antonio do Ica	Santo Antonio Do Ica, Amazonas	332505	8	9302	-3.10222	-67.93972
 Santo Antonio do Ica	Santo Antonio Do Ica, Amazonas	6251187	9	9302	-3.10222	-67.93972
+Santo Antonio do Monte	Santo Antonio Do Monte, Minas Gerais	315006	8	22592	-20.08722	-45.29361
 Santo Antonio do Sudoeste	Santo Antonio Do Sudoeste, Parana	11569524	8	11723	-26.07361	-53.72528
 Santo Antonio do Sudoeste	Santo Antonio Do Sudoeste, Parana	297499	8	11723	-26.07361	-53.72528
+Santo Antonio do Taua	Santo Antonio Do Taua, Para	185677	8	8921	-1.15194	-48.12944
 Santo Antonio do Taua	Santo Antonio Do Taua, Para	6428421	9	8921	-1.15194	-48.12944
 Santo Antonio dos Olivais	Coimbra	6386153	8	38936	40.21805	-8.40523
 Santo Augusto	Santo Augusto, Rio Grande do Sul	242660	8	10305	-27.85083	-53.77722
@@ -4299,6 +4435,7 @@ Santorcaz	Provincia de Madrid, Madrid	347594	8	729	40.47176	-3.23462
 Santorso	Provincia di Vicenza, Veneto	45917	8	5236	45.73383	11.38785
 Santos	Santos, Sao Paulo	298442	8	411403	-23.96083	-46.33361
 Santos	Santos, Sao Paulo	5683265	9	411403	-23.96083	-46.33361
+Santos Dumont	Santos Dumont, Minas Gerais	10734750	10	41582	-21.45667	-43.5525
 Santos Dumont	Santos Dumont, Minas Gerais	315026	8	41582	-21.45667	-43.5525
 Santos Lugares	Partido de Tres de Febrero, Buenos Aires	2435790	8	37267	-34.60379	-58.5461
 Santos Reyes Nopala	Santos Reyes Nopala, Oaxaca	6000148	6	5201	16.10694	-97.14435
@@ -4317,12 +4454,14 @@ Santutxu	Bizkaia, Basque Country	8675004	10	60000	43.25347	-2.9161
 Sanvignes-les-Mines	Saone-et-Loire, Bourgogne-Franche-Comte	913008	8	4359	46.66444	4.29188
 Sanxenxo	Provincia de Pontevedra, Galicia	341379	8	17315	42.39996	-8.80698
 Sanxing	Chongqing	12295021	8	7725	29.89661	108.10776
+Sanya	Sanya Shi, Hainan	2128284	5	1031396	18.24306	109.505
 Sanyi	Chongqing	12287024	8	5153	29.72446	108.38262
 Sanyi	Chongqing	12295008	8	2974	30.14801	108.27627
 Sanza	Provincia di Salerno, Campania	40357	8	2247	40.24389	15.55416
 Sanzeno	Provincia autonoma di Trento, Trentino-Alto Adige	47147	8	339	46.36614	11.07559
 Sanzoles	Provincia de Zamora, Castille and Leon	344045	8	636	41.43235	-5.5671
 Sao Bartolomeu de Messines	Silves, Faro	6431663	8	8381	37.25648	-8.28672
+Sao Benedito do Rio Preto	Sao Benedito Do Rio Preto, Maranhao	332778	8	12079	-3.33361	-43.52833
 Sao Bento	Catole Do Rocha, Paraiba	6226699	9	24749	-6.28333	-37.75
 Sao Bento	Sao Bento, Maranhao	332807	8	17245	-2.69583	-44.82139
 Sao Bento do Sul	Sao Bento Do Sul, Santa Catarina	296606	8	77597	-26.25028	-49.37861
@@ -4330,6 +4469,7 @@ Sao Bento do Sul	Sao Bento Do Sul, Santa Catarina	3878071	10	77597	-26.25028	-49
 Sao Bernardo	Sao Bernardo, Maranhao	332806	8	11171	-3.36139	-42.41778
 Sao Bernardo do Campo	Sao Bernardo Do Campo, Sao Paulo	297968	8	743372	-23.69389	-46.565
 Sao Bernardo do Campo	Sao Bernardo Do Campo, Sao Paulo	5683272	9	743372	-23.69389	-46.565
+Sao Borja	Sao Borja, Rio Grande do Sul	242294	8	59613	-28.66056	-56.00444
 Sao Borja	Sao Borja, Rio Grande do Sul	7390966	9	59613	-28.66056	-56.00444
 Sao Bras de Alportel	Sao Bras de Alportel, Faro	5404223	7	11153	37.1531	-7.88751
 Sao Bras de Alportel	Sao Bras de Alportel, Faro	6431386	8	11153	37.1531	-7.88751
@@ -4337,8 +4477,10 @@ Sao Caetano de Odivelas	Sao Caetano De Odivelas, Para	185613	8	8862	-0.75	-48.02
 Sao Caetano de Odivelas	Sao Caetano De Odivelas, Para	6458515	9	8862	-0.75	-48.02
 Sao Caetano do Sul	Sao Caetano Do Sul, Sao Paulo	298170	8	136453	-23.62306	-46.55111
 Sao Caetano do Sul	Sao Caetano Do Sul, Sao Paulo	5683273	9	136453	-23.62306	-46.55111
+Sao Carlos	Sao Carlos, Sao Paulo	297986	8	205035	-22.0175	-47.89083
 Sao Cristovao	Sao Cristovao, Sergipe	303896	8	71539	-11.01472	-37.20639
 Sao Cristovao	Sao Cristovao, Sergipe	6164724	9	71539	-11.01472	-37.20639
+Sao Desiderio	Sao Desiderio, Bahia	362171	8	7295	-12.36333	-44.97333
 Sao Domingos	Sao Domingos	4021585	6	1850	15.02438	-23.5625
 Sao Domingos de Rana	Cascais, Lisbon	6519606	8	46718	38.70194	-9.34083
 Sao Domingos do Maranhao	Sao Domingos Do Maranhao, Maranhao	332850	8	18275	-5.57583	-44.38528
@@ -4347,12 +4489,15 @@ Sao Felix da Marinha	Vila Nova de Gaia, Porto	5991745	8	11685	41.03555	-8.62259
 Sao Fidelis	Sao Fidelis, Rio de Janeiro	2211797	8	27793	-21.64611	-41.74694
 Sao Fidelis	Sao Fidelis, Rio de Janeiro	8322340	9	27793	-21.64611	-41.74694
 Sao Filipe	Sao Filipe	4021363	6	8189	14.8961	-24.49556
+Sao Francisco de Assis	Sao Francisco De Assis, Rio Grande do Sul	242434	8	14305	-29.55028	-55.13111
 Sao Francisco de Assis	Sao Francisco De Assis, Rio Grande do Sul	7598383	9	14305	-29.55028	-55.13111
 Sao Francisco de Paula	Sao Francisco De Paula, Rio Grande do Sul	7082344	9	13292	-29.44806	-50.58361
 Sao Francisco do Conde	Sao Francisco Do Conde, Bahia	362195	8	24614	-12.6275	-38.68
 Sao Francisco do Conde	Sao Francisco Do Conde, Bahia	6173754	9	24614	-12.6275	-38.68
 Sao Francisco do Sul	Sao Francisco Do Sul, Santa Catarina	296696	8	36224	-26.24333	-48.63806
 Sao Gabriel	Sao Gabriel, Rio Grande do Sul	242490	8	55434	-30.33639	-54.32
+Sao Geraldo do Araguaia	Sao Geraldo Do Araguaia, Para	185550	8	12925	-6.40056	-48.555
+Sao Geraldo do Araguaia	Sao Geraldo Do Araguaia, Para	6335248	9	12925	-6.40056	-48.555
 Sao Goncalo	Sao Goncalo, Rio de Janeiro	14174311	9	0	-22.82694	-43.05389
 Sao Goncalo	Sao Goncalo, Rio de Janeiro	2220792	8	0	-22.82694	-43.05389
 Sao Goncalo do Amarante	Sao Goncalo Do Amarante, Ceara	13093455	9	23583	-3.60722	-38.96833
@@ -4364,6 +4509,7 @@ Sao Goncalo do Sapucai	Sao Goncalo Do Sapucai, Minas Gerais	315383	8	19487	-21.8
 Sao Goncalo dos Campos	Sao Goncalo Dos Campos, Bahia	362196	8	14822	-12.43333	-38.96667
 Sao Goncalo dos Campos	Sao Goncalo Dos Campos, Bahia	6270961	9	14822	-12.43333	-38.96667
 Sao Gotardo	Sao Gotardo, Minas Gerais	315397	8	34145	-19.31111	-46.04889
+Sao Jeronimo	Sao Jeronimo, Rio Grande do Sul	242348	8	17056	-29.95917	-51.72222
 Sao Jeronimo	Sao Jeronimo, Rio Grande do Sul	7583392	9	17056	-29.95917	-51.72222
 Sao Joao	Sao Joao, Pernambuco	303745	8	6926	-8.87556	-36.36667
 Sao Joao	Sao Joao, Pernambuco	6198789	9	6926	-8.87556	-36.36667
@@ -4372,11 +4518,13 @@ Sao Joao Batista	Sao Joao Batista, Santa Catarina	296567	8	14538	-27.27611	-48.8
 Sao Joao Evangelista	Sao Joao Evangelista, Minas Gerais	315253	8	10049	-18.54778	-42.76333
 Sao Joao Nepomuceno	Sao Joao Nepomuceno, Minas Gerais	315255	8	23154	-21.54	-43.01056
 Sao Joao da Barra	Sao Joao Da Barra, Rio de Janeiro	14592957	9	20606	-21.64028	-41.05111
+Sao Joao da Barra	Sao Joao Da Barra, Rio de Janeiro	2211799	8	20606	-21.64028	-41.05111
 Sao Joao da Boa Vista	Sao Joao Da Boa Vista, Sao Paulo	298438	8	76540	-21.96917	-46.79806
 Sao Joao da Boa Vista	Sao Joao Da Boa Vista, Sao Paulo	5349758	9	76540	-21.96917	-46.79806
 Sao Joao da Madeira	Sao Joao da Madeira, Aveiro	5320067	7	22079	40.9007	-8.4902
 Sao Joao da Madeira	Sao Joao da Madeira, Aveiro	6022228	8	22079	40.9007	-8.4902
 Sao Joao da Pesqueira	Sao Joao da Pesqueira, Viseu	5328702	7	7874	41.14805	-7.40489
+Sao Joao da Ponte	Sao Joao Da Ponte, Minas Gerais	315310	8	8373	-15.92917	-44.00778
 Sao Joao de Areias	Santa Comba Dao, Viseu	6430639	8	1939	40.38722	-8.06783
 Sao Joao de Meriti	Sao Joao De Meriti, Rio de Janeiro	14603375	9	454849	-22.80389	-43.37222
 Sao Joao de Meriti	Sao Joao De Meriti, Rio de Janeiro	2220793	8	454849	-22.80389	-43.37222
@@ -4384,6 +4532,9 @@ Sao Joao de Pirabas	Sao Joao de Pirabas, Para	185653	8	10065	-0.77472	-47.17722
 Sao Joao de Pirabas	Sao Joao de Pirabas, Para	6458088	9	10065	-0.77472	-47.17722
 Sao Joao de Ver	Santa Maria da Feira, Aveiro	6022201	8	9568	40.95527	-8.55117
 Sao Joao del Rei	Sao Joao Del Rei, Minas Gerais	315356	8	78592	-21.13556	-44.26167
+Sao Joao do Paraiso	Sao Joao Do Paraiso, Minas Gerais	315265	8	8859	-15.31361	-42.01444
+Sao Joao do Piaui	Sao Joao Do Piaui, Piaui	302686	8	12688	-8.35806	-42.24667
+Sao Joao dos Patos	Sao Joao Dos Patos, Maranhao	332892	8	19538	-6.495	-43.70222
 Sao Joaquim	Sao Joaquim, Santa Catarina	296551	8	16250	-28.29389	-49.93167
 Sao Joaquim da Barra	Sao Joaquim Da Barra, Sao Paulo	297942	8	42720	-20.58139	-47.85472
 Sao Joaquim da Barra	Sao Joaquim Da Barra, Sao Paulo	5349753	9	42720	-20.58139	-47.85472
@@ -4391,11 +4542,13 @@ Sao Joaquim de Bicas	Sao Joaquim De Bicas, Minas Gerais	368768	8	14630	-20.04917
 Sao Joaquim do Monte	Sao Joaquim Do Monte, Pernambuco	303712	8	13520	-8.4325	-35.80444
 Sao Joaquim do Monte	Sao Joaquim Do Monte, Pernambuco	6197139	9	13520	-8.4325	-35.80444
 Sao Jorge	Santana, Madeira	8435144	8	1473	32.81667	-16.9
+Sao Jose	Braco Do Norte, Santa Catarina	296626	8	200000	-28.21171	-49.1632
 Sao Jose da Coroa Grande	Sao Jose Da Coroa Grande, Pernambuco	303735	8	11512	-8.89778	-35.14778
 Sao Jose da Coroa Grande	Sao Jose Da Coroa Grande, Pernambuco	6190677	9	11512	-8.89778	-35.14778
 Sao Jose da Laje	Sao Jose Da Laje, Alagoas	303838	8	12810	-9.00972	-36.05833
 Sao Jose da Laje	Sao Jose Da Laje, Alagoas	6179618	9	12810	-9.00972	-36.05833
 Sao Jose da Tapera	Sao Jose da Tapera, Alagoas	303805	8	12391	-9.55833	-37.38111
+Sao Jose da Tapera	Sao Jose da Tapera, Alagoas	6186615	9	12391	-9.55833	-37.38111
 Sao Jose de Mipibu	Sao Jose De Mipibu, Rio Grande do Norte	301099	8	15298	-6.07472	-35.23778
 Sao Jose de Mipibu	Sao Jose De Mipibu, Rio Grande do Norte	6248010	9	15298	-6.07472	-35.23778
 Sao Jose de Piranhas	Sao Jose De Piranhas, Paraiba	301277	8	7628	-7.12056	-38.50194
@@ -4416,6 +4569,7 @@ Sao Jose dos Campos	Sao Jose Dos Campos, Sao Paulo	298019	8	613764	-23.17944	-45
 Sao Jose dos Campos	Sao Jose Dos Campos, Sao Paulo	5349757	9	613764	-23.17944	-45.88694
 Sao Jose dos Pinhais	Sao Jose Dos Pinhais, Parana	297533	8	124224	-25.5302	-49.20836
 Sao Leopoldo	Sao Leopoldo, Rio Grande do Sul	242399	8	209229	-29.76028	-51.14722
+Sao Leopoldo	Sao Leopoldo, Rio Grande do Sul	2745220	10	209229	-29.76028	-51.14722
 Sao Leopoldo	Sao Leopoldo, Rio Grande do Sul	7021746	9	209229	-29.76028	-51.14722
 Sao Lourenco	Sao Lourenco, Minas Gerais	314792	8	41143	-22.11639	-45.05444
 Sao Lourenco da Mata	Sao Lourenco Da Mata, Pernambuco	303591	8	88416	-8.00222	-35.01833
@@ -4441,9 +4595,12 @@ Sao Martinho	Funchal, Madeira	8426655	8	26482	32.6448	-16.93843
 Sao Martinho do Porto	Alcobaca, Leiria	6544462	8	2868	39.51444	-9.13111
 Sao Mateus	Angra do Heroismo, Azores	7448366	8	3757	38.6563	-27.26935
 Sao Mateus do Maranhao	Sao Mateus Do Maranhao, Maranhao	332937	8	28233	-4.04167	-44.475
+Sao Mateus do Sul	Sao Mateus Do Sul, Parana	297770	8	24904	-25.87417	-50.38278
+Sao Miguel do Araguaia	Sao Miguel Do Araguaia, Goias	334430	8	18809	-13.275	-50.16278
 Sao Miguel do Guama	Sao Miguel Do Guama, Para	185611	8	28265	-1.62667	-47.48333
 Sao Miguel do Guama	Sao Miguel Do Guama, Para	6450062	9	28265	-1.62667	-47.48333
 Sao Miguel do Iguacu	Sao Miguel Do Iguacu, Parana	297798	8	15434	-25.34806	-54.23778
+Sao Miguel do Tapuio	Sao Miguel Do Tapuio, Piaui	302741	8	7964	-5.50361	-41.32333
 Sao Miguel dos Campos	Sao Miguel Dos Campos, Alagoas	303788	8	40890	-9.78111	-36.09361
 Sao Miguel dos Campos	Sao Miguel Dos Campos, Alagoas	6179459	9	40890	-9.78111	-36.09361
 Sao Paulo	Sao Paulo	298285	8	10021295	-23.5475	-46.63611
@@ -4457,6 +4614,8 @@ Sao Pedro do Piaui	Sao Pedro Do Piaui, Piaui	302795	8	7408	-5.92944	-42.71861
 Sao Pedro do Sul	Sao Pedro Do Sul, Rio Grande do Sul	242532	8	12137	-29.62056	-54.17889
 Sao Pedro do Sul	Sao Pedro Do Sul, Rio Grande do Sul	7298808	9	12137	-29.62056	-54.17889
 Sao Pedro do Sul	Sao Pedro do Sul, Viseu	5330331	7	4080	40.75537	-8.07265
+Sao Raimundo Nonato	Sao Raimundo Nonato, Piaui	302786	8	19569	-9.01528	-42.69944
+Sao Raimundo das Mangabeiras	Sao Raimundo Das Mangabeiras, Maranhao	332950	8	10216	-7.02194	-45.48111
 Sao Roque	Funchal, Madeira	8426654	8	9385	32.66667	-16.91667
 Sao Roque	Oliveira de Azemeis, Aveiro	6021991	8	5575	40.87216	-8.47149
 Sao Roque	Sao Roque, Sao Paulo	298124	8	50540	-23.52917	-47.13528
@@ -4472,6 +4631,7 @@ Sao Sebastiao do Cai	Sao Sebastiao Do Cai, Rio Grande do Sul	7021770	9	19012	-29
 Sao Sebastiao do Paraiso	Sao Sebastiao Do Paraiso, Minas Gerais	314725	8	68654	-20.91694	-46.99139
 Sao Sebastiao do Passe	Sao Sebastiao Do Passe, Bahia	362221	8	31049	-12.5125	-38.49528
 Sao Sebastiao do Passe	Sao Sebastiao Do Passe, Bahia	6234391	9	31049	-12.5125	-38.49528
+Sao Sepe	Sao Sepe, Rio Grande do Sul	242673	8	19181	-30.16056	-53.56528
 Sao Simao	Sao Simao, Sao Paulo	298365	8	12351	-21.47917	-47.55083
 Sao Simao	Sao Simao, Sao Paulo	5349762	9	12351	-21.47917	-47.55083
 Sao Teotonio	Odemira, Beja	6437462	8	4936	37.51282	-8.70708
@@ -4496,6 +4656,7 @@ Sapiranga	Sapiranga, Rio Grande do Sul	242566	8	76051	-29.63806	-51.00694
 Sapiranga	Sapiranga, Rio Grande do Sul	7375055	9	76051	-29.63806	-51.00694
 Saponara	Messina, Sicily	39572	8	1473	38.19241	15.43442
 Sapone	Bazega Province, Centre-Sud	5707926	6	0	12.05356	-1.60491
+Saposoa	Provincia de Huallaga, San Martin	1971730	8	14894	-6.93395	-76.77158
 Sapouy	Province du Ziro, Centre-Ouest	5705431	6	3837	11.55444	-1.77361
 Sappada	Udine, Friuli Venezia Giulia	47250	8	1359	46.56663	12.68421
 Sappemeer	Midden-Groningen, Groningen	1424908	10	8298	53.16417	6.79028
@@ -4515,6 +4676,7 @@ Sarabetsu	Kasai-gun, Hokkaido	4079231	7	3275	42.656	143.18708
 Saracena	Provincia di Cosenza, Calabria	40055	8	3469	39.77862	16.15913
 Saracinesco	Citta metropolitana di Roma Capitale, Lazio	41692	8	88	42.00332	12.95329
 Saraikela	Saraikela, Jharkhand	9965573	6	12663	22.69963	85.93126
+Saraipali	Mahasamund, Chhattisgarh	11620257	9	18394	21.3153	83.00629
 Saraiu	Comuna Saraiu, Constanta	12498957	8	1464	44.71667	28.15
 Saraj	Grad Skopje	6966472	9	25379	42	21.32778
 Saraland	Mobile County, Alabama	110249	8	13906	30.82074	-88.07056
@@ -4578,12 +4740,14 @@ Sargentes de la Lora	Provincia de Burgos, Castille and Leon	347944	8	204	42.7691
 Sarhua	Provincia de Victor Fajardo, Ayacucho	1931017	8	0	-13.67417	-74.32
 Sari-Solenzara	South Corsica, Corsica	77318	8	1150	41.83519	9.3747
 Sariaya	Province of Quezon, Calabarzon	10814194	6	44977	13.9624	121.5265
+Saric	Saric, Sonora	5606412	6	892	31.10328	-111.37931
 Saricakaya	Eskisehir	1238926	6	0	40.03686	30.62675
 Saricam	Adana	1249247	6	0	37.15172	35.50769
 Sarichioi	Comuna Sarichioi, Tulcea	10366921	8	7483	44.95	28.85
 Sariego	Province of Asturias, Asturias	343622	8	1367	43.4	-5.53333
 Sariegos	Provincia de Leon, Castille and Leon	340071	8	3589	42.65	-5.63333
 Sarigol	Manisa	1822975	6	12794	38.23953	28.69663
+Sarikamis	Kars	1838394	6	23665	40.32769	42.58705
 Sarikaya	Yozgat	1561850	6	0	39.49361	35.37694
 Sarila	Hamirpur, Uttar Pradesh	10016747	6	8012	25.77579	79.67535
 Sarina	Mackay, Queensland	11676598	9	5534	-21.4191	149.21677
@@ -4598,6 +4762,7 @@ Sarkeresztur	Fejer	1402809	8	2443	47.0054	18.54391
 Sarkisla	Sivas	1335055	6	23800	39.35186	36.40976
 Sarkoey	Sarkoey Ilcesi, Tekirdag	1771128	6	0	40.61395	27.11563
 Sarlat-la-Caneda	Dordogne, Nouvelle-Aquitaine	1839460	8	11126	44.88902	1.21656
+Sarlat-la-Caneda	Dordogne, Nouvelle-Aquitaine	3250698	7	11126	44.88902	1.21656
 Sarleinsbach	Politischer Bezirk Rohrbach, Upper Austria	1017194	8	1115	48.54525	13.90491
 Sarmato	Provincia di Piacenza, Emilia-Romagna	44085	8	2667	45.05679	9.49683
 Sarmede	Provincia di Treviso, Veneto	46677	8	1075	45.97625	12.38581
@@ -4614,6 +4779,7 @@ Sarnitsa	Obshtina Velingrad, Pazardzhik	4673939	7	0	41.73835	24.02435
 Sarno	Provincia di Salerno, Campania	40765	8	28837	40.80748	14.62151
 Sarnonico	Provincia autonoma di Trento, Trentino-Alto Adige	47184	8	647	46.41941	11.14177
 Saro	Provincia de Cantabria, Cantabria	345458	8	519	43.25961	-3.84283
+Sarolangun	Jambi	13757970	5	0	-2.3121	102.7271
 Saronno	Provincia di Varese, Lombardy	45496	8	38099	45.62513	9.03517
 Sarosd	Fejer	1420600	8	3474	47.04273	18.64357
 Sarospatak	Borsod-Abauj-Zemplen	1432114	8	11886	48.3245	21.57383
@@ -4625,6 +4791,7 @@ Sarre-Union	Bas-Rhin, Grand Est	282427	8	3572	48.93818	7.09373
 Sarreaus	Provincia de Ourense, Galicia	12578243	9	1768	42.08784	-7.60348
 Sarreaus	Provincia de Ourense, Galicia	341694	8	1768	42.08784	-7.60348
 Sarrebourg	Moselle, Grand Est	319872	8	14677	48.73558	7.0572
+Sarreguemines	Moselle, Grand Est	2349599	7	24446	49.10995	7.06747
 Sarreguemines	Moselle, Grand Est	90243	8	24446	49.10995	7.06747
 Sarreinsming	Moselle, Grand Est	90290	8	1300	49.09121	7.11053
 Sarretudvari	Hajdu-Bihar	1405222	8	3023	47.23333	21.2
@@ -4650,6 +4817,7 @@ Sartana	Donetsk Oblast	3940356	9	10543	47.17704	37.69273
 Sarteano	Provincia di Siena, Tuscany	42233	8	4026	42.99193	11.86472
 Sartell	Stearns County, Minnesota	137239	8	16788	45.62163	-94.20694
 Sartene	South Corsica, Corsica	1112243	8	3674	41.61667	8.98333
+Sartene	South Corsica, Corsica	2815874	7	3674	41.61667	8.98333
 Sartilly	Manche, Normandy	1014449	9	1318	48.75239	-1.45678
 Sartimbamba	Sanchez Carrion, La Libertad	1968048	8	600	-7.69954	-77.74131
 Sartirana Lomellina	Provincia di Pavia, Lombardy	44186	8	1672	45.11352	8.66711
@@ -4672,6 +4840,7 @@ Sasca Montana	Comuna Sasca Montana, Caras-Severin	11319211	8	787	44.88546	21.709
 Saschiz	Comuna Saschiz, Mures	12560378	8	2009	46.18333	24.96667
 Sasciori	Comuna Sasciori, Alba	10540684	8	5822	45.86667	23.58333
 Sasd	Baranya	575116	8	3500	46.2552	18.10776
+Sasebo	Sasebo Shi, Nagasaki	4010194	7	237444	33.16834	129.72502
 Sasel	Hamburg	288566	10	23131	53.65385	10.11184
 Saskatoon	Saskatchewan	4189345	8	198958	52.13238	-106.66892
 Sasni	Hathras, Uttar Pradesh	10001784	6	13498	27.70287	78.08278
@@ -4680,6 +4849,8 @@ Sason	Batman	1842149	6	11403	38.32767	41.41377
 Saspow	Powiat krakowski, Lesser Poland	3258978	8	1358	50.22887	19.77007
 Sassafras	Yarra Ranges, Victoria	2423773	9	1010	-37.86667	145.35
 Sassano	Provincia di Salerno, Campania	40420	8	2067	40.3403	15.56555
+Sassari	Provincia di Sassari, Sardinia	275098	6	91895	40.72586	8.55552
+Sassari	Provincia di Sassari, Sardinia	40683	8	91895	40.72586	8.55552
 Sassello	Provincia di Savona, Liguria	43164	8	1115	44.48036	8.49375
 Sassenage	Isere, Auvergne-Rhone-Alpes	90412	8	10641	45.21266	5.6629
 Sassenay	Saone-et-Loire, Bourgogne-Franche-Comte	910528	8	1465	46.83074	4.92523
@@ -4701,6 +4872,7 @@ Satanta	Haskell County, Kansas	129750	8	1133	37.43725	-100.97211
 Satao	Satao, Viseu	5330119	7	4034	40.74177	-7.73285
 Satao	Satao, Viseu	6412553	8	4034	40.74177	-7.73285
 Satara	Satara Division, Maharashtra	10354583	6	112793	17.68589	73.99333
+Satawal	Satawal Municipality, Yap	3819443	8	0	7.382	147.0322
 Satchinez	Comuna Satchinez, Timis	11322068	8	4586	45.9375	21.04056
 Satellite Beach	Brevard County, Florida	1216825	8	10633	28.17612	-80.59005
 Sathankulam	Thoothukkudi, Tamil Nadu	10311685	6	14084	8.44164	77.91349
@@ -4713,6 +4885,7 @@ Satillieu	Ardeche, Auvergne-Rhone-Alpes	130586	8	1599	45.15041	4.6141
 Satipo	Provincia de Satipo, Junin	1948375	8	15532	-11.25222	-74.63861
 Sativanorte	Sativanorte, Boyaca	1315425	6	792	6.13156	-72.70895
 Sativasur	Sativasur, Boyaca	1423449	6	579	6.09334	-72.71235
+Satna	Satna, Madhya Pradesh	1973984	5	257778	24.57726	80.82719
 Satolas-et-Bonce	Isere, Auvergne-Rhone-Alpes	76467	8	1781	45.69368	5.13032
 Satoraljaujhely	Satoraljaujhelyi jaras, Borsod-Abauj-Zemplen	1439147	8	18052	48.39492	21.65871
 Satov	Okres Znojmo, South Moravian	435924	10	1200	48.79317	16.00992
@@ -4789,6 +4962,7 @@ Sausalito	Marin County, California	2829689	8	7156	37.85909	-122.48525
 Sausheim	Haut-Rhin, Grand Est	38262	8	5744	47.78711	7.37267
 Saussan	Herault, Occitanie	28956	8	1622	43.5722	3.775
 Saussay	Eure-et-Loir, Centre	255519	8	1013	48.85571	1.40889
+Saussay	Eure-et-Loir, Centre	3014992	8	1013	48.85571	1.40889
 Sausset-les-Pins	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	74265	8	7619	43.33136	5.10431
 Sautron	Loire-Atlantique, Pays de la Loire	74611	8	7405	47.26345	-1.67222
 Sauvagnon	Pyrenees-Atlantiques, Nouvelle-Aquitaine	168019	8	2531	43.40151	-0.38797
@@ -4807,10 +4981,12 @@ Sauzal	Provincia de Santa Cruz de Tenerife, Canary Islands	347972	8	8172	28.4666
 Sauze d'Oulx	Torino, Piedmont	44028	8	1096	45.02659	6.86074
 Sauze di Cesana	Torino, Piedmont	43746	8	65	44.94058	6.85988
 Sauze-Vaussais	Deux-Sevres, Nouvelle-Aquitaine	152499	8	1640	46.13383	0.10691
+Sauzet	Drome, Auvergne-Rhone-Alpes	2506601	8	1819	44.60397	4.82091
 Sauzet	Drome, Auvergne-Rhone-Alpes	89387	8	1819	44.60397	4.82091
 Sava	Provincia di Taranto, Apulia	40463	8	15898	40.40203	17.55267
 Savadisla	Comuna Savadisla, Cluj	10488517	8	4433	46.68333	23.45
 Savage	Scott County, Minnesota	136767	8	30391	44.77913	-93.33634
+Savalou	Collines	2860037	6	30187	7.92807	1.97558
 Savanna	Carroll County, Illinois	126721	8	2880	42.09447	-90.15679
 Savannah	Andrew County, Missouri	141037	8	5108	39.94166	-94.83025
 Savannah	Chatham County, Georgia	119867	8	147780	32.08354	-81.09983
@@ -4835,6 +5011,7 @@ Savignano sul Rubicone	Provincia di Forli-Cesena, Emilia-Romagna	42849	8	14715	4
 Savigne	Vienne, Nouvelle-Aquitaine	144630	8	1449	46.15911	0.32094
 Savigne-sur-Lathan	Indre-et-Loire, Centre	105181	8	1100	47.44483	0.32093
 Savigneux	Loire, Auvergne-Rhone-Alpes	114266	8	2623	45.6167	4.0833
+Savigneux	Loire, Auvergne-Rhone-Alpes	145671	8	2623	45.6167	4.0833
 Savigno	Bologna, Emilia-Romagna	6598602	10	1184	44.39186	11.07481
 Savignone	Provincia di Genova, Liguria	43276	8	1234	44.56435	8.98726
 Savigny	Lavaux-Oron District, Vaud	1685148	8	3440	46.53844	6.73222
@@ -4851,16 +5028,21 @@ Savitaipale	Lappeenranta, South Karelia	2502703	8	4195	61.2	27.7
 Savoca	Messina, Sicily	39435	8	156	37.95326	15.34009
 Savogna	Udine, Friuli Venezia Giulia	179237	8	198	46.15846	13.53089
 Savoia di Lucania	Provincia di Potenza, Basilicate	40604	8	537	40.56949	15.55132
+Savona	Provincia di Savona, Liguria	42760	6	61345	44.30905	8.47715
 Savona	Provincia di Savona, Liguria	43007	8	61345	44.30905	8.47715
+Savonlinna	Savonlinna, South Savo	2522466	9	27353	61.8699	28.87999
+Savonlinna	Savonlinna, South Savo	2673137	8	27353	61.8699	28.87999
 Savonnieres	Indre-et-Loire, Centre	85770	8	2686	47.34769	0.54961
 Savosa	Lugano District, Ticino	1684753	8	0	46.01902	8.94236
 Savoy	Champaign County, Illinois	126130	8	8133	40.05475	-88.25172
 Savsat	Artvin	1838467	6	8151	41.25336	42.35531
 Savski Venac	Belgrade, Central Serbia	5892891	8	0	44.77917	20.45389
+Savukoski	Itae-Lappi, Lapland	2528665	8	1357	67.2925	28.15806
 Savur	Mardin	1849197	6	8658	37.53544	40.87876
 Savy-Berlette	Pas-de-Calais, Hauts-de-France	1211145	8	1047	50.35249	2.56456
 Savyntsi	Kharkiv	3540244	8	5326	49.40505	37.05517
 Savyon	Central District	1932371	8	4036	32.04966	34.8777
+Sawai Madhopur	Sawai Madhopur, Rajasthan	1950075	5	108612	26.02301	76.34408
 Sawakin	Red Sea	11707861	10	28570	19.1059	37.3321
 Sawakin	Red Sea	3898649	9	28570	19.1059	37.3321
 Sawang	Aceh	8932290	6	0	3.40342	97.1011
@@ -4882,9 +5064,11 @@ Sayan	Huaura, Lima region	1944847	8	6196	-11.13333	-77.1946
 Sayapullo	Gran Chimu, La Libertad	1968050	8	764	-7.59646	-78.46816
 Sayat	Puy-de-Dome, Auvergne-Rhone-Alpes	110641	8	2359	45.8264	3.0525
 Sayaton	Provincia de Guadalajara, Castille-La Mancha	344533	8	131	40.37635	-2.85253
+Sayaxche	Peten	4558862	6	9100	16.52446	-90.18801
 Sayda	Saxony	2985139	7	2235	50.71123	13.42172
 Sayda	Saxony	416546	8	2235	50.71123	13.42172
 Saylla	Provincia de Cusco, Cusco	1925301	8	0	-13.56139	-71.84889
+Saynshand	East Gobi Aymag	7304609	6	19891	44.88239	110.11631
 Sayre	Beckham County, Oklahoma	185007	8	4773	35.29116	-99.6401
 Sayre	Bradford County, Pennsylvania	187398	8	5424	41.97896	-76.5155
 Sayreville	Middlesex County, New Jersey	170543	8	44920	40.45927	-74.36098
@@ -4893,5 +5077,6 @@ Sayula de Aleman	Sayula de Aleman, Veracruz	6037795	6	13980	17.88191	-94.95986
 Sayville	Suffolk County, New York	175781	8	16853	40.73593	-73.08206
 Sazava	Okres Benesov, Central Bohemia	428558	10	3797	49.87164	14.89674
 Sazava	Okres Benesov, Central Bohemia	441203	8	3797	49.87164	14.89674
+Sazava	Okres Benesov, Central Bohemia	442550	8	3797	49.87164	14.89674
 Saze	Gard, Occitanie	384632	8	1590	43.94126	4.68163
 sa Pobla	Illes Balears, Balearic Islands	347624	8	12766	39.7692	3.02394

@@ -64,6 +64,7 @@ El Colegio	Cundinamarca	1413003	6	0	4.58103	-74.44293
 El Copey	El Copey, Cesar	4060664	6	28550	10.15031	-73.9614
 El Coronil	Provincia de Sevilla, Andalusia	341602	8	5011	37.07955	-5.6341
 El Cuy	Departamento de El Cuy, Rio Negro	8188558	8	0	-39.92685	-68.34208
+El Doncello	El Doncello, Caqueta	1342119	6	17775	1.67817	-75.28466
 El Dorado	Butler County, Kansas	129764	8	12931	37.81724	-96.86225
 El Dorado	El Dorado, Meta	1438583	6	0	3.73924	-73.83489
 El Dorado	Municipio Sifontes, Bolivar	14531240	8	16100	6.71581	-61.63738
@@ -99,6 +100,7 @@ El Ksour	El Ksour, Kef	7139151	6	5034	35.89607	8.88493
 El Lago	Harris County, Texas	5011585	8	2706	29.56356	-95.04521
 El Limon	El Limon, Jalisco	5605764	6	3102	19.82546	-104.15633
 El Llano	El Llano, Elias Pina	7155959	6	2438	18.81667	-71.63333
+El Maiten	Departamento de Cushamen, Chubut	10107024	9	3782	-42.04924	-71.16693
 El Maiten	Departamento de Cushamen, Chubut	4445880	8	3782	-42.04924	-71.16693
 El Maria	Distrito de Las Palmas, Veraguas	13090887	8	87	8.02905	-81.44384
 El Masnou	Provincia de Barcelona, Catalonia	340689	8	23340	41.47978	2.3188
@@ -108,6 +110,7 @@ El Molino	El Molino, La Guajira	1314630	6	5265	10.65296	-72.92461
 El Monte	Provincia de Talagante, Santiago Metropolitan	1617563	8	23090	-33.67969	-70.98482
 El Nancito	Distrito de Remedios, Chiriqui	8479456	8	288	8.24124	-81.73207
 El Naranjo	El Naranjo, San Luis Potosi	5605768	6	10562	22.52597	-99.32968
+El Negrito	Yoro	13780338	6	9303	15.31667	-87.7
 El Oro	San Francisco del Oro, Chihuahua	5606236	6	4249	26.8632	-105.84838
 El Oro de Hidalgo	El Oro, Mexico	5605769	6	5776	19.80272	-100.13081
 El Palmar	Bolivar	14525200	8	0	8.01082	-61.90713
@@ -120,6 +123,7 @@ El Paso	El Paso County, Texas	113919	8	681124	31.75872	-106.48693
 El Paso	El Paso, Cesar	1423486	6	6367	9.65724	-73.74685
 El Paso	Provincia de Santa Cruz de Tenerife, Canary Islands	345389	8	7543	28.65007	-17.88274
 El Paso	Woodford County, Illinois	125957	8	2798	40.7392	-89.01646
+El Paujil	El Paujil, Caqueta	1342099	6	7618	1.57006	-75.32863
 El Pedernoso	Provincia de Cuenca, Castille-La Mancha	343300	8	1289	39.4858	-2.74642
 El Penol	El Penol, Narino	1320710	6	2294	1.45365	-77.44017
 El Penon	Bolivar	1326226	6	7234	8.98691	-73.94697
@@ -129,6 +133,7 @@ El Pilar	Municipio Benitez, Sucre	14434702	8	0	10.54782	-63.15424
 El Pino	El Pino, Dajabon	7187302	6	1529	19.43537	-71.4754
 El Pinon	El Pinon, Magdalena	1423457	6	7481	10.40283	-74.82415
 El Piro	Nurun, Ngoebe-Bugle	13189162	8	0	8.21185	-81.5315
+El Pital	San Rafael, Veracruz	4609926	8	2346	20.15695	-96.89805
 El Plan	Murcia	3399366	10	7497	37.65	-1.01667
 El Plateado de Joaquin Amaro	El Plateado de Joaquin Amaro, Zacatecas	5605771	6	486	21.93622	-103.09267
 El Playon	El Playon, Santander	1314968	6	12966	7.47131	-73.2031
@@ -195,12 +200,14 @@ El Viso	Province of Cordoba, Andalusia	346771	8	2568	38.48333	-4.95
 El Viso de San Juan	Province of Toledo, Castille-La Mancha	347347	8	1992	40.14154	-3.91817
 El Viso del Alcor	Provincia de Sevilla, Andalusia	347022	8	19191	37.39106	-5.71993
 El Volador	Papantla, Veracruz	4613185	8	2343	20.64294	-97.24885
+El Zulia	El Zulia, Norte de Santander	1423478	6	26019	7.93248	-72.60125
 El'ad	Central District	1399133	8	48763	32.04984	34.95382
 Elancourt	Yvelines, Ile-de-France	49544	8	30831	48.78421	1.9552
 Elanora	Gold Coast, Queensland	11675441	9	12059	-28.13577	153.44931
 Elanora Heights	Northern Beaches, New South Wales	2982152	9	4284	-33.70159	151.27965
 Elantxobe	Bizkaia, Basque Country	343934	8	0	43.40243	-2.63912
 Elato	Elato Municipality, Yap	3819437	8	0	7.502	146.166
+Elazig	Elazig	223443	4	298004	38.67431	39.22321
 Elba	Coffee County, Alabama	7440901	8	3903	31.41461	-86.06772
 Elbasan	Elbasan	1250602	8	100903	41.1125	20.08222
 Elbe	Lower Saxony	1432666	8	1853	52.08333	10.28333
@@ -209,6 +216,7 @@ Elberta	Baldwin County, Alabama	110219	8	1652	30.41436	-87.59776
 Elberton	Elbert County, Georgia	119921	8	4453	34.11159	-82.86863
 Elbeuf	Seine-Maritime, Normandy	133927	8	17231	49.28669	1.00288
 Elbeyli	Kilis	1240869	6	2224	36.67417	37.46667
+Elbingerode	Saxony-Anhalt	1416146	8	4112	51.77039	10.80557
 Elbingerode	Saxony-Anhalt	4099136	9	4112	51.77039	10.80557
 Elbistan	Kahramanmaras	1341120	6	80456	38.20591	37.1983
 Elblag	Elblag, Warmia-Masuria	1600068	6	127558	54.1522	19.40884
@@ -274,6 +282,7 @@ Elice	Provincia di Pescara, Abruzzo	42058	8	366	42.52279	13.97071
 Elida	Allen County, Ohio	182721	8	1858	40.78866	-84.20384
 Elimbah	Moreton Bay, Queensland	11677707	9	3941	-27.01667	152.95
 Elin Pelin	Obshtina Elin Pelin, Sofia	1978767	7	7373	42.66667	23.6
+Eling	Tongren Diqu, Guizhou	2778221	6	0	28.00045	108.40093
 Elini	Provincia di Nuoro, Sardinia	40130	8	384	39.89952	9.53198
 Elixhausen	Politischer Bezirk Salzburg-Umgebung, Salzburg	967135	8	2963	47.86667	13.06667
 Elizabeth	Allegheny County, Pennsylvania	187446	8	1499	40.26924	-79.88977
@@ -339,6 +348,7 @@ Ellendale	Dickey County, North Dakota	181583	8	1299	46.00275	-98.52705
 Ellensburg	Kittitas County, Washington	7482975	8	19001	46.99651	-120.54785
 Ellerau	Schleswig-Holstein	442763	8	5500	53.75	9.91667
 Ellerbe	Richmond County, North Carolina	179959	8	1005	35.07126	-79.76144
+Ellerbek	Schleswig-Holstein	11299761	10	4326	53.65817	9.86991
 Ellerbek	Schleswig-Holstein	443703	8	4326	53.65817	9.86991
 Ellerhoop	Schleswig-Holstein	443360	8	1304	53.72603	9.76933
 Ellerker	East Riding of Yorkshire, England	571688	10	307	53.75323	-0.60416
@@ -365,6 +375,8 @@ Ellisville	Jones County, Mississippi	12350513	8	4573	31.60405	-89.19561
 Ellisville	Saint Louis County, Missouri	139979	8	9284	38.59255	-90.58707
 Ello	Provincia di Lecco, Lombardy	46099	8	723	45.78568	9.36534
 Ellore	West Godavari, Andhra Pradesh	10143866	6	183387	16.71311	81.10437
+Ellore	West Godavari, Andhra Pradesh	13999189	5	183387	16.71311	81.10437
+Ellore	West Godavari, Andhra Pradesh	2022127	5	183387	16.71311	81.10437
 Ellport	Lawrence County, Pennsylvania	187379	8	1141	40.86395	-80.25895
 Ellrich	Thuringia	2400373	8	6423	51.58656	10.66326
 Ellsworth	Ellsworth County, Kansas	130034	8	3057	38.73056	-98.22811
@@ -497,6 +509,7 @@ el Poal	Provincia de Lleida, Catalonia	346982	8	0	41.68333	0.86667
 el Poblenou	Provincia de Barcelona, Catalonia	4160731	10	33642	41.40392	2.20413
 el Pont de Bar	Provincia de Lleida, Catalonia	343322	8	0	42.3711	1.60538
 el Pont de Suert	Provincia de Lleida, Catalonia	342835	8	2216	42.40815	0.74171
+el Raval	Provincia de Barcelona, Catalonia	10840408	10	48403	41.38042	2.1686
 el Raval	Provincia de Barcelona, Catalonia	12015716	10	48403	41.38042	2.1686
 el Raval	Provincia de Barcelona, Catalonia	4127652	10	48403	41.38042	2.1686
 el Turo de la Peira	Provincia de Barcelona, Catalonia	4143083	10	15554	41.43232	2.16895

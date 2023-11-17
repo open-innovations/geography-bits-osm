@@ -46,6 +46,10 @@ for($i = 1; $i < @lines; $i++){
 	}
 }
 
+#print Dumper $osm{'118362'};
+#print Dumper $osm{'2094141'};
+
+
 #geonameid         : integer id of record in geonames database
 #name              : name of geographical point (utf8) varchar(200)
 #asciiname         : name of geographical point in plain ascii characters, varchar(200)
@@ -106,7 +110,7 @@ print "Loaded Geonames\n";
 #$geoid = findMatchInGeoNames(118362);	# Leeds
 #$geoid = findMatchInGeoNames(4818767);	# Horsforth
 #$geoid = findMatchInGeoNames(299231);	# Tilburg
-
+#$geoid = findMatchInGeoNames(2094141);	# Auckland
 
 open($fh,">","good.tsv");
 print $fh "Name\tRegion\tOSM ID\tLevel\tPopulation\tLatitude\tLongitude\n";
@@ -148,7 +152,7 @@ sub findMatchInGeoNames {
 		$id = $matches[0];
 		@T = NESW($geo{$id}{'lon'},$geo{$id}{'lat'});
 		$km = great_circle_distance(@L, @T, 6378);
-		if($km < 30){
+		if($km < 100){
 			$good = $id;
 		}else{
 			print "match is $km km away ";

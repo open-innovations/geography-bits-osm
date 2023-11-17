@@ -15,6 +15,7 @@ Asan	Chungcheongnam-do	2546883	6	97749	36.78361	127.00417
 Asarcik	Samsun	1837361	6	2154	41.03556	36.23556
 Asarganj	Munger, Bihar	10293715	6	6020	25.15046	86.68639
 Asau	Comuna Asau, Bacau	14194825	8	7438	46.44301	26.40036
+Asbach	Rheinland-Pfalz	1245096	8	7060	50.66667	7.41667
 Asbach	Rheinland-Pfalz	443130	7	7060	50.66667	7.41667
 Asbach	Rheinland-Pfalz	443469	8	7060	50.66667	7.41667
 Asbach-Baumenheim	Swabia, Bavaria	562971	8	4346	48.68333	10.81667
@@ -40,6 +41,7 @@ Ascoli Piceno	Provincia di Ascoli Piceno, The Marches	42141	6	41741	42.85351	13.
 Ascoli Piceno	Provincia di Ascoli Piceno, The Marches	42176	8	41741	42.85351	13.57395
 Ascoli Satriano	Provincia di Foggia, Apulia	41097	8	5518	41.20365	15.56646
 Ascona	Locarno District, Ticino	1684618	8	5084	46.15451	8.77327
+Ascope	Ascope, La Libertad	1967963	6	14015	-7.71444	-79.10778
 Ascope	Ascope, La Libertad	1967981	8	14015	-7.71444	-79.10778
 Ascot	Belmont, Western Australia	11315165	9	2674	-31.93818	115.92258
 Ascot	Brisbane, Queensland	11677772	9	5773	-27.43154	153.058
@@ -112,6 +114,8 @@ Ashley	McIntosh County, North Dakota	181666	8	726	46.03414	-99.3715
 Ashmont	Wagga Wagga, New South Wales	5914429	9	3787	-35.12491	147.33172
 Ashmore	Gold Coast, Queensland	11675457	9	11902	-27.98883	153.37647
 Ashmyany	Grodnenskaya	3534722	8	14345	54.421	25.936
+Ashoknagar	Ashoknagar, Madhya Pradesh	9530970	5	64722	24.57578	77.73123
+Ashoro	Ashoro-gun, Hokkaido	4069253	7	7150	43.23722	143.54278
 Ashtabula	Ashtabula County, Ohio	182837	8	18371	41.86505	-80.78981
 Ashton	Fremont County, Idaho	121406	8	1051	44.07158	-111.44829
 Ashton Keynes	Wiltshire, England	5478302	10	1400	51.64521	-1.93232
@@ -125,17 +129,20 @@ Ashwell	Hertfordshire, England	3633196	10	1870	52.03866	-0.15398
 Ashwood	Monash, Victoria	2395624	9	7154	-37.86659	145.10553
 Asia	Provincia de Canete, Lima region	1944680	8	890	-12.7794	-76.55666
 Asiago	Provincia di Vicenza, Veneto	1650217	8	3683	45.87588	11.51223
+Asientos	Asientos, Aguascalientes	5605539	6	4517	22.23836	-102.0894
 Asigliano Veneto	Provincia di Vicenza, Veneto	44717	8	406	45.30469	11.4464
 Asigliano Vercellese	Provincia di Vercelli, Piedmont	44539	8	1355	45.26146	8.40853
 Asika	Ganjam, Odisha	10115633	6	21134	19.61114	84.65998
 Asikkala	Lahti, Paijat-Hame	2509098	8	8540	61.21667	25.5
 Asillo	Provincia de Azangaro, Puno	1918547	8	0	-14.78333	-70.35
 Asipovichy	Mogilev	6722697	8	34591	53.3011	28.6386
+Askale	Erzurum	1832853	6	15462	39.92083	40.695
 Askeaton	Limerick City and County Council, Munster	6142493	10	1137	52.59972	-8.97556
 Asker	Asker, Viken	10483728	7	60926	59.83333	10.43721
 Askern	Doncaster, England	1271973	10	5570	53.61639	-1.15237
 Askham Richard	City of York, England	7225778	10	0	53.92491	-1.18481
 Askola	Porvoo, Uusimaa	37202	8	4515	60.53333	25.6
+Askoy	Askoy, Vestland	404157	7	17224	60.4	5.18333
 Askvoll	Askvoll, Vestland	404673	7	0	61.34673	5.06224
 Askyaran	Xocali	10249805	5	1639	39.9391	46.83161
 Aslanapa	Kuetahya	1824949	6	2388	39.21581	29.8699
@@ -154,6 +161,7 @@ Aspach	Regierungsbezirk Stuttgart, Baden-Wurttemberg	400932	8	8131	48.96667	9.4
 Aspach-le-Bas	Haut-Rhin, Grand Est	80187	8	1131	47.76135	7.15104
 Aspach-le-Haut	Haut-Rhin, Grand Est	80189	9	1180	47.77653	7.13145
 Aspariegos	Provincia de Zamora, Castille and Leon	341156	8	306	41.67458	-5.59955
+Asparuhovo	Varna	13477521	8	27000	43.18067	27.88823
 Aspatria	Cumbria, England	8366277	10	2454	54.76574	-3.32783
 Aspe	Provincia de Alicante, Valencia	340523	8	20180	38.34511	-0.76721
 Aspelare	Provincie Oost-Vlaanderen, Flanders	3390354	9	1622	50.84189	3.95743
@@ -210,6 +218,7 @@ Asten	Gemeente Asten, North Brabant	2182240	10	9535	51.40417	5.74861
 Asten	Gemeente Asten, North Brabant	303197	8	9535	51.40417	5.74861
 Asten	Politischer Bezirk Linz-Land, Upper Austria	89432	8	3214	48.21941	14.41784
 Astene	Provincie Oost-Vlaanderen, Flanders	9331631	9	4935	50.98512	3.56654
+Asti	Provincia di Asti, Piedmont	43267	6	74348	44.90162	8.20751
 Asti	Provincia di Asti, Piedmont	43724	8	74348	44.90162	8.20751
 Astigarraga	Provincia de Guipuzcoa, Basque Country	348855	8	4254	43.28174	-1.94634
 Astley	Shropshire, England	4581078	10	0	52.76667	-2.7
@@ -236,5 +245,6 @@ Asuncion Tlacolulita	Asuncion Tlacolulita, Oaxaca	5999506	6	540	16.29942	-95.726
 Asuni	Provincia di Oristano, Sardinia	40116	8	355	39.87101	8.94603
 Asvanyraro	Gyor-Moson-Sopron	1492796	8	1985	47.82733	17.49418
 Asvieja	Vitebsk	6886094	10	1300	56.0147	28.11049
+Asyut	Asyut	3726184	4	528669	27.18096	31.18368
 Aszalo	Borsod-Abauj-Zemplen	1440930	8	2008	48.21667	20.96667
 Aszod	Pest	1607378	8	6186	47.65174	19.4785

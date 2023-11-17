@@ -1,5 +1,7 @@
+Ho Chi Minh City	Ho Chi Minh	1973756	4	8993082	10.82302	106.62965
 Ho Xa	Quang Tri	7046123	6	0	17.06836	107.0052
 Ho-Ho-Kus	Bergen County, New Jersey	170631	8	4165	40.99649	-74.10125
+Hoa Binh	Nghe An	7014438	6	0	19.26393	104.47232
 Hoa Vang	Da Nang	7053087	6	0	15.98764	108.13893
 Hoai An	Binh Dinh	7066235	6	0	14.36352	108.96476
 Hoan Lao	Quang Binh	7038730	6	0	17.58436	106.53425
@@ -15,6 +17,7 @@ Hobo	Hobo, Huila	1342116	6	4444	2.58333	-75.45
 Hoboken	Hudson County, New Jersey	170708	8	53635	40.74399	-74.03236
 Hoboken	Provincie Antwerpen, Flanders	59534	9	34443	51.17611	4.34844
 Hobor	Wulanchabu Shi, Inner Mongolia	10465092	8	0	41.27154	112.62663
+Hobor	Wulanchabu Shi, Inner Mongolia	2752969	6	0	41.27154	112.62663
 Hobscheid	Hobscheid, Capellen	3661980	9	1051	49.68861	5.91472
 Hobscheid	Hobscheid, Capellen	407841	8	1051	49.68861	5.91472
 Hocaba	Hocaba, Yucatan	5961490	6	4127	20.8162	-89.24626
@@ -34,6 +37,7 @@ Hochfelden	Bas-Rhin, Grand Est	289044	9	3120	48.75738	7.56769
 Hochfelden	Bas-Rhin, Grand Est	6838421	8	3120	48.75738	7.56769
 Hochfelden	Bezirk Buelach, Zurich	1682141	8	1442	47.52262	8.51564
 Hochheim	Regierungsbezirk Unterfranken, Bavaria	387525	8	1295	50.36667	10.45
+Hochheim am Main	Regierungsbezirk Darmstadt, Hesse	10102025	10	17027	50.01436	8.35218
 Hochheim am Main	Regierungsbezirk Darmstadt, Hesse	414755	8	17027	50.01436	8.35218
 Hochspeyer	Rheinland-Pfalz	1186710	8	4877	49.44207	7.89504
 Hochstadt an der Donau	Swabia, Bavaria	957012	8	6795	48.61124	10.56816
@@ -65,11 +69,14 @@ Hodmezovasarhely	Csongrad	1025072	8	44009	46.41667	20.33333
 Hodonice	Okres Znojmo, South Moravian	436033	10	1648	48.8368	16.16337
 Hodonice	Okres Znojmo, South Moravian	437157	8	1648	48.8368	16.16337
 Hodonin	Okres Hodonin, South Moravian	429484	10	26345	48.84893	17.13244
+Hodonin	Okres Hodonin, South Moravian	438094	8	26345	48.84893	17.13244
 Hodonin	Okres Hodonin, South Moravian	442526	8	26345	48.84893	17.13244
+Hodosa	Comuna Sarmas, Harghita	12570707	8	1592	46.86558	25.4462
 Hodslavice	Okres Novy Jicin, Moravskoslezsky	432126	10	1699	49.53856	18.02367
 Hodslavice	Okres Novy Jicin, Moravskoslezsky	437571	8	1699	49.53856	18.02367
 Hoechst im Odenwald	Regierungsbezirk Darmstadt, Hesse	14570816	10	10209	49.79972	8.99944
 Hoechst im Odenwald	Regierungsbezirk Darmstadt, Hesse	451778	8	10209	49.79972	8.99944
+Hoeckendorf	Saxony	455473	9	3156	51.22423	13.90935
 Hoefn	Sveitarfelagid Hornafjoerdur, East	55966	6	1690	64.25388	-15.21212
 Hoegaarden	Provincie Vlaams-Brabant, Flanders	3964768	9	3226	50.7756	4.88952
 Hoegaarden	Provincie Vlaams-Brabant, Flanders	416479	8	3226	50.7756	4.88952
@@ -103,6 +110,7 @@ Hof	Upper Franconia, Bavaria	62589	6	49239	50.31297	11.91261
 Hof bei Salzburg	Politischer Bezirk Salzburg-Umgebung, Salzburg	86671	8	3562	47.81929	13.21488
 Hofbieber	Regierungsbezirk Kassel, Hesse	14315611	9	6372	50.58629	9.83534
 Hofbieber	Regierungsbezirk Kassel, Hesse	454877	8	6372	50.58629	9.83534
+Hofen an der Enz	Karlsruhe Region, Baden-Wurttemberg	1107837	10	1726	48.8	8.58333
 Hofen an der Enz	Karlsruhe Region, Baden-Wurttemberg	3378897	8	1726	48.8	8.58333
 Hoffman Estates	Cook County, Illinois	125796	8	52138	42.04281	-88.0798
 Hofgeismar	Regierungsbezirk Kassel, Hesse	1112226	8	16444	51.49607	9.385
@@ -138,6 +146,10 @@ Hohenbrunn	Upper Bavaria, Bavaria	2903824	10	8590	48.04785	11.70224
 Hohenburg	Upper Palatinate, Bavaria	1028558	8	1544	49.29507	11.79906
 Hohendodeleben	Saxony-Anhalt	3972224	9	1834	52.10412	11.50473
 Hohenfelde	Schleswig-Holstein	189454	8	1104	54.36667	10.5
+Hohenfelde	Schleswig-Holstein	284862	10	1104	54.36667	10.5
+Hohenfelde	Schleswig-Holstein	394347	8	1104	54.36667	10.5
+Hohenfelde	Schleswig-Holstein	447195	8	1104	54.36667	10.5
+Hohenfelde	Schleswig-Holstein	454199	8	1104	54.36667	10.5
 Hohenfels	Upper Palatinate, Bavaria	1028813	8	2156	49.20397	11.84841
 Hohenfurch	Upper Bavaria, Bavaria	936751	8	1512	47.85	10.9
 Hohenhameln	Lower Saxony	337283	8	9815	52.25755	10.06416
@@ -166,6 +178,7 @@ Hohenwarsleben	Saxony-Anhalt	161683	9	1550	52.17898	11.49994
 Hohenwarth	Upper Palatinate, Bavaria	959924	8	2132	49.2	12.93333
 Hohenwarthe	Saxony-Anhalt	161999	9	1475	52.22968	11.71528
 Hohenwestedt	Schleswig-Holstein	548595	8	5092	54.08886	9.65359
+Hohhot	Hohhot Shi, Inner Mongolia	2752851	5	2350000	40.81056	111.65222
 Hohn	Rheinland-Pfalz	535012	8	3238	50.61667	7.98333
 Hohn	Schleswig-Holstein	556627	8	2326	54.3	9.5
 Hohndorf	Saxony	422395	9	3976	50.74044	12.68058
@@ -187,6 +200,7 @@ Hol	Hol, Viken	412354	7	0	60.61511	8.29398
 Holasovice	Okres Opava, Moravskoslezsky	432709	10	1366	49.99843	17.80847
 Holasovice	Okres Opava, Moravskoslezsky	437595	8	1366	49.99843	17.80847
 Holbav	Comuna Holbav, Brasov	10515004	8	1506	45.65922	25.38744
+Holbeck	City and Borough of Leeds, England	902226	10	5505	53.78359	-1.56791
 Holboca	Comuna Holboca, Iasi	9964687	8	11971	47.15	27.7
 Holboo	Dzabkhan	7304911	6	0	48.58876	95.43257
 Holbrook	Greater Hume Shire, New South Wales	5972812	9	1688	-35.721	147.31605
@@ -209,6 +223,7 @@ Holesov	Okres Kromeriz, Zlin	437409	8	12384	49.33331	17.57832
 Holetown	Saint James	7751529	8	1350	13.18672	-59.63808
 Holgate	Henry County, Ohio	183431	8	1096	41.24894	-84.133
 Holguera	Provincia de Caceres, Extremadura	346292	8	770	39.89916	-6.34999
+Holguin	Municipio de Holguin, Holguin	1854635	4	319102	20.88722	-76.26306
 Holguin	Municipio de Holguin, Holguin	5904276	6	319102	20.88722	-76.26306
 Holic	Okres Skalica, Trnava	2193388	10	11174	48.81105	17.16238
 Holic	Okres Skalica, Trnava	2193413	9	11174	48.81105	17.16238
@@ -294,6 +309,7 @@ Holtze	Litchfield, Northern Territory	11716559	9	2333	-12.4485	131.00556
 Holtzheim	Bas-Rhin, Grand Est	75146	8	2900	48.5582	7.64434
 Holtzwihr	Haut-Rhin, Grand Est	913862	9	1129	48.11288	7.4208
 Holubivka	Luhansk	2581952	9	26838	48.63751	38.6428
+Holubivka	Luhansk	3586158	9	26838	48.63751	38.6428
 Holving	Moselle, Grand Est	1446306	8	1109	49.01162	6.96556
 Holwerd	Noardeast-Fryslan, Friesland	2642705	10	1435	53.36815	5.90073
 Holwick	County Durham, England	8597602	10	0	54.6358	-2.14371
@@ -319,6 +335,7 @@ Holzminden	Lower Saxony	2016898	8	20998	51.82798	9.4455
 Holzweissig	Saxony-Anhalt	2266627	9	3250	51.59819	12.30842
 Holzwickede	Regierungsbezirk Arnsberg, North Rhine-Westphalia	158415	8	17821	51.5	7.63333
 Hom	Altay Diqu, Xinjiang	9374537	8	2099	48.56472	87.42056
+Homa Bay	Homa Bay	3486017	4	44949	-0.52731	34.45714
 Hombeek	Provincie Antwerpen, Flanders	3369536	9	4182	51.01753	4.43891
 Homberg	Regierungsbezirk Giessen, Hesse	14296217	9	7863	50.73108	8.99644
 Homberg	Regierungsbezirk Giessen, Hesse	418324	8	7863	50.73108	8.99644
@@ -377,8 +394,10 @@ Honfleur	Calvados, Normandy	126415	8	8148	49.41985	0.23294
 Hongch'on	Gangwon-do	2526324	6	75251	37.6918	127.8857
 Honggang	Daqing Shi, Heilongjiang	2755190	6	147977	46.3974	124.88447
 Hongliuwan	Jiuquan Shi, Gansu	7441142	8	0	39.63187	94.33694
+Hongor	Darhan Uul	7302215	6	0	49.23012	105.89674
 Hongos	Provincia de Yauyos, Lima region	1944725	8	371	-12.81139	-75.765
 Hongshan	Yichun Shi, Heilongjiang	9466548	8	0	47.9758	129.02199
+Hongshui	Zhangye Shi, Gansu	2706356	6	0	38.42457	100.7926
 Hongsipu	Zhongwei Shi, Ningxia Hui Autonomous Region	11936026	8	0	37.39917	106.06028
 Honiara	Honiara	2536278	4	56298	-9.43333	159.95
 Honiton	Devon, England	3390435	10	11483	50.7996	-3.18899
@@ -402,6 +421,7 @@ Hontoria de Cerrato	Provincia de Palencia, Castille and Leon	342263	8	111	41.910
 Hontoria de Valdearados	Provincia de Burgos, Castille and Leon	341161	8	256	41.74488	-3.51983
 Hontoria de la Cantera	Provincia de Burgos, Castille and Leon	341166	8	141	42.18879	-3.64251
 Hontoria del Pinar	Provincia de Burgos, Castille and Leon	341165	8	786	41.84838	-3.16245
+Hoo	Medway, England	4779979	10	5377	51.4205	0.563
 Hood River	Hood River County, Oregon	186809	8	7624	45.7054	-121.52146
 Hoofddorp	Gemeente Haarlemmermeer, North Holland	1883605	10	132734	52.3025	4.68889
 Hoogblokland	Molenlanden, South Holland	165007	10	1090	51.875	4.97639
@@ -430,6 +450,7 @@ Hooks	Bowie County, Texas	6603613	8	2744	33.46623	-94.28853
 Hooksett	Merrimack County, New Hampshire	308153	8	4147	43.09675	-71.46507
 Hoopeston	Vermilion County, Illinois	126238	8	5220	40.46726	-87.66836
 Hoorn	Gemeente Hoorn, North Holland	1335711	10	68852	52.6425	5.05972
+Hoorn	Gemeente Hoorn, North Holland	2648967	10	68852	52.6425	5.05972
 Hoorn	Gemeente Hoorn, North Holland	291667	8	68852	52.6425	5.05972
 Hoover	Jefferson County, Alabama	8913572	8	84848	33.40539	-86.81138
 Hooverson Heights	Brooke County, West Virginia	238578	8	2590	40.32479	-80.57757
@@ -459,6 +480,7 @@ Hopkinton	Middlesex County, Massachusetts	1865800	8	2550	42.22871	-71.52256
 Hopkinton	Washington County, Rhode Island	7539762	8	8261	41.46121	-71.77757
 Hoppers Crossing	Wyndham, Victoria	2425466	9	37216	-37.88264	144.7003
 Hoppstadten-Weiersbach	Rheinland-Pfalz	1244287	8	2749	49.61667	7.2
+Hopton	Norfolk, England	1766820	10	2626	52.53333	1.73333
 Hoquiam	Grays Harbor County, Washington	237429	8	8405	46.98092	-123.88933
 Horace	Cass County, North Dakota	181354	8	2545	46.75886	-96.9037
 Horad Zhodzina	Minsk	79911	6	61007	54.0985	28.3331
@@ -472,6 +494,7 @@ Horben	Freiburg Region, Baden-Wurttemberg	1948624	8	1065	47.93333	7.86667
 Horbourg-Wihr	Haut-Rhin, Grand Est	83847	8	5358	48.08106	7.3938
 Horcajo de Montemayor	Provincia de Salamanca, Castille and Leon	339763	8	196	40.42265	-5.89427
 Horcajo de Santiago	Provincia de Cuenca, Castille-La Mancha	346842	8	3764	39.84221	-2.99724
+Horcajo de Santiago	Provincia de Cuenca, Castille-La Mancha	4494992	10	3764	39.84221	-2.99724
 Horcajo de las Torres	Provincia de Avila, Castille and Leon	347004	8	709	41.06497	-5.09092
 Horcajuelo de la Sierra	Provincia de Madrid, Madrid	345626	8	0	41.06019	-3.5464
 Horche	Provincia de Guadalajara, Castille-La Mancha	346316	8	1853	40.56399	-3.0611
@@ -486,10 +509,12 @@ Horgen	Bezirk Horgen, Zurich	1682144	8	15973	47.25983	8.59778
 Horgenzell	Tuebingen Region, Baden-Wurttemberg	2808131	8	4663	47.80534	9.49727
 Horgertshausen	Upper Bavaria, Bavaria	29826	8	1944	48.55	11.86667
 Horgues	Hautes-Pyrenees, Occitanie	228511	8	1040	43.18842	0.08808
+Horhausen	Rheinland-Pfalz	537200	8	1908	50.58745	7.53028
 Horia	Comuna Horia, Constanta	12498958	8	1249	44.63333	28.11667
 Horia	Comuna Horia, Tulcea	10363611	8	1588	45.01667	28.45
 Horice	Okres Jicin, Kralovehradecky kraj	431572	10	8899	50.36609	15.63183
 Horice	Okres Jicin, Kralovehradecky kraj	440006	8	8899	50.36609	15.63183
+Horice	Okres Jicin, Kralovehradecky kraj	442627	8	8899	50.36609	15.63183
 Horicon	Dodge County, Wisconsin	251693	8	3689	43.45138	-88.63121
 Horizon City	El Paso County, Texas	6587593	8	19288	31.69261	-106.20748
 Horizonte	Horizonte, Ceara	302498	8	51171	-4.1	-38.48333
@@ -499,6 +524,8 @@ Horjul	Horjul	1675855	8	1329	46.02361	14.29917
 Horka nad Moravou	Okres Olomouc, Olomoucky	434596	10	2101	49.64009	17.2107
 Horka nad Moravou	Okres Olomouc, Olomoucky	438830	8	2101	49.64009	17.2107
 Horki	Mogilev	6722644	8	33897	54.2862	30.9863
+Horki	Mogilev	7479772	10	33897	54.2862	30.9863
+Horki	Mogilev	7585947	10	33897	54.2862	30.9863
 Horley	Surrey, England	2877689	10	21232	51.17423	-0.15919
 Horlivka	Donetsk Oblast	3862199	9	278550	48.33576	38.05325
 Hormersdorf	Saxony	536012	9	1645	50.67406	12.88194
@@ -517,6 +544,7 @@ Hornaing	North, Hauts-de-France	56247	8	2998	50.36835	3.33707
 Hornbach	Rheinland-Pfalz	1250691	8	1717	49.18778	7.36883
 Hornberg	Freiburg Region, Baden-Wurttemberg	453006	8	4482	48.21068	8.23275
 Hornburg	Lower Saxony	1432645	9	2689	52.03095	10.6049
+Hornburg	Lower Saxony	2408180	10	2689	52.03095	10.6049
 Horncastle	Lincolnshire, England	1849294	10	6815	53.20775	-0.1172
 Horneburg	Lower Saxony	445840	8	5547	53.50672	9.57546
 Hornhausen	Saxony-Anhalt	3971833	9	1716	52.0451	11.17104
@@ -601,8 +629,10 @@ Horsmonden	Kent, England	2404429	10	1620	51.13908	0.42881
 Horsovsky Tyn	Okres Domazlice, Plzensky kraj	424605	10	4905	49.52965	12.94405
 Horsovsky Tyn	Okres Domazlice, Plzensky kraj	439172	8	4905	49.52965	12.94405
 Horssen	Gemeente Druten, Gelderland	2728547	10	1095	51.85583	5.60972
+Horst	Schleswig-Holstein	1473805	8	5183	53.81195	9.62307
 Horst	Schleswig-Holstein	447194	8	5183	53.81195	9.62307
 Horsted Keynes	West Sussex, England	2865927	10	1180	51.03659	-0.02798
+Horstedt	Lower Saxony	3900541	10	1381	53.18333	9.23333
 Horstedt	Lower Saxony	5676237	10	1381	53.18333	9.23333
 Horstedt	Lower Saxony	965595	8	1381	53.18333	9.23333
 Horstmar	Regierungsbezirk Muenster, North Rhine-Westphalia	155783	8	6822	52.08098	7.30539
@@ -630,6 +660,7 @@ Hosbach	Regierungsbezirk Unterfranken, Bavaria	534054	8	13203	50.00646	9.20765
 Hosenfeld	Regierungsbezirk Kassel, Hesse	14303156	9	4831	50.50502	9.47966
 Hosenfeld	Regierungsbezirk Kassel, Hesse	454878	8	4831	50.50502	9.47966
 Hoshangabad	Hoshangabad, Madhya Pradesh	1976220	5	109358	22.74747	77.72736
+Hoshiarpur	Hoshiarpur, Punjab	1948566	5	158142	31.53723	75.91269
 Hosingen	Parc Hosingen, Clervaux	3661785	9	811	50.01218	6.09089
 Hoslwang	Upper Bavaria, Bavaria	2186927	8	1228	47.95378	12.32915
 Hospital de Orbigo	Provincia de Leon, Castille and Leon	339586	8	1060	42.46354	-5.88636
@@ -678,6 +709,7 @@ Houlbec-Cocherel	Eure, Normandy	74812	8	1378	49.0735	1.36563
 Houlgate	Calvados, Normandy	135602	8	1927	49.299	-0.08153
 Houlton	Aroostook County, Maine	132599	8	5002	46.12616	-67.8403
 Houma	Terrebonne Parish, Louisiana	131586	8	34287	29.59577	-90.71953
+Hounde	Province du Tuy, Hauts-Bassins	6128653	6	36593	11.5	-3.51667
 Hounslow	Greater London, England	51848	8	66292	51.46839	-0.36092
 Houping	Chongqing	12296627	8	4853	29.60199	108.02951
 Houping	Chongqing	14057247	8	4645	31.74021	108.93659
@@ -736,7 +768,9 @@ Howrah	Clarence, Tasmania	10625772	9	8317	-42.88728	147.40554
 Howth	Fingal County, Leinster	5404258	10	8277	53.38778	-6.06528
 Hoxie	Lawrence County, Arkansas	111212	8	2680	36.05035	-90.97512
 Hoxie	Sheridan County, Kansas	129858	8	1176	39.3575	-100.44181
+Hoxtolgay	Tacheng Diqu, Xinjiang	9446213	8	22000	46.51872	86.00214
 Hoxton Park	Liverpool, New South Wales	5537982	9	4329	-33.93126	150.85412
+Hoxut	Bayingolin Mongol Zizhizhou, Xinjiang	2747282	6	0	42.25861	86.85778
 Hoya	Lower Saxony	2014322	8	3959	52.80781	9.14028
 Hoya-Gonzalo	Provincia de Albacete, Castille-La Mancha	339899	8	938	38.9579	-1.55679
 Hoyales de Roa	Provincia de Burgos, Castille and Leon	345805	8	269	41.65893	-3.86202

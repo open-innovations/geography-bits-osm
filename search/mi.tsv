@@ -21,6 +21,7 @@ Miamisburg	Montgomery County, Ohio	182951	8	20034	39.64284	-84.28661
 Miandetta	Devonport, Tasmania	10586313	9	1784	-41.1955	146.35322
 Miane	Provincia di Treviso, Veneto	46539	8	1985	45.94341	12.09246
 Mianos	Provincia de Zaragoza, Aragon	345157	8	45	42.58544	-0.95478
+Mianyang	Hanzhong Shi, Shaanxi	2967710	6	84606	33.15703	106.69445
 Miaoba	Chongqing	14057258	8	10342	31.93615	108.51786
 Miaoya	Chongqing	12296613	8	8752	29.44593	107.31952
 Miasino	Provincia di Novara, Piedmont	46177	8	398	45.80197	8.42972
@@ -50,6 +51,7 @@ Michelbeke	Provincie Oost-Vlaanderen, Flanders	1077187	9	1728	50.8355	3.76249
 Micheldorf	Politischer Bezirk Sankt Veit an der Glan, Carinthia	105557	8	678	46.914	14.43061
 Micheldorf in Oberoesterreich	Politischer Bezirk Kirchdorf an der Krems, Upper Austria	898173	8	5854	47.87764	14.13357
 Michelena	Municipio Michelena, Tachira	13401227	6	20539	7.95655	-72.24299
+Michelfeld	Regierungsbezirk Stuttgart, Baden-Wurttemberg	2999355	10	3638	49.0975	9.67861
 Michelfeld	Regierungsbezirk Stuttgart, Baden-Wurttemberg	391368	8	3638	49.0975	9.67861
 Michelsneukirchen	Upper Palatinate, Bavaria	960529	8	1806	49.12291	12.55284
 Michelstadt	Regierungsbezirk Darmstadt, Hesse	451803	8	17279	49.67569	9.00373
@@ -111,6 +113,7 @@ Middletown	Jefferson County, Kentucky	130687	8	7874	38.24535	-85.53885
 Middletown	Lake County, California	10224132	8	1323	38.7524	-122.61499
 Middletown	Middlesex County, Connecticut	11065878	9	46756	41.56232	-72.65065
 Middletown	Middlesex County, Connecticut	6580065	8	46756	41.56232	-72.65065
+Middletown	Monmouth County, New Jersey	3506334	8	65490	40.39428	-74.11709
 Middletown	Monmouth County, New Jersey	961377	8	65490	40.39428	-74.11709
 Middletown	New Castle County, Delaware	117168	8	20372	39.44956	-75.71632
 Middletown	Newport County, Rhode Island	191205	8	17303	41.54566	-71.29144
@@ -146,15 +149,18 @@ Midway	Woodford County, Kentucky	130851	8	1701	38.15091	-84.68383
 Midwest City	Oklahoma County, Oklahoma	184316	8	57249	35.44951	-97.3967
 Midwolda	Gemeente  Oldambt, Groningen	2451186	10	1885	53.195	7.01389
 Midwoud	Gemeente Medemblik, North Holland	2726749	10	2280	52.71667	5.075
+Midyat	Mardin	1692098	6	76268	37.41908	41.33909
 Miechow	Powiat miechowski, Lesser Poland	2749602	8	11735	50.35648	20.02788
 Miechow Charsznica	Powiat miechowski, Lesser Poland	3478734	8	1942	50.39599	19.95031
 Miedes de Atienza	Provincia de Guadalajara, Castille-La Mancha	345747	8	103	41.26672	-2.96375
+Miedziana Gora	Powiat kielecki, Swietokrzyskie	6170992	8	2317	50.9368	20.55096
 Miedziana Gora	Powiat kielecki, Swietokrzyskie	6249124	8	2317	50.9368	20.55096
 Miedzna	Powiat pszczynski, Silesia	5616216	8	1588	49.98225	19.04883
 Miedzyborz	Powiat olesnicki, Lower Silesia	2942239	8	2354	51.39626	17.6661
 Miedzybrodzie Bialskie	Powiat zywiecki, Silesia	3542099	8	3154	49.78747	19.19741
 Miedzychod	Powiat miedzychodzki, Greater Poland	2859158	8	10994	52.59882	15.89696
 Miedzylesie	Powiat klodzki, Lower Silesia	3019739	8	2766	50.14778	16.66712
+Miedzylesie	Powiat klodzki, Lower Silesia	440692	8	2766	50.14778	16.66712
 Miedzylesie	Powiat swiebodzinski, Lubusz	3525975	8	1971	52.14487	15.38283
 Miedzyrzec Podlaski	Powiat bialski, Lublin	1414904	8	17158	51.9864	22.78248
 Miedzyrzec Podlaski	Powiat bialski, Lublin	3101335	7	17158	51.9864	22.78248
@@ -167,6 +173,8 @@ Miejska Gorka	Powiat rawicki, Greater Poland	2690053	8	3169	51.65573	16.95826
 Miekinia	Powiat krakowski, Lesser Poland	3218630	8	1232	50.15557	19.60871
 Miekinia	Powiat sredzki, Lower Silesia	5951721	8	2500	51.18844	16.73595
 Mielan	Gers, Occitanie	125082	8	1360	43.42942	0.30785
+Mielan	Gers, Occitanie	125537	8	1360	43.42942	0.30785
+Mielan	Gers, Occitanie	141884	8	1360	43.42942	0.30785
 Mielec	Powiat mielecki, Subcarpathia	1812176	7	60993	50.28709	21.4239
 Mielec	Powiat mielecki, Subcarpathia	3019608	8	60993	50.28709	21.4239
 Mielkendorf	Schleswig-Holstein	554771	8	1414	54.28333	10.05
@@ -204,8 +212,12 @@ Mignaloux-Beauvoir	Vienne, Nouvelle-Aquitaine	140258	8	3784	46.54311	0.4145
 Mignanego	Provincia di Genova, Liguria	43257	8	1603	44.52748	8.91412
 Mignano Monte Lungo	Provincia di Caserta, Campania	41261	8	1870	41.40592	13.98552
 Migne	Vienne, Nouvelle-Aquitaine	140279	8	6164	46.62756	0.31483
+Migne	Vienne, Nouvelle-Aquitaine	1838986	8	6164	46.62756	0.31483
 Mignon	Talladega County, Alabama	111008	8	1284	33.18345	-86.26109
+Migori	Migori	3486018	4	35240	-1.06343	34.47313
+Miguel Ahumada	Ahumada, Chihuahua	5605481	6	8575	30.61861	-106.51222
 Miguel Alves	Miguel Alves, Piaui	302827	8	10438	-4.16556	-42.89528
+Miguel Auza	Miguel Auza, Zacatecas	5606040	6	13551	24.29421	-103.4509
 Miguel Calmon	Miguel Calmon, Bahia	362151	8	13747	-11.42889	-40.595
 Miguel Esteban	Province of Toledo, Castille-La Mancha	344017	8	5170	39.52448	-3.07618
 Miguel Hidalgo	Miguel Hidalgo, Mexico City	5606041	6	372889	19.43411	-99.20024
@@ -226,6 +238,7 @@ Mihail Kogalniceanu	Comuna Mihail Kogalniceanu, Tulcea	10366917	8	3210	45.03333	
 Mihaileni	Comuna Mihaileni, Botosani	12594182	8	5037	47.96667	26.15
 Mihaileni	Comuna Mihaileni, Sibiu	10514344	8	1050	45.98333	24.35
 Mihalgazi	Eskisehir	1238929	6	9677	40.02621	30.57707
+Mihaliccik	Eskisehir	1238921	6	0	39.86594	31.49572
 Mihalyi	Gyor-Moson-Sopron	1483462	8	1137	47.51384	17.09507
 Mihalyi	Gyor-Moson-Sopron	1483472	8	1137	47.51384	17.09507
 Mihara	Mihara Shi, Hiroshima	4090003	7	80387	34.4	133.08333
@@ -238,10 +251,13 @@ Mikasa	Mikasa-shi, Hokkaido	4085227	7	0	43.25581	141.88818
 Mikashevichy	Brest	6722251	8	14000	52.2173	27.476
 Mikepercs	Hajdu-Bihar	1443823	8	3430	47.45	21.63333
 Miki	Miki Shi, Hyogo	900328	7	75450	34.8	134.98333
+Mikkeli	Mikkeli, South Savo	2522462	9	52121	61.68857	27.27227
+Mikkeli	Mikkeli, South Savo	2752683	8	52121	61.68857	27.27227
 Mikolajki	Powiat mragowski, Warmia-Masuria	2991204	8	3851	53.80288	21.57011
 Mikolajki Pomorskie	Powiat sztumski, Pomerania	12618365	8	1416	53.85131	19.16574
 Mikolow	Powiat mikolowski, Silesia	2143691	8	38821	50.17103	18.9041
 Mikolow	Powiat mikolowski, Silesia	2812249	7	38821	50.17103	18.9041
+Mikomeseng	Kie-Ntem	12718777	6	5813	2.13609	10.61322
 Mikomeseng	Kie-Ntem	12719592	8	5813	2.13609	10.61322
 Mikstat	Powiat ostrzeszowski, Greater Poland	2705297	8	1832	51.53236	17.97378
 Mikulasovice	Okres Decin, Ustecky kraj	431387	10	2375	50.96507	14.36368
@@ -262,6 +278,7 @@ Milagros	Provincia de Burgos, Castille and Leon	344450	8	494	41.575	-3.69907
 Milak	Rampur, Uttar Pradesh	10007386	6	28505	28.61031	79.16997
 Milakowo	Powiat ostrodzki, Warmia-Masuria	2989127	8	2691	54.00923	20.07125
 Milan	Cibola County, New Mexico	171099	8	3250	35.16976	-107.89089
+Milan	Citta metropolitana di Milano, Lombardy	44881	6	1371498	45.46427	9.18951
 Milan	Citta metropolitana di Milano, Lombardy	44915	8	1371498	45.46427	9.18951
 Milan	Coos County, New Hampshire	2051760	8	1418	44.57339	-71.18508
 Milan	Erie County, Ohio	182931	8	1347	41.29755	-82.60545
@@ -337,6 +354,7 @@ Millanes	Provincia de Caceres, Extremadura	341577	8	182	39.84917	-5.58079
 Millares	Provincia de Valencia, Valencia	343641	8	567	39.25	-0.76667
 Millars Well	Karratha, Western Australia	11690027	9	1794	-20.74168	116.81731
 Millas	Pyrenees-Orientales, Occitanie	18484	8	3789	42.69203	2.69508
+Millau	Aveyron, Occitanie	1642274	7	23307	44.09973	3.07848
 Millau	Aveyron, Occitanie	74109	8	23307	44.09973	3.07848
 Millbank	Bundaberg, Queensland	5272244	9	2526	-24.87536	152.32217
 Millbourne	Delaware County, Pennsylvania	187631	8	1162	39.96345	-75.25018
@@ -452,6 +470,7 @@ Mimon	Okres Ceska Lipa, Liberecky kraj	433851	10	6692	50.65869	14.72474
 Mimon	Okres Ceska Lipa, Liberecky kraj	440190	8	6692	50.65869	14.72474
 Mimoso do Sul	Mimoso Do Sul, Espirito Santo	1827273	8	14044	-21.06417	-41.36639
 Mimoso do Sul	Mimoso Do Sul, Espirito Santo	1895260	9	14044	-21.06417	-41.36639
+Min'an	Xiangxi Tujiazu Miaozu Zizhizhou, Hunan	2972165	6	0	29.4595	109.437
 Mina Clavero	Departamento de San Alberto, Cordoba	8200430	8	6855	-31.72101	-65.00619
 Minabe	Hidaka-gun, Wakayama	3341849	7	12561	33.76857	135.31845
 Minacu	Minacu, Goias	334489	8	31041	-13.53306	-48.22
@@ -459,8 +478,11 @@ Minador do Negrao	Minador do Negrao, Alagoas	303832	8	1986	-9.30528	-36.86472
 Minador do Negrao	Minador do Negrao, Alagoas	6186265	9	1986	-9.30528	-36.86472
 Minamata	Minamata Shi, Kumamoto	3995580	7	29428	32.21667	130.4
 Minamiashigara	Minamiashigara Shi, Kanagawa	2689421	7	0	35.31947	139.1096
+Minamiise	Watarai-gun, Mie	4538785	7	0	34.34967	136.69945
 Minamishibetsucho	Shibetsu Shi, Hokkaido	4055808	7	19794	44.15399	142.37307
+Minas	Lavalleja	1635124	4	38025	-34.37589	-55.23771
 Minas	Lavalleja	2559279	8	38025	-34.37589	-55.23771
+Minas Novas	Minas Novas, Minas Gerais	314910	8	7365	-17.21861	-42.59028
 Minas de Corrales	Minas De Corrales, Rivera	4169217	8	3788	-31.57375	-55.47075
 Minas de Marcona	Provincia de Nazca, Ica	1899036	8	15478	-15.21194	-75.11028
 Minas de Matahambre	Pinar del Rio	2575070	6	34419	22.58691	-83.94551
@@ -482,6 +504,7 @@ Minderhout	Provincie Antwerpen, Flanders	3364201	9	4264	51.41709	4.76292
 Mindif	Far North	3753283	8	10538	10.39757	14.43626
 Mindszent	Csongrad	1025101	8	7243	46.52362	20.19038
 Minehead	Somerset, England	2676880	10	11981	51.20452	-3.48284
+Mineiros	Mineiros, Goias	2709162	8	38951	-17.56944	-52.55111
 Mineo	Catania, Sicily	39203	8	4567	37.26494	14.69381
 Mineola	Wood County, Texas	114501	8	4625	32.66319	-95.48829
 Mineral Point	Iowa County, Wisconsin	251749	8	2494	42.86	-90.17985
@@ -503,6 +526,8 @@ Minety	Wiltshire, England	5481936	10	854	51.61667	-1.95
 Mineville	Essex County, New York	176232	8	1269	44.09283	-73.51818
 Minfeld	Rheinland-Pfalz	1250502	8	1637	49.07167	8.14528
 Ming'antu	Xilin Gol Meng, Inner Mongolia	10505945	8	0	42.30278	114.99333
+Ming'antu	Xilin Gol Meng, Inner Mongolia	2753023	6	0	42.30278	114.99333
+Minga Pora	Minga Pora District, Alto Parana	6552053	8	1770	-24.87544	-54.93395
 Minglanilla	Provincia de Cuenca, Castille-La Mancha	346520	8	2300	39.53333	-1.6
 Mingo Junction	Jefferson County, Ohio	182214	8	3324	40.32174	-80.6098
 Mingorria	Provincia de Avila, Castille and Leon	343482	8	465	40.75192	-4.66583
@@ -545,6 +570,7 @@ Minster	Auglaize County, Ohio	182630	8	2845	40.3931	-84.37606
 Minster Lovell	Oxfordshire, England	4236741	10	1236	51.79274	-1.5483
 Minsterley	Shropshire, England	4584818	10	1532	52.63989	-2.92807
 Mint Hill	Mecklenburg County, North Carolina	179857	8	25627	35.17959	-80.64729
+Minta	Centre	3822263	8	4934	4.58333	12.8
 Minto	Campbelltown Municipality, New South Wales	5522714	9	12461	-34.03333	150.85
 Mintraching	Upper Palatinate, Bavaria	964614	8	4668	48.95357	12.24209
 Minturno	Provincia di Latina, Lazio	41180	8	16236	41.26294	13.74583
@@ -558,6 +584,7 @@ Mions	Rhone, Auvergne-Rhone-Alpes	164290	8	11424	45.66302	4.95292
 Mios	Gironde, Nouvelle-Aquitaine	109387	8	5002	44.6056	-0.93721
 Mioveni	Oras Mioveni, Arges	10664172	8	29062	44.95905	24.94198
 Miquihuana	Miquihuana, Tamaulipas	5606048	6	1565	23.57575	-99.75438
+Mir	Grodnenskaya	7456750	10	2500	53.4544	26.467
 Mir	Grodnenskaya	7517901	10	2500	53.4544	26.467
 Mira	Mira, Coimbra	5377897	7	7682	40.42892	-8.73746
 Mira	Mira, Coimbra	6553415	8	7682	40.42892	-8.73746
@@ -573,8 +600,10 @@ Mirabello Monferrato	Provincia di Alessandria, Piedmont	44043	8	1239	45.03496	8.
 Mirabello Sannitico	Provincia di Campobasso, Molise	41326	8	1538	41.51628	14.67315
 Mirabueno	Provincia de Guadalajara, Castille-La Mancha	345748	8	106	40.94479	-2.72438
 Miracatu	Miracatu, Sao Paulo	298243	8	11679	-24.28139	-47.45972
+Miracatu	Miracatu, Sao Paulo	5349672	9	11679	-24.28139	-47.45972
 Miracema	Miracema, Rio de Janeiro	14591452	9	26684	-21.41222	-42.19667
 Miracema	Miracema, Rio de Janeiro	2215552	8	26684	-21.41222	-42.19667
+Miracema do Tocantins	Miracema Do Tocantins, Tocantins	336828	8	19634	-9.56722	-48.39167
 Miracosta	Provincia de Chota, Cajamarca	1901141	8	180	-6.40417	-79.28444
 Miradolo Terme	Provincia di Pavia, Lombardy	44353	8	2702	45.17094	9.44442
 Miraflores	Miraflores, Boyaca	1315405	6	8274	5.19608	-73.14504
@@ -608,6 +637,7 @@ Miranda do Corvo	Miranda do Corvo, Coimbra	6553429	8	7857	40.09318	-8.33261
 Miranda do Douro	Miranda do Douro, Braganca	5245346	7	7482	41.49692	-6.27308
 Miranda do Douro	Miranda do Douro, Braganca	5718279	8	7482	41.49692	-6.27308
 Mirande	Gers, Occitanie	132269	8	4135	43.51443	0.40389
+Mirande	Gers, Occitanie	1649157	7	4135	43.51443	0.40389
 Mirandela	Mirandela, Braganca	5248378	7	12504	41.48739	-7.18695
 Mirandela	Mirandela, Braganca	5735863	8	12504	41.48739	-7.18695
 Mirandilla	Provincia de Badajoz, Extremadura	1751938	8	1363	39.002	-6.28893
@@ -633,7 +663,9 @@ Mirefleurs	Puy-de-Dome, Auvergne-Rhone-Alpes	125605	8	1887	45.69319	3.2237
 Miremont	Upper Garonne, Occitanie	1403886	8	1617	43.37042	1.41697
 Mirepeix	Pyrenees-Atlantiques, Nouvelle-Aquitaine	2077145	8	1040	43.18949	-0.25067
 Mirepoix	Ariege, Occitanie	1374163	8	3062	43.0884	1.87367
+Miretice	Okres Chrudim, Pardubicky	427816	10	1205	49.84126	15.88472
 Miretice	Okres Chrudim, Pardubicky	440031	8	1205	49.84126	15.88472
+Miretice	Okres Chrudim, Pardubicky	441439	8	1205	49.84126	15.88472
 Mireval	Herault, Occitanie	269998	8	3413	43.5086	3.8017
 Mirfield	Kirklees, England	5674788	10	18800	53.67343	-1.69636
 Miribel	Ain, Auvergne-Rhone-Alpes	149480	8	9282	45.8258	4.9544
@@ -655,8 +687,10 @@ Mirotice	Okres Pisek, Jihocesky kraj	425652	10	1114	49.42908	14.03697
 Mirotice	Okres Pisek, Jihocesky kraj	437380	8	1114	49.42908	14.03697
 Mirovice	Okres Pisek, Jihocesky kraj	425601	10	1658	49.51555	14.03582
 Mirovice	Okres Pisek, Jihocesky kraj	437337	8	1658	49.51555	14.03582
+Mirow	Mecklenburg-Vorpommern	1419648	8	3609	53.5051	11.50294
 Mirpur Bhtoro	Sujawal District, Sindh	6087710	8	8866	24.72852	68.2601
 Mirrabooka	Stirling, Western Australia	11689671	9	8085	-31.85963	115.86587
+Mirriah	Zinder	3218900	6	20724	13.70727	9.15013
 Mirsk	Powiat lwowecki, Lower Silesia	3048181	8	4150	50.97054	15.38567
 Mirto	Messina, Sicily	39523	8	874	38.08439	14.74609
 Miryang	Gyeongsangnam-do	7224486	6	53103	35.49333	128.74889
@@ -694,6 +728,7 @@ Mission	Johnson County, Kansas	129578	8	9491	39.02778	-94.65579
 Mission	Todd County, South Dakota	194815	8	1215	43.30584	-100.65819
 Mission Beach	Hinchinbrook, Queensland	11676951	9	1271	-17.86885	146.10392
 Mission Hills	Johnson County, Kansas	129585	8	3601	39.01778	-94.6169
+Mission River	Cook Shire, Queensland	11677435	9	1160	-12.59509	141.9576
 Mission Viejo	Orange County, California	2310694	8	97156	33.60002	-117.672
 Mississauga	Ontario	1954127	8	668549	43.5789	-79.6583
 Missoula	Missoula County, Montana	142429	8	71022	46.87215	-113.994
@@ -719,6 +754,7 @@ Mitchell	Maranoa, Queensland	11674909	9	1178	-26.4849	147.9742
 Mitchell	Scotts Bluff County, Nebraska	169781	8	1666	41.94024	-103.80856
 Mitchell Park	Marion, South Australia	7390242	9	5384	-35.01031	138.56266
 Mitchellville	Polk County, Iowa	128648	8	2304	41.6686	-93.35771
+Mitchelstown	County Cork, Munster	6142533	10	3740	52.26583	-8.26806
 Mitchelstown	County Cork, Munster	6186049	10	3740	52.26583	-8.26806
 Mitchelstown	County Cork, Munster	6187089	10	3740	52.26583	-8.26806
 Mitchelstown	County Cork, Munster	6915496	9	3740	52.26583	-8.26806
@@ -739,6 +775,7 @@ Mittelherwigsdorf	Saxony	418127	8	4334	50.91667	14.76667
 Mittelherwigsdorf	Saxony	418542	10	4334	50.91667	14.76667
 Mittelhof	Rheinland-Pfalz	421225	8	1130	50.77517	7.80466
 Mittelneufnach	Swabia, Bavaria	935177	8	1058	48.17642	10.59754
+Mittelschontal	Regierungsbezirk Stuttgart, Baden-Wurttemberg	376881	8	5872	48.94615	9.3952
 Mittelstetten	Upper Bavaria, Bavaria	933512	8	1630	48.25	11.1
 Mittenaar	Regierungsbezirk Giessen, Hesse	215970	8	5020	50.7	8.38333
 Mittenwald	Upper Bavaria, Bavaria	939341	8	7996	47.4422	11.26187
@@ -753,6 +790,7 @@ Mitterskirchen	Lower Bavaria, Bavaria	957072	8	2078	48.35	12.73333
 Mitterteich	Upper Palatinate, Bavaria	975234	8	7252	49.95141	12.24206
 Mittweida	Saxony	2984752	7	16619	50.98622	12.97537
 Mittweida	Saxony	414696	8	16619	50.98622	12.97537
+Mitu	Mitu, Vaupes	11382140	6	29850	1.25778	-70.23472
 Mitwitz	Upper Franconia, Bavaria	1021752	8	3076	50.25111	11.20818
 Mityana	Mityana District, Central Region	3498095	4	41131	0.4175	32.02278
 Mitzpe Ramon	Southern District	1376758	8	5211	30.60944	34.80111
@@ -764,10 +802,14 @@ Mixtla	Mixtla, Puebla	3996971	6	1444	18.90502	-97.89554
 Mixtla de Altamirano	Mixtla de Altamirano, Veracruz	6037731	6	446	18.59591	-96.99293
 Mixtlan	Mixtlan, Jalisco	5606050	6	1538	20.439	-104.40867
 Miyada	Kamiina-gun, Nagano	4756602	7	9051	35.76667	137.95
+Miyako	Miyako-shi, Iwate	963794	7	51150	39.64691	141.94057
+Miyakojima	Miyakojima Shi, Okinawa	4559235	7	54908	24.79016	125.31109
 Miyakonojo	Miyakonojo Shi, Miyazaki	3992201	7	161137	31.73333	131.06667
 Miyazaki	Miyazaki-shi, Miyazaki	3989984	7	398215	31.91667	131.41667
 Miyazu	Miyazu-shi, Kyoto	356943	7	16988	35.53333	135.18333
 Miyoshi	Miyoshi Shi, Hiroshima	4090025	7	53616	34.8	132.85
+Mizhhirya	Transcarpathia	7284029	9	9567	48.52435	23.50091
 Mizia	Obshtina Mizia, Vratsa	1922253	7	3712	43.68623	23.85371
 Mizil	Oras Mizil, Prahova	10694461	8	15532	45.01667	26.45
+Mizque	Cochabamba	4503156	6	30481	-17.94101	-65.34016
 Mizunami	Mizunami-shi, Gifu	4716862	7	37705	35.36667	137.25

@@ -104,6 +104,7 @@ Schellerten	Lower Saxony	1182651	8	8694	52.1853	10.10227
 Schellhorn	Schleswig-Holstein	310388	8	1714	54.22952	10.29402
 Schelluinen	Molenlanden, South Holland	165009	10	1255	51.84333	4.92639
 Schendelbeke	Provincie Oost-Vlaanderen, Flanders	3390751	9	1870	50.79872	3.89882
+Schenefeld	Schleswig-Holstein	443485	8	2524	54.05	9.48333
 Schenefeld	Schleswig-Holstein	448772	8	2524	54.05	9.48333
 Schengen	Schengen, Remich	407741	8	470	49.47	6.362
 Schenkendoebern	Brandenburg	1351323	8	4455	51.95723	14.63541
@@ -120,6 +121,7 @@ Schermerhorn	Gemeente Alkmaar, North Holland	300657	10	1290	52.60083	4.89167
 Scherpenheuvel	Provincie Vlaams-Brabant, Flanders	4494838	9	7162	50.98075	4.97552
 Scherpenisse	Gemeente Tholen, Zeeland	1379062	10	1605	51.54667	4.10556
 Scherpenzeel	Gemeente Scherpenzeel, Gelderland	144740	10	8820	52.08	5.48889
+Scherpenzeel	Gemeente Scherpenzeel, Gelderland	272206	10	8820	52.08	5.48889
 Scherpenzeel	Gemeente Scherpenzeel, Gelderland	419028	8	8820	52.08	5.48889
 Scherstetten	Swabia, Bavaria	935176	8	1008	48.18032	10.64005
 Schertz	Guadalupe County, Texas	2165822	8	43091	29.55217	-98.26973
@@ -195,6 +197,8 @@ Schlegel	Saxony	418569	10	1115	50.97775	14.87686
 Schlehdorf	Upper Bavaria, Bavaria	935260	8	1203	47.65795	11.31494
 Schleid	Thuringia	2898843	8	1137	50.7	9.96667
 Schleiden	Regierungsbezirk Koeln, North Rhine-Westphalia	158147	8	14160	50.52896	6.47692
+Schleiden	Regierungsbezirk Koeln, North Rhine-Westphalia	9941816	10	14160	50.52896	6.47692
+Schleiden	Regierungsbezirk Koeln, North Rhine-Westphalia	9941818	9	14160	50.52896	6.47692
 Schleife	Saxony	2980076	7	2950	51.53333	14.53333
 Schleinbach	Politischer Bezirk Mistelbach, Lower Austria	1630160	10	1031	48.41992	16.47809
 Schleitheim	Bezirk Schleitheim, Schaffhausen	1683704	8	1723	47.74818	8.48213
@@ -225,6 +229,7 @@ Schmalfeld	Schleswig-Holstein	423180	8	1885	53.88333	9.96667
 Schmalkalden	Thuringia	2849661	8	19553	50.72136	10.44386
 Schmalkalden	Thuringia	3114225	10	19553	50.72136	10.44386
 Schmallenberg	Regierungsbezirk Arnsberg, North Rhine-Westphalia	157418	8	26132	51.15473	8.28505
+Schmargendorf	Berlin	11154571	9	22733	52.47517	13.29071
 Schmargendorf	Berlin	164785	10	22733	52.47517	13.29071
 Schmelz	Saarland	1184564	8	17596	49.43333	6.85
 Schmerikon	Wahlkreis See-Gaster, Saint Gallen	1683933	8	3307	47.22538	8.94836
@@ -265,6 +270,8 @@ Schoeneberg	Berlin	55751	10	122658	52.46667	13.35
 Schoeneck	Moselle, Grand Est	122902	8	2846	49.21667	6.91667
 Schoenefeld	Brandenburg	1982561	9	12015	52.38897	13.50374
 Schoenefeld	Brandenburg	55772	8	12015	52.38897	13.50374
+Schoeneiche	Brandenburg	176417	9	11907	52.47286	13.69226
+Schoeneiche	Brandenburg	5713266	10	11907	52.47286	13.69226
 Schoenenberg-Kuebelberg	Rheinland-Pfalz	1246453	8	5957	49.4074	7.37233
 Schoenewalde	Brandenburg	1303472	8	3740	51.67901	13.60247
 Schoenheide	Saxony	418998	8	5310	50.50458	12.52158
@@ -295,6 +302,7 @@ Schonau im Schwarzwald	Freiburg Region, Baden-Wurttemberg	1244186	8	2525	47.7862
 Schonbach	Saxony	1311098	8	1368	51.06667	14.56667
 Schonberg	Schleswig-Holstein	1464771	8	1304	53.68319	10.42671
 Schonborn	Brandenburg	1322953	8	1881	51.60016	13.48967
+Schonborn	Brandenburg	192994	9	1881	51.60016	13.48967
 Schondorf am Ammersee	Upper Bavaria, Bavaria	933875	8	3877	48.05296	11.09138
 Schondra	Regierungsbezirk Unterfranken, Bavaria	384303	8	1855	50.26814	9.86277
 Schonecken	Rheinland-Pfalz	1108040	8	1625	50.15909	6.4682
@@ -345,11 +353,14 @@ Schroeder	Schroeder, Santa Catarina	296611	8	15505	-26.4125	-49.07306
 Schrozberg	Regierungsbezirk Stuttgart, Baden-Wurttemberg	387625	8	6082	49.34528	9.97944
 Schubelbach	Bezirk March, Schwyz	1683104	8	7745	47.17326	8.92811
 Schuby	Schleswig-Holstein	1156162	8	2530	54.51667	9.48333
+Schuelp	Schleswig-Holstein	447970	8	1202	54.25896	9.63034
 Schuepfheim	Entlebuch District, Lucerne	1682921	8	3723	46.95161	8.01723
 Schuettorf	Lower Saxony	2012781	8	11465	52.32281	7.22176
 Schuiferskapelle	Provincie West-Vlaanderen, Flanders	2243487	9	1129	51.03244	3.33799
 Schulen	Provincie Limburg, Flanders	4742666	9	2930	50.95972	5.1901
 Schulenburg	Fayette County, Texas	9228296	8	2925	29.6819	-96.90304
+Schulzendorf	Brandenburg	10492114	9	7452	52.35818	13.59842
+Schulzendorf	Brandenburg	12303782	9	7452	52.35818	13.59842
 Schulzendorf	Brandenburg	55774	8	7452	52.35818	13.59842
 Schupfen	Seeland District, Bern	1682659	8	3248	47.03661	7.37723
 Schuttertal	Freiburg Region, Baden-Wurttemberg	453015	8	3343	48.26667	7.95
@@ -390,12 +401,14 @@ Schwanfeld	Regierungsbezirk Unterfranken, Bavaria	318225	8	2032	49.92166	10.1386
 Schwangau	Swabia, Bavaria	448297	8	3505	47.57722	10.73416
 Schwarme	Lower Saxony	2013996	8	2544	52.9	9.01667
 Schwarmstedt	Lower Saxony	1808868	8	5159	52.67794	9.61767
+Schwarza	Thuringia	2828445	8	1398	50.85386	11.32433
 Schwarzach	Lower Bavaria, Bavaria	959645	8	2898	48.91567	12.81143
 Schwarzach im Pongau	Politischer Bezirk Sankt Johann im Pongau, Salzburg	539293	8	3515	47.32048	13.15171
 Schwarzenau	Politischer Bezirk Zwettl, Lower Austria	406297	8	858	48.74436	15.25838
 Schwarzenbach	Upper Palatinate, Bavaria	1059441	8	1129	49.83876	12.38005
 Schwarzenbek	Schleswig-Holstein	1469085	8	14832	53.50303	10.48055
 Schwarzenberg	Lucerne-Land District, Lucerne	1682919	8	1591	47.01705	8.17261
+Schwarzenborn	Regierungsbezirk Kassel, Hesse	14299844	9	1251	50.90977	9.44658
 Schwarzenborn	Regierungsbezirk Kassel, Hesse	4052668	9	1251	50.90977	9.44658
 Schwarzenborn	Regierungsbezirk Kassel, Hesse	452201	8	1251	50.90977	9.44658
 Schwarzenbruck	Regierungsbezirk Mittelfranken, Bavaria	966163	8	8690	49.35778	11.24333
@@ -440,10 +453,12 @@ Sciez	Haute-Savoie, Auvergne-Rhone-Alpes	105994	8	4898	46.33251	6.38413
 Scilla	Provincia di Reggio Calabria, Calabria	39559	8	3402	38.25201	15.71837
 Scillato	Palermo, Sicily	39389	8	597	37.85778	13.90632
 Scinawa	Powiat lubinski, Lower Silesia	1770559	8	5863	51.41626	16.4251
+Scinawa	Powiat lubinski, Lower Silesia	6373309	8	5863	51.41626	16.4251
 Sciolze	Torino, Piedmont	44164	8	307	45.09453	7.87818
 Scionzier	Haute-Savoie, Auvergne-Rhone-Alpes	75354	8	6766	46.0601	6.55271
 Scisciano	Napoli, Campania	40858	8	4209	40.90663	14.47451
 Scituate	Plymouth County, Massachusetts	2387532	8	5245	42.19593	-70.72587
+Scituate	Plymouth County, Massachusetts	7669389	8	5245	42.19593	-70.72587
 Sclafani Bagni	Palermo, Sicily	39337	8	396	37.82175	13.85476
 Scleddau	Pembrokeshire, Wales	11201430	10	0	51.96833	-4.99333
 Scobey	Daniels County, Montana	142469	8	1033	48.79252	-105.42083

@@ -62,11 +62,14 @@ Sebring	Mahoning County, Ohio	182689	8	4266	40.92284	-81.01898
 Sebulcor	Provincia de Segovia, Castille and Leon	346135	8	299	41.27091	-3.88398
 Sec	Okres Chrudim, Pardubicky	428605	10	1686	49.84694	15.65643
 Sec	Okres Chrudim, Pardubicky	439966	8	1686	49.84694	15.65643
+Sec	Okres Chrudim, Pardubicky	440537	8	1686	49.84694	15.65643
 Secanj	Central Banat, Vojvodina	9831915	9	2718	45.36667	20.77222
 Secastilla	Provincia de Huesca, Aragon	343947	8	140	42.18112	0.26736
 Secaucus	Hudson County, New Jersey	170711	8	19104	40.78955	-74.05653
 Secemin	Powiat wloszczowski, Swietokrzyskie	6214450	8	1600	50.76676	19.83599
 Sechelt	Sunshine Coast Regional District, British Columbia	2221362	8	8832	49.47512	-123.75903
+Sechura	Sechura, Piura	1986162	6	23020	-5.55694	-80.82222
+Sechura	Sechura, Piura	1986218	8	23020	-5.55694	-80.82222
 Secinaro	Provincia dell' Aquila, Abruzzo	41807	8	383	42.15062	13.68145
 Seck	Rheinland-Pfalz	533263	8	1309	50.57722	8.04972
 Seckach	Karlsruhe Region, Baden-Wurttemberg	403735	8	4420	49.44222	9.33417
@@ -108,6 +111,9 @@ Sediles	Provincia de Zaragoza, Aragon	342080	8	88	41.34613	-1.53177
 Sedlarevo	Zhelino	6940184	8	1269	41.88306	21.1275
 Sedlcany	Okres Pribram, Central Bohemia	435985	10	7836	49.66057	14.42664
 Sedlcany	Okres Pribram, Central Bohemia	441351	8	7836	49.66057	14.42664
+Sedlec	Okres Kutna Hora, Central Bohemia	428797	10	1098	49.96391	15.28846
+Sedlec	Okres Kutna Hora, Central Bohemia	437553	8	1098	49.96391	15.28846
+Sedlec	Okres Kutna Hora, Central Bohemia	437923	8	1098	49.96391	15.28846
 Sedlice	Okres Strakonice, Jihocesky kraj	436485	8	1219	49.37715	13.93895
 Sedlice	Okres Strakonice, Jihocesky kraj	436680	8	1219	49.37715	13.93895
 Sedliste	Okres Frydek-Mistek, Moravskoslezsky	436996	8	1263	49.71836	18.36869
@@ -180,6 +186,7 @@ Seggebruch	Lower Saxony	1176600	8	1611	52.3005	9.09462
 Seggiano	Provincia di Grosseto, Tuscany	42231	8	485	42.92897	11.55736
 Segni	Citta metropolitana di Roma Capitale, Lazio	41473	8	6713	41.68893	13.01934
 Segny	Ain, Auvergne-Rhone-Alpes	139568	8	1493	46.29571	6.07257
+Segonzac	Charente, Nouvelle-Aquitaine	2989356	8	2181	45.61807	-0.21986
 Segonzac	Charente, Nouvelle-Aquitaine	374685	8	2181	45.61807	-0.21986
 Segonzano	Provincia autonoma di Trento, Trentino-Alto Adige	46973	8	773	46.19021	11.25988
 Segorbe	Provincia de Castello, Valencia	342165	8	8371	39.85	-0.48333
@@ -194,6 +201,7 @@ Segundo Frente	Santiago de Cuba	5919054	6	0	20.41384	-75.49635
 Segura	Provincia de Guipuzcoa, Basque Country	342237	8	1234	43.00753	-2.254
 Segura de Leon	Provincia de Badajoz, Extremadura	340003	8	2189	38.11667	-6.51667
 Segura de Toro	Provincia de Caceres, Extremadura	346740	8	194	40.22427	-5.94836
+Segura de la Sierra	Provincia de Jaen, Andalusia	343755	8	1782	38.29777	-2.65229
 Segura de los Banos	Provincia de Teruel, Aragon	344958	8	36	40.94088	-0.95111
 Segurilla	Province of Toledo, Castille-La Mancha	343005	8	1132	40.02386	-4.86418
 Segusino	Provincia di Treviso, Veneto	46471	8	1692	45.91701	11.9556
@@ -216,6 +224,7 @@ Seilh	Upper Garonne, Occitanie	158877	8	2395	43.69469	1.35509
 Seilhac	Correze, Nouvelle-Aquitaine	105482	8	1744	45.36709	1.7135
 Seillans	Var, Provence-Alpes-Cote d'Azur	2131089	8	2286	43.63623	6.64332
 Seimeni	Comuna Seimeni, Constanta	11793468	8	2239	44.38333	28.06667
+Seinaejoki	Seinaejoki, South Ostrobothnia	2216875	8	64743	62.79446	22.82822
 Seine-Port	Seine-et-Marne, Ile-de-France	80439	8	1935	48.55743	2.55316
 Seingbouse	Moselle, Grand Est	1255560	8	1809	49.11341	6.83186
 Seini	Oras Seini, Maramures	10744300	8	10382	47.75	23.28333
@@ -244,9 +253,13 @@ Selby	North Yorkshire, England	4823609	10	24859	53.78333	-1.06667
 Selby	Walworth County, South Dakota	195158	8	634	45.50638	-100.03207
 Selby	Yarra Ranges, Victoria	2425522	9	1611	-37.91667	145.38333
 Selbyville	Sussex County, Delaware	117153	8	2397	38.46039	-75.22074
+Selce	Tetovo	6420125	8	1991	42.03482	20.94035
+Selce	Tetovo	6440575	8	1991	42.03482	20.94035
+Selce	Tetovo	6890874	8	1991	42.03482	20.94035
 Selce	Tetovo	6928766	8	1991	42.03482	20.94035
 Selci	Provincia di Rieti, Lazio	41952	8	623	42.30293	12.62135
 Selcuk	Izmir	1841225	6	29101	37.95137	27.36849
+Selcuklu	Konya	1250972	6	0	37.8842	32.49222
 Selden	Suffolk County, New York	175721	8	19851	40.86649	-73.03566
 Selendi	Manisa	1821206	6	8735	38.74444	28.86778
 Selenice	Rrethi i Vlores, Vlore	1255546	8	6912	40.53056	19.63583
@@ -258,6 +271,7 @@ Selim	Kars	1838395	6	4557	40.45772	42.78287
 Selinsgrove	Snyder County, Pennsylvania	188441	8	5792	40.79897	-76.86219
 Selishte	Rrethi i Dibres, Diber	1249566	8	0	41.6275	20.27917
 Selite	Rrethi i Mallakastres, Fier	1251493	8	0	40.5475	19.84806
+Seljord	Seljord, Vestfold og Telemark	405161	7	1185	59.48477	8.63017
 Selkirk	Manitoba	11938512	8	10278	50.1436	-96.88452
 Sella	Provincia de Alicante, Valencia	345603	8	643	38.60926	-0.27305
 Sellack	Herefordshire, England	6266823	10	0	51.95	-2.63333
@@ -285,6 +299,7 @@ Selmsdorf	Mecklenburg-Vorpommern	1477861	8	2261	53.88224	10.85997
 Selnica ob Dravi	Selnica ob Dravi	1676301	8	1348	46.55	15.495
 Seloncourt	Doubs, Bourgogne-Franche-Comte	123506	8	6046	47.45989	6.85535
 Selongey	Cote d'Or, Bourgogne-Franche-Comte	150532	8	2348	47.58846	5.18483
+Selorejo	East Java	11670530	7	0	-8.1392	112.4257
 Selsey	West Sussex, England	2990363	10	10550	50.73501	-0.78979
 Selsingen	Lower Saxony	1023213	8	3310	53.37329	9.21289
 Selters	Regierungsbezirk Giessen, Hesse	13779922	9	8235	50.51681	8.28953
@@ -308,6 +323,7 @@ Semaphore Park	Charles Sturt, South Australia	9095877	9	4316	-34.85072	138.47889
 Semaphore South	Port Adelaide Enfield, South Australia	9051280	9	1013	-34.84975	138.47949
 Semarang	Central Java	8409116	5	1653524	-6.99306	110.42083
 Semarang	Central Java	9686813	5	1653524	-6.99306	110.42083
+Sembabule	Sembabule District, Central Region	3498015	4	4320	-0.07722	31.45667
 Sembach	Rheinland-Pfalz	1250335	8	1199	49.51177	7.86661
 Semblancay	Indre-et-Loire, Centre	77191	8	2057	47.5	0.58333
 Semdinli	Hakkari	1381574	6	18978	37.30514	44.5742
@@ -346,6 +362,7 @@ Senatobia	Tate County, Mississippi	7158962	8	7963	34.6176	-89.9687
 Sencelles	Illes Balears, Balearic Islands	347634	8	2656	39.64598	2.89769
 Sencur	Sencur	1675861	8	3152	46.24556	14.41972
 Send	Surrey, England	3007458	10	6597	51.28875	-0.52666
+Sendai	Sendai, Miyagi	4135014	7	1096704	38.26667	140.86667
 Senden	Regierungsbezirk Muenster, North Rhine-Westphalia	157741	8	20363	51.85645	7.48327
 Senden	Swabia, Bavaria	941091	8	22275	48.32441	10.04442
 Sendenhorst	Regierungsbezirk Muenster, North Rhine-Westphalia	152287	8	13316	51.84303	7.82996
@@ -417,7 +434,9 @@ Senyera	Provincia de Valencia, Valencia	348399	8	1038	39.06667	-0.5
 Seon	Bezirk Lenzburg, Aargau	1684425	8	4407	47.34848	8.16072
 Seongnam-si	Gyeonggi-do	2409180	6	1031935	37.43861	127.13778
 Seoni	Shimla, Himachal Pradesh	9982317	6	1630	31.24188	77.12362
+Seosan	Chungcheongnam-do	7502370	6	74208	36.78167	126.45222
 Seoul	Seoul	2297418	4	10349312	37.566	126.9784
+Sepahua	Atalaya, Ucayali	1922016	8	0	-11.14583	-73.04278
 Sepang	Sepang, Selangor	10743315	6	212050	2.6931	101.7498
 Sepekov	Okres Pisek, Jihocesky kraj	434437	10	1343	49.42865	14.41815
 Sepekov	Okres Pisek, Jihocesky kraj	437331	8	1343	49.42865	14.41815
@@ -425,6 +444,7 @@ Sepidan	Fars	11169804	6	0	30.25961	51.98491
 Sepino	Provincia di Campobasso, Molise	41254	8	925	41.40782	14.61938
 Sepolno Krajenskie	Powiat sepolenski, Kujawsko-Pomorskie	3093884	8	9223	53.45198	17.53169
 Sepopol	Powiat bartoszycki, Warmia-Masuria	2981905	8	2043	54.26903	21.01453
+Sept-Iles	Cote-Nord, Quebec	7722332	8	28534	50.20011	-66.38208
 Septeme	Isere, Auvergne-Rhone-Alpes	178093	8	1718	45.55294	5.00596
 Septemes-les-Vallons	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	74241	8	10220	43.39834	5.36596
 Septemvri	Obshtina Septemvri, Pazardzhik	1974020	7	8745	42.21138	24.12946
@@ -445,6 +465,7 @@ Serang	Banten	7641587	5	692101	-6.11528	106.15417
 Serang	Banten	7641588	5	692101	-6.11528	106.15417
 Seravezza	Provincia di Lucca, Tuscany	42780	8	1194	43.99471	10.2272
 Serchhip	Serchhip, Mizoram	10081198	6	20244	23.29312	92.84679
+Serchhip	Serchhip, Mizoram	2029069	5	20244	23.29312	92.84679
 Serdiana	Provincia del Sud Sardegna, Sardinia	39903	8	2466	39.37457	9.15851
 Serdivan	Sakarya	6989045	6	0	40.77376	30.38006
 Serebrianka	Donetsk Oblast	3586195	9	1111	48.91963	38.13543
@@ -558,6 +579,7 @@ Serrieres-de-Briord	Ain, Auvergne-Rhone-Alpes	146649	8	1143	45.80706	5.44795
 Serrig	Rheinland-Pfalz	1256029	8	1580	49.57519	6.57454
 Serrinha	Serrinha, Bahia	362261	8	49078	-11.66417	-39.0075
 Serris	Seine-et-Marne, Ile-de-France	89587	8	2530	48.84528	2.78611
+Serro	Serro, Minas Gerais	314659	8	12616	-18.60472	-43.37944
 Serrone	Provincia di Frosinone, Lazio	41577	8	658	41.84212	13.09519
 Sersale	Provincia di Catanzaro, Calabria	39745	8	4421	39.01013	16.7296
 Sersheim	Regierungsbezirk Stuttgart, Baden-Wurttemberg	405822	8	5199	48.96667	9.01667
@@ -594,6 +616,7 @@ Sesser	Franklin County, Illinois	126895	8	1906	38.09172	-89.05035
 Sesslach	Upper Franconia, Bavaria	956860	8	4088	50.18969	10.84197
 Sesta Godano	Provincia di La Spezia, Liguria	42976	8	728	44.29375	9.67535
 Sestajovice	Okres Praha-vychod, Central Bohemia	436101	8	1465	50.10845	14.68013
+Sestajovice	Okres Praha-vychod, Central Bohemia	436782	8	1465	50.10845	14.68013
 Sestao	Bizkaia, Basque Country	348929	8	29476	43.30975	-3.00716
 Sestino	Province of Arezzo, Tuscany	42570	8	668	43.70966	12.29785
 Sesto Calende	Provincia di Varese, Lombardy	45846	8	8434	45.72608	8.63397
@@ -627,6 +650,7 @@ Settimo Torinese	Torino, Piedmont	44271	8	47485	45.13925	7.77008
 Settimo Vittone	Torino, Piedmont	45259	8	815	45.54929	7.83328
 Settingiano	Provincia di Catanzaro, Calabria	39733	8	1040	38.91139	16.5139
 Settle	North Yorkshire, England	7282586	10	3659	54.06865	-2.2772
+Setubal	Setubal, District of Setubal	5143590	6	117110	38.5244	-8.8882
 Setubal	Setubal, District of Setubal	5401851	7	117110	38.5244	-8.8882
 Setzu	Provincia del Sud Sardegna, Sardinia	40057	8	166	39.72306	8.93972
 Seugy	Val d'Oise, Ile-de-France	138471	8	1108	49.12182	2.39377
@@ -655,8 +679,10 @@ Sevenoaks	Kent, England	2204490	8	29506	51.27266	0.18883
 Sevenoaks	Kent, England	2294966	10	29506	51.27266	0.18883
 Seventeen Mile Rocks	Brisbane, Queensland	11675354	9	2686	-27.5507	152.95896
 Sevenum	Gemeente Horst aan de Maas, Limburg	1418906	10	5035	51.4125	6.0375
+Sever do Vouga	Sever do Vouga, Aveiro	4203506	8	0	40.73459	-8.36722
 Sever do Vouga	Sever do Vouga, Aveiro	5321487	7	0	40.73459	-8.36722
 Sever do Vouga	Sever do Vouga, Aveiro	6022246	8	0	40.73459	-8.36722
+Sever do Vouga	Sever do Vouga, Aveiro	6364369	8	0	40.73459	-8.36722
 Severac	Loire-Atlantique, Pays de la Loire	148020	8	1288	47.55029	-2.0762
 Severac-le-Chateau	Aveyron, Occitanie	79835	9	2565	44.32196	3.07123
 Severance	Weld County, Colorado	112394	8	3697	40.52415	-104.85108
@@ -676,6 +702,7 @@ Seville	Medina County, Ohio	182621	8	2340	41.01006	-81.86236
 Seville	Yarra Ranges, Victoria	2430744	9	2315	-37.79802	145.48763
 Seville Grove	Armadale, Western Australia	11689353	9	10083	-32.13645	115.98905
 Sevilleja de la Jara	Province of Toledo, Castille-La Mancha	343009	8	953	39.57488	-4.96387
+Sevlievo	Obshtina Sevlievo, Gabrovo	1929748	7	24582	43.02583	25.11361
 Sevnica	Sevnica	1681504	8	4660	46.00778	15.31556
 Sevran	Seine-Saint-Denis, Ile-de-France	162527	8	47334	48.94472	2.52746
 Sevres	Hauts-de-Seine, Ile-de-France	31340	8	23724	48.82292	2.21757
@@ -697,6 +724,7 @@ Seydisehir	Konya	1250967	6	51089	37.41926	31.84527
 Seye	Seye, Yucatan	5961539	6	8369	20.83659	-89.37149
 Seye	Seye, Yucatan	6430181	8	8369	20.83659	-89.37149
 Seyhan	Adana	1249257	6	0	36.98747	35.30592
+Seyitgazi	Eskisehir	1238930	6	3284	39.44472	30.69472
 Seymour	Baylor County, Texas	8059640	8	2652	33.59426	-99.26035
 Seymour	Jackson County, Indiana	127590	8	19478	38.95922	-85.89025
 Seymour	Mitchell, Victoria	2454151	9	6235	-37.02655	145.13924
@@ -712,7 +740,9 @@ Seyssins	Isere, Auvergne-Rhone-Alpes	192318	8	7408	45.16224	5.68673
 Seyssuel	Isere, Auvergne-Rhone-Alpes	169861	8	2044	45.55826	4.84313
 Sezana	Sezana	1675828	8	6037	45.70924	13.87333
 Sezanne	Marne, Grand Est	1769506	8	5748	48.72047	3.72339
+Sezemice	Okres Pardubice, Pardubicky	432778	10	3097	50.06651	15.8527
 Sezemice	Okres Pardubice, Pardubicky	440293	8	3097	50.06651	15.8527
+Sezemice	Okres Pardubice, Pardubicky	441231	8	3097	50.06651	15.8527
 Sezimovo Usti	Okres Tabor, Jihocesky kraj	432810	10	7420	49.38519	14.6848
 Sezimovo Usti	Okres Tabor, Jihocesky kraj	438734	8	7420	49.38519	14.6848
 Sezzadio	Provincia di Alessandria, Piedmont	43518	8	1107	44.78485	8.57255

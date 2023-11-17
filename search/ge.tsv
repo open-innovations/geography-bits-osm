@@ -6,6 +6,8 @@ Gebesee	Thuringia	2411242	8	2287	51.11488	10.93455
 Gebhardshain	Rheinland-Pfalz	421919	8	1869	50.75	7.81667
 Geboltskirchen	Politischer Bezirk Grieskirchen, Upper Austria	397075	8	407	48.15338	13.6336
 Gebsattel	Regierungsbezirk Mittelfranken, Bavaria	534084	8	1826	49.35	10.2
+Gebze	Kocaeli	1211496	6	281436	40.80276	29.43068
+Gecheng	Chongqing	2089846	6	37312	31.94856	108.66073
 Gechingen	Karlsruhe Region, Baden-Wurttemberg	933499	8	4111	48.69527	8.82915
 Gedangan	East Java	9680043	6	79230	-7.39083	112.72667
 Geddington	Northamptonshire, England	6582313	10	1503	52.43757	-0.68965
@@ -13,6 +15,7 @@ Gedera	Central District	1380016	8	28313	31.81456	34.77998
 Gedern	Regierungsbezirk Darmstadt, Hesse	450116	8	7879	50.42482	9.1984
 Gedern	Regierungsbezirk Darmstadt, Hesse	9812337	9	7879	50.42482	9.1984
 Gedinne	Province de Namur, Wallonia	2245275	8	4416	49.98037	4.93674
+Gediz	Kuetahya	1668902	6	22058	38.99389	29.39131
 Gedling	Nottinghamshire, England	155494	8	6817	52.97574	-1.07873
 Gedney Hill	Lincolnshire, England	1111820	10	1072	52.68434	-0.02008
 Gedong	Lueliang, Shanxi	3263814	6	0	37.89311	111.25544
@@ -35,7 +38,9 @@ Gegeny	Szabolcs-Szatmar-Bereg	1453529	8	2093	48.15	21.95
 Geghanist	Armavir	14402902	7	2409	40.14587	44.43048
 Gehrde	Lower Saxony	1817414	8	2391	52.57684	8.00342
 Gehrden	Lower Saxony	2012731	8	14955	52.31362	9.60033
+Gehrden	Lower Saxony	6531052	10	14955	52.31362	9.60033
 Gehren	Thuringia	168371	9	3703	50.64852	11.00471
+Geidam	Geidam, Yobe	3698571	6	41367	12.89439	11.92649
 Geidorf	Graz Stadt, Styria	102572	9	24767	47.08393	15.444
 Geiersthal	Lower Bavaria, Bavaria	959166	8	2236	49.04569	12.98171
 Geilenkirchen	Regierungsbezirk Koeln, North Rhine-Westphalia	157489	8	28334	50.96745	6.11763
@@ -56,11 +61,18 @@ Geisingen	Freiburg Region, Baden-Wurttemberg	1231957	8	6048	47.92504	8.65002
 Geisleden	Thuringia	2396097	8	1167	51.35	10.2
 Geislingen	Tuebingen Region, Baden-Wurttemberg	2779383	8	5951	48.28768	8.81241
 Geislingen an der Steige	Regierungsbezirk Stuttgart, Baden-Wurttemberg	2770605	8	27962	48.62423	9.82736
+Geismar	Thuringia	195321	9	1285	51.23169	10.16548
 Geismar	Thuringia	2813135	8	1285	51.23169	10.16548
+Geismar	Thuringia	4127274	9	1285	51.23169	10.16548
+Geismar	Thuringia	8788479	9	1285	51.23169	10.16548
 Geispolsheim	Bas-Rhin, Grand Est	75142	8	7410	48.51603	7.64825
 Geistown	Cambria County, Pennsylvania	187607	8	2371	40.29091	-78.86891
+Geita	Geita	1600776	5	40000	-2.8725	32.2325
+Geita	Geita	3775212	4	40000	-2.8725	32.2325
 Geithain	Saxony	1356839	8	6459	51.05528	12.69674
 Geithain	Saxony	422239	10	6459	51.05528	12.69674
+Geji	Ngari Diqu, Tibet	7697923	8	0	32.39545	81.13972
+Gejiu	Honghe Hanizu Yizu Zizhizhou, Yunnan	2719406	6	136135	23.36085	103.15372
 Gejuelo del Barro	Provincia de Salamanca, Castille and Leon	343903	8	50	41.07633	-6.12332
 Gela	Provincia di Caltanissetta, Sicily	39177	8	75001	37.07381	14.24038
 Gelbensande	Mecklenburg-Vorpommern	393346	8	1774	54.20272	12.30168
@@ -126,6 +138,7 @@ Genas	Rhone, Auvergne-Rhone-Alpes	164274	8	12878	45.73131	5.00211
 Genave	Provincia de Jaen, Andalusia	340624	8	592	38.43062	-2.7331
 Genay	Rhone, Auvergne-Rhone-Alpes	117567	8	4729	45.89681	4.84091
 Genazzano	Citta metropolitana di Roma Capitale, Lazio	41540	8	4599	41.82807	12.97196
+Genc	Bingoel	1836192	6	22493	38.74773	40.55343
 Gencsapati	Vas	1131676	8	2580	47.28496	16.59575
 Genderen	Altena, North Brabant	272321	10	1730	51.73583	5.0875
 Genderkingen	Swabia, Bavaria	962266	8	1147	48.7	10.88333
@@ -141,11 +154,14 @@ General Alvear	Partido de General Alvear, Buenos Aires	3871288	8	0	-36.02078	-60
 General Baldissera	Departamento de Marcos Juarez, Cordoba	5129219	8	2133	-33.12246	-62.3063
 General Belgrano	Partido de General Belgrano, Buenos Aires	5816289	8	0	-35.76952	-58.49341
 General Berthelot	Comuna Unirea, Hunedoara	10541409	8	239	45.61667	22.88333
+General Bravo	General Bravo, Nuevo Leon	5605801	6	3927	25.79239	-99.18147
 General Cabrera	Departamento de Juarez Celman, Cordoba	5282315	8	10351	-32.81313	-63.87243
 General Campos	Departamento de San Salvador, Entre Rios	11209562	8	2982	-31.52311	-58.4049
+General Cepeda	General Cepeda, Coahuila	5605803	6	4382	25.37767	-101.47571
 General Conesa	Departamento de Conesa, Rio Negro	9116321	8	5595	-40.10408	-64.45592
 General Emilio Aguinaldo	Province of Cavite, Calabarzon	1491417	6	12244	14.18417	120.79583
 General Enrique Estrada	General Enrique Estrada, Zacatecas	5605804	6	3887	22.99747	-102.74255
+General Enrique Godoy	Departamento de General Roca, Rio Negro	4773248	10	3823	-39.07891	-67.15807
 General Enrique Godoy	Departamento de General Roca, Rio Negro	6426953	8	3823	-39.07891	-67.15807
 General Enrique Martinez	Rocha	3258866	8	1430	-33.20388	-53.80524
 General Fernandez Oro	Departamento de General Roca, Rio Negro	9363633	8	6813	-38.95297	-67.92489
@@ -158,6 +174,8 @@ General Las Heras	Partido de General Las Heras, Buenos Aires	2193718	8	0	-34.926
 General Lazaro Cardenas (El Colorado)	El Marques, Queretaro	4063442	8	4315	20.56389	-100.24389
 General Levalle	Departamento de Presidente Roque Saenz Pena, Cordoba	3938323	8	5492	-34.01472	-63.92413
 General Luna	Province of Surigao del Norte, Caraga	4664474	6	0	9.78417	126.15889
+General Martin Miguel de Gueemes	Departamento de General Gueemes, Salta	3059845	5	0	-24.67034	-65.04765
+General Martin Miguel de Gueemes	Departamento de General Gueemes, Salta	3746977	9	0	-24.67034	-65.04765
 General Mosconi	Departamento de General Jose de San Martin, Salta	2724843	8	19811	-22.59588	-63.81255
 General Nakar	Province of Quezon, Calabarzon	11030997	6	3532	14.76365	121.63559
 General Pacheco	Partido de Tigre, Buenos Aires	1943943	8	43287	-34.45256	-58.64312
@@ -171,6 +189,7 @@ General Salgado	General Salgado, Sao Paulo	5683106	9	8083	-20.64833	-50.36056
 General San Martin	Departamento de Hucal, La Pampa	8305244	8	2846	-37.97904	-63.60449
 General San Martin	Partido de General San Martin, Buenos Aires	9168783	8	0	-34.57424	-58.53496
 General Santos	Province of South Cotabato, Soccsksargen	14144757	6	679588	6.11278	125.17167
+General Simon Bolivar	General Simon Bolivar, Durango	5605810	6	1321	24.68814	-103.22601
 General Toshevo	Dobrich	12643818	8	7758	43.70123	28.03787
 General Toshevo	Dobrich	1933113	7	7758	43.70123	28.03787
 General Trevino	General Trevino, Nuevo Leon	5605812	6	1019	26.22316	-99.48503
@@ -373,7 +392,9 @@ Gettysburg	Potter County, South Dakota	195129	8	1164	45.01165	-99.95567
 Getxo	Bizkaia, Basque Country	344363	8	80770	43.35689	-3.01146
 Geudertheim	Bas-Rhin, Grand Est	75364	8	2364	48.72415	7.75188
 Geuensee	Sursee District, Lucerne	1682838	8	2168	47.1997	8.10689
+Geumpang	Aceh	8931185	6	0	4.82876	96.16073
 Geusa	Saxony-Anhalt	2406068	9	1519	51.33914	11.94382
+Gevas	Van	1778678	6	11879	38.2921	43.10189
 Gevelsberg	Regierungsbezirk Arnsberg, North Rhine-Westphalia	1956782	8	32664	51.31971	7.3392
 Geveze	Ille-et-Vilaine, Brittany	149900	8	3287	48.22129	-1.79141
 Gevgelija	Gevgelija	6505050	8	20664	41.14166	22.50141

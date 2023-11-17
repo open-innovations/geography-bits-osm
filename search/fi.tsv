@@ -31,6 +31,7 @@ Fig Tree Pocket	Brisbane, Queensland	11677834	9	3963	-27.52784	152.9619
 Figanieres	Var, Provence-Alpes-Cote d'Azur	1118891	8	2424	43.56882	6.49722
 Figari	South Corsica, Corsica	122378	8	1438	41.48792	9.13013
 Figeac	Lot, Occitanie	122724	8	11491	44.60894	2.03155
+Figeac	Lot, Occitanie	1646581	7	11491	44.60894	2.03155
 Figino Serenza	Provincia di Como, Lombardy	45839	8	4610	45.71048	9.13114
 Figline Valdarno	Province of Florence, Tuscany	42520	8	13287	43.61995	11.47191
 Figline Vegliaturo	Provincia di Cosenza, Calabria	39851	8	895	39.22519	16.3303
@@ -38,12 +39,14 @@ Figtree	Wollongong, New South Wales	6076618	9	11376	-34.43556	150.85833
 Figueira da Foz	Figueira da Foz, Coimbra	5378424	7	46600	40.15085	-8.86179
 Figueira de Castelo Rodrigo	Figueira de Castelo Rodrigo, Guarda	3905934	7	0	40.89262	-6.9635
 Figueira de Castelo Rodrigo	Figueira de Castelo Rodrigo, Guarda	6384611	8	0	40.89262	-6.9635
+Figueiro	Amarante, Porto	12649794	9	4579	41.29922	-8.16779
 Figueiro	Amarante, Porto	5913210	8	4579	41.29922	-8.16779
 Figueiro dos Vinhos	Figueiro Dos Vinhos, Leiria	5399201	7	1550	39.90413	-8.27511
 Figueres	Provincia de Girona, Catalonia	347769	8	43330	42.26645	2.96163
 Figueroles	Provincia de Castello, Valencia	345172	8	545	40.11667	-0.23333
 Figueruela de Arriba	Provincia de Zamora, Castille and Leon	345537	8	477	41.86867	-6.44454
 Figueruelas	Provincia de Zaragoza, Aragon	345469	8	1135	41.76651	-1.17473
+Figueruelas	Provincia de Zaragoza, Aragon	6491980	10	1135	41.76651	-1.17473
 Fijnaart	Gemeente Moerdijk, North Brabant	1371512	10	4855	51.6375	4.46944
 Fika	Fika, Yobe	3698568	6	0	11.28674	11.30772
 Filacciano	Citta metropolitana di Roma Capitale, Lazio	41895	8	490	42.25445	12.5988
@@ -64,8 +67,11 @@ Filey	North Yorkshire, England	7252197	10	6530	54.21	-0.28917
 Filiano	Provincia di Potenza, Basilicate	40786	8	730	40.81042	15.70984
 Filighera	Provincia di Pavia, Lombardy	44370	8	775	45.17496	9.31646
 Filignano	Provincia di Isernia, Molise	41373	8	209	41.54578	14.05757
+Filingue	Tillaberi	3219487	6	11677	14.3521	3.3168
 Filipow	Powiat suwalski, Podlasie	6817056	8	2234	54.18037	22.62076
 Filipowice	Powiat krakowski, Lesser Poland	3218750	8	2090	50.15573	19.56579
+Filipowice	Powiat krakowski, Lesser Poland	6058203	8	2090	50.15573	19.56579
+Filipowice	Powiat krakowski, Lesser Poland	6104361	8	2090	50.15573	19.56579
 Filippovka	Perm Krai	1433285	10	2020	57.4373	57.01934
 Fille	Sarthe, Pays de la Loire	107436	8	1135	47.89861	0.12502
 Fillinges	Haute-Savoie, Auvergne-Rhone-Alpes	108510	8	2702	46.15944	6.34237
@@ -91,6 +97,7 @@ Fines	Almeria, Andalusia	342612	8	1955	37.36074	-2.2581
 Finestrat	Provincia de Alicante, Valencia	347686	8	3908	38.56737	-0.21235
 Fingal Bay	Port Stephens Shire, New South Wales	6059027	9	1636	-32.74969	152.17104
 Finhan	Tarn-et-Garonne, Occitanie	135237	8	1005	43.91335	1.2212
+Finike	Finike, Antalya	1727264	6	9250	36.295	30.14056
 Finiq	Rrethi i Delvines, Vlore	1255547	8	0	39.90639	20.05833
 Finkenstein am Faaker See	Politischer Bezirk Villach Land, Carinthia	106114	8	8406	46.56081	13.87115
 Finley	Benton County, Washington	237463	8	6012	46.15402	-119.0339
@@ -98,6 +105,7 @@ Finley	Berrigan, New South Wales	5745848	9	2473	-35.65498	145.57106
 Finley	Steele County, North Dakota	181607	8	437	47.51416	-97.83593
 Finnentrop	Regierungsbezirk Arnsberg, North Rhine-Westphalia	163177	8	3575	51.173	7.972
 Finningen	Swabia, Bavaria	957089	8	1681	48.65452	10.49864
+Finningen	Swabia, Bavaria	9584142	10	1681	48.65452	10.49864
 Finningley	Doncaster, England	141294	10	3525	53.48696	-0.99083
 Fino Mornasco	Provincia di Como, Lombardy	45946	8	8398	45.7429	9.04996
 Fino del Monte	Provincia di Bergamo, Lombardy	46427	8	1127	45.89269	9.99406
@@ -127,6 +135,7 @@ Firminopolis	Firminopolis, Goias	334579	8	9084	-16.58194	-50.305
 Firminy	Loire, Auvergne-Rhone-Alpes	121962	8	17902	45.38956	4.2886
 Firmo	Provincia di Cosenza, Calabria	40054	8	1982	39.72208	16.16344
 Firozabad	Firozabad, Uttar Pradesh	10012962	6	306409	27.15092	78.39781
+Firozabad	Firozabad, Uttar Pradesh	1958557	5	306409	27.15092	78.39781
 Firthcliffe	Orange County, New York	175678	8	4949	41.43926	-74.04514
 Fiscal	Provincia de Huesca, Aragon	346045	8	308	42.49561	-0.12094
 Fischach	Swabia, Bavaria	968903	8	4733	48.29047	10.65592
@@ -138,6 +147,7 @@ Fischeln	Duesseldorf District, North Rhine-Westphalia	6047233	10	26030	51.30353	
 Fischerbach	Freiburg Region, Baden-Wurttemberg	453019	8	1639	48.28687	8.10959
 Fischingen	Bezirk Muenchwilen, Thurgau	1684521	8	2548	47.41422	8.96862
 Fisciano	Provincia di Salerno, Campania	40744	8	709	40.77175	14.79454
+Fishbourne	West Sussex, England	2273436	10	2325	50.83641	-0.82088
 Fishbourne	West Sussex, England	2991330	10	2325	50.83641	-0.82088
 Fishburn	County Durham, England	8652361	10	2588	54.68296	-1.43631
 Fisher	Australian Capital Territory	5341509	9	2873	-35.36126	149.05704

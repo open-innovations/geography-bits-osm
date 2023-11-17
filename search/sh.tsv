@@ -18,13 +18,16 @@ Shadyside	Belmont County, Ohio	182849	8	3714	39.97091	-80.75064
 Shafer	Chisago County, Minnesota	137260	8	1036	45.38691	-92.74771
 Shaffa	Hawul, Borno	3721449	8	6508	10.50673	12.33315
 Shaftesbury	Dorset, England	2603931	10	7314	51.00528	-2.19333
+Shaftesbury	Dorset, England	8208542	10	7314	51.00528	-2.19333
 Shafton	Barnsley, England	1269075	10	0	53.59286	-1.40925
+Shagamu	Shagamu, Ogun	3718483	6	214558	6.8485	3.64633
 Shagari	Shagari, Sokoto	3707591	8	0	12.62727	4.99295
 Shah Alam	Petaling, Selangor	8347577	7	481654	3.08507	101.53281
 Shahabad	Hardoi, Uttar Pradesh	1959017	5	73606	27.6431	79.9402
 Shahabad	Rampur, Uttar Pradesh	10007385	6	34962	28.56681	79.00956
 Shahapur	Thane, Maharashtra	10351349	6	10965	19.45231	73.32572
 Shahdara	Shahdara, Delhi	3812951	10	0	28.60311	77.13988
+Shahdol	Shahdol, Madhya Pradesh	1982962	5	89289	23.29356	81.3619
 Shahe	Zhangye Shi, Gansu	2706355	6	0	39.14165	100.17836
 Shahganj	Jaunpur, Uttar Pradesh	10036547	6	26510	26.04965	82.68423
 Shahin Shahr	Isfahan	6606071	7	0	32.85788	51.5529
@@ -43,6 +46,7 @@ Shalamzar	Chaharmahal and Bakhtiari	8975672	7	0	32.0465	50.81639
 Shalbourne	Wiltshire, England	5431985	10	558	51.36358	-1.55053
 Shales	Rrethi i Elbasanit, Elbasan	1250616	9	0	40.99861	19.94778
 Shalfleet	Isle of Wight, England	910918	10	605	50.70113	-1.42007
+Shaliuhe	Haibei Tibetan Autonomous Prefecture, Qinghai	4543630	6	12964	37.326	100.13439
 Shallotte	Brunswick County, North Carolina	179688	8	3991	33.97323	-78.38584
 Shallowater	Lubbock County, Texas	115402	8	2555	33.68897	-101.99823
 Shalushka	Kabardino-Balkariya Republic	7075684	10	11577	43.5325	43.56611
@@ -52,17 +56,31 @@ Shamli	Shamli, Uttar Pradesh	9539710	5	97966	29.4497	77.30959
 Shamli	Shamli, Uttar Pradesh	9998951	6	97966	29.4497	77.30959
 Shamokin Dam	Snyder County, Pennsylvania	188449	8	1706	40.8487	-76.81969
 Shamrock	Wheeler County, Texas	6595941	8	1989	35.21422	-100.24901
+Shamva	Mashonaland Central	5596175	6	10317	-17.31159	31.57561
+Shanga	Shanga, Kebbi	3707950	6	7471	11.21374	4.57941
 Shanga	Shanga, Kebbi	3708145	8	7471	11.21374	4.57941
 Shangan	Chongqing	12287051	8	5410	29.08266	108.35478
 Shangcheng Chengguanzhen	Xinyang Shi, Henan	3218101	6	0	31.79528	115.40111
+Shangdu	Xilin Gol Meng, Inner Mongolia	10505980	8	0	42.25005	116.00798
+Shangdu	Xilin Gol Meng, Inner Mongolia	2753022	6	0	42.25005	116.00798
+Shangguan	Xinzhou Shi, Shanxi	3008556	6	0	39.06901	112.92913
+Shanghai	Shanghai Municipality, Shanghai	913067	4	22315474	31.22222	121.45806
 Shanghang	Longyan Shi, Fujian	11978943	8	0	25.05644	116.41154
+Shanghang	Longyan Shi, Fujian	3144719	6	0	25.05644	116.41154
 Shangli	Pingxiang Shi, Jiangxi	3189982	6	0	27.8771	113.792
+Shangpai	Hefei Shi, Anhui	3288960	6	0	31.74565	117.16109
+Shangqiu	Shangqiu Shi, Henan	3218285	5	1536392	34.45	115.65
+Shangrao	Shangrao Shi, Jiangxi	3046790	5	1116486	28.45179	117.94287
+Shangtang	Wenzhou Shi, Zhejiang	3218863	6	0	28.15541	120.6882
 Shangyu	Shaoxing Shi, Zhejiang	3316524	6	770000	30.01556	120.87111
+Shangzhi	Harbin Shi, Heilongjiang	2755606	6	82419	45.20562	128.00242
 Shanhe	Qingyang Shi, Gansu	2696690	6	0	35.48436	108.36398
 Shanhu	Shaoxing Shi, Zhejiang	3058331	6	0	29.59583	120.81667
 Shani	Shani, Borno	3721450	8	14305	10.21824	12.06059
 Shankill	Dun Laoghaire-Rathdown, Leinster	4162697	10	14257	53.22611	-6.12444
 Shankill	Dun Laoghaire-Rathdown, Leinster	4589877	10	14257	53.22611	-6.12444
+Shankill	Dun Laoghaire-Rathdown, Leinster	5122578	10	14257	53.22611	-6.12444
+Shankill	Dun Laoghaire-Rathdown, Leinster	6527665	9	14257	53.22611	-6.12444
 Shanklin	Isle of Wight, England	911503	10	8055	50.62613	-1.1785
 Shanling	Chongqing	8178613	8	6753	29.73627	108.61978
 Shannon	Capitale-Nationale, Quebec	7716430	8	5086	46.88026	-71.51464
@@ -71,12 +89,18 @@ Shannon Hills	Saline County, Arkansas	6693351	8	3786	34.62009	-92.39543
 Shanono	Shanono, Kano	3710337	6	0	12.05154	7.992
 Shanono	Shanono, Kano	3710723	8	0	12.05154	7.992
 Shantipur	Nadia, West Bengal	10370853	6	149983	23.24723	88.43302
+Shantou	Shantou Shi, Guangdong	3282750	5	3838900	23.36814	116.71479
+Shanwei	Shanwei Shi, Guangdong	3282610	5	491766	22.78199	115.3475
+Shaoguan	Shaoguan Shi, Guangdong	3203994	5	1028460	24.8	113.58333
 Shaowa	Gannan Zangzu Zizhizhou, Gansu	11835237	8	1808	34.97828	103.56207
+Shaoxing	Shaoxing Shi, Zhejiang	3316522	5	2300000	30.00237	120.57864
 Shaoyang	Taizhou Shi, Jiangsu	5669757	6	0	32.92958	119.83576
 Shap	Cumbria, England	8341062	10	1264	54.53149	-2.67551
 Shapaja	Provincia de San Martin, San Martin	1971734	8	0	-6.57972	-76.26278
 Shapleigh	York County, Maine	2021333	8	2418	43.54064	-70.84812
+Sharga	Bulgan	7302599	6	0	49.04192	102.08925
 Sharjah	Sharjah	12905785	8	1324473	25.33737	55.41206
+Sharkan	Udmurtiya Republic	1629715	10	6523	57.29885	53.87122
 Sharkawshchyna	Vitebsk	1180582	8	7500	55.3689	27.4686
 Sharlston	City and Borough of Wakefield, England	7218466	10	4028	53.66956	-1.41294
 Sharnbrook	Bedford, England	5312151	10	1795	52.22606	-0.54425
@@ -101,6 +125,7 @@ Shawbury	Shropshire, England	6809887	10	2317	52.79098	-2.66183
 Shawinigan	Mauricie, Quebec	7711552	8	38211	46.56675	-72.74913
 Shawnee	Johnson County, Kansas	129621	8	65046	39.04167	-94.72024
 Shawnee	Pottawatomie County, Oklahoma	185234	8	31286	35.32729	-96.9253
+Shawnee Hills	Greene County, Ohio	182015	8	2171	39.65284	-83.78687
 Shawneetown	Gallatin County, Illinois	121479	8	1164	37.7131	-88.1867
 Shawville	Outaouais, Quebec	8353789	8	1203	45.60011	-76.4827
 Shayu	Chongqing	11106090	8	10117	30.24283	106.36733
@@ -170,17 +195,23 @@ Shenandoah	Montgomery County, Texas	114071	8	2770	30.18022	-95.45577
 Shenandoah	Page County, Iowa	129294	8	5021	40.76555	-95.37221
 Shenandoah	Page County, Virginia	207039	8	2340	38.48512	-78.62502
 Shenandoah	Schuylkill County, Pennsylvania	187726	8	4873	40.82037	-76.20077
+Shendam	Shendam, Plateau	3720627	6	0	8.87866	9.53464
+Shengjergj	Rrethi i Tiranes, Tirana	1250118	8	0	41.18333	19.53333
 Shengjin	Lezhe	1248917	8	2698	41.81361	19.59389
 Shengli	Beijing	2988901	6	0	40.11818	116.64295
+Shengli	Wuzhong Shi, Ningxia Hui Autonomous Region	4563635	6	0	37.98425	106.19659
+Shengrenjian	Yuncheng Shi, Shanxi	3224220	6	0	34.84422	111.19131
 Shenkoll	Lezhe	1248939	8	0	41.69083	19.65333
 Shenley	Hertfordshire, England	3574099	10	4143	51.69054	-0.28067
 Shenley Church End	Milton Keynes, England	5323845	10	0	52.02522	-0.78994
 Shenorock	Westchester County, New York	175602	8	1898	41.33176	-73.73819
 Shenstone	Staffordshire, England	6898818	10	2220	52.63802	-1.84147
 Shenton Park	Nedlands, Western Australia	11689238	9	4507	-31.95575	115.79807
+Shenyang	Shenyang Shi, Liaoning	2769604	5	7050000	41.79222	123.43278
 Shenzhen	Shenzhen, Guangdong	3464353	5	17494398	22.54554	114.0683
 Sheohar	Sheohar, Bihar	10253154	6	24979	26.51393	85.29341
 Sheohar	Sheohar, Bihar	1960150	5	24979	26.51393	85.29341
+Sheopur	Sheopur, Madhya Pradesh	1973955	5	62416	25.66472	76.69616
 Shepetivka	Shepetivka Raion, Khmelnytskyi Oblast	3592426	9	41599	50.18118	27.06517
 Shepherd	Isabella County, Michigan	134810	8	1507	43.52447	-84.69473
 Shepherd	San Jacinto County, Texas	6586817	8	2418	30.49798	-94.9966
@@ -230,6 +261,7 @@ Shihezi	Shihezi, Xinjiang	3431881	6	572772	44.3023	86.03694
 Shihui	Chongqing	8170095	8	15205	29.57177	108.61017
 Shijak	Durres District, Durres	1249881	8	14138	41.34556	19.56722
 Shijia	Chongqing	12294999	8	6312	30.28653	108.32516
+Shijiazhuang	Shijiazhuang Shi, Hebei	3009732	5	3938513	38.04139	114.47861
 Shikabe	Kayabe-gun, Hokkaido	4088018	7	3920	42.02967	140.82282
 Shikarpur	Bulandshahr, Uttar Pradesh	10002298	6	34649	28.28072	78.01411
 Shiki	Shiki Shi, Saitama	1768986	7	76445	35.83333	139.58333
@@ -252,6 +284,7 @@ Shimla	Shimla, Himachal Pradesh	364181	5	173503	31.10442	77.16662
 Shimoda	Shimoda-shi, Shizuoka	4674472	7	21402	34.67652	138.94456
 Shimoichi	Yoshino-gun, Nara	3249030	7	5378	34.37089	135.78766
 Shimonita	Kanra-gun, Gunma	3562228	7	7058	36.21667	138.78333
+Shimonoseki	Yamaguchi	4016541	7	265684	33.95	130.95
 Shimotsuke	Kawachi-gun, Tochigi	1860241	7	60274	36.41323	139.86622
 Shimukappu	Yufutsu-gun, Hokkaido	4078673	7	1251	43	142.41667
 Shiner	Lavaca County, Texas	114721	8	2139	29.42913	-97.17054
@@ -262,9 +295,12 @@ Shingu	Kasuya-gun, Fukuoka	4008362	7	31236	33.71399	130.4313
 Shingu	Shingu-shi, Wakayama	3350251	7	27491	33.73333	135.98333
 Shinkafi	Shinkafi, Zamfara	3706967	6	9324	13.07296	6.50574
 Shinmachi	Isumi-gun, Chiba	2679916	7	7523	35.18738	140.35792
+Shinmachi	Isumi-gun, Chiba	2905605	9	7523	35.18738	140.35792
 Shinnecock Hills	Suffolk County, New York	175752	8	2188	40.89093	-72.4637
 Shinnston	Harrison County, West Virginia	240037	8	2171	39.39564	-80.30009
 Shinshiro	Shinshiro-shi, Aichi	4551631	7	36069	34.9	137.5
+Shintoku	Kamikawa-gun (Tokachi), Hokkaido	4062430	7	6285	43.07472	142.83472
+Shinyanga	Shinyanga Urban, Shinyanga	5712716	4	107362	-3.66393	33.42118
 Shiojiri	Shiojiri-shi, Nagano	4756358	7	67159	36.1	137.96667
 Ship Bottom	Ocean County, New Jersey	170306	8	1135	39.6429	-74.18042
 Shipan	Chongqing	12287052	8	2537	29.13921	108.20413
@@ -272,6 +308,7 @@ Shipdham	Norfolk, England	1022495	10	1860	52.62923	0.88577
 Shipham	Somerset, England	2722537	10	1087	51.31428	-2.8001
 Shipka	Obshtina Kazanluk, Stara Zagora	13489930	8	1604	42.71667	25.33333
 Shipley	Bradford, England	11163239	10	28544	53.83333	-1.76667
+Shipley	Bradford, England	946740	10	28544	53.83333	-1.76667
 Shippagan	Gloucester County, New Brunswick	9670031	8	2580	47.74424	-64.70804
 Shippagan	Gloucester County, New Brunswick	9692340	8	2580	47.74424	-64.70804
 Shippensburg	Cumberland County, Pennsylvania	188285	8	5559	40.05065	-77.52026
@@ -281,6 +318,7 @@ Shipton under Wychwood	Oxfordshire, England	6102741	10	2892	51.86035	-1.59847
 Shiqi	Zhongshan Prefecture, Guangdong	12300068	8	342306	22.51682	113.38521
 Shiqiao	Chongqing	12296610	8	8151	29.19831	107.82887
 Shiqiao	Guangzhou Shi, Guangdong	12031258	8	135308	22.9464	113.35769
+Shirahama	Nishimuro-gun, Wakayama	3341935	7	23325	33.68333	135.35
 Shiranuka	Shiranuka-gun, Hokkaido	4071348	7	7972	42.96286	144.08897
 Shiraoi	Shiraoi-gun, Hokkaido	4085805	7	17759	42.55	141.35
 Shirebrook	Derbyshire, England	957591	10	10885	53.20333	-1.21336
@@ -296,7 +334,9 @@ Shishan	Suzhou Shi, Jiangsu	7759902	8	0	31.29883	120.56516
 Shishtavec	Rrethi i Kukesit, Kukes	1248550	8	0	41.98	20.60583
 Shitan	Chongqing	11498833	8	19375	30.06896	106.50291
 Shitara	Kitashitara-gun, Aichi	4567394	7	4531	35.1	137.56667
+Shiveegovi	Govi-Sumber	7297818	6	0	46.10558	108.62061
 Shively	Jefferson County, Kentucky	130681	8	15713	38.20007	-85.82274
+Shivpuri	Shivpuri, Madhya Pradesh	1973956	5	164215	25.42378	77.66223
 Shizuoka	Shizuoka-shi, Shizuoka	4674742	7	690881	34.98333	138.38333
 Shklow	Mogilev	4684730	8	13485	54.2131	30.2877
 Shkoder	Rrethi i Shkodres, Shkoder	1248301	8	88245	42.06828	19.51258
@@ -309,8 +349,11 @@ Shobara	Shobara-shi, Hiroshima	4090053	7	33476	34.85	133.01667
 Shoemakersville	Berks County, Pennsylvania	188479	8	1369	40.50093	-75.96993
 Shoham	Central District	1406086	8	20740	31.99866	34.94559
 Shokan	Ulster County, New York	176340	8	1183	41.97343	-74.21209
+Shonai	Higashitagawa-gun, Yamagata	4134713	7	20940	38.84846	139.90308
 Shonguy	Murmansk	4281901	10	1122	68.75261	33.14595
+Shorapur	Yadgir, Karnataka	3671464	6	49501	16.521	76.75738
 Shoreacres	Harris County, Texas	4872254	8	1603	29.62023	-95.00993
+Shoreham-by-Sea	West Sussex, England	2277982	10	19175	50.83413	-0.27431
 Shoreline	King County, Washington	237358	8	55439	47.75565	-122.34152
 Shoreview	Ramsey County, Minnesota	136611	8	26477	45.07913	-93.14717
 Shorewell Park	Burnie, Tasmania	10590503	9	2020	-41.0699	145.87689
@@ -334,6 +377,7 @@ Shrewsbury	Shropshire, England	4581086	10	71715	52.71009	-2.75208
 Shrewsbury	Worcester County, Massachusetts	1844192	8	33893	42.29593	-71.71285
 Shrewsbury	York County, Pennsylvania	188871	8	3863	39.76871	-76.67969
 Shrewton	Wiltshire, England	5574675	10	1723	51.19194	-1.90264
+Shrigonda	Ahmadnagar, Maharashtra	10347866	6	28208	18.61527	74.69895
 Shrivenham	Oxfordshire, England	4116988	10	4676	51.59853	-1.65461
 Shrub Oak	Westchester County, New York	175599	8	2011	41.32759	-73.81958
 Shtip	Shtip	6791464	8	48279	41.74583	22.19583
@@ -343,14 +387,18 @@ Shuangfengqiao	Chongqing	2693405	6	67717	29.71859	106.62712
 Shuanghe	Chongqing	14057254	8	7871	31.94216	108.34821
 Shuanghejiedao	Guang'an Shi, Sichuan	10706946	8	0	30.37448	106.77266
 Shuanghekou	Chongqing	5690634	8	33715	30.75398	108.36958
+Shuangjiang	Chongqing	2692020	6	0	30.92624	108.71044
 Shuangjiang	Yuxi Shi, Yunnan	2723532	6	0	24.17261	102.40049
 Shuanglong	Chongqing	12287053	8	3620	29.08953	108.25773
+Shuangshipu	Baoji Shi, Shaanxi	3048909	6	0	33.91705	106.52466
 Shuangta	Suzhou Shi, Jiangsu	7363780	8	0	31.30408	120.62968
 Shuangxi	Yichun Shi, Jiangxi	3182916	6	0	28.86295	115.35194
 Shuangxi	Yichun Shi, Jiangxi	7357338	8	0	28.86295	115.35194
+Shuangyashan	Shuangyashan Shi, Heilongjiang	203483	5	600000	46.67686	131.13273
 Shuangzhong	Jiujiang Shi, Jiangxi	3190443	6	0	29.74296	116.22426
 Shuangzhong	Jiujiang Shi, Jiangxi	5832517	8	0	29.74296	116.22426
 Shucheng	Suqian Shi, Jiangsu	3293936	6	0	34.12128	118.78078
+Shucheng Chengguanzhen	Lu'an Shi, Anhui	3243391	6	0	31.47448	116.95207
 Shuguang	Yichun Shi, Heilongjiang	9466496	8	0	47.72411	128.67399
 Shuibian	Ji'an Shi, Jiangxi	2949892	6	0	27.60805	115.32636
 Shuibian	Ji'an Shi, Jiangxi	7364997	8	0	27.60805	115.32636
@@ -362,6 +410,7 @@ Shuitou	Lueliang, Shanxi	3263817	6	0	36.97306	111.2091
 Shuizhai	Meizhou Shi, Guangdong	12151122	8	140493	23.92961	115.76499
 Shukat as Sufi	Gaza Strip	10522703	9	10566	31.25997	34.2826
 Shulinzhao	Ordos Shi, Inner Mongolia	10442691	8	0	40.39278	110.02694
+Shulinzhao	Ordos Shi, Inner Mongolia	2752774	6	0	40.39278	110.02694
 Shullsburg	Lafayette County, Wisconsin	251909	8	1210	42.57334	-90.23096
 Shumen	Obshtina Shumen, Shumen	13476884	8	72342	43.27064	26.92286
 Shumen	Obshtina Shumen, Shumen	1739546	6	72342	43.27064	26.92286
@@ -373,8 +422,10 @@ Shunqui	Provincia de Dos de Mayo, Huanuco	1954571	8	570	-9.73137	-76.78345
 Shupenze	Rrethi i Bulqizes, Diber	1249555	8	0	41.53	20.42361
 Shupluy	Provincia de Yungay, Ancash	1953349	8	173	-9.21778	-77.69417
 Shurdington	Gloucestershire, England	193195	10	1798	51.86264	-2.1206
+Shurugwi	Midlands	5554783	6	22900	-19.67016	30.00589
 Shushary	St.-Petersburg	356826	8	15503	59.80917	30.38167
 Shushice	Rrethi i Elbasanit, Elbasan	1250571	8	0	41.0975	20.14833
+Shushice	Rrethi i Elbasanit, Elbasan	1255525	8	0	41.0975	20.14833
 Shutesbury	Franklin County, Massachusetts	1839614	8	1842	42.45648	-72.40981
 Shymkent	Shymkent	3389772	4	1200000	42.3	69.6
 Shyroke	Donetsk Oblast	3939518	9	1001	47.95711	38.2316

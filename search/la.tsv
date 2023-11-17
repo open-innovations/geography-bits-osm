@@ -25,6 +25,7 @@ La Asuncion	Belen, Heredia	5670235	8	4383	9.97955	-84.17178
 La Asuncion	Nueva Esparta	14427471	8	35084	11.03333	-63.86278
 La Baconniere	Mayenne, Pays de la Loire	1002257	8	1449	48.18297	-0.89373
 La Balme-de-Sillingy	Haute-Savoie, Auvergne-Rhone-Alpes	103823	8	4205	45.9689	6.04187
+La Balme-de-Sillingy	Haute-Savoie, Auvergne-Rhone-Alpes	75626	8	4205	45.9689	6.04187
 La Banda	Departamento de Banda, Santiago del Estero	3450256	8	0	-27.73348	-64.24278
 La Banda	Provincia de San Martin, San Martin	1971700	8	24932	-6.49265	-76.34224
 La Baneza	Provincia de Leon, Castille and Leon	343106	8	11057	42.30026	-5.89772
@@ -33,6 +34,7 @@ La Barca	La Barca, Jalisco	5605955	6	35219	20.28784	-102.54514
 La Barre-de-Monts	Vendee, Pays de la Loire	156331	8	1922	46.88421	-2.11862
 La Barthe-de-Neste	Hautes-Pyrenees, Occitanie	2302704	8	1173	43.07957	0.38378
 La Bassee	North, Hauts-de-France	58055	8	6027	50.53424	2.8062
+La Bastide-des-Jourdans	Vaucluse, Provence-Alpes-Cote d'Azur	2144169	8	1110	43.78531	5.63446
 La Bastide-des-Jourdans	Vaucluse, Provence-Alpes-Cote d'Azur	73865	8	1110	43.78531	5.63446
 La Bathie	Savoy, Auvergne-Rhone-Alpes	128026	8	2215	45.62829	6.449
 La Batie-Montgascon	Isere, Auvergne-Rhone-Alpes	103622	8	1556	45.57745	5.52873
@@ -67,6 +69,7 @@ La Cabrera	Provincia de Madrid, Madrid	341244	8	2613	40.86386	-3.61265
 La Cabucelle	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6600223	10	9488	43.33189	5.36111
 La Calade	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6600224	10	6313	43.33895	5.35111
 La Calamine	Province de Liege, Wallonia	2400116	8	10232	50.71809	6.01107
+La Caldera	La Caldera, Salta	3059849	5	0	-24.60477	-65.38181
 La Calera	Departamento de Colon, Cordoba	9435036	7	24796	-31.34377	-64.33529
 La Calera	La Calera, Cundinamarca	8347238	6	10175	4.72069	-73.96926
 La Caleta Culebras	Provincia de Huarmey, Ancash	1953245	8	0	-9.94889	-78.22528
@@ -134,7 +137,9 @@ La Chataigneraie	Vendee, Pays de la Loire	166624	8	2649	46.64959	-0.7413
 La Chatre	Indre, Centre	1314087	8	4687	46.58228	1.98734
 La Chatre	Indre, Centre	2147794	7	4687	46.58228	1.98734
 La Chaussee-Saint-Victor	Loir-et-Cher, Centre	273623	8	4253	47.61621	1.36765
+La Chaux	Morges District, Vaud	138087	8	0	46.61714	6.47223
 La Chaux	Morges District, Vaud	1685010	8	0	46.61714	6.47223
+La Chaux	Morges District, Vaud	2252462	8	0	46.61714	6.47223
 La Chaux-de-Fonds	La Chaux-de-Fonds District, Neuchatel	1685495	8	36825	47.09993	6.82586
 La Chevroliere	Loire-Atlantique, Pays de la Loire	78012	8	5220	47.09105	-1.61119
 La Cienaga	La Cienaga, Barahona	7151619	6	2875	18.06858	-71.10651
@@ -214,7 +219,9 @@ La Ferte-Saint-Aubin	Loiret, Centre	150408	8	7178	47.71695	1.93904
 La Ferte-sous-Jouarre	Seine-et-Marne, Ile-de-France	409302	8	9443	48.9514	3.12724
 La Feuillie	Seine-Maritime, Normandy	3020475	8	1124	49.46415	1.51463
 La Flamengrie	Aisne, Hauts-de-France	153026	8	1107	50.00175	3.92081
+La Flamengrie	Aisne, Hauts-de-France	54740	8	1107	50.00175	3.92081
 La Fleche	Sarthe, Pays de la Loire	107550	8	18536	47.69815	-0.07553
+La Fleche	Sarthe, Pays de la Loire	1659954	7	18536	47.69815	-0.07553
 La Flocelliere	Vendee, Pays de la Loire	164569	9	2001	46.83162	-0.86102
 La Floresta	La Floresta, Canelones	2527806	8	1107	-34.75572	-55.68141
 La Florida	La Florida, Narino	1454218	6	2882	1.29851	-77.40614
@@ -240,6 +247,7 @@ La Fuente de San Esteban	Provincia de Salamanca, Castille and Leon	343565	8	1453
 La Fuliola	Provincia de Lleida, Catalonia	342361	8	1238	41.71358	1.01746
 La Gacilly	Morbihan, Brittany	126567	9	2453	47.76532	-2.13208
 La Gacilly	Morbihan, Brittany	6838408	8	2453	47.76532	-2.13208
+La Garde	Var, Provence-Alpes-Cote d'Azur	2144517	8	28257	43.12468	6.01033
 La Garde	Var, Provence-Alpes-Cote d'Azur	76462	8	28257	43.12468	6.01033
 La Garde-Adhemar	Drome, Auvergne-Rhone-Alpes	88677	8	1169	44.39699	4.75759
 La Garde-Freinet	Var, Provence-Alpes-Cote d'Azur	276305	8	1777	43.3171	6.46946
@@ -271,6 +279,7 @@ La Grange Park	Cook County, Illinois	123437	8	13608	41.83475	-87.86173
 La Griega	El Marques, Queretaro	4063439	8	4181	20.66642	-100.24012
 La Grigonnais	Loire-Atlantique, Pays de la Loire	173707	8	1314	47.52704	-1.66749
 La Grulla	Starr County, Texas	5615876	8	1695	26.26951	-98.64725
+La Guaira	Municipio Vargas, Vargas	2442704	4	25259	10.60156	-66.93293
 La Guancha	Provincia de Santa Cruz de Tenerife, Canary Islands	340392	8	5424	28.3732	-16.65158
 La Guardia	Province of Toledo, Castille-La Mancha	345072	8	2329	39.78795	-3.47604
 La Guardia de Jaen	Provincia de Jaen, Andalusia	340623	8	4061	37.74303	-3.69312
@@ -318,10 +327,12 @@ La Libertad	Comayagua	12088768	6	4673	14.75792	-87.60759
 La Libertad	Guayas	109439	6	75881	-2.233	-80.91039
 La Libertad	La Libertad, Chiapas	5999600	6	2032	17.6874	-91.72071
 La Libertad	Municipio de La Libertad, Huehuetenango	377278	6	6439	15.51421	-91.86944
+La Ligua	Petorca Province, Valparaiso	113201	8	24857	-32.45242	-71.23106
 La Lima	Cortes	6055155	6	45955	15.43333	-87.91667
 La Limouziniere	Loire-Atlantique, Pays de la Loire	78862	8	1518	46.99346	-1.59726
 La Linea de la Concepcion	Provincia de Cadiz, Andalusia	342099	8	64595	36.16809	-5.34777
 La Lira	Pedro Escobedo, Queretaro	4063546	8	6394	20.47554	-100.16145
+La Llanada	La Llanada, Narino	11326597	6	2747	1.4731	-77.58024
 La Llave	San Juan del Rio, Queretaro	4063467	8	5497	20.46628	-99.99373
 La Loggia	Torino, Piedmont	43842	8	8433	44.95495	7.66864
 La Londe-les-Maures	Var, Provence-Alpes-Cote d'Azur	970878	8	9471	43.13839	6.23362
@@ -333,6 +344,7 @@ La Louviere	Province du Hainaut, Wallonia	12313130	9	76668	50.48657	4.18785
 La Louviere	Province du Hainaut, Wallonia	2083031	8	76668	50.48657	4.18785
 La Luisiana	Provincia de Sevilla, Andalusia	340566	8	4434	37.52602	-5.24883
 La Luz	Otero County, New Mexico	171064	8	1697	32.97787	-105.94193
+La Macarena	La Macarena, Meta	11372667	6	3466	2.18266	-73.7871
 La Machine	Nievre, Bourgogne-Franche-Comte	160808	8	3637	46.89226	3.46426
 La Maddalena	Provincia di Sassari, Sardinia	7454306	8	10297	41.21424	9.40833
 La Madeleine	North, Hauts-de-France	58617	8	23572	50.64603	3.07585
@@ -342,6 +354,7 @@ La Magdalena Tlaltelulco	La Magdalena Tlaltelulco, Tlaxcala	5999601	6	16834	19.2
 La Magdeleine	Valle d'Aosta, Aosta Valley	46176	8	91	45.80996	7.61871
 La Mailleraye-sur-Seine	Seine-Maritime, Normandy	106515	9	1916	49.48308	0.7703
 La Malbaie	Capitale-Nationale, Quebec	7717114	8	8959	47.654	-70.15268
+La Mana	La Mana, Cotopaxi	113403	6	16450	-0.94094	-79.22506
 La Mana	La Mana, Cotopaxi	3774336	8	16450	-0.94094	-79.22506
 La Manga del Mar Menor	Murcia	3473978	10	10000	37.64129	-0.71651
 La Manga del Mar Menor	Murcia	3591929	10	10000	37.64129	-0.71651
@@ -455,6 +468,7 @@ La Puebla de Almoradiel	Province of Toledo, Castille-La Mancha	348195	8	5629	39.
 La Puebla de Cazalla	Provincia de Sevilla, Andalusia	340888	8	11033	37.22155	-5.31153
 La Puebla de Montalban	Province of Toledo, Castille-La Mancha	348192	8	7695	39.86297	-4.35917
 La Puebla de los Infantes	Provincia de Sevilla, Andalusia	340896	8	3013	37.7809	-5.38837
+La Puebla del Rio	Provincia de Sevilla, Andalusia	340895	8	11879	37.26787	-6.06264
 La Pueblanueva	Province of Toledo, Castille-La Mancha	348193	8	2097	39.91208	-4.67933
 La Puente	Los Angeles County, California	13799316	8	40745	34.02001	-117.94951
 La Puerta	Departamento de Ambato, Catamarca	1843426	8	0	-28.17036	-65.79015
@@ -499,6 +513,7 @@ La Roche-des-Arnauds	Hautes-Alpes, Provence-Alpes-Cote d'Azur	952272	8	1025	44.5
 La Roche-en-Ardenne	Province du Luxembourg, Wallonia	12901744	9	4200	50.18361	5.57547
 La Roche-en-Ardenne	Province du Luxembourg, Wallonia	2566321	8	4200	50.18361	5.57547
 La Roche-sur-Foron	Haute-Savoie, Auvergne-Rhone-Alpes	75202	8	10026	46.07111	6.3045
+La Roche-sur-Yon	Vendee, Pays de la Loire	1658750	7	59410	46.66974	-1.42757
 La Roche-sur-Yon	Vendee, Pays de la Loire	166641	8	59410	46.66974	-1.42757
 La Rochefoucauld	Charente, Nouvelle-Aquitaine	111329	9	3426	45.74101	0.38587
 La Rochelle	Charente-Maritime, Nouvelle-Aquitaine	117858	8	76810	46.16308	-1.15222
@@ -552,6 +567,7 @@ La Terrasse	Isere, Auvergne-Rhone-Alpes	83230	8	2159	45.32052	5.92761
 La Tessoualle	Maine-et-Loire, Pays de la Loire	285569	8	3128	47.00466	-0.8511
 La Teste-de-Buch	Gironde, Nouvelle-Aquitaine	109392	8	27253	44.63278	-1.14513
 La Thuile	Valle d'Aosta, Aosta Valley	45585	8	762	45.71366	6.95099
+La Thuile	Valle d'Aosta, Aosta Valley	76188	8	762	45.71366	6.95099
 La Tigra	Departamento de O'Higgins, Chaco	1652363	8	4505	-27.10996	-60.58719
 La Timone	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6598481	10	5125	43.28847	5.41447
 La Tinguina	Provincia de Ica, Ica	1899033	8	0	-14.03583	-75.70028
@@ -571,6 +587,7 @@ La Tranche-sur-Mer	Vendee, Pays de la Loire	164240	8	2671	46.343	-1.437
 La Tremblade	Charente-Maritime, Nouvelle-Aquitaine	121745	8	4970	45.7699	-1.14232
 La Trinidad	Province of Benguet, Cordillera	9421380	6	41258	16.455	120.5875
 La Trinidad Tenexyecac	Ixtacuixtla de Mariano Matamoros, Tlaxcala	1391419	8	2863	19.33596	-98.31476
+La Trinitaria	La Trinitaria, Chiapas	5999605	6	9042	16.11859	-92.05201
 La Trinite	Alpes-Maritimes, Provence-Alpes-Cote d'Azur	174960	8	10128	43.7405	7.314
 La Trinite	Martinique	1702960	7	15040	14.73807	-60.96319
 La Trinite	Martinique	288715	8	15040	14.73807	-60.96319
@@ -620,6 +637,7 @@ La Ville-aux-Clercs	Loir-et-Cher, Centre	278952	8	1237	47.91835	1.08521
 La Ville-aux-Dames	Indre-et-Loire, Centre	77778	8	4925	47.39551	0.76837
 La Ville-du-Bois	Essonne, Ile-de-France	33362	8	6224	48.65521	2.26833
 La Villedieu-du-Clain	Vienne, Nouvelle-Aquitaine	139310	8	1414	46.45539	0.36956
+La Villedieu-du-Clain	Vienne, Nouvelle-Aquitaine	152890	8	1414	46.45539	0.36956
 La Villette	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6581663	10	8309	43.31181	5.37391
 La Vina	Departamento de La Vina, Salta	3059852	5	0	-25.46642	-65.5663
 La Virgen	Sarapiqui, Heredia	5673091	8	0	10.40174	-84.13348
@@ -632,6 +650,7 @@ La Vraie-Croix	Morbihan, Brittany	146620	8	1138	47.6897	-2.54355
 La Wantzenau	Bas-Rhin, Grand Est	69336	8	5765	48.65786	7.83068
 La Yeguada	Distrito de Calobre, Veraguas	10742973	8	122	8.43186	-80.85667
 La Yesa	Provincia de Valencia, Valencia	346239	8	250	39.88333	-0.95
+La Yesca	La Yesca, Nayarit	5605967	6	534	21.31871	-104.01161
 LaBelle	Hendry County, Florida	117738	8	4753	26.76173	-81.43841
 LaFayette	Walker County, Georgia	119687	8	7173	34.7048	-85.2819
 LaGrange	Troup County, Georgia	119684	8	29588	33.03929	-85.03133
@@ -643,6 +662,7 @@ Laage	Mecklenburg-Vorpommern	1971865	9	8156	53.9256	12.34694
 Laage	Mecklenburg-Vorpommern	9682019	8	8156	53.9256	12.34694
 Laagri	Saue vald, Harjumaa	8844688	10	5165	59.35083	24.61418
 Laakirchen	Politischer Bezirk Gmunden, Upper Austria	60622	8	9861	47.98188	13.82166
+Laar	Lower Saxony	2350485	10	2193	52.35581	8.25388
 Laarne	Provincie Oost-Vlaanderen, Flanders	1341874	8	11600	51.03078	3.85077
 Laarne	Provincie Oost-Vlaanderen, Flanders	7869684	9	11600	51.03078	3.85077
 Laatzen	Lower Saxony	2012733	8	40038	52.31506	9.79739
@@ -661,6 +681,7 @@ Labastidette	Upper Garonne, Occitanie	122736	8	1501	43.46106	1.24586
 Labateca	Labateca, Norte de Santander	1423497	6	0	7.29889	-72.49472
 Labatlan	Komarom-Esztergom	1027780	8	5357	47.74735	18.49623
 Labatut	Landes, Nouvelle-Aquitaine	76056	8	1206	43.55071	-0.98446
+Labe	Labe Prefecture, Labe	3308839	4	58649	11.31823	-12.28332
 Labege	Upper Garonne, Occitanie	36996	8	3691	43.52935	1.52999
 Labegude	Ardeche, Auvergne-Rhone-Alpes	120243	8	1395	44.64496	4.36939
 Labelle	Laurentides, Quebec	7362394	8	1239	46.28339	-74.73255
@@ -686,11 +707,13 @@ Labruguiere	Tarn, Occitanie	138690	8	5846	43.53862	2.2627
 Labry	Meurthe et Moselle, Grand Est	1140183	8	1623	49.17289	5.88087
 Labuerda	Provincia de Huesca, Aragon	341122	8	164	42.45234	0.13561
 Labuleng	Gannan Zangzu Zizhizhou, Gansu	11838569	8	22970	35.20125	102.52117
+Labuleng	Gannan Zangzu Zizhizhou, Gansu	2693682	6	22970	35.20125	102.52117
 Labunie	Powiat zamojski, Lublin	7158008	8	1670	50.65517	23.3662
 Labunista	Struga	6477588	8	8805	41.26861	20.59611
 Lac	Rrethi i Kurbinit, Lezhe	1248928	8	24825	41.63556	19.71306
 Lac-Brome	Monteregie, Quebec	7926994	8	5629	45.21678	-72.51581
 Lac-Megantic	Estrie, Quebec	8064416	8	4658	45.58338	-70.88234
+Lac-Simon	Laurentides, Quebec	7362049	8	1243	46.15699	-74.74129
 Lacabamba	Provincia de Pallasca, Ancash	1953279	8	378	-8.26667	-77.9
 Lacanau	Gironde, Nouvelle-Aquitaine	963193	8	3410	44.97914	-1.07957
 Lacapelle-Marival	Lot, Occitanie	123196	8	1360	44.72853	1.92529
@@ -750,6 +773,7 @@ Ladysmith	Rusk County, Wisconsin	251758	8	3188	45.46302	-91.10404
 Ladyville	Belize	11520751	9	5458	17.55427	-88.29
 Laehden	Lower Saxony	1748594	8	4429	52.74547	7.57036
 Laer	Regierungsbezirk Muenster, North Rhine-Westphalia	155782	8	6325	52.05555	7.35775
+Laerdalsoyri	Laerdal, Vestland	409076	7	1110	61.10001	7.47374
 Laerru	Provincia di Sassari, Sardinia	40787	8	904	40.81705	8.8365
 Lafayette	Boulder County, Colorado	112288	8	27729	39.9936	-105.08971
 Lafayette	Chambers County, Alabama	7458662	8	3003	32.89985	-85.40106
@@ -758,6 +782,7 @@ Lafayette	Lafayette Parish, Louisiana	131949	8	127657	30.22409	-92.01984
 Lafayette	Macon County, Tennessee	197398	8	4991	36.52116	-86.02637
 Lafayette	Tippecanoe County, Indiana	127729	8	71111	40.4167	-86.87529
 Lafayette	Yamhill County, Oregon	186665	8	3969	45.24428	-123.11483
+Lafia	Lafia, Nassarawa	3720503	6	127236	8.4939	8.51532
 Laflin	Luzerne County, Pennsylvania	189045	8	1479	41.28897	-75.80547
 Lafnitz	Politischer Bezirk Hartberg-Fuerstenfeld, Styria	37705	8	967	47.36792	16.01103
 Lafrancaise	Tarn-et-Garonne, Occitanie	144849	8	2799	44.1276	1.24049
@@ -769,6 +794,7 @@ Lagarto	Lagarto, Sergipe	303894	8	45445	-10.91722	-37.65
 Lagarto	Lagarto, Sergipe	6170263	9	45445	-10.91722	-37.65
 Lagartos	Provincia de Palencia, Castille and Leon	346489	8	136	42.40578	-4.90454
 Lagata	Provincia de Zaragoza, Aragon	342088	8	124	41.2397	-0.80487
+Lagdo	North	3765046	8	24596	9.05828	13.66605
 Lage	Regierungsbezirk Detmold, North Rhine-Westphalia	142650	8	34885	51.99223	8.79301
 Lage	Regierungsbezirk Detmold, North Rhine-Westphalia	9109409	10	34885	51.99223	8.79301
 Lage Mierde	Gemeente Reusel-De Mierden, North Brabant	2718185	10	1405	51.40583	5.14722
@@ -782,11 +808,13 @@ Lagnasco	Provincia di Cuneo, Piedmont	43362	8	1083	44.62504	7.55483
 Lagnes	Vaucluse, Provence-Alpes-Cote d'Azur	107921	8	1591	43.89348	5.11454
 Lagnieu	Ain, Auvergne-Rhone-Alpes	146722	8	6454	45.90237	5.34399
 Lagny-le-Sec	Oise, Hauts-de-France	1083333	8	1882	49.08744	2.74502
+Lagny-le-Sec	Oise, Hauts-de-France	1547278	8	1882	49.08744	2.74502
 Lagny-sur-Marne	Seine-et-Marne, Ile-de-France	402922	8	20649	48.86667	2.71667
 Lago	Amares, Braga	4169371	8	1910	41.62148	-8.41258
 Lago	Provincia di Cosenza, Calabria	39827	8	1250	39.17068	16.14825
 Lago Puelo	Departamento de Cushamen, Chubut	4445869	8	4046	-42.06684	-71.60384
 Lago Vista	Travis County, Texas	6586497	8	6550	30.4602	-97.98835
+Lago da Pedra	Vitorino Freire, Maranhao	332851	8	25996	-4.28674	-45.23824
 Lago dos Rodrigues	Lago Dos Rodrigues, Maranhao	332811	8	0	-4.61304	-44.98009
 Lagoa	Lagoa, Azores	7540360	7	14442	37.74486	-25.57184
 Lagoa	Lagoa, Faro	5404103	7	6301	37.13535	-8.45319
@@ -807,6 +835,7 @@ Lagorce	Gironde, Nouvelle-Aquitaine	2869190	8	1418	45.06995	-0.13887
 Lagord	Charente-Maritime, Nouvelle-Aquitaine	117890	8	6987	46.18915	-1.15387
 Lagos	Lagos, Faro	5404104	7	18831	37.10202	-8.67422
 Lagos Island	Lagos	5404351	6	0	6.46614	3.41838
+Lagos de Moreno	Lagos de Moreno, Jalisco	5605968	6	98206	21.35666	-101.93768
 Lagosanto	Provincia di Ferrara, Emilia-Romagna	43574	8	4026	44.76282	12.14005
 Lagow	Powiat kielecki, Swietokrzyskie	6359815	8	1630	50.77517	21.08431
 Lagow	Powiat swiebodzinski, Lubusz	3520595	8	1666	52.33429	15.29769
@@ -857,9 +886,11 @@ Lahoysk	Minsk	6722549	8	10321	54.2064	27.8512
 Lahr	Freiburg Region, Baden-Wurttemberg	453002	8	47551	48.34042	7.86886
 Lahti	Lahti, Paijat-Hame	345901	8	120093	60.98267	25.66151
 Lahuaytambo	Provincia de Huarochiri, Lima region	1944750	8	383	-12.1	-76.4
+Laibin	Laibin Shi, Guangxi	2775865	5	910282	23.74743	109.22222
 Laichingen	Tuebingen Region, Baden-Wurttemberg	2788066	8	10853	48.48939	9.68612
 Laidley	Lockyer Valley, Queensland	11675666	9	3711	-27.63278	152.39285
 Laigne-en-Belin	Sarthe, Pays de la Loire	107373	8	2043	47.8781	0.22794
+Laigne-en-Belin	Sarthe, Pays de la Loire	1109356	9	2043	47.8781	0.22794
 Laigneville	Oise, Hauts-de-France	1640528	8	3964	49.29149	2.44581
 Laigueglia	Provincia di Savona, Liguria	42789	8	1773	43.9759	8.15823
 Laihia	Vaasa, Ostrobothnia	2194232	8	7782	62.97609	22.01143
@@ -874,6 +905,7 @@ Laissac	Aveyron, Occitanie	116539	9	1543	44.38097	2.82271
 Laitila	Vakka-Suomi, Southwest Finland	2378069	8	8403	60.87575	21.69765
 Laiz	Ain, Auvergne-Rhone-Alpes	140028	8	1090	46.25054	4.88955
 Laizhou	Yantai Shi, Shandong	13851700	8	188000	37.18073	119.94217
+Laizhou	Yantai Shi, Shandong	5654336	6	188000	37.18073	119.94217
 Laja	Provincia Los Andes, La Paz	4500400	8	18023	-16.53333	-68.38333
 Laja	Provincia de Biobio, Biobio	1632644	8	16550	-37.28415	-72.71105
 Lajas	Cienfuegos	5884804	6	22602	22.41479	-80.2931
@@ -900,6 +932,7 @@ Lajinha	Lajinha, Minas Gerais	315261	8	15729	-20.15139	-41.62278
 Lajoskomarom	Fejer	1458081	8	2365	46.84201	18.33763
 Lajosmizse	Bacs-Kiskun	1130398	8	11034	47.02133	19.56171
 Lajski	Powiat legionowski, Mazovia	6587641	8	1300	52.42873	20.94946
+Lak	GJak Lak	7074659	6	0	12.41086	108.17682
 Laka Prudnicka	Powiat prudnicki, Opole Voivodeship	5568190	8	1270	50.31061	17.52809
 Lake Albert	Wagga Wagga, New South Wales	5914483	9	5908	-35.16667	147.38333
 Lake Alfred	Polk County, Florida	117727	8	5475	28.09196	-81.72341
@@ -907,6 +940,7 @@ Lake Arthur	Jefferson Davis Parish, Louisiana	132133	8	2742	30.08076	-92.67153
 Lake Barrington	Lake County, Illinois	125667	8	4973	42.21252	-88.15258
 Lake Bluff	Lake County, Illinois	122070	8	5674	42.27891	-87.83424
 Lake Butler	Union County, Florida	118910	8	1845	30.02274	-82.33956
+Lake Cargelligo	Lachlan, New South Wales	5816909	9	1445	-33.29884	146.37296
 Lake Carmel	Putnam County, New York	175660	8	8282	41.46148	-73.67096
 Lake Cathie	Port Macquarie-Hastings, New South Wales	6063637	9	3342	-31.55183	152.85465
 Lake Charles	Calcasieu Parish, Louisiana	132126	8	76070	30.21309	-93.2044
@@ -997,6 +1031,7 @@ Lake in the Hills	McHenry County, Illinois	126052	8	29024	42.18169	-88.33036
 Lake of the Woods	Champaign County, Illinois	123085	8	2912	40.20642	-88.36867
 Lakefield	Jackson County, Minnesota	136990	8	1656	43.67746	-95.17166
 Lakehurst	Ocean County, New Jersey	170320	8	2694	40.01456	-74.31126
+Lakeland	Lanier County, Georgia	119545	8	3322	31.04104	-83.07515
 Lakeland	Lanier County, Georgia	119578	8	3322	31.04104	-83.07515
 Lakeland	Onondaga County, New York	4213459	8	2786	43.09034	-76.24048
 Lakeland	Polk County, Florida	117730	8	104401	28.03947	-81.9498
@@ -1071,6 +1106,7 @@ Lam Thao	Phu Tho	7117448	6	0	21.3201	105.29156
 Lama	Provincia di Modena, Emilia-Romagna	43003	8	1094	44.30726	10.7306
 Lama dei Peligni	Provincia di Chieti, Abruzzo	41727	8	1163	42.04214	14.18678
 Lamadelaine	Petange, Esch-sur-Alzette	1694378	9	2428	49.54639	5.85639
+Lamadrid	Lamadrid, Coahuila	5605971	6	1801	27.05087	-101.79552
 Lamagistere	Tarn-et-Garonne, Occitanie	136387	8	1262	44.12498	0.82353
 Lamalou-les-Bains	Herault, Occitanie	164612	8	2453	43.59758	3.07985
 Lamani	Comayagua	12108942	6	1791	14.19626	-87.62128
@@ -1089,6 +1125,8 @@ Lambach	Wels-Land, Upper Austria	64464	8	3279	48.09276	13.87453
 Lamballe	Cotes-d'Armor, Brittany	278693	9	12344	48.46808	-2.51781
 Lambare	Lambare, Central	3678799	8	126377	-25.34682	-57.60647
 Lambari	Lambari, Minas Gerais	315268	8	14516	-21.97556	-45.35028
+Lambayeque	Provincia de Lambayeque, Lambayeque	1969722	4	43710	-6.70111	-79.90611
+Lambayeque	Provincia de Lambayeque, Lambayeque	1969725	6	43710	-6.70111	-79.90611
 Lambayeque	Provincia de Lambayeque, Lambayeque	1969739	8	43710	-6.70111	-79.90611
 Lamberhurst	Kent, England	2404605	10	1147	51.1005	0.38967
 Lambersart	North, Hauts-de-France	58897	8	28613	50.65	3.03333
@@ -1099,6 +1137,7 @@ Lambourn	West Berkshire, England	3990868	10	3071	51.50805	-1.53105
 Lambrama	Provincia de Abancay, Apurimac	1929568	8	650	-13.87062	-72.76981
 Lambrecht	Rheinland-Pfalz	1252333	8	3991	49.37055	8.07264
 Lambrechtshagen	Mecklenburg-Vorpommern	394345	8	3016	54.10208	12.01645
+Lambres-lez-Douai	North, Hauts-de-France	1175458	8	5057	50.36009	3.06478
 Lambres-lez-Douai	North, Hauts-de-France	56194	8	5057	50.36009	3.06478
 Lambrugo	Provincia di Como, Lombardy	46007	8	2455	45.75878	9.23954
 Lambsheim	Rheinland-Pfalz	418408	8	6104	49.51361	8.28778
@@ -1134,6 +1173,7 @@ Lampa	Provincia de Lampa, Puno	1916265	8	4780	-15.35	-70.36667
 Lampasas	Lampasas County, Texas	8383609	8	7687	31.06378	-98.1817
 Lampaul-Guimiliau	Finistere, Brittany	1226882	8	2077	48.49282	-4.04132
 Lampaul-Plouarzel	Finistere, Brittany	174636	8	2010	48.44727	-4.76045
+Lampazos de Naranjo	Lampazos de Naranjo, Nuevo Leon	5605972	6	5026	27.02549	-100.50528
 Lampertheim	Bas-Rhin, Grand Est	75137	8	3126	48.65149	7.69876
 Lampertheim	Regierungsbezirk Darmstadt, Hesse	537050	8	31635	49.59786	8.4725
 Lampertswalde	Saxony	551154	8	2060	51.31108	13.67694
@@ -1144,7 +1184,9 @@ Lamprechtshausen	Politischer Bezirk Salzburg-Umgebung, Salzburg	86550	8	1866	47.
 Lamspringe	Lower Saxony	1168896	9	3223	51.96071	10.01105
 Lamspringe	Lower Saxony	6681691	8	3223	51.96071	10.01105
 Lamstedt	Lower Saxony	445757	8	3380	53.63333	9.1
+Lamu	Lamu	3495550	4	24525	-2.27169	40.90201
 Lamure-sur-Azergues	Rhone, Auvergne-Rhone-Alpes	1136087	8	1052	46.06255	4.49195
+Lamwo	Lamwo District, Northern Region	3501822	4	0	3.52972	32.8016
 Lana	Bolzano, Trentino-Alto Adige	47268	8	9244	46.61209	11.15653
 Lanaja	Provincia de Huesca, Aragon	341124	8	1465	41.77063	-0.33095
 Lanaken	Provincie Limburg, Flanders	10514906	9	24771	50.89318	5.6468
@@ -1247,6 +1289,7 @@ Lang Lang	Cardinia, Victoria	2452445	9	1543	-38.26605	145.5621
 Langa	Provincia de Avila, Castille and Leon	342008	8	550	41.0055	-4.85946
 Langa de Duero	Provincia de Soria, Castille and Leon	343856	8	876	41.60985	-3.40061
 Langa del Castillo	Provincia de Zaragoza, Aragon	341499	8	177	41.212	-1.3985
+Langao Chengguanzhen	Ankang Shi, Shaanxi	2996860	6	35348	32.30028	108.89306
 Langayo	Provincia de Valladolid, Castille and Leon	344813	8	392	41.56986	-4.19866
 Langballig	Schleswig-Holstein	1149286	8	1502	54.8	9.63333
 Langballig	Schleswig-Holstein	1156159	7	1502	54.8	9.63333
@@ -1265,6 +1308,7 @@ Langenaltheim	Regierungsbezirk Mittelfranken, Bavaria	1015142	8	2450	48.89318	10
 Langenargen	Tuebingen Region, Baden-Wurttemberg	2783823	8	7513	47.59858	9.54163
 Langenau	Tuebingen Region, Baden-Wurttemberg	937642	8	14175	48.49616	10.11849
 Langenbach	Upper Bavaria, Bavaria	29997	8	3755	48.43333	11.85
+Langenberg	Regierungsbezirk Detmold, North Rhine-Westphalia	3657769	9	8207	51.77206	8.31809
 Langenberg	Regierungsbezirk Detmold, North Rhine-Westphalia	78566	8	8207	51.77206	8.31809
 Langenbernsdorf	Saxony	417075	8	3968	50.75583	12.32669
 Langenbernsdorf	Saxony	8556714	9	3968	50.75583	12.32669
@@ -1307,6 +1351,7 @@ Langerringen	Swabia, Bavaria	935171	8	3802	48.1459	10.75894
 Langerwehe	Regierungsbezirk Koeln, North Rhine-Westphalia	162550	8	14027	50.81667	6.35
 Langerwehe	Regierungsbezirk Koeln, North Rhine-Westphalia	4052753	10	14027	50.81667	6.35
 Langewiesen	Thuringia	165441	9	3793	50.67252	10.97102
+Langfang	Langfang Shi, Hebei	2989329	5	868066	39.50972	116.69472
 Langford	Capital Regional District, British Columbia	2221055	8	35342	48.44963	-123.50261
 Langford	Central Bedfordshire, England	4078281	10	3091	52.0546	-0.27165
 Langford	Gosnells, Western Australia	11689297	9	5573	-32.04092	115.94157
@@ -1362,6 +1407,7 @@ Langxia	Ningbo Shi, Zhejiang	13693014	8	0	30.16778	121.075
 Langxiang	Yichun Shi, Heilongjiang	10784145	8	57318	46.94985	128.86849
 Lanieta	Powiat kutnowski, Lodz Voivodeship	6689681	8	634	52.36203	19.28032
 Lanigan	Saskatchewan	11295618	8	1204	51.85006	-105.03443
+Lanipao	Province of Lanao del Norte, Northern Mindanao	9245289	10	4114	7.95528	123.77667
 Lanivtsi	Ternopil Oblast	3167143	9	8434	49.86103	26.09052
 Lanja	Ratnagiri, Maharashtra	10354701	6	13121	16.86086	73.54993
 Lanjaron	Provincia de Granada, Andalusia	345892	8	3773	36.91853	-3.4818
@@ -1373,6 +1419,7 @@ Lanmeur	Finistere, Brittany	294955	8	2195	48.64711	-3.71638
 Lannach	Politischer Bezirk Deutschlandsberg, Styria	36151	8	1334	46.94611	15.33722
 Lannemezan	Hautes-Pyrenees, Occitanie	166307	8	6606	43.12517	0.38401
 Lannilis	Finistere, Brittany	539925	8	4686	48.57	-4.52196
+Lannion	Cotes-d'Armor, Brittany	1652250	7	21473	48.73264	-3.45657
 Lannion	Cotes-d'Armor, Brittany	409309	8	21473	48.73264	-3.45657
 Lannon	Waukesha County, Wisconsin	249908	8	1086	43.14612	-88.1662
 Lannoy	North, Hauts-de-France	58650	8	1706	50.66674	3.21012
@@ -1429,10 +1476,12 @@ Lanzhot	Okres Breclav, South Moravian	442285	8	3608	48.72443	16.96695
 Lanzo Torinese	Torino, Piedmont	44583	8	4900	45.27657	7.48235
 Lanzuela	Provincia de Teruel, Aragon	346335	8	29	41.0985	-1.20616
 Lao Cai	Lao Cai	7097125	6	36502	22.48556	103.97066
+Laon	Aisne, Hauts-de-France	2961287	7	28688	49.5631	3.62714
 Laon	Aisne, Hauts-de-France	74127	8	28688	49.5631	3.62714
 Lapa	Lapa, Parana	297479	8	25621	-25.76972	-49.71583
 Lapa	Lapa, Parana	7710843	9	25621	-25.76972	-49.71583
 Lapachito	Departamento de General Donovan, Chaco	1605487	8	1448	-27.15997	-59.38605
+Lapai	Lapai, Niger	3718396	6	16442	9.04439	6.57089
 Lapalisse	Allier, Auvergne-Rhone-Alpes	117644	8	3509	46.24835	3.63605
 Lapalud	Vaucluse, Provence-Alpes-Cote d'Azur	149383	8	3495	44.3078	4.68946
 Lapanow	Powiat bochenski, Lesser Poland	4753581	8	1000	49.86538	20.29149
@@ -1444,6 +1493,7 @@ Lapel	Madison County, Indiana	127616	8	2053	40.06837	-85.84831
 Laperdiguera	Provincia de Huesca, Aragon	341119	8	103	41.99053	-0.04657
 Lapeyrouse-Fossat	Upper Garonne, Occitanie	161343	8	2308	43.69973	1.51049
 Lapinjaervi	Loviisa, Uusimaa	2473508	8	2937	60.62443	26.1972
+Lapinlahti	Ylae-Savo, North Savo	2522180	8	7350	63.36667	27.4
 Lapio	Provincia di Avellino, Campania	40934	8	1124	40.98293	14.9465
 Laplace	Saint John the Baptist Parish, Louisiana	131725	8	29872	30.06698	-90.48147
 Laplaigne	Province du Hainaut, Wallonia	3951484	9	1391	50.52194	3.4473
@@ -1454,6 +1504,7 @@ Laporte	Sullivan County, Pennsylvania	188852	8	307	41.42397	-76.49411
 Lapoutroie	Haut-Rhin, Grand Est	85670	8	2221	48.15398	7.16714
 Lappajaervi	Jaerviseutu, South Ostrobothnia	2213830	8	3588	63.2	23.63333
 Lappano	Provincia di Cosenza, Calabria	39897	8	423	39.31964	16.31143
+Lappeenranta	Lappeenranta, South Karelia	2273016	8	72646	61.05871	28.18871
 Lappersdorf	Upper Palatinate, Bavaria	965014	8	12744	49.04694	12.0913
 Laprida	Partido de Laprida, Buenos Aires	3871211	8	0	-37.54415	-60.79969
 Lapseki	Canakkale	1815245	6	10076	40.34417	26.68556
@@ -1485,6 +1536,7 @@ Larapinta	Alice Springs, Northern Territory	11716671	9	2159	-23.69303	133.83137
 Larcay	Indre-et-Loire, Centre	77530	8	2135	47.36649	0.78145
 Larce	Zhelino	6940186	8	1489	41.93319	21.12628
 Larchamp	Mayenne, Pays de la Loire	1124453	8	1068	48.36253	-0.99865
+Larchamp	Mayenne, Pays de la Loire	1259542	9	1068	48.36253	-0.99865
 Larche	Correze, Nouvelle-Aquitaine	120777	8	1468	45.12048	1.41566
 Larciano	Provincia di Pistoia, Tuscany	42636	8	30	43.83365	10.89001
 Lardero	Provincia de La Rioja, La Rioja	340519	8	6214	42.42686	-2.46153
@@ -1501,6 +1553,7 @@ Lares	Lares Barrio-Pueblo, Lares	4467927	9	7184	18.29467	-66.87712
 Lares	Lares Barrio-Pueblo, Lares	4467935	6	7184	18.29467	-66.87712
 Lares	Provincia de Calca, Cusco	1923755	8	522	-13.10441	-72.04394
 Largentiere	Ardeche, Auvergne-Rhone-Alpes	1670717	8	2126	44.54272	4.29342
+Largentiere	Ardeche, Auvergne-Rhone-Alpes	2681444	7	2126	44.54272	4.29342
 Largo	Pinellas County, Florida	118902	8	81000	27.90979	-82.78842
 Largs	Maitland Municipality, New South Wales	5999478	9	1894	-32.7	151.6
 Largs Bay	Port Adelaide Enfield, South Australia	9051285	9	4015	-34.82582	138.48619
@@ -1530,6 +1583,7 @@ Larrakeyah	Darwin, Northern Territory	11716545	9	4245	-12.45527	130.83172
 Larraona	Provincia de Navarra, Navarre	342946	8	140	42.7797	-2.25682
 Larraul	Provincia de Guipuzcoa, Basque Country	346785	8	184	43.18773	-2.10202
 Larressore	Pyrenees-Atlantiques, Nouvelle-Aquitaine	166899	8	1426	43.37024	-1.43924
+Larreynaga	Leon	5892064	10	7703	12.67692	-86.57193
 Larringes	Haute-Savoie, Auvergne-Rhone-Alpes	106891	8	1077	46.36919	6.57125
 Larrodrigo	Provincia de Salamanca, Castille and Leon	341137	8	277	40.73722	-5.44895
 Larroque	Departamento de Gualeguaychu, Entre Rios	2922116	7	6200	-33.03595	-59.00125
@@ -1538,12 +1592,14 @@ Lartington	County Durham, England	8547318	10	0	54.55415	-1.97239
 Laruns	Pyrenees-Atlantiques, Nouvelle-Aquitaine	2090949	8	1546	42.98826	-0.42658
 Laruscade	Gironde, Nouvelle-Aquitaine	1795257	8	1852	45.10812	-0.34109
 Larva	Provincia de Jaen, Andalusia	339627	8	491	37.76069	-3.20269
+Larvik	Larvik, Vestfold og Telemark	404591	7	23113	59.05328	10.03517
 Las Acequias	Departamento de Rio Cuarto, Cordoba	5147313	8	2116	-33.28155	-63.9761
 Las Animas	Bent County, Colorado	13574177	8	2227	38.06667	-103.22271
 Las Brenas	Departamento de Nueve de Julio, Chaco	1665508	8	26955	-27.08966	-61.08161
 Las Brenas	Departamento de Nueve de Julio, Chaco	1665510	7	26955	-27.08966	-61.08161
 Las Cabezas de San Juan	Provincia de Sevilla, Andalusia	346143	8	16379	36.9838	-5.93933
 Las Charcas	Las Charcas, Azua	7162901	6	4720	18.45026	-70.61724
+Las Choapas	Las Choapas, Veracruz	6037716	6	42693	17.91177	-94.09646
 Las Coloradas	Departamento de Catan-Lil, Neuquen	12030621	8	0	-39.55534	-70.59491
 Las Cruces	Dona Ana County, New Mexico	171260	8	101643	32.31232	-106.77834
 Las Cumbres	Distrito de Panama, Panama	11480386	8	69102	9.09211	-79.53895
@@ -1565,6 +1621,7 @@ Las Lomas	Provincia de Piura, Piura	1986196	8	9450	-4.65333	-80.24667
 Las Lomitas	Departamento de Patino, Formosa	3498864	8	10354	-24.70955	-60.59303
 Las Margaritas	Distrito de Chepo, Panama	11372286	8	4165	9.19181	-79.08672
 Las Marias	Maravilla Sur Barrio, Las Marias	4468092	6	1031	18.2519	-66.99212
+Las Matas	Provincia de Madrid, Madrid	346449	8	14213	40.55779	-3.89173
 Las Matas	Provincia de Madrid, Madrid	6656710	10	14213	40.55779	-3.89173
 Las Matas de Santa Cruz	Las Matas de Santa Cruz, Monte Cristi	7187306	6	10218	19.67119	-71.50471
 Las Mesas	Provincia de Cuenca, Castille-La Mancha	346521	8	2544	39.38871	-2.76524
@@ -1597,6 +1654,7 @@ Las Ventas de Retamosa	Province of Toledo, Castille-La Mancha	342719	8	1432	40.1
 Las Vigas de Ramirez	Las Vigas de Ramirez, Veracruz	6037718	6	9684	19.63722	-97.09821
 Lasalle	Gard, Occitanie	2926381	8	1115	44.04573	3.85244
 Lasarte	Provincia de Guipuzcoa, Basque Country	348854	8	17782	43.26774	-2.02169
+Lasarte	Provincia de Guipuzcoa, Basque Country	6882458	9	17782	43.26774	-2.02169
 Lasbek	Schleswig-Holstein	453745	8	1162	53.73333	10.36667
 Lascano	Lascano, Rocha	2609816	8	6976	-33.67235	-54.2065
 Lascari	Palermo, Sicily	39470	8	2857	38.00067	13.94053
@@ -1607,7 +1665,9 @@ Lask	Powiat laski, Lodz Voivodeship	2919499	8	18577	51.59056	19.13278
 Laskarzew	Powiat garwolinski, Mazovia	3000837	7	4893	51.78993	21.59122
 Laskarzew	Powiat garwolinski, Mazovia	3000890	8	4893	51.78993	21.59122
 Lasko	Lasko	1681496	8	3456	46.15463	15.23555
+Laskowa	Powiat limanowski, Lesser Poland	3339049	8	3133	49.76147	20.45045
 Laskowa	Powiat limanowski, Lesser Poland	6033999	8	3133	49.76147	20.45045
+Laskowa	Powiat limanowski, Lesser Poland	6135422	8	3133	49.76147	20.45045
 Laslea	Comuna Laslea, Sibiu	10513994	8	3147	46.21667	24.65
 Laslovo	Ernestinovo, Osjecko-Baranjska	12884425	8	1079	45.415	18.69611
 Lasnigo	Provincia di Como, Lombardy	46422	8	462	45.88198	9.26644
@@ -1662,10 +1722,13 @@ Latta	Dillon County, South Carolina	194032	8	1351	34.3371	-79.43116
 Lattarico	Provincia di Cosenza, Calabria	39933	8	1557	39.45105	16.127
 Lattes	Herault, Occitanie	28726	8	17390	43.56775	3.90279
 Latur	Latur, Maharashtra	10348487	6	348967	18.39721	76.56784
+Latur	Latur, Maharashtra	1991624	5	348967	18.39721	76.56784
+Lau	Lau, Taraba	3720860	6	12657	9.20827	11.27541
 Laubach	Regierungsbezirk Giessen, Hesse	13778114	9	10205	50.54196	8.99034
 Laubach	Regierungsbezirk Giessen, Hesse	418614	8	10205	50.54196	8.99034
 Laubach	Rheinland-Pfalz	1259827	8	1073	50.23277	7.07333
 Laucha	Saxony-Anhalt	2402461	8	2517	51.22422	11.67988
+Laucha	Saxony-Anhalt	2806041	9	2517	51.22422	11.67988
 Lauchhammer	Brandenburg	1314225	8	18990	51.48813	13.76623
 Lauchheim	Regierungsbezirk Stuttgart, Baden-Wurttemberg	915557	8	4609	48.87135	10.24222
 Lauchringen	Freiburg Region, Baden-Wurttemberg	2785748	8	7416	47.62699	8.31442
@@ -1723,6 +1786,7 @@ Laureldale	Berks County, Pennsylvania	187347	8	3883	40.38815	-75.91798
 Laurens	Herault, Occitanie	164616	8	1048	43.52263	3.19654
 Laurens	Laurens County, South Carolina	194152	8	9166	34.49901	-82.01426
 Laurens	Pocahontas County, Iowa	128755	8	1180	42.84664	-94.85193
+Laurentides	Quebec	8388202	10	12710	47.13336	-72.28239
 Laurenzana	Provincia di Potenza, Basilicate	40501	8	1865	40.45908	15.97075
 Lauria	Provincia di Potenza, Basilicate	40203	8	4660	40.04702	15.83812
 Lauriano	Torino, Piedmont	44282	8	888	45.15989	7.99474
@@ -1747,6 +1811,7 @@ Lautenbach	Haut-Rhin, Grand Est	78947	8	1653	47.94055	7.15768
 Lautenbachzell	Haut-Rhin, Grand Est	82734	8	1017	47.94124	7.14643
 Lauter	Saxony	419004	9	5028	50.56264	12.73513
 Lauter	Upper Franconia, Bavaria	1077531	8	1141	49.97317	10.78842
+Lauterach	Politischer Bezirk Bregenz, Vorarlberg	2803464	8	10267	47.47572	9.72941
 Lauterbach	Regierungsbezirk Giessen, Hesse	14302979	10	14487	50.63558	9.39777
 Lauterbach	Regierungsbezirk Giessen, Hesse	418333	8	14487	50.63558	9.39777
 Lauterbach/Schwarzwald	Freiburg Region, Baden-Wurttemberg	943742	8	3193	48.22999	8.3424
@@ -1824,6 +1889,7 @@ Lawson	Blue Mountains Municipality, New South Wales	5496209	9	2537	-33.72064	150
 Lawson	Ray County, Missouri	141012	8	2409	39.43834	-94.20411
 Lawton	Comanche County, Oklahoma	185029	8	96655	34.60869	-98.39033
 Lawton	Van Buren County, Michigan	135138	8	1866	42.16726	-85.84695
+Laxe	Provincia da Coruna, Galicia	12656130	9	0	43.22019	-9.0063
 Laxe	Provincia da Coruna, Galicia	341948	8	0	43.22019	-9.0063
 Laxe	Provincia da Coruna, Galicia	9505565	9	0	43.22019	-9.0063
 Laxey	Laxey	1061137	8	1768	54.23017	-4.39985
@@ -1866,6 +1932,10 @@ Lazne Kynzvart	Okres Cheb, Karlovarsky kraj	424554	10	1647	50.01058	12.62474
 Lazne Kynzvart	Okres Cheb, Karlovarsky kraj	439462	8	1647	50.01058	12.62474
 Lazuri	Comuna Lazuri, Satu Mare	11671594	8	5237	47.85	22.86667
 Lazy	Powiat zawiercianski, Silesia	2838656	8	7166	50.42769	19.39465
+Lazy	Powiat zawiercianski, Silesia	3258925	8	7166	50.42769	19.39465
+Lazy	Powiat zawiercianski, Silesia	3481789	8	7166	50.42769	19.39465
+Lazy	Powiat zawiercianski, Silesia	4847939	8	7166	50.42769	19.39465
+Lazy	Powiat zawiercianski, Silesia	6075759	8	7166	50.42769	19.39465
 Lazzate	Provincia di Monza e della Brianza, Lombardy	45693	8	7560	45.67207	9.08424
 l'Alcora	Provincia de Castello, Valencia	344298	8	10430	40.06667	-0.2
 l'Alfas del Pi	Provincia de Alicante, Valencia	345031	8	21011	38.58055	-0.10321

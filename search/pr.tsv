@@ -110,9 +110,11 @@ Praxedis G. Guerrero	Praxedis G. Guerrero, Chihuahua	5606160	6	2128	31.37061	-10
 Pray	Provincia di Biella, Piedmont	45697	8	1408	45.67508	8.20951
 Prayssac	Lot, Occitanie	124614	8	2557	44.5043	1.18778
 Praz-sur-Arly	Haute-Savoie, Auvergne-Rhone-Alpes	75311	8	1197	45.83731	6.57259
+Praz-sur-Arly	Haute-Savoie, Auvergne-Rhone-Alpes	8005706	10	1197	45.83731	6.57259
 Prazmo	Okres Frydek-Mistek, Moravskoslezsky	434045	10	1007	49.60876	18.48617
 Prazmo	Okres Frydek-Mistek, Moravskoslezsky	437856	8	1007	49.60876	18.48617
 Prazmow	Powiat piaseczynski, Mazovia	4265842	8	403	51.9404	20.95479
+Prazmow	Powiat piaseczynski, Mazovia	5575045	8	403	51.9404	20.95479
 Pre Saint Didier	Valle d'Aosta, Aosta Valley	46032	8	258	45.76416	6.98579
 Pre-en-Pail	Mayenne, Pays de la Loire	1136056	9	2129	48.45993	-0.19814
 Preaux	Seine-Maritime, Normandy	411123	8	1673	49.49136	1.21583
@@ -205,6 +207,7 @@ Presidente Olegario	Presidente Olegario, Minas Gerais	315177	8	13586	-18.41778	-
 Presidente Olegario	Presidente Olegario, Minas Gerais	6159387	9	13586	-18.41778	-46.41806
 Presidente Prudente	Presidente Prudente, Sao Paulo	298001	8	209502	-22.12556	-51.38889
 Presidente Prudente	Presidente Prudente, Sao Paulo	5683232	9	209502	-22.12556	-51.38889
+Presidente Venceslau	Presidente Venceslau, Sao Paulo	298327	8	34026	-21.87611	-51.84389
 Presidente Venceslau	Presidente Venceslau, Sao Paulo	5683233	9	34026	-21.87611	-51.84389
 Presidio	Presidio County, Texas	4100711	8	3904	29.56074	-104.37215
 Presles-en-Brie	Seine-et-Marne, Ile-de-France	1371491	8	1899	48.71527	2.74112
@@ -237,8 +240,10 @@ Prettin	Saxony-Anhalt	1327668	9	2128	51.66077	12.92353
 Pretzfeld	Upper Franconia, Bavaria	1080476	8	2499	49.75454	11.1743
 Pretzier	Saxony-Anhalt	3696885	9	1310	52.83224	11.26105
 Pretzier	Saxony-Anhalt	4734199	10	1310	52.83224	11.26105
+Pretzsch	Saxony-Anhalt	2404179	10	1688	51.71466	12.80663
 Pretzschendorf	Saxony	455471	9	4440	50.87385	13.52499
 Preuilly-sur-Claise	Indre-et-Loire, Centre	173130	8	1122	46.85424	0.92954
+Preuilly-sur-Claise	Indre-et-Loire, Centre	191469	8	1122	46.85424	0.92954
 Preussisch Oldendorf	Regierungsbezirk Detmold, North Rhine-Westphalia	1335561	10	13447	52.30589	8.49341
 Preussisch Oldendorf	Regierungsbezirk Detmold, North Rhine-Westphalia	145245	8	13447	52.30589	8.49341
 Prevalje	Prevalje	1676291	8	4643	46.54694	14.92083
@@ -260,6 +265,7 @@ Pribylina	Okres Liptovsky Mikulas, Zilinsky kraj	2169292	9	1360	49.0995	19.79427
 Pribylina	Okres Liptovsky Mikulas, Zilinsky kraj	2230955	10	1360	49.0995	19.79427
 Pribyslav	Okres Havlickuv Brod, Vysocina	431762	10	3965	49.57684	15.73855
 Pribyslav	Okres Havlickuv Brod, Vysocina	440452	8	3965	49.57684	15.73855
+Pribyslav	Okres Havlickuv Brod, Vysocina	440685	8	3965	49.57684	15.73855
 Price	Carbon County, Utah	198908	8	8378	39.59941	-110.81071
 Priceville	Morgan County, Alabama	110130	8	3179	34.52509	-86.89473
 Prichard	Mobile County, Alabama	5675894	8	22351	30.7388	-88.07889
@@ -271,7 +277,9 @@ Priekule	Priekule, South Kurzeme Municipality	1898604	7	2550	56.44679	21.58968
 Priekuli	Priekulu pagasts, Cesu Rajons	3096039	9	2532	57.315	25.36147
 Prien	Calcasieu Parish, Louisiana	132278	8	7810	30.18187	-93.27377
 Prien am Chiemsee	Upper Bavaria, Bavaria	2186932	8	10872	47.85602	12.34623
+Prienai	Prienai, Kaunas	12122793	8	8610	54.636	23.94585
 Prienai	Prienai, Kaunas	1244196	8	8610	54.636	23.94585
+Prienai	Prienai, Kaunas	12770918	8	8610	54.636	23.94585
 Priero	Provincia di Cuneo, Piedmont	43054	8	366	44.37604	8.09334
 Priesendorf	Upper Franconia, Bavaria	1077551	8	1544	49.9075	10.71183
 Priest River	Bonner County, Idaho	121384	8	1758	48.18097	-116.91157
@@ -299,9 +307,11 @@ Primera	Cameron County, Texas	114513	8	4626	26.22591	-97.75805
 Primero de Enero	Ciego de Avila	5887681	6	17934	21.94501	-78.4313
 Primghar	O'Brien County, Iowa	129106	8	879	43.08692	-95.62723
 Primorski Dolac	Primorski Dolac, Split-Dalmatia	2828446	8	0	43.63083	16.17611
+Primorski Dolac	Primorski Dolac, Split-Dalmatia	8832534	8	0	43.63083	16.17611
 Primorsko	Obshtina Primorsko, Burgas	1937061	7	2798	42.26791	27.75611
 Primosten	Primosten, Sibensko-Kniniska	12989498	8	1631	43.58632	15.92302
 Prince Albert	Saskatchewan	5217092	8	35102	53.20008	-105.76772
+Prince Edward	Ontario	3776364	6	25496	44.00012	-77.24946
 Prince George	Regional District of Fraser-Fort George, British Columbia	2243544	8	74003	53.9166	-122.75301
 Prince Rupert	Skeena-Queen Charlotte Regional District, British Columbia	2222314	8	14708	54.31507	-130.32098
 Princes Hill	Yarra, Victoria	2383221	9	2069	-37.78185	144.96656
@@ -326,12 +336,14 @@ Princeville	Edgecombe County, North Carolina	179809	8	1991	35.8896	-77.53219
 Princeville	Nova Scotia	9334414	8	5571	45.76684	-61.29853
 Princeville	Peoria County, Illinois	126006	8	1726	40.92976	-89.7576
 Prineville	Crook County, Oregon	186812	8	9530	44.29985	-120.83447
+Pringsewu	Lampung	11007422	5	0	-5.35822	104.97441
 Pringy	Haute-Savoie, Auvergne-Rhone-Alpes	103391	9	2944	45.94622	6.12608
 Pringy	Seine-et-Marne, Ile-de-France	78982	8	2569	48.51815	2.56333
 Prinquiau	Loire-Atlantique, Pays de la Loire	173690	8	2243	47.3628	-2.01217
 Prinsenbeek	Gemeente Breda, North Brabant	2712697	10	10720	51.59833	4.7125
 Prinza	Province of Laguna, Calabarzon	9171341	10	2907	14.19607	121.13696
 Prinzapolka	North Caribbean Coast	14402327	10	394	13.40708	-83.56452
+Prinzapolka	North Caribbean Coast	5762574	6	394	13.40708	-83.56452
 Priocca	Provincia di Cuneo, Piedmont	43611	8	1668	44.78624	8.06424
 Priola	Provincia di Cuneo, Piedmont	42985	8	245	44.24478	8.02149
 Priolo Gargallo	Provincia di Siracusa, Sicily	39191	8	11724	37.15512	15.18248
@@ -350,6 +362,7 @@ Prittitz	Saxony-Anhalt	2405100	10	1040	51.14996	11.9302
 Prittriching	Upper Bavaria, Bavaria	2971317	7	2345	48.20074	10.92801
 Prittriching	Upper Bavaria, Bavaria	933779	8	2345	48.20074	10.92801
 Pritzwalk	Brandenburg	1289799	8	13485	53.14945	12.17405
+Privas	Ardeche, Auvergne-Rhone-Alpes	2678456	7	9545	44.735	4.59918
 Privas	Ardeche, Auvergne-Rhone-Alpes	87515	8	9545	44.735	4.59918
 Privateer	Sumter County, South Carolina	192182	8	2349	33.83321	-80.41425
 Priverno	Provincia di Latina, Lazio	41300	8	10005	41.47047	13.17867
@@ -398,6 +411,7 @@ Propria	Propria, Sergipe	6164099	9	23786	-10.21111	-36.84028
 Propriano	South Corsica, Corsica	73343	8	3312	41.6759	8.90412
 Proptisht	Rrethi i Pogradecit, Korce	1252571	8	0	40.98611	20.5025
 Prosec	Okres Chrudim, Pardubicky	436777	8	2098	49.8059	16.11621
+Prosec	Okres Chrudim, Pardubicky	436921	8	2098	49.8059	16.11621
 Prosek	Praha 9, Hlavni mesto Praha	434448	10	15581	50.11525	14.50685
 Proserpine	Whitsunday, Queensland	11677060	9	3630	-20.4011	148.5802
 Proserpio	Provincia di Como, Lombardy	46257	8	822	45.82828	9.24554
@@ -444,6 +458,7 @@ Providencia	Provincia de Santiago, Santiago Metropolitan	162983	8	0	-33.43107	-7
 Proville	North, Hauts-de-France	55909	8	3607	50.16137	3.20629
 Provin	North, Hauts-de-France	58027	8	3745	50.5143	2.90794
 Provincetown	Barnstable County, Massachusetts	2387634	8	2642	42.05295	-70.1864
+Provins	Seine-et-Marne, Ile-de-France	1643640	7	12685	48.55897	3.29939
 Provins	Seine-et-Marne, Ile-de-France	402221	8	12685	48.55897	3.29939
 Provo	Utah County, Utah	198903	8	115264	40.23384	-111.65853
 Provodov-Sonov	Okres Nachod, Kralovehradecky kraj	436743	8	1225	50.38711	16.10797
@@ -461,6 +476,7 @@ Prugy	Borsod-Abauj-Zemplen	1433787	8	2568	48.08333	21.25
 Pruhonice	Okres Praha-zapad, Central Bohemia	429238	10	2007	49.99962	14.55017
 Pruhonice	Okres Praha-zapad, Central Bohemia	442251	8	2007	49.99962	14.55017
 Pruille-le-Chetif	Sarthe, Pays de la Loire	107590	8	1282	47.99383	0.10677
+Pruille-le-Chetif	Sarthe, Pays de la Loire	1250231	9	1282	47.99383	0.10677
 Pruna	Provincia de Sevilla, Andalusia	340890	8	3047	36.97226	-5.2223
 Prundeni	Comuna Prundeni, Valcea	9833340	8	4596	44.73333	24.26667
 Prundu	Comuna Prundu, Giurgiu	11544683	8	4708	44.09472	26.22694
@@ -470,6 +486,7 @@ Pruniers-en-Sologne	Loir-et-Cher, Centre	1286000	8	2277	47.31667	1.66667
 Prusanky	Okres Hodonin, South Moravian	429316	10	2183	48.8284	16.98068
 Prusanky	Okres Hodonin, South Moravian	440857	8	2183	48.8284	16.98068
 Prusice	Powiat trzebnicki, Lower Silesia	2454335	8	2203	51.37116	16.96025
+Prusice	Powiat trzebnicki, Lower Silesia	5893068	8	2203	51.37116	16.96025
 Prusinovice	Okres Kromeriz, Zlin	431794	10	1207	49.37898	17.5871
 Prusinovice	Okres Kromeriz, Zlin	437453	8	1207	49.37898	17.5871
 Pruszcz	Powiat swiecki, Kujawsko-Pomorskie	2695917	8	2300	53.33021	18.19894
@@ -481,6 +498,9 @@ Prutting	Upper Bavaria, Bavaria	2186933	8	2325	47.89321	12.20238
 Pruzhany	Brest	6722278	8	19135	52.556	24.4573
 Prykolotne	Kharkiv	3555976	8	2499	50.16273	37.34524
 Pryvillia	Luhansk	2582166	9	6679	49.00556	38.29883
+Pryvillia	Luhansk	3586157	9	6679	49.00556	38.29883
+Pryvillia	Luhansk	3940297	9	6679	49.00556	38.29883
+Pryvillia	Luhansk	3944320	9	6679	49.00556	38.29883
 Przasnysz	Powiat przasnyski, Mazovia	2713266	7	16718	53.01907	20.88029
 Przasnysz	Powiat przasnyski, Mazovia	2994941	8	16718	53.01907	20.88029
 Przecieszyn	Powiat oswiecimski, Lesser Poland	3341140	8	1157	49.97838	19.17046

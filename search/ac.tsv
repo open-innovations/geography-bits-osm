@@ -4,6 +4,7 @@ A Coruna	Provincia da Coruna, Galicia	346810	8	246056	43.37135	-8.396
 A Coruna	Provincia da Coruna, Galicia	349021	6	246056	43.37135	-8.396
 Acacia Gardens	Blacktown, New South Wales	2912273	9	3780	-33.73159	150.91636
 Acacia Ridge	Brisbane, Queensland	11675378	9	7429	-27.58333	153.03333
+Acacias	Acacias, Meta	1438579	6	40627	3.98695	-73.75797
 Acacoyagua	Acacoyagua, Chiapas	5999486	6	7515	15.34054	-92.67519
 Acajete	Acajete, Puebla	3988533	6	20923	19.11154	-97.95231
 Acajete	Acajete, Veracruz	6037570	6	1649	19.58646	-97.00995
@@ -15,7 +16,9 @@ Acanceh	Acanceh, Yucatan	5961438	6	10968	20.81291	-89.45332
 Acanceh	Acanceh, Yucatan	6417487	8	10968	20.81291	-89.45332
 Acandi	Acandi, Choco	1343260	6	4840	8.51158	-77.27719
 Acapetahua	Acapetahua, Chiapas	5999488	6	6194	15.28189	-92.68987
+Acaponeta	Acaponeta, Nayarit	5605453	6	19140	22.49396	-105.36369
 Acapulco de Juarez	Acapulco de Juarez, Guerrero	5605454	6	673479	16.84942	-99.90891
+Acara	Acara, Para	185641	8	12802	-1.96083	-48.19667
 Acara	Acara, Para	6428355	9	12802	-1.96083	-48.19667
 Acarau	Acarau, Ceara	302500	8	28389	-2.88556	-40.12
 Acari	Provincia de Caraveli, Arequipa	1879296	8	4445	-15.42393	-74.61361
@@ -28,6 +31,7 @@ Acatlan	Acatlan, Hidalgo	5605458	6	405	20.14562	-98.43959
 Acatlan	Acatlan, Veracruz	6037572	6	2929	19.69677	-96.84216
 Acatlan de Juarez	Acatlan de Juarez, Jalisco	5605457	6	10461	20.42262	-103.59051
 Acatlan de Osorio	Acatlan, Puebla	6037571	6	16307	18.2025	-98.04864
+Acatlan de Perez Figueroa	Acatlan de Perez Figueroa, Oaxaca	5999489	6	6040	18.53973	-96.60568
 Acatzingo	Acatzingo, Puebla	3988541	6	25811	18.98196	-97.78363
 Acaxochitlan	Acaxochitlan, Hidalgo	5605459	6	4026	20.15789	-98.20172
 Acayucan	Acayucan, Veracruz	6037573	6	50934	17.94979	-94.91386
@@ -82,6 +86,7 @@ Aci Catena	Catania, Sicily	39289	8	24663	37.60614	15.14165
 Aci Sant'Antonio	Catania, Sicily	39298	8	10373	37.60499	15.12294
 Acigne	Ille-et-Vilaine, Brittany	79818	8	5746	48.13538	-1.5337
 Acigoel	Nevsehir	282353	6	6749	38.55028	34.50917
+Acipayam	Denizli	1605790	6	10924	37.42385	29.34941
 Acireale	Catania, Sicily	39290	8	49477	37.60886	15.16577
 Ackerman	Choctaw County, Mississippi	7154205	8	1482	33.31012	-89.17284
 Ackley	Hardin County, Iowa	128725	8	1560	42.55415	-93.05326
@@ -100,6 +105,8 @@ Acomayo	Provincia de Acomayo, Cusco	1923696	6	0	-13.91667	-71.68111
 Acomayo	Provincia de Acomayo, Cusco	1923710	8	0	-13.91667	-71.68111
 Acomb	Northumberland, England	8510558	10	1106	54.99229	-2.11229
 Aconchi	Aconchi, Sonora	5605461	6	1741	29.82628	-110.22492
+Aconibe	Wele-Nzas	12718761	6	11192	1.29683	10.93691
+Aconibe	Wele-Nzas	12719080	8	11192	1.29683	10.93691
 Acopampa	Provincia de Carhuaz, Ancash	1953200	8	865	-9.29425	-77.62271
 Acopiara	Acopiara, Ceara	302627	8	24561	-6.09528	-39.4525
 Acoria	Provincia de Huancavelica, Huancavelica	1933561	8	0	-12.61667	-74.88333
@@ -137,13 +144,17 @@ Acton	York County, Maine	2021330	8	2230	43.53425	-70.90978
 Acton Park	Clarence, Tasmania	10625779	9	2020	-42.87932	147.48459
 Acton Vale	Monteregie, Quebec	7932244	8	7656	45.65007	-72.56582
 Actopan	Actopan, Hidalgo	5605462	6	29223	20.26961	-98.94377
+Acu	Acu, Rio Grande do Norte	301109	8	36125	-5.57667	-36.90861
 Acu	Acu, Rio Grande do Norte	6242679	9	36125	-5.57667	-36.90861
 Acuamanala	Acuamanala de Miguel Hidalgo, Tlaxcala	1391341	8	1825	19.22361	-98.20056
+Acucena	Acucena, Minas Gerais	314852	8	14505	-19.07306	-42.54639
 Acuitlapilco	Tlaxcala	1391389	8	13386	19.27333	-98.23542
 Acuitzio del Canje	Acuitzio, Michoacan	5605463	6	6733	19.49585	-101.33321
 Acula	Acula, Veracruz	6037576	6	2639	18.50563	-95.77427
 Aculco de Espinoza	Aculco, Mexico	5605464	6	1823	20.09867	-99.82757
 Acultzingo	Acultzingo, Veracruz	6037578	6	7040	18.71894	-97.30367
+Acurenam	Centro Sur	12718870	6	2736	1.03225	10.64882
+Acurenam	Centro Sur	12719079	8	2736	1.03225	10.64882
 Acushnet	Bristol County, Massachusetts	2396242	8	10850	41.68066	-70.90782
 Acuto	Provincia di Frosinone, Lazio	41545	8	1624	41.79107	13.17446
 Acworth	Cobb County, Georgia	119638	8	22131	34.06635	-84.67837

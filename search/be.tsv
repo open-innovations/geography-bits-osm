@@ -18,6 +18,7 @@ Beaconsfield	Montreal, Quebec	197578	8	19194	45.43341	-73.86586
 Beaconsfield	West Tamar, Tasmania	10585664	9	1258	-41.20227	146.81723
 Beaconsfield Upper	Cardinia, Victoria	2428886	9	2757	-37.99415	145.4142
 Beade	Provincia de Ourense, Galicia	12632197	9	576	42.33074	-8.1295
+Beade	Provincia de Ourense, Galicia	12689082	9	576	42.33074	-8.1295
 Beade	Provincia de Ourense, Galicia	339719	8	576	42.33074	-8.1295
 Beadnell	Northumberland, England	8423101	10	408	55.5567	-1.6325
 Beaminster	Dorset, England	5714351	10	2957	50.809	-2.7391
@@ -122,13 +123,16 @@ Beauvais	Oise, Hauts-de-France	158311	8	53393	49.43333	2.08333
 Beauvais	Oise, Hauts-de-France	1665578	7	53393	49.43333	2.08333
 Beauval	Somme, Hauts-de-France	1348792	8	2277	50.10789	2.33269
 Beauvallon	Drome, Auvergne-Rhone-Alpes	49274	8	1818	44.85593	4.90756
+Beauvallon	Drome, Auvergne-Rhone-Alpes	7858553	8	1818	44.85593	4.90756
 Beauvechain	Province du Brabant Wallon, Wallonia	11629237	9	6334	50.78195	4.7718
 Beauvechain	Province du Brabant Wallon, Wallonia	1384087	8	6334	50.78195	4.7718
 Beauvoir-de-Marc	Isere, Auvergne-Rhone-Alpes	173351	8	1028	45.52009	5.07906
 Beauvoir-sur-Mer	Vendee, Pays de la Loire	154370	8	3625	46.91506	-2.04085
 Beauvoir-sur-Niort	Deux-Sevres, Nouvelle-Aquitaine	146563	8	1377	46.18198	-0.47396
+Beauvois-en-Cambresis	North, Hauts-de-France	2259331	8	2047	50.13735	3.3787
 Beauvois-en-Cambresis	North, Hauts-de-France	55662	8	2047	50.13735	3.3787
 Beauvoisin	Gard, Occitanie	382571	8	3426	43.71869	4.32298
+Beauvoisin	Gard, Occitanie	78681	8	3426	43.71869	4.32298
 Beauzac	Haute-Loire, Auvergne-Rhone-Alpes	138383	8	2162	45.25913	4.09874
 Beauzelle	Upper Garonne, Occitanie	158875	8	6043	43.66713	1.37518
 Beaver	Beaver County, Oklahoma	184276	8	1454	36.81614	-100.51987
@@ -148,6 +152,7 @@ Bebedouro	Bebedouro, Sao Paulo	298041	8	71862	-20.94944	-48.47917
 Bebedouro	Bebedouro, Sao Paulo	5349580	9	71862	-20.94944	-48.47917
 Bebeji	Bebeji, Kano	3710306	6	10987	11.66768	8.262
 Bebeji	Bebeji, Kano	3710375	8	10987	11.66768	8.262
+Beberibe	Beberibe, Ceara	302521	8	37025	-4.17972	-38.13056
 Beblo	Powiat krakowski, Lesser Poland	3256815	8	1092	50.18053	19.78741
 Bebra	Regierungsbezirk Kassel, Hesse	14324458	10	14839	50.97445	9.79562
 Bebra	Regierungsbezirk Kassel, Hesse	237802	8	14839	50.97445	9.79562
@@ -161,11 +166,13 @@ Becerrea	Provincia de Lugo, Galicia	340144	8	3403	42.8561	-7.1636
 Becerril de Campos	Provincia de Palencia, Castille and Leon	341293	8	1021	42.10841	-4.64152
 Becerril de la Sierra	Provincia de Madrid, Madrid	341626	8	4610	40.71699	-3.98858
 Bech	Bech, Echternach	569736	8	380	49.7526	6.36379
+Bechar	Daira de Bechar, Bechar	6530988	8	143382	31.61667	-2.21667
 Bechet	Comuna Bechet, Dolj	9664753	8	3824	43.78188	23.95706
 Bechhofen	Rheinland-Pfalz	1250670	8	2306	49.35	7.4
 Bechlin	Okres Litomerice, Ustecky kraj	426198	10	1150	50.41615	14.34092
 Bechlin	Okres Litomerice, Ustecky kraj	439671	8	1150	50.41615	14.34092
 Bechtheim	Rheinland-Pfalz	1248786	8	1876	49.72778	8.29222
+Bechtheim	Rheinland-Pfalz	14312599	9	1876	49.72778	8.29222
 Bechtolsheim	Rheinland-Pfalz	1248582	8	1489	49.80417	8.19389
 Bechtsrieth	Upper Palatinate, Bavaria	1059442	8	1096	49.64487	12.20997
 Bechyne	Okres Tabor, Jihocesky kraj	435583	10	5755	49.29523	14.4681
@@ -174,6 +181,7 @@ Becicherecu Mic	Comuna Becicherecu Mic, Timis	11322071	8	4765	45.82917	21.05139
 Becilla de Valderaduey	Provincia de Valladolid, Castille and Leon	344545	8	359	42.09905	-5.21805
 Beciu	Comuna Beciu, Teleorman	13677960	8	1430	44.00429	24.66571
 Beckdorf	Lower Saxony	446429	8	2532	53.41667	9.61667
+Beckdorf	Lower Saxony	448712	8	2532	53.41667	9.61667
 Beckedorf	Lower Saxony	1176595	8	1553	52.35	9.31667
 Beckemeyer	Clinton County, Illinois	125840	8	1016	38.6056	-89.43592
 Beckenham	Gosnells, Western Australia	11689298	9	7385	-32.02481	115.95989
@@ -184,6 +192,7 @@ Becket	Berkshire County, Massachusetts	2405925	8	1786	42.33203	-73.08288
 Beckingen	Saarland	1187156	8	15983	49.4	6.7
 Beckingen	Saarland	5374344	9	15983	49.4	6.7
 Beckingham	Nottinghamshire, England	141504	10	1098	53.4	-0.83333
+Beckingham	Nottinghamshire, England	1839714	10	1098	53.4	-0.83333
 Beckley	Raleigh County, West Virginia	239988	8	17056	37.77817	-81.18816
 Beckum	Regierungsbezirk Muenster, North Rhine-Westphalia	152281	8	37814	51.75571	8.04075
 Beclean	Comuna Beclean, Bistrita-Nasaud	10744556	8	10909	47.18333	24.18333
@@ -221,6 +230,7 @@ Bedihost	Okres Prostejov, Olomoucky	438620	8	1002	49.44826	17.16643
 Bedizzole	Provincia di Brescia, Lombardy	45134	8	9320	45.51038	10.42327
 Bedkow	Powiat tomaszowski, Lodz Voivodeship	12152105	8	550	51.58763	19.74956
 Bedlinog	Merthyr Tydfil County Borough, Wales	11019535	10	1112	51.70432	-3.31306
+Bedminster	Somerset County, New Jersey	3460837	8	8165	40.68066	-74.64544
 Bedminster	Somerset County, New Jersey	963375	8	8165	40.68066	-74.64544
 Bedoin	Vaucluse, Provence-Alpes-Cote d'Azur	148129	8	3016	44.12432	5.1804
 Bedonia	Provincia di Parma, Emilia-Romagna	43225	8	2136	44.504	9.63489
@@ -238,6 +248,8 @@ Beecher	Will County, Illinois	125773	8	4450	41.34059	-87.62143
 Beechwood Village	Jefferson County, Kentucky	130359	8	1365	38.25479	-85.63135
 Beechworth	Indigo, Victoria	2583191	9	3761	-36.35828	146.68584
 Beecroft	Hornsby Shire, New South Wales	2962927	9	9290	-33.74954	151.0648
+Beed	Bid, Maharashtra	10348273	6	0	18.98921	75.75634
+Beed	Bid, Maharashtra	1991622	5	0	18.98921	75.75634
 Beedenbostel	Lower Saxony	1797683	8	1005	52.64288	10.25907
 Beeford	East Riding of Yorkshire, England	812629	10	1078	53.96999	-0.28913
 Beegden	Gemeente Maasgouw, Limburg	1410594	10	1765	51.18917	5.91944
@@ -298,15 +310,20 @@ Behat	Saharanpur, Uttar Pradesh	9998606	6	18223	30.1718	77.6139
 Behchoko	North Slave Region, Northwest Territories	12603688	6	1874	62.8025	-116.04639
 Behren-les-Forbach	Moselle, Grand Est	107037	8	10225	49.16949	6.93933
 Beica de Jos	Comuna Beica De Jos, Mures	12570902	8	2207	46.73333	24.8
+Beichengqu	Wulanchabu Shi, Inner Mongolia	2752970	6	72444	40.43944	113.15361
+Beidao	Tianshui Shi, Gansu	2697471	6	74767	34.56861	105.89333
 Beidaud	Comuna Beidaud, Tulcea	10366926	8	1793	44.71667	28.56667
 Beiersdorf	Saxony	1310862	8	1369	51.07405	14.53828
 Beigang	Changzhou Shi, Jiangsu	13584809	8	0	31.79735	119.87857
 Beigang	Changzhou Shi, Jiangsu	5671328	6	0	31.79735	119.87857
 Beigem	Provincie Vlaams-Brabant, Flanders	3479540	9	2019	50.94911	4.36908
 Beignon	Morbihan, Brittany	125400	8	1074	47.97062	-2.17155
+Beihai	Beihai Shi, Guangxi	2100680	5	525329	21.48349	109.11549
 Beijie	Shizuishan Shi, Ningxia Hui Autonomous Region	3307096	6	0	39.22264	106.76579
+Beijing	Beijing	912940	4	18960744	39.9075	116.39723
 Beijinglu	Urumqi Shi, Xinjiang	5663233	6	0	43.83445	87.57652
 Beilen	Gemeente Midden-Drenthe, Drenthe	377526	10	9495	52.86333	6.51389
+Beilin	Suihua Shi, Heilongjiang	2755367	6	0	46.63517	126.97918
 Beilin	Xi'an Shi, Shaanxi	3226088	6	0	34.22846	108.91566
 Beilrode	Saxony	2984747	7	2666	51.56667	13.06667
 Beilrode	Saxony	534449	8	2666	51.56667	13.06667
@@ -336,6 +353,7 @@ Bekasi	West Java	14509733	5	2564940	-6.2349	106.9896
 Bekecs	Borsod-Abauj-Zemplen	1439561	8	2446	48.15	21.18333
 Bekegem	Provincie West-Vlaanderen, Flanders	1376927	9	1060	51.15976	3.0457
 Bekes	Bekes County	1026148	8	21198	46.76667	21.13333
+Bekes	Bekes County	22266	6	21198	46.76667	21.13333
 Bekescsaba	Bekes County	1026172	8	59732	46.68333	21.1
 Bekessamson	Bekes County	1026186	8	2581	46.41667	20.63333
 Bekesszentandras	Bekes County	1026164	8	4103	46.86667	20.48333
@@ -356,6 +374,7 @@ Bela nad Radbuzou	Okres Domazlice, Plzensky kraj	423971	10	1812	49.59115	12.7176
 Bela nad Radbuzou	Okres Domazlice, Plzensky kraj	439263	8	1812	49.59115	12.71761
 Bela pod Bezdezem	Okres Mlada Boleslav, Central Bohemia	427009	10	4855	50.50121	14.80418
 Bela pod Bezdezem	Okres Mlada Boleslav, Central Bohemia	437528	8	4855	50.50121	14.80418
+Belabo	East	3818690	8	22553	4.93333	13.3
 Belabre	Indre, Centre	1028027	8	1042	46.55121	1.15791
 Belair	Mitcham, South Australia	7390166	9	4288	-34.99766	138.62077
 Belalcazar	Belalcazar, Caldas	408545	6	9690	4.99528	-75.81278
@@ -391,6 +410,7 @@ Belem	Belem, Paraiba	301342	8	15550	-6.69167	-35.53333
 Belem	Belem, Paraiba	6212154	9	15550	-6.69167	-35.53333
 Belem de Sao Francisco	Belem do Sao Francisco, Pernambuco	303631	8	11124	-8.75389	-38.96583
 Belem de Sao Francisco	Belem do Sao Francisco, Pernambuco	6204940	9	11124	-8.75389	-38.96583
+Belem do Brejo do Cruz	Belem Do Brejo Do Cruz, Paraiba	301355	8	8777	-6.18861	-37.53583
 Belem do Brejo do Cruz	Belem Do Brejo Do Cruz, Paraiba	6226697	9	8777	-6.18861	-37.53583
 Belen	Belen, Boyaca	1308648	6	5411	5.98892	-72.91254
 Belen	Carrillo, Guanacaste	5729138	8	2715	10.40789	-85.58836
@@ -408,6 +428,7 @@ Belen de Umbria	Belen de Umbria, Risaralda	4079108	6	21450	5.20087	-75.86865
 Belen de los Andaquies	Belen de Los Andaquies, Caqueta	1342131	6	3937	1.41828	-75.87753
 Belena	Provincia de Salamanca, Castille and Leon	341205	8	177	40.75067	-5.62713
 Belene	Obshtina Belene, Pleven	1922468	7	9781	43.64594	25.12627
+Belesta	Ariege, Occitanie	1239462	8	1237	42.90396	1.93412
 Belesta	Ariege, Occitanie	1776127	8	1237	42.90396	1.93412
 Belfast	Prince Edward Island	12078739	8	1687	46.08341	-62.88197
 Belfast	Waldo County, Maine	132579	8	6682	44.42591	-69.00642
@@ -467,6 +488,7 @@ Bella Vista	Departamento de Leales, Tucuman	8206692	8	15126	-27.03424	-65.30196
 Bella Vista	Distrito de Panama, Panama	11381324	8	0	8.98475	-79.52538
 Bella Vista	Distrito de Tole, Chiriqui	8493247	8	0	8.21474	-81.61984
 Bella Vista	The Hills Shire, New South Wales	5501504	9	8056	-33.74127	150.95456
+Bellac	Haute-Vienne, Nouvelle-Aquitaine	1686576	7	4973	46.1221	1.04927
 Bellac	Haute-Vienne, Nouvelle-Aquitaine	254381	8	4973	46.1221	1.04927
 Bellaghy	Mid Ulster, Northern Ireland	4437046	10	1072	54.8087	-6.51918
 Bellagio	Provincia di Como, Lombardy	46482	8	2823	45.98772	9.26182
@@ -551,6 +573,7 @@ Bellevue	Swan, Western Australia	11689328	9	1667	-31.90116	116.02762
 Bellevue Heights	Mitcham, South Australia	7390239	9	2560	-35.03023	138.58314
 Bellevue Hill	Woollahra, New South Wales	5718743	9	10599	-33.87899	151.25101
 Belley	Ain, Auvergne-Rhone-Alpes	146650	8	9145	45.75917	5.68813
+Belley	Ain, Auvergne-Rhone-Alpes	1668474	7	9145	45.75917	5.68813
 Bellfield	Banyule, Victoria	2382166	9	1996	-37.75309	145.03848
 Bellflower	Los Angeles County, California	3521426	8	78441	33.88168	-118.11701
 Bellheim	Rheinland-Pfalz	1250392	8	8494	49.19833	8.27944
@@ -576,6 +599,7 @@ Bello	Provincia de Teruel, Aragon	341057	8	346	40.92266	-1.4985
 Bellona	Provincia di Caserta, Campania	41114	8	4727	41.16052	14.23313
 Bellosguardo	Provincia di Salerno, Campania	40488	8	853	40.42222	15.31219
 Bellows Falls	Windham County, Vermont	9068508	9	3048	43.13341	-72.44398
+Belloy-en-France	Val d'Oise, Ile-de-France	1359813	8	1629	49.08837	2.37159
 Belloy-en-France	Val d'Oise, Ile-de-France	553967	8	1629	49.08837	2.37159
 Bellprat	Provincia de Barcelona, Catalonia	343714	8	89	41.51695	1.43333
 Bellpuig	Provincia de Lleida, Catalonia	344262	8	4269	41.62595	1.01144
@@ -583,6 +607,7 @@ Bellreguard	Provincia de Valencia, Valencia	342507	8	3893	38.95	-0.16667
 Bells	Crockett County, Tennessee	197366	8	2447	35.71118	-89.08756
 Bells	Grayson County, Texas	8452416	8	1426	33.61038	-96.41082
 Bells Corners	Ottawa, Ontario	9291596	10	9272	45.31588	-75.83012
+Belluno	Provincia di Belluno, Veneto	46429	6	25064	46.14262	12.2156
 Belluno	Provincia di Belluno, Veneto	46834	8	25064	46.14262	12.2156
 Bellus	Provincia de Valencia, Valencia	342506	8	383	38.9458	-0.48697
 Bellusco	Provincia di Monza e della Brianza, Lombardy	45488	8	6817	45.61958	9.41905
@@ -682,9 +707,11 @@ Belzec	Powiat tomaszowski, Lublin	7066211	8	2723	50.38453	23.43839
 Belzoni	Humphreys County, Mississippi	7163957	8	2069	33.18429	-90.48926
 Belzyce	Powiat lubelski, Lublin	2470074	8	6958	51.17415	22.28027
 Bema	Provincia di Sondrio, Lombardy	46771	8	136	46.10819	9.56414
+Bembibre	Provincia de Leon, Castille and Leon	12555099	9	10071	42.61771	-6.41545
 Bembibre	Provincia de Leon, Castille and Leon	343102	8	10071	42.61771	-6.41545
 Bembridge	Isle of Wight, England	214494	10	3688	50.68634	-1.08275
 Bement	Piatt County, Illinois	124853	8	1683	39.92198	-88.57201
+Bemetara	Bemetara, Chhattisgarh	9524220	5	24910	21.71556	81.53423
 Bemidji	Beltrami County, Minnesota	137369	8	14594	47.47356	-94.88028
 Bemmel	Gemeente Lingewaard, Gelderland	2728426	10	12020	51.89167	5.89861
 Bemowo	Warszawa, Mazovia	2531595	9	102393	52.2546	20.90844
@@ -745,6 +772,8 @@ Beneixama	Provincia de Alicante, Valencia	346942	8	1956	38.7	-0.76667
 Beneixida	Provincia de Valencia, Valencia	346997	8	609	39.06667	-0.55
 Benejacq	Pyrenees-Atlantiques, Nouvelle-Aquitaine	2815477	8	1724	43.1919	-0.21343
 Benejuzar	Provincia de Alicante, Valencia	346939	8	5295	38.07728	-0.83942
+Benemerito de las Americas	Benemerito de las Americas, Chiapas	5999513	6	7259	16.51599	-90.65371
+Benesov	Okres Benesov, Central Bohemia	432928	10	16257	49.78162	14.68697
 Benesov	Okres Benesov, Central Bohemia	440764	8	16257	49.78162	14.68697
 Benesov nad Cernou	Okres Cesky Krumlov, Jihocesky kraj	429281	10	1259	48.7294	14.62737
 Benesov nad Cernou	Okres Cesky Krumlov, Jihocesky kraj	438504	8	1259	48.7294	14.62737
@@ -764,8 +793,11 @@ Benfeld	Bas-Rhin, Grand Est	85840	8	5199	48.37062	7.5937
 Benferri	Provincia de Alicante, Valencia	346940	8	1494	38.14129	-0.96212
 Benfica	Lisbon	6385130	8	36985	38.75087	-9.20282
 Bengaluru	Bangalore Urban, Karnataka	7902476	8	8443675	12.97194	77.59369
+Bengbu	Bengbu Shi, Anhui	3262334	5	972784	32.94083	117.36083
+Bengkayang	West Kalimantan	10621498	5	0	0.83194	109.43589
 Bengkayang	West Kalimantan	10621605	6	0	0.83194	109.43589
 Beni	Beni, Nord Kivu	5327776	6	232000	0.49113	29.47306
+Beni	Beni, Nord Kivu	8972962	7	232000	0.49113	29.47306
 Beni	Beni, Nord Kivu	8972963	6	232000	0.49113	29.47306
 Beni Douala	Tizi Ouzou	4292506	8	33611	36.61954	4.08282
 Beni Kheddache	Beni Khedeche, Madanin	7142941	6	3588	33.25279	10.19883
@@ -812,6 +844,7 @@ Benito Juarez	Veracruz	5573213	6	1393	20.88635	-98.20594
 Benizalon	Almeria, Andalusia	343543	8	300	37.21213	-2.2418
 Benjamin	Knox County, Texas	13574062	8	267	33.58398	-99.79231
 Benjamin Constant	Benjamin Constant, Amazonas	332518	8	13998	-4.37555	-70.03179
+Benjamin Hill	Benjamin Hill, Sonora	5605590	6	5071	30.16904	-111.11403
 Benkelman	Dundy County, Nebraska	169612	8	840	40.04916	-101.53294
 Benld	Macoupin County, Illinois	123485	8	1488	39.09282	-89.80398
 Benna	Provincia di Biella, Piedmont	45196	8	1156	45.51528	8.12409
@@ -833,6 +866,7 @@ Bennungen	Saxony-Anhalt	2398897	10	1004	51.46085	11.11816
 Bennwihr	Haut-Rhin, Grand Est	83765	8	1177	48.14456	7.32445
 Benodet	Finistere, Brittany	139652	8	2898	47.87531	-4.1058
 Benouville	Calvados, Normandy	106703	8	1828	49.24151	-0.28246
+Benouville	Calvados, Normandy	2672492	8	1828	49.24151	-0.28246
 Benowa	Gold Coast, Queensland	11675472	9	9015	-28.0077	153.38583
 Benque Viejo el Carmen	Cayo	14101754	8	6684	17.075	-89.13917
 Benquerencia	Provincia de Caceres, Extremadura	1915434	8	100	39.30994	-6.08465
@@ -958,6 +992,7 @@ Berga	Saxony-Anhalt	9920909	9	1920	51.45561	11.0071
 Berga	Thuringia	2786785	8	3869	50.75184	12.16445
 Bergama	Bergama, Izmir	1819082	6	57200	39.12074	27.18052
 Bergamasco	Provincia di Alessandria, Piedmont	43661	8	603	44.82725	8.45474
+Bergamo	Provincia di Bergamo, Lombardy	44996	6	121200	45.69601	9.66721
 Bergamo	Provincia di Bergamo, Lombardy	45681	8	121200	45.69601	9.66721
 Bergantino	Provincia di Rovigo, Veneto	44089	8	2065	45.06145	11.25237
 Bergara	Provincia de Guipuzcoa, Basque Country	342233	8	14707	43.1151	-2.4175
@@ -983,6 +1018,7 @@ Bergen op Zoom	Gemeente Bergen op Zoom, North Brabant	1379570	10	66256	51.495	4.
 Bergen op Zoom	Gemeente Bergen op Zoom, North Brabant	296882	8	66256	51.495	4.29167
 Bergenfield	Bergen County, New Jersey	170589	8	27621	40.9276	-73.99736
 Bergerac	Dordogne, Nouvelle-Aquitaine	145155	8	28317	44.85157	0.48171
+Bergerac	Dordogne, Nouvelle-Aquitaine	3250686	7	28317	44.85157	0.48171
 Bergeyk	Bergeijk, North Brabant	1502864	10	18181	51.31917	5.35833
 Bergeyk	Bergeijk, North Brabant	299577	8	18181	51.31917	5.35833
 Bergharen	Gemeente Wijchen, Gelderland	1451168	10	1370	51.85083	5.66944
@@ -1031,11 +1067,13 @@ Berkeley Heights	Union County, New Jersey	170514	8	14179	40.68343	-74.44265
 Berkeley Lake	Gwinnett County, Georgia	119374	8	2024	33.98371	-84.18658
 Berkeley Vale	Central Coast, New South Wales	6037049	9	8198	-33.35	151.43333
 Berkenbruck	Brandenburg	1384819	8	1024	52.35	14.15
+Berkenbruck	Brandenburg	4203490	9	1024	52.35	14.15
 Berkenthin	Schleswig-Holstein	1469273	8	2033	53.73333	10.65
 Berkenthin	Schleswig-Holstein	1541878	7	2033	53.73333	10.65
 Berkenwoude	Krimpenerwaard, South Holland	107335	10	1390	51.945	4.70694
 Berkhamsted	Hertfordshire, England	3666188	10	21997	51.7604	-0.56528
 Berkheim	Tuebingen Region, Baden-Wurttemberg	2801244	8	2657	48.04263	10.08227
+Berkheim	Tuebingen Region, Baden-Wurttemberg	5732220	10	2657	48.04263	10.08227
 Berkhout	Gemeente Koggenland, North Holland	161936	10	1905	52.64083	5.00139
 Berkley	Adams County, Colorado	1782508	8	11207	39.80443	-105.02609
 Berkley	Bristol County, Massachusetts	2396243	8	5849	41.84593	-71.08282
@@ -1089,12 +1127,14 @@ Bernardsville	Somerset County, New Jersey	170463	8	7801	40.71871	-74.56932
 Bernardswiller	Bas-Rhin, Grand Est	902366	8	1296	48.45035	7.46238
 Bernareggio	Provincia di Monza e della Brianza, Lombardy	45574	8	9061	45.64778	9.40505
 Bernartice	Okres Pisek, Jihocesky kraj	437517	8	1260	49.36889	14.38101
+Bernartice	Okres Pisek, Jihocesky kraj	442404	8	1260	49.36889	14.38101
 Bernasconi	Departamento de Hucal, La Pampa	11491402	8	1781	-37.90459	-63.7424
 Bernate Ticino	Citta metropolitana di Milano, Lombardy	45065	8	1723	45.47873	8.81834
 Bernau am Chiemsee	Upper Bavaria, Bavaria	2186914	8	6645	47.81167	12.37566
 Bernau bei Berlin	Brandenburg	1318337	8	34866	52.67982	13.58708
 Bernaville	Somme, Hauts-de-France	3247678	8	1012	50.13232	2.163
 Bernay	Eure, Normandy	1222237	8	12399	49.08888	0.59858
+Bernay	Eure, Normandy	3340440	7	12399	49.08888	0.59858
 Bernbeuren	Upper Bavaria, Bavaria	936752	8	2240	47.73696	10.77707
 Bernburg	Saxony-Anhalt	124297	8	32113	51.79464	11.7401
 Bernburg	Saxony-Anhalt	7953600	9	32113	51.79464	11.7401
@@ -1103,6 +1143,7 @@ Berne	Adams County, Indiana	127757	8	4084	40.65782	-84.95191
 Berne	Morbihan, Brittany	111487	8	1327	47.9953	-3.39208
 Bernes-sur-Oise	Val d'Oise, Ile-de-France	535224	8	2414	49.16128	2.3
 Berneval-le-Grand	Seine-Maritime, Normandy	1824791	9	1089	49.95328	1.18755
+Bernex	Geneva	105234	8	9759	46.1765	6.07544
 Bernex	Geneva	1685451	8	9759	46.1765	6.07544
 Bernezzo	Provincia di Cuneo, Piedmont	43088	8	1656	44.38533	7.43633
 Berngau	Upper Palatinate, Bavaria	1028816	8	2338	49.25	11.4
@@ -1111,6 +1152,7 @@ Bernhardswald	Upper Palatinate, Bavaria	964623	8	5596	49.09123	12.24744
 Bernice	Union Parish, Louisiana	132154	8	1648	32.82209	-92.65793
 Bernie	Stoddard County, Missouri	140878	8	1951	36.66894	-89.9687
 Bernieres-sur-Mer	Calvados, Normandy	138891	8	1972	49.33057	-0.42299
+Bernieres-sur-Mer	Calvados, Normandy	144217	8	1972	49.33057	-0.42299
 Bernin	Isere, Auvergne-Rhone-Alpes	80483	8	3129	45.26772	5.86457
 Berninches	Provincia de Guadalajara, Castille-La Mancha	341299	8	122	40.57106	-2.80121
 Bernis	Gard, Occitanie	378969	8	2882	43.76557	4.28619
@@ -1173,6 +1215,7 @@ Berteaucourt-les-Dames	Somme, Hauts-de-France	1357320	8	1123	50.04697	2.1575
 Bertem	Provincie Vlaams-Brabant, Flanders	3479800	9	9215	50.86403	4.62918
 Bertem	Provincie Vlaams-Brabant, Flanders	415817	8	9215	50.86403	4.62918
 Berthecourt	Oise, Hauts-de-France	454713	8	1416	49.35097	2.22471
+Berthelsdorf	Saxony	418714	9	1813	51.04679	14.22197
 Berthierville	Lanaudiere, Quebec	7710968	8	4411	46.08336	-73.18245
 Berthoud	Larimer County, Colorado	112466	8	6031	40.30832	-105.08109
 Bertinoro	Provincia di Forli-Cesena, Emilia-Romagna	42902	8	1550	44.14874	12.1365
@@ -1216,6 +1259,7 @@ Berzovia	Comuna Berzovia, Caras-Severin	13881651	8	4031	45.42611	21.62806
 Besalu	Provincia de Girona, Catalonia	343835	8	2213	42.19893	2.69953
 Besana in Brianza	Provincia di Monza e della Brianza, Lombardy	45747	8	8490	45.70235	9.2947
 Besancon	Doubs, Bourgogne-Franche-Comte	103599	8	128426	47.24878	6.01815
+Besancon	Doubs, Bourgogne-Franche-Comte	1682291	7	128426	47.24878	6.01815
 Besano	Provincia di Varese, Lombardy	46420	8	2350	45.88949	8.89068
 Besate	Citta metropolitana di Milano, Lombardy	44672	8	2022	45.31296	8.96964
 Bescano	Provincia de Girona, Catalonia	348893	8	3767	41.96603	2.73922
@@ -1312,11 +1356,14 @@ Bettiah	Pashchim Champaran, Bihar	10248537	6	127008	26.80229	84.50311
 Bettingen	Basel-Stadt, Basel-City	1683623	8	1189	47.57039	7.66425
 Bettingen	Rheinland-Pfalz	1152679	8	1013	49.94211	6.4016
 Bettlach	Bezirk Lebern, Solothurn	1683481	8	4834	47.20062	7.42405
+Bettlach	Bezirk Lebern, Solothurn	85383	8	4834	47.20062	7.42405
 Bettola	Provincia di Piacenza, Emilia-Romagna	43556	8	3187	44.77826	9.60857
 Betton	Ille-et-Vilaine, Brittany	107907	8	9343	48.1827	-1.6448
 Bettona	Provincia di Perugia, Umbria	42247	8	615	43.01124	12.48698
 Betulia	Betulia, Antioquia	1350540	6	15097	6.11284	-75.98378
 Betulia	Betulia, Santander	1343728	6	1716	6.90069	-73.28347
+Betws	Bridgend county borough, Wales	11088026	10	2253	51.56917	-3.58833
+Betws	Bridgend county borough, Wales	8209348	10	2253	51.56917	-3.58833
 Betws-y-Coed	Conwy, Wales	297233	10	1200	53.09382	-3.80668
 Betxi	Provincia de Castello, Valencia	344585	8	5902	39.93333	-0.2
 Betz	Oise, Hauts-de-France	442738	8	1014	49.15558	2.95584
@@ -1332,6 +1379,7 @@ Beulah	Mercer County, North Dakota	181707	8	3393	47.26334	-101.77795
 Beulah Park	Burnside, South Australia	9099715	9	1567	-34.91768	138.64522
 Beulaville	Duplin County, North Carolina	179766	8	1330	34.92378	-77.77387
 Beuningen	Gemeente Beuningen, Gelderland	2728491	10	25557	51.86083	5.76667
+Beuningen	Gemeente Beuningen, Gelderland	377697	10	25557	51.86083	5.76667
 Beuningen	Gemeente Beuningen, Gelderland	418421	8	25557	51.86083	5.76667
 Beura	Provincia Verbano-Cusio-Ossola, Piedmont	46765	8	745	46.07964	8.29826
 Beure	Doubs, Bourgogne-Franche-Comte	106941	8	1430	47.2069	6.00548
@@ -1390,6 +1438,7 @@ Bexley	Greater London, England	51903	8	228000	51.44162	0.14866
 Bexley North	City of Rockdale, New South Wales	5677553	9	4075	-33.93848	151.11385
 Beyagac	Denizli	1606209	6	0	37.23526	28.89612
 Beychac	Gironde, Nouvelle-Aquitaine	530302	8	1926	44.87747	-0.40277
+Beyla	Beyla Prefecture, Nzerekore	3401811	6	11566	8.69011	-8.64869
 Beylikduezue	Istanbul	1766100	6	122452	40.982	28.6399
 Beylikova	Eskisehir	1238933	6	5131	39.68694	31.20556
 Beynat	Correze, Nouvelle-Aquitaine	120554	8	1233	45.12444	1.72323
@@ -1397,6 +1446,8 @@ Beyne-Heusay	Province de Liege, Wallonia	2437273	8	11608	50.62251	5.66508
 Beynes	Yvelines, Ile-de-France	75522	8	7914	48.85626	1.87261
 Beynost	Ain, Auvergne-Rhone-Alpes	149565	8	4182	45.83569	4.9991
 Beypazari	Ankara	1738278	6	38769	40.1675	31.92111
+Beysehir	Konya	1250954	6	44460	37.67735	31.72458
+Beytussebap	Sirnak	1751837	6	8161	37.56318	43.16583
 Bezannes	Marne, Grand Est	108622	8	1286	49.22339	3.98892
 Bezares	Provincia de La Rioja, La Rioja	344312	8	0	42.37036	-2.67076
 Bezas	Provincia de Teruel, Aragon	340830	8	78	40.33076	-1.32511
@@ -1409,6 +1460,7 @@ Beziers	Herault, Occitanie	1687204	7	74081	43.34122	3.21402
 Beziers	Herault, Occitanie	70070	8	74081	43.34122	3.21402
 Bezimenne	Donetsk Oblast	3946966	9	2638	47.10724	37.93966
 Bezliudivka	Kharkiv	2395937	8	9296	49.87547	36.26539
+Bezliudivka	Kharkiv	6609073	10	9296	49.87547	36.26539
 Bezons	Val d'Oise, Ile-de-France	103270	8	27570	48.92426	2.2128
 Bezouce	Gard, Occitanie	379586	8	2116	43.8819	4.49034
 Bezu-Saint-Eloi	Eure, Normandy	1606296	8	1225	49.29524	1.70404

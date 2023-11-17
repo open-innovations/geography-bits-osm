@@ -4,6 +4,7 @@ Cuajinicuilapa	Cuajinicuilapa, Guerrero	5605715	6	10282	16.47347	-98.41389
 Cualac	Cualac, Guerrero	5605716	6	1794	17.7435	-98.66039
 Cualedro	Provincia de Ourense, Galicia	12566122	9	2254	41.98897	-7.59464
 Cualedro	Provincia de Ourense, Galicia	343983	8	2254	41.98897	-7.59464
+Cuamba	Niassa	11982970	5	73268	-14.80306	36.53722
 Cuapiaxtla	Cuapiaxtla, Tlaxcala	5999551	6	8398	19.29588	-97.7688
 Cuapiaxtla de Madero	Cuapiaxtla de Madero, Puebla	3986233	6	7139	18.91544	-97.82382
 Cuarnens	Morges District, Vaud	1684934	8	0	46.62545	6.43713
@@ -68,6 +69,7 @@ Cucq	Pas-de-Calais, Hauts-de-France	156234	8	5050	50.47733	1.62018
 Cucunati	Distrito de Chepigana, Darien	11322899	8	537	8.57906	-78.25579
 Cucunuba	Cucunuba, Cundinamarca	1346475	6	1699	5.24958	-73.7661
 Cucuron	Vaucluse, Provence-Alpes-Cote d'Azur	108140	8	1927	43.77298	5.43858
+Cucurpe	Cucurpe, Sonora	5605729	6	588	30.33049	-110.70609
 Cucuta	Cucuta, Norte de Santander	11897110	6	777106	7.89391	-72.50782
 Cucutilla	Cucutilla, Norte de Santander	1423464	6	1950	7.53941	-72.77238
 Cudahy	Los Angeles County, California	3542185	8	24311	33.96057	-118.18535
@@ -84,6 +86,7 @@ Cuenca	Canton Cuenca, Azuay	3842916	8	636996	-2.90055	-79.00453
 Cuenca	Province of Batangas, Calabarzon	7298108	6	21558	13.902	121.0521
 Cuenca	Provincia de Huancavelica, Huancavelica	1933586	8	422	-12.43333	-75.03333
 Cuenca de Campos	Provincia de Valladolid, Castille and Leon	345111	8	256	42.05927	-5.05539
+Cuencame de Ceniceros	Cuencame, Durango	5605730	6	9848	24.87116	-103.69731
 Cueramaro	Cueramaro, Guanajuato	5605732	6	13948	20.62546	-101.67242
 Cuernavaca	Cuernavaca, Morelos	5605731	6	338650	18.9261	-99.23075
 Cuero	DeWitt County, Texas	8074432	8	7115	29.09387	-97.28916
@@ -113,6 +116,8 @@ Cugir	Oras Cugir, Alba	10540683	8	24734	45.83651	23.36998
 Cugliate-Fabiasco	Provincia di Varese, Lombardy	46508	8	2873	45.94568	8.81863
 Cugnaux	Upper Garonne, Occitanie	79480	8	15393	43.53635	1.34428
 Cugnoli	Provincia di Pescara, Abruzzo	41954	8	416	42.30692	13.9349
+Cugy	Broye District, Fribourg	1684937	8	1523	46.81479	6.88888
+Cuiaba	Cuiaba, Mato Grosso	333734	8	521934	-15.59611	-56.09667
 Cuicatlan	San Juan Bautista Cuicatlan, Oaxaca	5999779	6	3908	17.80272	-96.95939
 Cuichapa	Cuichapa, Veracruz	6037661	6	3171	18.7715	-96.8689
 Cuifeng	Jinzhong Shi, Shanxi	3298439	6	0	36.84517	111.78172
@@ -146,6 +151,7 @@ Culemborg	Gemeente Culemborg, Gelderland	295266	10	26826	51.955	5.22778
 Culemborg	Gemeente Culemborg, Gelderland	407308	8	26826	51.955	5.22778
 Culhat	Puy-de-Dome, Auvergne-Rhone-Alpes	1108834	8	1024	45.86259	3.33676
 Culiacan	Culiacan, Sinaloa	11107084	8	808416	24.79032	-107.38782
+Culiacan	Culiacan, Sinaloa	5605735	6	808416	24.79032	-107.38782
 Culla	Provincia de Castello, Valencia	340174	8	677	40.3365	-0.16569
 Cullen	Webster Parish, Louisiana	131880	8	1125	32.96903	-93.45073
 Cullera	Provincia de Valencia, Valencia	343971	8	24121	39.16667	-0.25
@@ -159,7 +165,9 @@ Culloden	Highland, Scotland	12450455	10	4240	57.48699	-4.1415
 Cullompton	Devon, England	3285114	10	7800	50.8553	-3.39268
 Cully	Lavaux-Oron District, Vaud	1684938	9	1793	46.48892	6.72945
 Cullybackey	Mid and East Antrim, Northern Ireland	4184478	10	2502	54.88875	-6.34701
+Culmore	Derry City and Strabane, Northern Ireland	4268446	10	3645	55.05	-7.26667
 Culmore	Derry City and Strabane, Northern Ireland	5121248	10	3645	55.05	-7.26667
+Culmore	Derry City and Strabane, Northern Ireland	5323219	10	3645	55.05	-7.26667
 Culoz	Ain, Auvergne-Rhone-Alpes	75650	8	2893	45.84886	5.78537
 Culpeper	Culpeper County, Virginia	207020	8	17557	38.47318	-77.99666
 Culver	Jefferson County, Oregon	186490	8	1442	44.52568	-121.2131
@@ -168,10 +176,12 @@ Cumana	Municipio Sucre, Sucre	14419371	8	424822	10.45397	-64.18256
 Cumanacoa	Municipio Montes, Sucre	14435256	8	25858	10.25056	-63.91938
 Cumanayagua	Cumanayagua, Cienfuegos	5884793	6	38687	22.15247	-80.20354
 Cumaral	Cumaral, Meta	11371698	6	11263	4.2708	-73.48669
+Cumaribo	Cumaribo, Vichada	11319781	6	23990	4.44552	-69.79897
 Cumaru	Cumaru, Pernambuco	303636	8	6861	-8.00611	-35.69722
 Cumaru	Cumaru, Pernambuco	6194599	9	6861	-8.00611	-35.69722
 Cumayeri	Duzce	1393949	6	0	40.87389	30.95091
 Cumba	Utcubamba, Amazonas	1973494	8	0	-5.93306	-78.66278
+Cumbal	Cumbal, Narino	1311764	6	7529	0.90875	-77.79145
 Cumbalum	Ballina, New South Wales	6069813	9	1495	-28.8225	153.5284
 Cumberland	Allegany County, Maryland	133569	8	20130	39.65287	-78.76252
 Cumberland	Barron County, Wisconsin	251779	8	2146	45.53218	-92.01935
@@ -187,6 +197,7 @@ Cumbum	Prakasam, Andhra Pradesh	10169810	6	22653	15.58171	79.11059
 Cumiana	Torino, Piedmont	43835	8	5498	44.97629	7.37761
 Cumignano sul Naviglio	Provincia di Cremona, Lombardy	44731	8	414	45.35459	9.83621
 Cumpana	Comuna Cumpana, Constanta	10520386	8	9731	44.11667	28.56667
+Cumpas	Cumpas, Sonora	5605736	6	3003	29.99587	-109.78087
 Cumra	Konya	280991	6	45657	37.5732	32.77446
 Cunac	Tarn, Occitanie	135661	8	1227	43.92846	2.22052
 Cunardo	Provincia di Varese, Lombardy	46510	8	2651	45.93428	8.80773
@@ -196,6 +207,7 @@ Cunday	Cunday, Tolima	1309466	6	9544	4.06004	-74.69212
 Cundletown	Mid-Coast, New South Wales	6063488	9	2054	-31.8941	152.52141
 Cunduacan	Cunduacan, Tabasco	5961474	6	19824	18.06557	-93.17302
 Cunen	Quiche	377415	6	8400	15.33626	-91.02776
+Cuneo	Provincia di Cuneo, Piedmont	42845	6	55980	44.39071	7.54828
 Cuneo	Provincia di Cuneo, Piedmont	43083	8	55980	44.39071	7.54828
 Cunewalde	Saxony	1309661	8	5601	51.1	14.51667
 Cung Son	Phu Yen	7078106	6	0	13.04998	108.97895
@@ -206,6 +218,7 @@ Cunha	Cunha, Sao Paulo	5349607	9	11895	-23.07444	-44.95972
 Cunico	Provincia di Asti, Piedmont	44040	8	363	45.0405	8.09554
 Cunit	Provincia de Tarragona, Catalonia	346230	8	12279	41.19829	1.63645
 Cunlhat	Puy-de-Dome, Auvergne-Rhone-Alpes	358160	8	1418	45.63198	3.55927
+Cunnamulla	Paroo, Queensland	11674868	9	1235	-28.06766	145.68439
 Cuntan	Chongqing	2693314	6	0	29.60248	106.57055
 Cuntis	Provincia de Pontevedra, Galicia	12656135	9	5398	42.63396	-8.56256
 Cuntis	Provincia de Pontevedra, Galicia	342029	8	5398	42.63396	-8.56256
@@ -221,6 +234,7 @@ Cupramontana	Provincia di Ancona, The Marches	42451	8	3617	43.44975	13.11312
 Cuprija	Pomoravlje, Central Serbia	6331364	9	20585	43.9275	21.37
 Cuquio	Cuquio, Jalisco	5605737	6	4682	20.93027	-103.02771
 Cura Carpignano	Provincia di Pavia, Lombardy	44408	8	2916	45.21247	9.25565
+Curaca	Curaca, Bahia	362445	8	11858	-8.99028	-39.90944
 Curahuasi	Provincia de Abancay, Apurimac	1929550	8	0	-13.55	-72.7
 Curanilahue	Provincia de Arauco, Biobio	1655930	8	30611	-37.47793	-73.34495
 Curcani	Comuna Curcani, Calarasi	13803916	8	5167	44.2	26.58333
@@ -275,6 +289,7 @@ Curug	Banten	4682033	7	191406	-6.26583	106.55639
 Curumani	Curumani, Cesar	11891221	6	34838	9.19992	-73.54274
 Curundu	Distrito de Panama, Panama	11382004	8	16361	8.97092	-79.54612
 Cururupu	Cururupu, Maranhao	332838	8	22007	-1.82833	-44.86833
+Curvelo	Curvelo, Minas Gerais	314758	8	63954	-18.75639	-44.43083
 Curwensville	Clearfield County, Pennsylvania	188772	8	2474	40.97561	-78.52502
 Cusago	Citta metropolitana di Milano, Lombardy	44990	8	2379	45.44997	9.03744
 Cusano	Citta metropolitana di Milano, Lombardy	45287	8	18904	45.55187	9.18373
@@ -296,6 +311,7 @@ Cusseta	Chattahoochee County, Georgia	13770906	8	11267	32.30543	-84.7727
 Custer	Custer County, South Dakota	194899	8	1952	43.76665	-103.59881
 Custines	Meurthe et Moselle, Grand Est	113078	8	3056	48.79127	6.14461
 Custodia	Custodia, Pernambuco	303703	8	18107	-8.0875	-37.64306
+Custodia	Custodia, Pernambuco	6202642	9	18107	-8.0875	-37.64306
 Custoias	Vila Nova de Foz Coa, Guarda	6393403	8	19406	41.1053	-7.32097
 Custonaci	Trapani, Sicily	39499	8	3910	38.07931	12.68571
 Cusy	Haute-Savoie, Auvergne-Rhone-Alpes	74368	8	1402	45.76603	6.02825
@@ -305,14 +321,18 @@ Cut Off	Lafourche Parish, Louisiana	131895	8	5976	29.54272	-90.33814
 Cut and Shoot	Montgomery County, Texas	6586772	8	1105	30.33327	-95.35799
 Cutar	Provincia de Malaga, Andalusia	345410	8	638	36.83134	-4.22739
 Cutchogue	Suffolk County, New York	175723	8	3349	41.01066	-72.48509
+Cutervo	Provincia de Cutervo, Cajamarca	1901116	6	0	-6.36667	-78.85
 Cutervo	Provincia de Cutervo, Cajamarca	1901133	8	0	-6.36667	-78.85
 Cuthbert	Randolph County, Georgia	119711	8	3670	31.77127	-84.78937
 Cutler Bay	Miami-Dade County, Florida	1216955	8	45425	25.5783	-80.3377
 Cutro	Provincia di Crotone, Calabria	39749	8	7977	39.03484	16.98658
 Cutrofiano	Provincia di Lecce, Apulia	40249	8	8056	40.12616	18.2026
+Cuttack	Cuttack, Odisha	1984452	5	580000	20.46497	85.87927
 Cuttoli-Corticchiato	South Corsica, Corsica	270816	8	1533	41.98333	8.91667
+Cutzamala de Pinzon	Cutzamala de Pinzon, Guerrero	5605739	6	4895	18.46783	-100.58089
 Cuveglio	Provincia di Varese, Lombardy	46464	8	3040	45.90608	8.73333
 Cuverville	Calvados, Normandy	169017	8	1860	49.18998	-0.26474
+Cuverville	Calvados, Normandy	2919147	8	1860	49.18998	-0.26474
 Cuvio	Provincia di Varese, Lombardy	46379	8	1470	45.89618	8.73413
 Cuxac-Cabardes	Aude, Occitanie	2143401	8	1016	43.37081	2.28324
 Cuxhaven	Lower Saxony	1518688	8	52677	53.86828	8.69902

@@ -8,17 +8,22 @@ Zabbar	Haz-Zabbar	7510573	8	15030	35.87611	14.535
 Zabcice	Okres Brno-venkov, South Moravian	431698	10	1492	49.0116	16.60257
 Zabcice	Okres Brno-venkov, South Moravian	442038	8	1492	49.0116	16.60257
 Zaberfeld	Regierungsbezirk Stuttgart, Baden-Wurttemberg	410519	8	3843	49.05611	8.92694
+Zabia Wola	Powiat grodziski, Mazovia	3444161	8	1256	52.03169	20.69112
 Zabia Wola	Powiat grodziski, Mazovia	4103914	8	1256	52.03169	20.69112
+Zabieniec	Powiat piaseczynski, Mazovia	11298571	8	1126	52.05856	21.04817
 Zabieniec	Powiat piaseczynski, Mazovia	4258244	8	1126	52.05856	21.04817
 Zabierzow	Powiat krakowski, Lesser Poland	3222981	8	4689	50.11425	19.79788
 Zabierzow Bochenski	Powiat wielicki, Lesser Poland	3332007	8	1700	50.06821	20.31896
+Zabki	Powiat wolominski, Mazovia	12571987	8	23473	52.29271	21.10539
 Zabki	Powiat wolominski, Mazovia	1994195	7	23473	52.29271	21.10539
 Zabki	Powiat wolominski, Mazovia	2910919	8	23473	52.29271	21.10539
 Zabkowice Slaskie	Powiat zabkowicki, Lower Silesia	2957952	8	16321	50.58969	16.81239
+Zablocie	Powiat cieszynski, Silesia	3332661	8	1316	49.90282	18.78147
 Zablocie	Powiat cieszynski, Silesia	5642943	8	1316	49.90282	18.78147
 Zabludow	Powiat bialostocki, Podlasie	1745177	8	2452	53.01442	23.33831
 Zabnica	Powiat zywiecki, Silesia	5650404	8	3120	49.58139	19.15621
 Zabno	Powiat tarnowski, Lesser Poland	2881621	8	4250	50.13334	20.88615
+Zabno	Powiat tarnowski, Lesser Poland	7009778	8	4250	50.13334	20.88615
 Zaborze	Powiat cieszynski, Silesia	5640611	8	1005	49.87279	18.8037
 Zaborze	Powiat oswiecimski, Lesser Poland	1776467	8	2489	50.02175	19.24067
 Zabrani	Comuna Zabrani, Arad	13954478	8	4392	46.06667	21.55
@@ -75,6 +80,11 @@ Zagornik	Powiat wadowicki, Lesser Poland	3538210	8	2119	49.8371	19.37868
 Zagorow	Powiat slupecki, Greater Poland	2705302	8	2974	52.16835	17.89561
 Zagorz	Powiat sanocki, Subcarpathia	2906834	8	5129	49.51457	22.26706
 Zagorze	Powiat chrzanowski, Lesser Poland	2555323	8	2963	50.09449	19.40357
+Zagorze	Powiat chrzanowski, Lesser Poland	3331783	8	2963	50.09449	19.40357
+Zagorze	Powiat chrzanowski, Lesser Poland	3536192	8	2963	50.09449	19.40357
+Zagorze	Powiat chrzanowski, Lesser Poland	6155753	8	2963	50.09449	19.40357
+Zagorze	Powiat chrzanowski, Lesser Poland	6431591	8	2963	50.09449	19.40357
+Zagorzyce	Powiat ropczycko-sedziszowski, Subcarpathia	6413081	8	3182	50.0169	21.67517
 Zagra	Provincia de Granada, Andalusia	348127	8	1092	37.25561	-4.16905
 Zagreb	City of Zagreb	3168167	8	698966	45.81444	15.97798
 Zagrodno	Powiat zlotoryjski, Lower Silesia	5900289	8	1626	51.19134	15.86533
@@ -100,6 +110,7 @@ Zajecov	Okres Beroun, Central Bohemia	440846	8	1435	49.77435	13.84072
 Zakanyszek	Csongrad	1025043	8	2747	46.27453	19.88975
 Zakirai	Gabasawa, Kano	3710819	8	0	12.10033	8.88524
 Zakliczyn	Powiat tarnowski, Lesser Poland	2885985	8	1534	49.85589	20.80935
+Zakliczyn	Powiat tarnowski, Lesser Poland	3546699	8	1534	49.85589	20.80935
 Zaklikow	Powiat stalowowolski, Subcarpathia	4729321	8	3000	50.75769	22.10226
 Zakopane	Powiat tatrzanski, Lesser Poland	2431742	7	27266	49.29899	19.94885
 Zakopane	Powiat tatrzanski, Lesser Poland	2838555	8	27266	49.29899	19.94885
@@ -110,6 +121,7 @@ Zakrzew	Powiat Radomski, Mazovia	3387669	8	339	51.44095	21.00105
 Zakrzew	Powiat lubelski, Lublin	7515356	8	630	50.89004	22.59115
 Zakrzow	Powiat wadowicki, Lesser Poland	3534896	8	1133	49.82558	19.64973
 Zakrzow	Wroclaw, Lower Silesia	6373307	8	10737	51.16624	17.13688
+Zakrzowek	Powiat krasnicki, Lublin	11299132	8	1400	50.95124	22.38138
 Zakrzowek	Powiat krasnicki, Lublin	7498937	8	1400	50.95124	22.38138
 Zakupne	Khmelnytskyi Oblast	5749469	9	1384	49.11721	26.33256
 Zakupy	Okres Ceska Lipa, Liberecky kraj	434353	10	2792	50.68475	14.64522
@@ -132,7 +144,9 @@ Zalesie Gorne	Powiat piaseczynski, Mazovia	4258241	8	3099	52.02768	21.03659
 Zaleszany	Powiat stalowowolski, Subcarpathia	7011568	8	1000	50.64799	21.89069
 Zalewo	Powiat ilawski, Warmia-Masuria	2985049	8	2112	53.84534	19.60519
 Zalewo	Powiat ilawski, Warmia-Masuria	6853348	8	2112	53.84534	19.60519
+Zalingei	Central Darfur	8539327	6	28687	12.90918	23.47058
 Zalishchyky	Ternopil Oblast	3166983	9	9119	48.64098	25.7317
+Zalishchyky	Ternopil Oblast	3167200	9	9119	48.64098	25.7317
 Zalizne	Donetsk Oblast	2383990	9	5020	48.37083	37.8855
 Zaliztsi	Ternopil Oblast	3166976	9	2540	49.80074	25.38387
 Zall-Bastar	Rrethi i Tiranes, Tirana	1250105	8	0	41.42972	19.93028
@@ -143,7 +157,9 @@ Zalla	Bizkaia, Basque Country	341910	8	8379	43.23333	-3.13333
 Zaltbommel	Gemeente Zaltbommel, Gelderland	1579084	10	26383	51.81	5.24444
 Zaltbommel	Gemeente Zaltbommel, Gelderland	416009	8	26383	51.81	5.24444
 Zalukokoazhe	Zol'skiy Rayon, Kabardino-Balkariya Republic	9881087	10	9997	43.90389	43.21556
+Zaluski	Powiat plonski, Mazovia	11190433	10	402	52.51152	20.52864
 Zaluski	Powiat plonski, Mazovia	2035950	8	402	52.51152	20.52864
+Zaluski	Powiat plonski, Mazovia	6632120	8	402	52.51152	20.52864
 Zam	Comuna Zam, Hunedoara	10492533	8	2121	46	22.45
 Zama	Zama Shi, Kanagawa	2689430	7	130667	35.4879	139.39101
 Zamania	Ghazipur, Uttar Pradesh	9710492	6	32008	25.41961	83.55786
@@ -153,6 +169,7 @@ Zamarski	Powiat cieszynski, Silesia	5641158	8	1279	49.78254	18.66972
 Zamayon	Provincia de Salamanca, Castille and Leon	344481	8	190	41.14861	-5.83054
 Zamberk	Okres Usti nad Orlici, Pardubicky	428669	10	6082	50.08601	16.46738
 Zamberk	Okres Usti nad Orlici, Pardubicky	440506	8	6082	50.08601	16.46738
+Zamboanga	Province of  Zamboanga del Sur, Zamboanga Peninsula	3617877	6	457623	6.91028	122.07389
 Zamboanguita	Province of Negros Oriental, Central Visayas	3740506	6	6164	9.1025	123.1996
 Zambrana	Araba / Alava, Basque Country	340214	8	367	42.66102	-2.87909
 Zambrana	Araba / Alava, Basque Country	7760321	9	367	42.66102	-2.87909
@@ -169,7 +186,11 @@ Zamora	Zamora, Michoacan	5606659	6	141627	19.9855	-102.28387
 Zamosc	Zamosc, Lublin	1973109	6	66034	50.72314	23.25196
 Zamosc	Zamosc, Lublin	2904796	7	66034	50.72314	23.25196
 Zamosc	Zamosc, Lublin	536757	8	66034	50.72314	23.25196
+Zamostochye	Minsk	7483299	10	2500	53.8198	27.8685
+Zamostochye	Minsk	7529499	10	2500	53.8198	27.8685
+Zamostochye	Minsk	7543309	10	2500	53.8198	27.8685
 Zamostochye	Minsk	7547041	10	2500	53.8198	27.8685
+Zamostochye	Minsk	7570485	10	2500	53.8198	27.8685
 Zamudio	Bizkaia, Basque Country	347287	8	3236	43.286	-2.87
 Zandbergen	Provincie Oost-Vlaanderen, Flanders	3390755	9	1750	50.80279	3.96636
 Zandhoven	Provincie Antwerpen, Flanders	1277901	8	12306	51.21488	4.66164
@@ -177,6 +198,7 @@ Zandhoven	Provincie Antwerpen, Flanders	3369132	9	12306	51.21488	4.66164
 Zandobbio	Provincia di Bergamo, Lombardy	45725	8	2089	45.68613	9.85785
 Zandov	Okres Ceska Lipa, Liberecky kraj	438936	8	1907	50.71394	14.39623
 Zandt	Upper Palatinate, Bavaria	961933	8	1875	49.15	12.73333
+Zandvoorde	Provincie West-Vlaanderen, Flanders	1273475	9	3484	51.19942	2.9722
 Zandvoorde	Provincie West-Vlaanderen, Flanders	2247923	9	3484	51.19942	2.9722
 Zandvoort	Gemeente Zandvoort, North Holland	1373234	10	16868	52.37125	4.53306
 Zandvoort	Gemeente Zandvoort, North Holland	47762	8	16868	52.37125	4.53306
@@ -190,6 +212,7 @@ Zaniemysl	Powiat sredzki, Greater Poland	3990113	8	2200	52.15561	17.16228
 Zaniza	Santa Maria Zaniza, Oaxaca	6000063	6	1342	16.65531	-97.33785
 Zanka	Veszprem	1078485	8	1003	46.87146	17.68473
 Zaorejas	Provincia de Guadalajara, Castille-La Mancha	347899	8	195	40.76209	-2.2012
+Zaozhuang	Zaozhuang Shi, Shandong	3246762	5	899753	34.86472	117.55417
 Zapala	Departamento de Zapala, Neuquen	9601704	8	31534	-38.89916	-70.05442
 Zapardiel de la Canada	Provincia de Avila, Castille and Leon	347925	8	157	40.60648	-5.33791
 Zapardiel de la Ribera	Provincia de Avila, Castille and Leon	345180	8	123	40.35554	-5.32826
@@ -207,6 +230,7 @@ Zapotitlan	Zapotitlan de Mendez, Puebla	6037878	6	1747	20.00209	-97.71385
 Zapotitlan	Zapotitlan, Puebla	6037879	6	2700	18.3296	-97.47399
 Zapotitlan Lagunas	Zapotitlan Lagunas, Oaxaca	6000232	6	1477	17.75621	-98.38958
 Zapotitlan Palmas	Zapotitlan Palmas, Oaxaca	6000233	6	1246	17.88965	-97.81849
+Zapotitlan Tablas	Zapotitlan Tablas, Guerrero	5606662	6	1713	17.42417	-98.78056
 Zapotitlan de Vadillo	Zapotitlan de Vadillo, Jalisco	5606663	6	3530	19.5493	-103.81111
 Zapotlan de Juarez	Zapotlan de Juarez, Hidalgo	5606665	6	4961	19.97709	-98.8642
 Zapotlan del Rey	Zapotlan del Rey, Jalisco	5606666	6	3280	20.46639	-102.92611
@@ -228,6 +252,7 @@ Zaraza	Municipio Pedro Zaraza, Guarico	14504038	8	74017	9.35029	-65.32452
 Zarcero	Zarcero, Alajuela	7359117	8	3559	10.18455	-84.39163
 Zaria	Sabon Gari, Kaduna	3709376	6	975153	11.11128	7.7227
 Zarichchia	Ivano-Frankivsk Oblast	2382102	9	3832	48.51828	24.64681
+Zarichne	Lyman Amalgated Territorial Community, Donetsk Oblast	3560154	9	0	49.0234	37.93161
 Zarichne	Lyman Amalgated Territorial Community, Donetsk Oblast	3944617	9	0	49.0234	37.93161
 Zarki	Powiat chrzanowski, Lesser Poland	2556398	8	3793	50.08259	19.35199
 Zarki	Powiat myszkowski, Silesia	2422065	8	4363	50.62518	19.36357
@@ -238,6 +263,7 @@ Zarnovica	Okres Zarnovica, Banskobystricky kraj	2257538	9	6596	48.48123	18.71565
 Zarnow	Powiat opoczynski, Lodz Voivodeship	4462976	8	870	51.24607	20.17476
 Zarow	Powiat swidnicki, Lower Silesia	2922331	8	6719	50.94116	16.49466
 Zarow	Powiat swidnicki, Lower Silesia	2929883	8	6719	50.94116	16.49466
+Zarow	Powiat swidnicki, Lower Silesia	4251854	8	6719	50.94116	16.49466
 Zarpen	Schleswig-Holstein	532392	8	1577	53.86667	10.51667
 Zarra	Provincia de Valencia, Valencia	346238	8	442	39.09175	-1.07532
 Zarraga	Province of Iloilo, Western Visayas	3492694	6	3253	10.81972	122.60806
@@ -248,6 +274,7 @@ Zarrentin	Mecklenburg-Vorpommern	1451516	7	3243	53.55075	10.9155
 Zarszyn	Powiat sanocki, Subcarpathia	6968473	8	1101	49.58178	22.01283
 Zaruma	Canton Zaruma, El Oro	108003	6	12505	-3.69132	-79.61174
 Zaruma	Canton Zaruma, El Oro	2667923	8	12505	-3.69132	-79.61174
+Zarumilla	Provincia de Zarumilla, Tumbes	1986977	6	16907	-3.50306	-80.27306
 Zarumilla	Provincia de Zarumilla, Tumbes	1986989	8	16907	-3.50306	-80.27306
 Zary	Powiat zarski, Lubusz	2871832	7	38779	51.64205	15.13727
 Zary	Powiat zarski, Lubusz	2871836	8	38779	51.64205	15.13727
@@ -295,6 +322,7 @@ Zavet	Obshtina Zavet, Razgrad	12999506	8	3589	43.76036	26.68063
 Zavet	Obshtina Zavet, Razgrad	1931073	7	3589	43.76036	26.68063
 Zavoaia	Comuna Zavoaia, Braila	10534559	8	3482	44.95	27.48333
 Zavodske	Chortkiv Raion, Ternopil Oblast	3166964	9	3352	48.99888	25.85369
+Zavoi	Comuna Zavoi, Caras-Severin	10513827	8	4205	45.51667	22.41667
 Zavrc	Zavrc	1685745	8	73	46.39167	16.04972
 Zawadzkie	Powiat strzelecki, Opole Voivodeship	3091238	8	8439	50.60503	18.48467
 Zawichost	Powiat sandomierski, Swietokrzyskie	2966776	8	1853	50.80743	21.85408
@@ -304,5 +332,6 @@ Zawiercie	Powiat zawiercianski, Silesia	2838655	8	53159	50.48766	19.41679
 Zawiercie	Powiat zawiercianski, Silesia	2838661	7	53159	50.48766	19.41679
 Zawoja	Powiat suski, Lesser Poland	3300833	8	6200	49.64396	19.54227
 Zayed City	Al Dhafra, Abu Dhabi	13251490	8	63482	23.65416	53.70522
+Zaymishche	Bryansk Oblast	7442539	10	4942	52.7264	32.2334
 Zaziwil	Bern-Mittelland District, Bern	1682741	8	1535	46.90196	7.66185
 Zazuar	Provincia de Burgos, Castille and Leon	346096	8	269	41.69528	-3.55451

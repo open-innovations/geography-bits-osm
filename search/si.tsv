@@ -5,7 +5,9 @@ Siano	Provincia di Salerno, Campania	40776	8	9855	40.80207	14.69334
 Sianow	Powiat koszalinski, West Pomerania	2910212	8	6606	54.22646	16.29127
 Siasi	Province of Sulu, Autonomous Region in Muslim Mindanao	3813854	6	12566	5.5462	120.8145
 Siaton	Province of Negros Oriental, Central Visayas	3740504	6	7328	9.0648	123.0339
+Siauliai	Siauliai	13156741	8	130587	55.93333	23.31667
 Siauliai	Siauliai	1714886	8	130587	55.93333	23.31667
+Siaya	Siaya	3486291	4	33153	0.0607	34.28806
 Sibagat	Province of Agusan del Sur, Caraga	3870469	6	4865	8.8225	125.6975
 Sibalom	Province of Antique, Western Visayas	3279599	6	7295	10.79	122.0178
 Sibanicu	Camaguey	5892230	6	16856	21.23631	-77.52561
@@ -18,6 +20,8 @@ Sibenik	Grad Sibenik, Sibensko-Kniniska	11125446	8	37112	43.73429	15.8942
 Sibilia	Quetzaltenango	4476297	6	1180	14.99391	-91.62371
 Sibinal	San Marcos	4479726	6	1657	15.14963	-92.04892
 Sibiril	Finistere, Brittany	420918	8	1207	48.66474	-4.06376
+Sibiti	Lekoumou	3224383	6	19089	-3.68192	13.34985
+Sibiu	Municipiul Sibiu, Sibiu	2248586	4	151894	45.8	24.15
 Sibiu	Municipiul Sibiu, Sibiu	9846497	8	151894	45.8	24.15
 Sible Hedingham	Essex, England	3300180	10	3702	51.97772	0.59262
 Sibley	Osceola County, Iowa	128438	8	2668	43.39914	-95.75196
@@ -34,6 +38,7 @@ Sicignano degli Alburni	Provincia di Salerno, Campania	40588	8	1310	40.55882	15.
 Sickte	Lower Saxony	1432655	8	5755	52.21847	10.6424
 Sico Uno	Province of Batangas, Calabarzon	12288162	10	3919	13.8301	121.37123
 Sicuani	Provincia de Canchis, Cusco	1925303	8	33575	-14.26944	-71.22611
+Siculeni	Comuna Siculeni, Harghita	2248660	4	6807	46.41667	25.75
 Siculiana	Agrigento, Sicily	39224	8	4504	37.33515	13.42432
 Sid	Srem, Vojvodina	9406294	9	0	45.12833	19.22639
 Sidamon	Provincia de Lleida, Catalonia	347351	8	0	41.63333	0.83333
@@ -41,9 +46,11 @@ Siddeburen	Midden-Groningen, Groningen	1468348	10	2910	53.25	6.86806
 Siddharthanagar	Rupandehi, Lumbini Province	12409353	7	63367	27.5	83.45
 Siddi	Provincia del Sud Sardegna, Sardinia	40030	8	690	39.67255	8.88815
 Siddington	Cheshire East, England	1402208	10	0	53.23333	-2.23333
+Siddipet	Siddipet, Telangana	7665824	5	64562	18.10483	78.84858
 Siderno	Provincia di Reggio Calabria, Calabria	39597	8	15651	38.26993	16.29607
 Sideropolis	Sideropolis, Santa Catarina	296544	8	8536	-28.59778	-49.42444
 Sidhauli	Sitapur, Uttar Pradesh	10020626	6	22193	27.28202	80.8345
+Sidhi	Sidhi, Madhya Pradesh	1973969	5	54242	24.4038	81.87954
 Sidi Bou Said	Carthage, Tunis	7116249	6	5911	36.8687	10.34174
 Sidmouth	Devon, England	3388804	10	12569	50.69094	-3.2397
 Sidney	Champaign County, Illinois	126131	8	1232	40.02503	-88.07337
@@ -54,6 +61,8 @@ Sidney	Richland County, Montana	142477	8	6828	47.71668	-104.15633
 Sidney	Shelby County, Ohio	182718	8	20858	40.28422	-84.1555
 Sidoarjo	East Java	9677345	5	139189	-7.4478	112.7183
 Sidoarjo	East Java	9680045	8	139189	-7.4478	112.7183
+Sidrolandia	Sidrolandia, Mato Grosso do Sul	334042	8	16878	-20.93194	-54.96139
+Sidrolandia	Sidrolandia, Mato Grosso do Sul	4108853	9	16878	-20.93194	-54.96139
 Sidzina	Powiat nyski, Opole Voivodeship	4013026	8	1022	50.57375	17.44904
 Sidzina	Powiat suski, Lesser Poland	5012692	8	3200	49.59146	19.71119
 Siebeldingen	Rheinland-Pfalz	1252554	8	1056	49.20889	8.05139
@@ -63,6 +72,7 @@ Siedenburg	Lower Saxony	2850960	10	1349	52.69293	8.93961
 Siedlce	Siedlce, Mazovia	1386747	6	77185	52.16772	22.29006
 Siedlce	Siedlce, Mazovia	2910908	7	77185	52.16772	22.29006
 Siedlce	Siedlce, Mazovia	2924176	8	77185	52.16772	22.29006
+Siedlec	Powiat wolsztynski, Greater Poland	9084982	8	1200	52.13781	16.00279
 Siedleczka	Powiat przeworski, Subcarpathia	6780760	8	1152	49.96061	22.37949
 Siedliska	Powiat rzeszowski, Subcarpathia	6897902	8	1700	49.95409	21.94742
 Siedliska	Powiat rzeszowski, Subcarpathia	6947560	8	1700	49.95409	21.94742
@@ -97,6 +107,8 @@ Sieniawa	Powiat krosnienski, Subcarpathia	6964272	8	1078	49.56508	21.92785
 Sieniawa	Powiat nowotarski, Lesser Poland	5117919	8	1929	49.53947	19.93014
 Sieniawa	Powiat przeworski, Subcarpathia	1757362	8	2182	50.1779	22.60954
 Sieniawa	Powiat swiebodzinski, Lubusz	3522518	8	1100	52.36344	15.37768
+Sieniawa Zarska	Powiat zarski, Lubusz	3549567	9	1090	51.64007	15.06045
+Siennica	Powiat minski, Mazovia	5345576	8	2600	52.09164	21.61921
 Siennica	Powiat minski, Mazovia	6006914	8	2600	52.09164	21.61921
 Siennica Rozana	Powiat krasnostawski, Lublin	6860612	8	1000	51.00123	23.3226
 Siennica Rozana	Powiat krasnostawski, Lublin	6860623	8	1000	51.00123	23.3226
@@ -115,7 +127,9 @@ Sierpc	Powiat sierpecki, Mazovia	3128191	7	18866	52.8568	19.66913
 Sierpc	Powiat sierpecki, Mazovia	3128197	8	18866	52.8568	19.66913
 Sierra Colorada	Departamento de Nueve de Julio, Rio Negro	3664168	8	1374	-40.58487	-67.75674
 Sierra Grande	Departamento de San Antonio, Rio Negro	3912134	8	6978	-41.60603	-65.35574
+Sierra Grande	Departamento de San Antonio, Rio Negro	6666035	7	6978	-41.60603	-65.35574
 Sierra Madre	Los Angeles County, California	5547825	8	11163	34.16167	-118.05285
+Sierra Mojada	Sierra Mojada, Coahuila	5606386	6	478	27.28861	-103.70124
 Sierra Vista	Cochise County, Arizona	110679	8	43355	31.55454	-110.30369
 Sierra Vista Southeast	Cochise County, Arizona	111015	8	14797	31.45385	-110.21637
 Sierra de Fuentes	Provincia de Caceres, Extremadura	1900087	8	1996	39.43997	-6.27242
@@ -138,6 +152,7 @@ Sievierodonetsk	Luhansk	4089182	9	130000	48.94628	38.48624
 Siewierz	Powiat bedzinski, Silesia	2832467	8	5417	50.46657	19.23028
 Siezenheim	Politischer Bezirk Salzburg-Umgebung, Salzburg	8176922	10	2951	47.81529	12.99039
 Sifangtai	Shuangyashan Shi, Heilongjiang	5651669	6	0	46.59397	131.33045
+Sigaboy	Province of Davao Oriental, Davao	1507185	6	7981	6.65413	126.07268
 Sigean	Aude, Occitanie	74085	8	4347	43.0279	2.97834
 Sigeres	Provincia de Avila, Castille and Leon	344026	8	76	40.79939	-4.93361
 Siggelkow	Mecklenburg-Vorpommern	449879	8	1056	53.38742	11.93802
@@ -168,15 +183,20 @@ Sihuas	Provincia de Sihuas, Ancash	1953351	8	0	-8.56667	-77.61667
 Siikainen	Pohjois-Satakunta, Satakunta	2506789	8	1917	61.87703	21.81945
 Siikajoki	Raahe, North Ostrobothnia	2525928	8	1293	64.81455	24.75924
 Siilinjaervi	Kuopio, North Savo	1406989	8	20209	63.08333	27.66667
+Siirt	Siirt	223543	4	114034	37.9293	41.94134
 Sijsele	Provincie West-Vlaanderen, Flanders	2247176	9	5348	51.20846	3.31714
 Sikandarabad	Bulandshahr, Uttar Pradesh	10002300	6	73379	28.45226	77.70004
 Sikandra	Kanpur Dehat, Uttar Pradesh	10019251	6	12289	26.36722	79.6298
 Sikandra Rao	Hathras, Uttar Pradesh	10001781	6	42229	27.68859	78.37985
+Sikar	Sikar, Rajasthan	1949107	5	199932	27.61206	75.13996
 Sikensi	Lagunes	10757669	7	0	5.66829	-4.57371
 Sikeston	Scott County, Missouri	141440	8	16436	36.87672	-89.58786
 Siklos	Baranya	575149	8	10180	45.85499	18.29752
 Silacayoapam	Silacayoapam, Oaxaca	6000152	6	2090	17.50297	-98.13966
+Silainiai	Kaunas	12885932	8	40600	54.92911	23.88599
+Silainiai	Kaunas	12888932	8	40600	54.92911	23.88599
 Silale	Silale, Taurage County	2562265	8	4640	55.4898	22.18692
+Silale	Silale, Taurage County	7157187	8	4640	55.4898	22.18692
 Silame	Silame, Sokoto	3707383	6	0	13.03921	4.84593
 Silame	Silame, Sokoto	3707595	8	0	13.03921	4.84593
 Silang	Province of Cavite, Calabarzon	1491095	6	119475	14.21567	120.97137
@@ -192,11 +212,14 @@ Sileby	Leicestershire, England	2406089	10	7261	52.73286	-1.10773
 Silenen	Uri	1683108	8	2243	46.7891	8.67325
 Siler City	Chatham County, North Carolina	179801	8	8396	35.72347	-79.46224
 Siles	Provincia de Jaen, Andalusia	343753	8	0	38.38983	-2.5819
+Silets	Lviv Oblast	2728443	8	3641	50.29712	24.20462
 Siletz	Lincoln County, Oregon	186469	8	1221	44.72178	-123.92011
 Silherovice	Okres Opava, Moravskoslezsky	429844	10	1534	49.92602	18.27017
 Silherovice	Okres Opava, Moravskoslezsky	437614	8	1534	49.92602	18.27017
+Silifke	Mersin	1442334	6	75315	36.37778	33.93444
 Siliqua	Provincia del Sud Sardegna, Sardinia	4257597	8	3618	39.301	8.80584
 Silistra	Obshtina Silistra, Silistra	13431110	8	29498	44.1171	27.26056
+Silistra	Obshtina Silistra, Silistra	1739539	6	29498	44.1171	27.26056
 Silistra	Obshtina Silistra, Silistra	1931123	7	29498	44.1171	27.26056
 Silius	Provincia del Sud Sardegna, Sardinia	39967	8	1257	39.51695	9.2936
 Silivri	Istanbul	1275379	6	53167	41.07393	28.24644
@@ -233,6 +256,7 @@ Silvalde	Espinho, Aveiro	6021223	8	7188	40.99205	-8.62567
 Silvan	Diyarbakir	1842160	6	65956	38.13708	41.00817
 Silvan	Yarra Ranges, Victoria	2428861	9	1323	-37.81667	145.41667
 Silvania	Silvania, Cundinamarca	1354793	6	20581	4.40367	-74.3867
+Silvania	Silvania, Goias	334469	8	11377	-16.65889	-48.60806
 Silvano Pietra	Provincia di Pavia, Lombardy	44041	8	641	45.03923	8.94637
 Silvano d'Orba	Provincia di Alessandria, Piedmont	43440	8	1524	44.6858	8.67182
 Silvaplana	Region Maloja, Grisons	1684170	8	973	46.4581	9.79514
@@ -257,6 +281,7 @@ Silverton	Devon, England	3287275	10	1494	50.81667	-3.48333
 Silverton	Hamilton County, Ohio	182240	8	4764	39.19284	-84.4005
 Silverton	Marion County, Oregon	186621	8	9753	45.00512	-122.78315
 Silverwater	Parramatta, New South Wales	5637761	9	4133	-33.83343	151.04731
+Silverwater	Parramatta, New South Wales	6028869	9	4133	-33.83343	151.04731
 Silves	Silves, Faro	5404107	7	10917	37.18921	-8.43822
 Silves	Silves, Faro	6431662	8	10917	37.18921	-8.43822
 Silvi	Provincia di Teramo, Abruzzo	42078	8	12551	42.54984	14.11759
@@ -274,6 +299,7 @@ Simat de la Valldigna	Provincia de Valencia, Valencia	342737	8	3291	39.03333	-0.
 Simav	Kuetahya	1593755	6	34909	39.0882	28.97767
 Simbach	Lower Bavaria, Bavaria	959909	8	3672	48.56606	12.73888
 Simbach am Inn	Lower Bavaria, Bavaria	957049	8	9979	48.26548	13.02309
+Simbahan	Province of Sulu, Autonomous Region in Muslim Mindanao	3813852	6	4712	6.3032	120.5836
 Simbal	Provincia de Trujillo, La Libertad	1968051	8	805	-7.97613	-78.81346
 Simbario	Provincia di Vibo-Valentia, Calabria	39668	8	873	38.61157	16.33597
 Simdega	Simdega, Jharkhand	9529264	5	38732	22.61523	84.50208
@@ -283,6 +309,7 @@ Simeria	Oras Simeria, Hunedoara	10494271	8	13827	45.85	23.01667
 Simi Valley	Ventura County, California	112597	8	126788	34.26945	-118.78148
 Simiane-Collongue	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	71244	8	5521	43.43067	5.43454
 Simijaca	Simijaca, Cundinamarca	11909887	6	4767	5.50291	-73.85227
+Simiti	Simiti, Bolivar	1329742	6	15353	7.9579	-73.9436
 Simitli	Obshtina Simitli, Blagoevgrad	1978214	7	6729	41.88333	23.11667
 Simmelsdorf	Regierungsbezirk Mittelfranken, Bavaria	35117	8	3372	49.59775	11.33901
 Simmerath	Regierungsbezirk Koeln, North Rhine-Westphalia	158021	8	15646	50.6	6.3
@@ -293,6 +320,7 @@ Simmersfeld	Karlsruhe Region, Baden-Wurttemberg	1174401	8	2207	48.61667	8.51667
 Simmertal	Rheinland-Pfalz	1244121	8	2009	49.80981	7.52282
 Simmesport	Avoyelles Parish, Louisiana	132041	8	2117	30.98352	-91.80012
 Simmozheim	Karlsruhe Region, Baden-Wurttemberg	933497	8	2731	48.75127	8.81142
+Simo	Kemi-Tornio, Lapland	2528475	8	3582	65.66667	25.05
 Simoca	Departamento de Simoca, Tucuman	8204364	8	7939	-27.26272	-65.35647
 Simoes	Simoes, Piaui	302791	8	4332	-7.59889	-40.81778
 Simoes Filho	Simoes Filho, Bahia	362276	8	116662	-12.78444	-38.40389
@@ -303,6 +331,7 @@ Simpang		10008082	6	0	-4.44867	104.1922
 Simpang Ulim	Aceh	8931965	6	0	5.12223	97.5623
 Simpelveld	Gemeente Simpelveld, Limburg	2721307	10	2405	50.83417	5.98194
 Simpelveld	Gemeente Simpelveld, Limburg	406428	8	2405	50.83417	5.98194
+Simplicio Mendes	Simplicio Mendes, Piaui	302837	8	7076	-7.85389	-41.91028
 Simpsonville	Greenville County, South Carolina	193986	8	20736	34.73706	-82.25428
 Simpsonville	Shelby County, Kentucky	130886	8	2702	38.22257	-85.35523
 Simunul	Province of Tawi-Tawi, Autonomous Region in Muslim Mindanao	3811048	6	4671	4.89833	119.84944
@@ -315,6 +344,7 @@ Sinagra	Messina, Sicily	39516	8	1716	38.08191	14.85009
 Sinagra	Wanneroo, Western Australia	11689607	9	2566	-31.74261	115.80633
 Sinaia	Oras Sinaia, Prahova	10694434	8	11918	45.35	25.55
 Sinalunga	Provincia di Siena, Tuscany	42373	8	6567	43.21492	11.74507
+Sinan	Jeollanam-do	5403755	6	53150	34.8262	126.10863
 Sinanche	Sinanche, Yucatan	5961540	6	2563	21.22591	-89.18495
 Sinanche	Sinanche, Yucatan	6430185	8	2563	21.22591	-89.18495
 Sinanpasa	Afyonkarahisar	1263756	6	5940	38.74444	30.24278
@@ -331,18 +361,22 @@ Sindirgi	Balikesir	1821207	6	10907	39.24128	28.17842
 Sindou	Province de la Leraba, Cascades	5672144	6	3917	10.66667	-5.16667
 Sines	Sines, District of Setubal	5401852	7	12791	37.95622	-8.86979
 Sines	Sines, District of Setubal	6445214	8	12791	37.95622	-8.86979
+Sinesti	Comuna Potcoava, Olt	9845370	8	1009	44.46777	24.66585
 Sineu	Illes Balears, Balearic Islands	346487	8	3053	39.64254	3.01034
 Singa	Provincia de Huamalies, Huanuco	1954573	8	0	-9.38745	-76.81262
+Singa	Sinnar	4709724	8	250000	13.1483	33.93117
 Singarayakonda	Prakasam, Andhra Pradesh	10169541	6	17796	15.23046	80.02794
 Singera	Chisinau Municipality	1748491	8	7200	46.91557	28.96673
 Singerei	Singerei	10628824	8	14600	47.63632	28.14296
 Singhofen	Rheinland-Pfalz	540059	8	1895	50.2744	7.83333
+Singida	Singida Urban District, Singida	1600812	5	62432	-4.81629	34.74358
 Singkawang	West Kalimantan	10616895	5	235064	0.90925	108.98463
 Singkil	Aceh	8922300	6	46800	2.2874	97.7884
 Singleton	Rockingham, Western Australia	11689133	9	3594	-32.44403	115.75725
 Singleton	Singleton, New South Wales	6059246	9	5076	-32.56742	151.16603
 Singleton Heights	Singleton, New South Wales	6059244	9	4584	-32.5416	151.16089
 Singra	Provincia de Teruel, Aragon	344960	8	97	40.65508	-1.31158
+Singrauli	Singrauli, Madhya Pradesh	9531024	5	185580	24.19973	82.67535
 Singuilucan	Singuilucan, Hidalgo	5606396	6	4076	19.96874	-98.51935
 Singur	Hugli, West Bengal	10371558	6	19402	22.80917	88.22944
 Singureni	Comuna Singureni, Giurgiu	13799788	8	3477	44.23361	25.94333
@@ -423,6 +457,7 @@ Sint-Niklaas	Provincie Oost-Vlaanderen, Flanders	3376840	9	69010	51.16509	4.1437
 Sint-Niklaas	Provincie Oost-Vlaanderen, Flanders	913866	8	69010	51.16509	4.1437
 Sint-Oedenrode	Meierijstad, North Brabant	370768	10	16931	51.5675	5.45972
 Sint-Pauwels	Provincie Oost-Vlaanderen, Flanders	3373567	9	4608	51.19391	4.09649
+Sint-Pieters-Kapelle	Provincie Vlaams-Brabant, Flanders	1394104	9	1421	50.70758	3.98999
 Sint-Pieters-Kapelle	Provincie Vlaams-Brabant, Flanders	4109915	9	1421	50.70758	3.98999
 Sint-Pieters-Leeuw	Provincie Vlaams-Brabant, Flanders	199135	8	30446	50.77926	4.24355
 Sint-Pieters-Leeuw	Provincie Vlaams-Brabant, Flanders	4104235	9	30446	50.77926	4.24355
@@ -450,7 +485,10 @@ Sioux Falls	Minnehaha County, South Dakota	194968	8	171544	43.54997	-96.70033
 Sioux Lookout	Ontario	5995390	8	2941	50.06676	-91.98358
 Sipacapa	San Marcos	4479727	6	661	15.21246	-91.63416
 Sipalay	Province of Negros Occidental, Western Visayas	3740505	6	24029	9.75194	122.40417
+Siparia	Siparia	7363417	4	8568	10.14525	-61.5074
 Sipe Sipe	Cochabamba	4505698	8	47000	-17.45419	-66.35737
+Sipi	Sipi, Choco	1309475	6	332	4.65374	-76.64442
+Siping	Siping Shi, Jilin	2763795	5	555609	43.16143	124.37785
 Sipkovica	Tetovo	6928765	8	8228	42.035	20.91556
 Sipovo	Srpska	14574683	9	10738	44.28237	17.08597
 Sippersfeld	Rheinland-Pfalz	1254715	8	1217	49.55	7.93333
@@ -478,6 +516,8 @@ Siris	Provincia di Oristano, Sardinia	40062	8	224	39.71228	8.77507
 Sirkazhi	Nagapattinam, Tamil Nadu	10319629	6	33100	11.23725	79.73585
 Sirmione	Provincia di Brescia, Lombardy	45072	8	6818	45.49744	10.60507
 Sirnach	Bezirk Muenchwilen, Thurgau	1684557	8	6463	47.46222	8.99763
+Sirnak	Sirnak	223438	4	52743	37.51393	42.45432
+Sirohi	Sirohi, Rajasthan	1949082	5	38610	24.88838	72.84794
 Sirok	Heves	1417280	8	2068	47.93333	20.2
 Siroko Polje	Osjecko-Baranjska	12751372	8	1012	45.40528	18.4725
 Sirolo	Provincia di Ancona, The Marches	42474	8	2545	43.52246	13.61498
@@ -496,6 +536,7 @@ Sisak	Grad Sisak, Sisacko-Moslavacka	12251024	8	35748	45.46611	16.37833
 Sisamon	Provincia de Zaragoza, Aragon	342076	8	56	41.17124	-2.00386
 Sisante	Provincia de Cuenca, Castille-La Mancha	341325	8	1775	39.40849	-2.20173
 Sisco	Upper Corsica, Corsica	3226656	8	1121	42.8	9.43333
+Sisimiut	Qeqqata	36830	8	5227	66.93946	-53.6735
 Sisli	Istanbul	1765896	6	314684	41.06046	28.98717
 Sissach	Bezirk Sissach, Basel-Landschaft	1683708	8	5873	47.46408	7.80888
 Sisseton	Roberts County, South Dakota	195096	8	2450	45.66468	-97.0498
@@ -508,13 +549,17 @@ Siston	South Gloucestershire, England	215404	10	0	51.47444	-2.45
 Sitabamba	Provincia de Santiago de Chuco, La Libertad	1968053	8	867	-8.02331	-77.73155
 Sitajara	Provincia de Tarata, Tacna	1874336	8	451	-17.37556	-70.13222
 Sitala	Sitala, Chiapas	6000155	6	1738	17.02417	-92.30694
+Sitamarhi	Sitamarhi, Bihar	1568265	5	57095	26.59357	85.4906
+Sitangkai	Province of Tawi-Tawi, Autonomous Region in Muslim Mindanao	3811049	6	17200	4.66115	119.39647
 Sitapur	Sitapur, Uttar Pradesh	10020628	6	164435	27.56192	80.68265
+Sitapur	Sitapur, Uttar Pradesh	1959019	5	164435	27.56192	80.68265
 Sitarganj	Udham Singh Nagar, Uttarakhand	9997196	6	24225	28.9293	79.70436
 Sitborice	Okres Breclav, South Moravian	432360	10	1958	49.01433	16.77975
 Sitborice	Okres Breclav, South Moravian	442307	8	1958	49.01433	16.77975
 Sitges	Provincia de Barcelona, Catalonia	342217	8	27668	41.23506	1.81193
 Sitio Prado	Muena, Ngoebe-Bugle	9855334	8	248	8.37281	-81.57998
 Sitio de Xitlapehua	Sitio de Xitlapehua, Oaxaca	6000156	6	522	16.35139	-96.53215
+Sitionuevo	Magdalena	1314678	6	33440	10.77737	-74.72049
 Sitno	Powiat zamojski, Lublin	6047090	8	703	50.74944	23.3626
 Sitovo	Obshtina Sitovo, Silistra	12999798	8	1140	44.0273	27.01982
 Sitovo	Obshtina Sitovo, Silistra	1931124	7	1140	44.0273	27.01982
@@ -524,15 +569,20 @@ Sitten	Sion District, Valais	1686710	6	28045	46.22739	7.35559
 Sitten	Sion District, Valais	2757528	8	28045	46.22739	7.35559
 Sittensen	Lower Saxony	1079028	8	5462	53.27615	9.50429
 Sittersdorf	Politischer Bezirk Voelkermarkt, Carinthia	67005	8	173	46.54444	14.60583
+Situbondo	East Java	9674160	5	600000	-7.70623	114.00976
 Sitzendorf	Thuringia	1273292	8	1051	50.63182	11.17215
 Siuntio	Helsinki, Uusimaa	36102	8	5229	60.13862	24.22715
 Siurana	Provincia de Girona, Catalonia	343219	8	155	42.20916	2.99392
+Sivaganga	Sivaganga, Tamil Nadu	10308042	6	42785	9.84701	78.48358
 Sivagiri	Tirunelveli Kattabo, Tamil Nadu	10303190	6	20772	9.34461	77.42911
 Sivakasi	Virudhunagar, Tamil Nadu	10312711	6	234704	9.44999	77.79797
 Sivasli	Usak	1609671	6	7378	38.49944	29.68361
+Siverek	Sanliurfa	1596129	6	175341	37.75503	39.31667
 Siversk	Donetsk Oblast	3586192	9	11068	48.86588	38.09779
 Sivrice	Elazig	1830510	6	5481	38.44223	39.30938
+Sivrihisar	Eskisehir	1238931	6	10535	39.45037	31.53409
 Siwan	Siwan, Bihar	10254136	6	119181	26.22096	84.35609
+Siwan	Siwan, Bihar	1960265	5	119181	26.22096	84.35609
 Six-Fours-les-Plages	Var, Provence-Alpes-Cote d'Azur	194637	8	34779	43.09174	5.82465
 Sixaola	Talamanca, Limon	5709983	8	1823	9.50371	-82.612
 Sixmilebridge	Clare, Munster	6256584	10	2625	52.74139	-8.77417

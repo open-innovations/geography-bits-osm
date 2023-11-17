@@ -30,6 +30,7 @@ Wedmore	Somerset, England	2720850	10	1409	51.22727	-2.81152
 Wedowee	Randolph County, Alabama	13817039	8	809	33.309	-85.48467
 Wee Waa	Narrabri, New South Wales	5793572	9	2072	-30.2266	149.44041
 Weedon Beck	Northamptonshire, England	1742769	10	2706	52.22955	-1.08371
+Weedon Beck	Northamptonshire, England	3087602	10	2706	52.22955	-1.08371
 Weehawken	Hudson County, New Jersey	957238	8	14104	40.76955	-74.02042
 Weelde	Provincie Antwerpen, Flanders	3369207	9	4854	51.40777	4.99251
 Weener	Lower Saxony	1255862	8	15718	53.16332	7.35052
@@ -56,6 +57,7 @@ Wegorzewo	Powiat wegorzewski, Warmia-Masuria	2946559	8	11864	54.21567	21.7372
 Wegorzyno	Powiat lobeski, West Pomerania	3012331	8	3009	53.54101	15.55964
 Wegrow	Powiat wegrowski, Mazovia	3147509	8	12512	52.39954	22.01634
 Wegrow	Powiat wegrowski, Mazovia	3147511	7	12512	52.39954	22.01634
+Wegry	Powiat opolski, Opole Voivodeship	6374675	8	1010	50.74319	18.01741
 Wegry	Powiat opolski, Opole Voivodeship	9755093	8	1010	50.74319	18.01741
 Wegrzce Wielkie	Powiat wielicki, Lesser Poland	3271812	8	1513	50.01491	20.11082
 Wegrzce Wielkie	Powiat wielicki, Lesser Poland	3328387	8	1513	50.01491	20.11082
@@ -83,7 +85,10 @@ Weidenstetten	Tuebingen Region, Baden-Wurttemberg	2789609	8	1249	48.5525	9.9961
 Weidenthal	Rheinland-Pfalz	1249987	8	2018	49.41667	8
 Weiding	Upper Palatinate, Bavaria	960530	8	2472	49.26282	12.76311
 Weiding	Upper Palatinate, Bavaria	961859	8	2472	49.26282	12.76311
+Weifang	Weifang Shi, Shandong	3468564	5	2044028	36.71	119.10194
+Weifen	Lueliang, Shanxi	3263824	6	0	38.48064	111.16664
 Weigendorf	Upper Palatinate, Bavaria	1028550	8	1292	49.49773	11.56869
+Weihai	Weihai Shi, Shandong	3307448	5	844310	37.50914	122.11356
 Weihenzell	Regierungsbezirk Mittelfranken, Bavaria	534275	8	2829	49.35	10.61667
 Weiherhammer	Upper Palatinate, Bavaria	1059440	8	4036	49.63333	12.06667
 Weihmichl	Lower Bavaria, Bavaria	190747	8	2479	48.6	12.05
@@ -113,12 +118,14 @@ Weilmuenster	Regierungsbezirk Giessen, Hesse	324310	8	8704	50.43143	8.37673
 Weiltingen	Regierungsbezirk Mittelfranken, Bavaria	534180	8	1433	49.03878	10.45052
 Weimar	Colorado County, Texas	8077366	8	2161	29.70301	-96.78053
 Weimar	Thuringia	62493	6	64727	50.9803	11.32903
+Weinan	Weinan Shi, Shaanxi	3028621	5	1199290	34.50355	109.50891
 Weinbach	Regierungsbezirk Giessen, Hesse	14307537	9	4763	50.43843	8.29133
 Weinbach	Regierungsbezirk Giessen, Hesse	324309	8	4763	50.43843	8.29133
 Weinbohla	Saxony	546772	8	10456	51.16667	13.56667
 Weinfelden	Bezirk Weinfelden, Thurgau	1684569	8	9414	47.56667	9.1
 Weingarten	Tuebingen Region, Baden-Wurttemberg	2808306	8	23802	47.81009	9.63863
 Weinheim	Karlsruhe Region, Baden-Wurttemberg	454175	8	43325	49.54887	8.66697
+Weinheim	Karlsruhe Region, Baden-Wurttemberg	9697673	9	43325	49.54887	8.66697
 Weinsberg	Regierungsbezirk Stuttgart, Baden-Wurttemberg	410473	8	11855	49.15127	9.28762
 Weinsheim	Rheinland-Pfalz	1108043	8	1046	50.23333	6.46667
 Weinsheim	Rheinland-Pfalz	1244229	8	1893	49.83333	7.76667
@@ -152,6 +159,7 @@ Weissensee	Thuringia	2410105	8	3720	51.19989	11.06914
 Weissenstadt	Upper Franconia, Bavaria	1022880	8	3545	50.10217	11.88849
 Weissenthurm	Rheinland-Pfalz	541676	7	7639	50.41719	7.45072
 Weissenthurm	Rheinland-Pfalz	548982	8	7639	50.41719	7.45072
+Weissig	Saxony	5936747	9	1013	51.29192	13.44117
 Weisskirchen an der Traun	Wels-Land, Upper Austria	63251	8	1081	48.16202	14.12395
 Weisskirchen in Steiermark	Politischer Bezirk Murtal, Styria	3889878	8	1279	47.15409	14.73882
 Weisslingen	Bezirk Pfaeffikon, Zurich	1682235	8	1975	47.43063	8.76787
@@ -162,6 +170,7 @@ Weisweil	Freiburg Region, Baden-Wurttemberg	1124265	8	2114	48.19939	7.67713
 Weitbruch	Bas-Rhin, Grand Est	952250	8	2609	48.75455	7.77935
 Weitefeld	Rheinland-Pfalz	421957	8	2451	50.72541	7.92805
 Weiten	Saarland	6969021	9	1209	49.53011	6.54064
+Weitenhagen	Mecklenburg-Vorpommern	374160	8	1604	54.05372	13.40998
 Weitenhagen	Mecklenburg-Vorpommern	949142	9	1604	54.05372	13.40998
 Weitenhagen	Mecklenburg-Vorpommern	9682107	8	1604	54.05372	13.40998
 Weitersburg	Rheinland-Pfalz	547365	8	2152	50.41667	7.6
@@ -173,6 +182,7 @@ Weitramsdorf	Upper Franconia, Bavaria	956862	8	5183	50.256	10.87989
 Weituo	Chongqing	10098284	8	36068	30.03983	106.14701
 Weixian	Handan Shi, Hebei	5674432	6	0	36.35651	114.93372
 Weiyang	Xi'an Shi, Shaanxi	3226095	6	0	34.2906	108.93554
+Weiyuan	Haidong Diqu, Qinghai	4470185	6	0	36.85316	101.99169
 Weiz	Politischer Bezirk Weiz, Styria	3885083	8	9221	47.21667	15.61667
 Weizhou	Aba Zangzu Qiangzu Zizhizhou, Sichuan	2110260	6	0	31.49267	103.58491
 Wejherowo	Powiat wejherowski, Pomerania	1582827	8	46820	54.60568	18.23559
@@ -191,6 +201,7 @@ Welford	West Berkshire, England	3996174	10	0	51.45727	-1.41131
 Weligama	Matara District, Southern	5840987	8	22179	5.97501	80.42968
 Welkenraedt	Province de Liege, Wallonia	2396837	8	9006	50.6605	5.97034
 Well	Gemeente Bergen, Limburg	2722641	10	2500	51.55	6.08889
+Well	Gemeente Bergen, Limburg	334325	10	2500	51.55	6.08889
 Welland	Ontario	2387988	8	52293	42.98342	-79.24958
 Wellard	Kwinana, Western Australia	11689143	9	8849	-32.26667	115.83333
 Welle	Lower Saxony	337711	8	1251	53.23985	9.80178
@@ -221,6 +232,7 @@ Wellington	Western Plains Regional, New South Wales	6059323	9	4075	-32.55588	148
 Wellington Point	Redland, Queensland	11677902	9	12052	-27.48333	153.25
 Wellman	Washington County, Iowa	128896	8	1431	41.46418	-91.83823
 Wellow	Bath and North East Somerset, England	2950966	10	529	51.32444	-2.37417
+Wellow	Bath and North East Somerset, England	3905949	10	529	51.32444	-2.37417
 Wells	Elko County, Nevada	170112	8	1261	41.11159	-114.96449
 Wells	Faribault County, Minnesota	137296	8	2247	43.74607	-93.72884
 Wells	Somerset, England	2922198	10	11343	51.20794	-2.64896
@@ -250,8 +262,10 @@ Wemding	Swabia, Bavaria	962647	8	5669	48.87461	10.72452
 Wemeldinge	Gemeente Kapelle, Zeeland	149222	10	2855	51.51833	3.99722
 Wemmel	Provincie Vlaams-Brabant, Flanders	77186	8	14406	50.90812	4.30613
 Wenatchee	Chelan County, Washington	237797	8	33636	47.42346	-120.31035
+Wenbi	Shanxi	3008559	6	0	39.3874	111.19115
 Wenceslao Escalante	Departamento de Union, Cordoba	7333185	8	1549	-33.17303	-62.77078
 Wenceslau Braz	Wenceslau Braz, Parana	297755	8	15726	-23.87389	-49.80278
+Wenchang	Wenchang Shi, Hainan	2784621	6	560894	19.6157	110.74894
 Wendeburg	Lower Saxony	1182559	8	10147	52.32957	10.39255
 Wendell	Franklin County, Massachusetts	1839627	8	1003	42.54814	-72.39675
 Wendell	Gooding County, Idaho	121378	8	2744	42.77574	-114.70422
@@ -292,9 +306,11 @@ Wentworth Point	Parramatta, New South Wales	5638546	9	6937	-33.8308	151.07441
 Wentworthville	Cumberland, New South Wales	5503221	9	11328	-33.80652	150.96785
 Wentzville	Saint Charles County, Missouri	141572	8	35603	38.81144	-90.85291
 Wenvoe	Vale of Glamorgan, Wales	8221806	10	1155	51.44776	-3.26369
+Wenxian Chengguanzhen	Longnan Shi, Gansu	2697241	6	31339	32.94712	104.68139
 Wenxing	Yueyang Shi, Hunan	3202466	6	57117	28.68208	112.87864
 Wenzenbach	Upper Palatinate, Bavaria	964618	8	8101	49.07561	12.19954
 Wenzendorf	Lower Saxony	280558	8	1262	53.34948	9.77234
+Wenzhou	Wenzhou Shi, Zhejiang	3289341	5	2650000	27.99942	120.66682
 Weobley	Herefordshire, England	6313361	10	1101	52.1596	-2.875
 Wepion	Province de Namur, Wallonia	2337290	9	6586	50.42153	4.86403
 Werbach	Regierungsbezirk Stuttgart, Baden-Wurttemberg	401805	8	3589	49.67083	9.63944
@@ -304,6 +320,10 @@ Werbkowice	Powiat hrubieszowski, Lublin	7127178	8	3030	50.75373	23.76411
 Werchter	Provincie Vlaams-Brabant, Flanders	2999936	9	3572	50.97308	4.7012
 Werda	Saxony	444283	8	1774	50.43811	12.30473
 Werdau	Saxony	417076	8	24424	50.73604	12.37534
+Werder	Brandenburg	4438192	9	22384	52.37874	12.934
+Werder	Brandenburg	78782	10	22384	52.37874	12.934
+Werder	Brandenburg	8334492	10	22384	52.37874	12.934
+Werder	Brandenburg	9171584	9	22384	52.37874	12.934
 Werdohl	Regierungsbezirk Arnsberg, North Rhine-Westphalia	168545	8	20366	51.26011	7.76608
 Werfen	Politischer Bezirk Sankt Johann im Pongau, Salzburg	534070	8	1570	47.47585	13.1902
 Werfenweng	Politischer Bezirk Sankt Johann im Pongau, Salzburg	902341	8	694	47.46204	13.25582
@@ -318,6 +338,8 @@ Wernberg	Politischer Bezirk Villach Land, Carinthia	106110	8	584	46.61667	13.933
 Wernberg-Koblitz	Upper Palatinate, Bavaria	962204	8	5830	49.53931	12.1613
 Werndorf	Politischer Bezirk Graz-Umgebung, Styria	34903	8	2365	46.92417	15.49083
 Werne	Regierungsbezirk Arnsberg, North Rhine-Westphalia	158456	8	30810	51.66446	7.63421
+Werne	Regierungsbezirk Arnsberg, North Rhine-Westphalia	1647389	10	30810	51.66446	7.63421
+Werne	Regierungsbezirk Arnsberg, North Rhine-Westphalia	5501949	10	30810	51.66446	7.63421
 Werneck	Regierungsbezirk Unterfranken, Bavaria	318733	8	10673	49.98201	10.09884
 Wernersberg	Rheinland-Pfalz	1252766	8	1120	49.19062	7.92756
 Wernersville	Berks County, Pennsylvania	188461	8	2540	40.33009	-76.0805
@@ -365,6 +387,7 @@ Wesseling	Regierungsbezirk Koeln, North Rhine-Westphalia	168448	8	35665	50.82709
 Wesseln	Schleswig-Holstein	413110	8	1398	54.20985	9.07644
 Wessem	Gemeente Maasgouw, Limburg	1410593	10	2050	51.15954	5.88146
 Wessington Springs	Jerauld County, South Dakota	194910	8	919	44.07916	-98.56954
+Wessington Springs	Jerauld County, South Dakota	195119	8	919	44.07916	-98.56954
 Wessling	Upper Bavaria, Bavaria	936656	8	5172	48.07452	11.2482
 Wessobrunn	Upper Bavaria, Bavaria	936793	8	2076	47.87407	11.02461
 Wesson	Copiah County, Mississippi	14024073	8	1908	31.70128	-90.39759
@@ -550,6 +573,7 @@ West Wallsend	Lake Macquarie Shire, New South Wales	5997013	9	2231	-32.9	151.583
 West Walton	Norfolk, England	1022395	10	1731	52.69782	0.17406
 West Warwick	Kent County, Rhode Island	191214	8	30146	41.69689	-71.52194
 West Wendover	Elko County, Nevada	170113	8	4294	40.7391	-114.07335
+West Wickham	Greater London, England	1632973	10	14276	51.36667	-0.01667
 West Wodonga	Wodonga, Victoria	2590931	9	14281	-36.12346	146.85193
 West Wollongong	Wollongong, New South Wales	6076756	9	4750	-34.4248	150.86417
 West Woombye	Sunshine Coast, Queensland	11675178	9	1006	-26.66644	152.92557
@@ -567,6 +591,7 @@ Westbury	Shropshire, England	4584813	10	657	52.67856	-2.95433
 Westbury	Wiltshire, England	3410626	10	16989	51.26	-2.1875
 Westby	Vernon County, Wisconsin	251817	8	2263	43.65692	-90.8543
 Westchester	Cook County, Illinois	123438	8	16729	41.85059	-87.882
+Westcott	Surrey, England	3795156	10	2528	51.22438	-0.37195
 Westcourt	Cairns, Queensland	11677138	9	3933	-16.93044	145.75296
 Westdale	Tamworth Municipality, New South Wales	6063883	9	2739	-31.09052	150.85678
 Westdorpe	Gemeente Terneuzen, Zeeland	149826	10	2113	51.2325	3.82639
@@ -669,6 +694,7 @@ Westport	Fairfield County, Connecticut	4139426	8	26391	41.14149	-73.3579
 Westport	Grays Harbor County, Washington	237415	8	2023	46.89009	-124.10406
 Westport	Lincoln County, North Carolina	180403	8	4026	35.50125	-80.97869
 Westrozebeke	Provincie West-Vlaanderen, Flanders	901847	9	2264	50.93178	3.01001
+Weststadt	Mecklenburg-Vorpommern	4189146	10	12141	53.63472	11.39565
 Westvale	Onondaga County, New York	4211401	8	4963	43.04757	-76.22048
 Westville	Adair County, Oklahoma	185051	8	1567	35.99258	-94.568
 Westville	Gloucester County, New Jersey	170492	8	4224	39.86789	-75.13156

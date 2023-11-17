@@ -37,6 +37,7 @@ Le Camas	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6583467	10	16585	43.29469	
 Le Canet	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6600680	10	7431	43.32611	5.3723
 Le Cannet	Alpes-Maritimes, Provence-Alpes-Cote d'Azur	91840	8	43353	43.57662	7.01912
 Le Cannet-des-Maures	Var, Provence-Alpes-Cote d'Azur	223524	8	3980	43.39236	6.33966
+Le Castellet	Var, Provence-Alpes-Cote d'Azur	1272912	8	4114	43.20291	5.77657
 Le Castellet	Var, Provence-Alpes-Cote d'Azur	163067	8	4114	43.20291	5.77657
 Le Cellier	Loire-Atlantique, Pays de la Loire	109363	8	3596	47.31964	-1.34716
 Le Cendre	Puy-de-Dome, Auvergne-Rhone-Alpes	125894	8	5072	45.7224	3.18711
@@ -69,6 +70,7 @@ Le Doulieu	North, Hauts-de-France	69138	8	1267	50.68194	2.71741
 Le Drennec	Finistere, Brittany	532170	8	1614	48.5344	-4.37243
 Le Faou	Finistere, Brittany	296072	8	1703	48.29456	-4.17927
 Le Faouet	Morbihan, Brittany	111488	8	3032	48.03299	-3.49048
+Le Faouet	Morbihan, Brittany	399599	8	3032	48.03299	-3.49048
 Le Fauga	Upper Garonne, Occitanie	156573	8	1472	43.39666	1.29413
 Le Fenouiller	Vendee, Pays de la Loire	166748	8	3430	46.71949	-1.90037
 Le Fief-Sauvin	Maine-et-Loire, Pays de la Loire	301756	9	1407	47.22143	-1.04214
@@ -93,6 +95,7 @@ Le Gua	Charente-Maritime, Nouvelle-Aquitaine	125218	8	1936	45.72628	-0.944
 Le Gua	Isere, Auvergne-Rhone-Alpes	227237	8	1839	45.01667	5.61667
 Le Haillan	Gironde, Nouvelle-Aquitaine	105276	8	8880	44.87161	-0.67691
 Le Havre	Seine-Maritime, Normandy	104492	8	185972	49.4938	0.10767
+Le Havre	Seine-Maritime, Normandy	3012370	7	185972	49.4938	0.10767
 Le Houga	Gers, Occitanie	76183	8	1200	43.77487	-0.18061
 Le Houlme	Seine-Maritime, Normandy	113598	8	4468	49.50972	1.03537
 Le Kremlin-Bicetre	Val-de-Marne, Ile-de-France	105122	8	27867	48.81471	2.36073
@@ -192,6 +195,7 @@ Le Pre-Saint-Gervais	Seine-Saint-Denis, Ile-de-France	67826	8	17786	48.88549	2.4
 Le Puy-Notre-Dame	Maine-et-Loire, Pays de la Loire	904696	8	1326	47.12512	-0.23492
 Le Puy-Sainte-Reparade	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	70268	8	5041	43.66393	5.43493
 Le Puy-en-Velay	Haute-Loire, Auvergne-Rhone-Alpes	120067	8	22718	45.04366	3.88523
+Le Puy-en-Velay	Haute-Loire, Auvergne-Rhone-Alpes	3070731	7	22718	45.04366	3.88523
 Le Quesnoy	North, Hauts-de-France	54546	8	4897	50.24797	3.63656
 Le Raincy	Seine-Saint-Denis, Ile-de-France	162337	8	13246	48.89916	2.52298
 Le Raincy	Seine-Saint-Denis, Ile-de-France	1637469	7	13246	48.89916	2.52298
@@ -204,6 +208,7 @@ Le Rouret	Alpes-Maritimes, Provence-Alpes-Cote d'Azur	156356	8	3575	43.67873	7.0
 Le Rove	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	74244	8	4084	43.36987	5.25112
 Le Roy	McLean County, Illinois	126783	8	3582	40.35198	-88.76424
 Le Russey	Doubs, Bourgogne-Franche-Comte	146624	8	1936	47.16055	6.72912
+Le Sappey-en-Chartreuse	Isere, Auvergne-Rhone-Alpes	75193	8	1007	45.26235	5.77476
 Le Sappey-en-Chartreuse	Isere, Auvergne-Rhone-Alpes	85580	8	1007	45.26235	5.77476
 Le Sequestre	Tarn, Occitanie	135649	8	1336	43.91076	2.11804
 Le Soler	Pyrenees-Orientales, Occitanie	18311	8	6377	42.68185	2.79305
@@ -217,6 +222,7 @@ Le Teich	Gironde, Nouvelle-Aquitaine	111072	8	5237	44.63389	-1.02437
 Le Teil	Ardeche, Auvergne-Rhone-Alpes	122620	8	8620	44.54531	4.68223
 Le Teilleul	Manche, Normandy	538366	9	1422	48.53758	-0.87304
 Le Teilleul	Manche, Normandy	5815682	8	1422	48.53758	-0.87304
+Le Temple-de-Bretagne	Loire-Atlantique, Pays de la Loire	10149426	9	1665	47.32868	-1.79143
 Le Temple-de-Bretagne	Loire-Atlantique, Pays de la Loire	102803	8	1665	47.32868	-1.79143
 Le Theil-Bocage	Calvados, Normandy	183982	9	1955	48.88333	-0.71667
 Le Theil-de-Bretagne	Ille-et-Vilaine, Brittany	150978	8	1237	47.91994	-1.42973
@@ -239,6 +245,7 @@ Le Val-Saint-Germain	Essonne, Ile-de-France	1210549	8	1513	48.56601	2.06471
 Le Val-Saint-Pere	Manche, Normandy	1013533	8	1656	48.66177	-1.37653
 Le Vauclin	Martinique	290029	8	7812	14.5454	-60.83831
 Le Vaud	Nyon District, Vaud	1685024	8	1104	46.47753	6.23603
+Le Vaud	Nyon District, Vaud	1702421	4	1104	46.47753	6.23603
 Le Vaudreuil	Eure, Normandy	76842	8	3612	49.25407	1.2096
 Le Verdon-sur-Mer	Gironde, Nouvelle-Aquitaine	110593	8	1334	45.54627	-1.06158
 Le Versoud	Isere, Auvergne-Rhone-Alpes	87624	8	4092	45.21988	5.86502
@@ -296,11 +303,13 @@ Lebork	Powiat leborski, Pomerania	2549658	8	35161	54.53921	17.75012
 Lebork	Powiat leborski, Pomerania	2601627	7	35161	54.53921	17.75012
 Lebrija	Lebrija, Santander	1343739	6	8949	7.11317	-73.2178
 Lebrija	Provincia de Sevilla, Andalusia	340577	8	26434	36.92077	-6.07529
+Lebu	Provincia de Arauco, Biobio	1654913	8	22345	-37.60825	-73.65356
 Lebus	Brandenburg	1332907	8	3447	52.42719	14.53235
 Lebus	Brandenburg	1332940	7	3447	52.42719	14.53235
 Lecce	Provincia di Lecce, Apulia	40094	6	80695	40.35481	18.17244
 Lecce	Provincia di Lecce, Apulia	40442	8	80695	40.35481	18.17244
 Lecce Nei Marsi	Provincia dell' Aquila, Abruzzo	41585	8	1730	41.93436	13.6843
+Lecco	Provincia di Lecco, Lombardy	45639	6	46580	45.85589	9.39704
 Lecco	Provincia di Lecco, Lombardy	46229	8	46580	45.85589	9.39704
 Lecelles	North, Hauts-de-France	56422	8	2788	50.46779	3.40096
 Lecera	Provincia de Zaragoza, Aragon	341501	8	766	41.20491	-0.71133
@@ -329,6 +338,7 @@ Lede	Provincie Oost-Vlaanderen, Flanders	1266491	8	16813	50.96626	3.98594
 Lede	Provincie Oost-Vlaanderen, Flanders	7795372	9	16813	50.96626	3.98594
 Ledeberg	Provincie Oost-Vlaanderen, Flanders	3134191	9	8454	51.03859	3.74458
 Ledec nad Sazavou	Okres Havlickuv Brod, Vysocina	428455	10	6048	49.69517	15.27772
+Ledec nad Sazavou	Okres Havlickuv Brod, Vysocina	434325	10	6048	49.69517	15.27772
 Ledec nad Sazavou	Okres Havlickuv Brod, Vysocina	440675	8	6048	49.69517	15.27772
 Ledegem	Provincie West-Vlaanderen, Flanders	1334122	8	1582	50.85785	3.12409
 Ledegem	Provincie West-Vlaanderen, Flanders	1334123	9	1582	50.85785	3.12409
@@ -348,6 +358,7 @@ Ledston	City and Borough of Leeds, England	4779801	10	0	53.75254	-1.34355
 Ledyard	New London County, Connecticut	11059192	8	15212	41.43982	-72.01424
 Ledziny	Powiat bierunsko-ledzinski, Silesia	2828736	8	16305	50.14264	19.13149
 Ledziny	Powiat bierunsko-ledzinski, Silesia	2828746	7	16305	50.14264	19.13149
+Ledziny	Powiat bierunsko-ledzinski, Silesia	9755298	8	16305	50.14264	19.13149
 Lee	Berkshire County, Massachusetts	1839554	8	2051	42.30425	-73.24816
 Lee	Strafford County, New Hampshire	67079	8	4500	43.12314	-71.01145
 Lee's Summit	Jackson County, Missouri	141054	8	95094	38.91084	-94.38217
@@ -373,6 +384,7 @@ Leesburg	Lake County, Florida	117476	8	21993	28.81082	-81.87786
 Leesburg	Lee County, Georgia	119895	8	2983	31.73212	-84.17074
 Leesburg	Loudoun County, Virginia	206884	8	51209	39.11566	-77.5636
 Leese	Lower Saxony	1183264	8	1749	52.5	9.11667
+Leese	Lower Saxony	3975770	10	1749	52.5	9.11667
 Leesport	Berks County, Pennsylvania	188487	8	1883	40.44704	-75.96632
 Leest	Provincie Antwerpen, Flanders	3369537	9	2758	51.03319	4.4153
 Leesville	Vernon Parish, Louisiana	132118	8	6333	31.14352	-93.261
@@ -418,10 +430,13 @@ Legnica	Legnica, Lower Silesia	451305	6	106033	51.21006	16.1619
 Legnickie Pole	Powiat legnicki, Lower Silesia	5832416	8	1301	51.14419	16.24208
 Legorreta	Provincia de Guipuzcoa, Basque Country	342585	8	1357	43.08464	-2.15017
 Legowo	Powiat gdanski, Pomerania	12579752	8	2850	54.22641	18.64277
+Legowo	Powiat gdanski, Pomerania	6878700	8	2850	54.22641	18.64277
 Leguevin	Upper Garonne, Occitanie	117651	8	6976	43.60028	1.23236
 Lehavim	Southern District	1379226	8	6415	31.37284	34.81619
+Lehe	Schleswig-Holstein	1140383	10	1155	54.34143	9.02374
 Lehe	Schleswig-Holstein	949859	8	1155	54.34143	9.02374
 Lehen	Politischer Bezirk Salzburg-Umgebung, Salzburg	7489983	10	1046	47.87083	13.01722
+Lehesten	Thuringia	1273252	8	2103	50.98333	11.58333
 Lehesten	Thuringia	2778384	8	2103	50.98333	11.58333
 Lehi	Utah County, Utah	198899	8	58486	40.39162	-111.85077
 Lehighton	Carbon County, Pennsylvania	187872	8	5314	40.8337	-75.7138
@@ -452,11 +467,15 @@ Leiderdorp	Gemeente Leiderdorp, South Holland	161632	10	25966	52.15833	4.52917
 Leiderdorp	Gemeente Leiderdorp, South Holland	161633	8	25966	52.15833	4.52917
 Leidersbach	Regierungsbezirk Unterfranken, Bavaria	395350	8	4997	49.90139	9.22167
 Leidersbach	Regierungsbezirk Unterfranken, Bavaria	7425518	10	4997	49.90139	9.22167
+Leifear	County Donegal, Ulster	4617140	10	1658	54.83194	-7.48361
 Leifear	County Donegal, Ulster	5571659	10	1658	54.83194	-7.48361
 Leiferde	Lower Saxony	1374990	8	1911	52.20445	10.50842
 Leigh	Wiltshire, England	5480921	10	0	51.61667	-1.9
 Leigh-on-Sea	Southend-on-Sea, England	3015634	10	0	51.54297	0.64905
+Leimbach	Thuringia	11114145	9	1881	50.81667	10.2
 Leimbach	Thuringia	2874390	8	1881	50.81667	10.2
+Leimbach	Thuringia	4060957	9	1881	50.81667	10.2
+Leimen	Karlsruhe Region, Baden-Wurttemberg	1251058	8	27190	49.34737	8.68733
 Leimen	Karlsruhe Region, Baden-Wurttemberg	453397	8	27190	49.34737	8.68733
 Leimersheim	Rheinland-Pfalz	1250449	8	2624	49.12421	8.34531
 Leimuiden	Gemeente Kaag en Braassem, South Holland	1879804	10	1035	52.22417	4.66944
@@ -466,12 +485,14 @@ Leinefelde-Worbis	Thuringia	2393608	8	13740	51.38796	10.3262
 Leinfelden-Echterdingen	Regierungsbezirk Stuttgart, Baden-Wurttemberg	2796536	8	36672	48.69406	9.16809
 Leingarten	Regierungsbezirk Stuttgart, Baden-Wurttemberg	410502	8	10579	49.14639	9.11694
 Leini	Torino, Piedmont	44365	8	13644	45.18275	7.71422
+Leinster	Leonora, Western Australia	11690167	9	1334	-27.92028	120.6967
 Leintz-Gatzaga	Provincia de Guipuzcoa, Basque Country	346466	8	0	42.98684	-2.56851
 Leinzell	Regierungsbezirk Stuttgart, Baden-Wurttemberg	915436	8	2241	48.84941	9.8775
 Leioa	Bizkaia, Basque Country	339945	8	31197	43.32686	-2.98884
 Leipheim	Swabia, Bavaria	964466	8	6822	48.45004	10.22278
 Leipsic	Putnam County, Ohio	183357	8	2032	41.09838	-83.98467
 Leipzig	Saxony	62649	6	504971	51.33962	12.37129
+Leiria	Leiria	5011694	6	45112	39.74362	-8.80705
 Leiria	Leiria	5399202	7	45112	39.74362	-8.80705
 Leisnig	Saxony	415408	8	6968	51.15743	12.9279
 Leissling	Saxony-Anhalt	2405457	10	1541	51.1826	11.90954
@@ -495,6 +516,8 @@ Lekbibaj	Rrethi i Tropojes, Kukes	1248563	8	0	42.29472	19.93167
 Leke	Provincie West-Vlaanderen, Flanders	1326928	9	1173	51.10022	2.89098
 Lekeitio	Bizkaia, Basque Country	339944	8	7254	43.36417	-2.50492
 Lekenik	Opcina Lekenik, Sisacko-Moslavacka	12264193	8	1897	45.58556	16.21139
+Leki	Powiat krosnienski, Subcarpathia	6079078	8	1088	49.80996	21.66023
+Leki	Powiat krosnienski, Subcarpathia	6091949	8	1088	49.80996	21.66023
 Leki	Powiat krosnienski, Subcarpathia	7066609	8	1088	49.80996	21.66023
 Leki Dolne	Powiat debicki, Subcarpathia	6883781	8	1500	49.97386	21.24739
 Leki Dukielskie	Powiat krosnienski, Subcarpathia	6322986	8	1585	49.59959	21.67663
@@ -508,6 +531,7 @@ Leland Grove	Sangamon County, Illinois	123101	8	1523	39.777	-89.67927
 Leleasca	Comuna Leleasca, Olt	9744195	8	1819	44.78333	24.43333
 Lelekovice	Okres Brno-venkov, South Moravian	429746	10	1476	49.29144	16.57874
 Lelekovice	Okres Brno-venkov, South Moravian	442047	8	1476	49.29144	16.57874
+Leleque	Departamento de Cushamen, Chubut	4445875	8	0	-42.41225	-71.06797
 Leleque	Departamento de Cushamen, Chubut	9359761	8	0	-42.41225	-71.06797
 Lelese	Comuna Lelese, Hunedoara	10541655	8	505	45.73333	22.7
 Lelu	Lelu Municipality, Kosrae	3819490	8	0	5.33359	163.02248
@@ -567,6 +591,7 @@ Lengenwang	Swabia, Bavaria	448309	8	1375	47.7	10.6
 Lengerich	Lower Saxony	1815349	8	2679	52.55381	7.53164
 Lengerich	Regierungsbezirk Muenster, North Rhine-Westphalia	155441	8	22697	52.18661	7.86043
 Lenggries	Upper Bavaria, Bavaria	935242	8	9432	47.68333	11.56667
+Lengnau	Biel/Bienne District, Bern	1684350	8	7336	47.18155	7.36814
 Lengshuijiang	Loudi Shi, Hunan	3070605	6	115399	27.68806	111.42944
 Lenguazaque	Lenguazaque, Cundinamarca	10688530	6	2555	5.30711	-73.71152
 Lengyeltoti	Somogy	1368047	8	3380	46.67013	17.64398
@@ -635,11 +660,14 @@ Leonessa	Provincia di Rieti, Lazio	42039	8	1118	42.56855	12.95996
 Leonforte	Enna, Sicily	39308	8	13781	37.64197	14.39766
 Leongatha	South Gippsland, Victoria	2661216	9	5408	-38.47607	145.94685
 Leonia	Bergen County, New Jersey	170634	8	9219	40.86149	-73.98819
+Leonora	Leonora, Western Australia	11690163	9	1267	-28.88509	121.33074
 Leonville	Saint Landry Parish, Louisiana	131907	8	1101	30.47047	-91.97845
 Leopold	Greater Geelong, Victoria	2455792	9	12389	-38.19001	144.46825
 Leopoldina	Leopoldina, Minas Gerais	314665	8	46742	-21.53194	-42.64306
+Leopoldov	Okres Hlohovec, Trnava	1744978	9	4144	48.44575	17.76458
 Leopoldov	Okres Hlohovec, Trnava	2205326	10	4144	48.44575	17.76458
 Leopoldov	Okres Hlohovec, Trnava	2205349	9	4144	48.44575	17.76458
+Leopoldov	Okres Hlohovec, Trnava	2220553	10	4144	48.44575	17.76458
 Leopoldsburg	Provincie Limburg, Flanders	1229781	8	14149	51.11667	5.25
 Leopoldsburg	Provincie Limburg, Flanders	3895657	9	14149	51.11667	5.25
 Leopoldshohe	Regierungsbezirk Detmold, North Rhine-Westphalia	12642909	9	16219	52.01246	8.69834
@@ -693,6 +721,7 @@ Les Arnavaux	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6600469	10	5378	43.335
 Les Artigues-de-Lussac	Gironde, Nouvelle-Aquitaine	1270588	8	1060	44.97182	-0.13958
 Les Attaques	Pas-de-Calais, Hauts-de-France	286832	8	1851	50.90962	1.92961
 Les Authieux-sur-le-Port-Saint-Ouen	Seine-Maritime, Normandy	139328	8	1203	49.341	1.13465
+Les Authieux-sur-le-Port-Saint-Ouen	Seine-Maritime, Normandy	543182	8	1203	49.341	1.13465
 Les Avenieres	Isere, Auvergne-Rhone-Alpes	104193	9	4710	45.63632	5.56144
 Les Avirons	Reunion	1282331	8	8006	-21.24063	55.33685
 Les Aygalades	Bouches-du-Rhone, Provence-Alpes-Cote d'Azur	6600407	10	6629	43.35711	5.37116
@@ -764,6 +793,7 @@ Les Roches-de-Condrieu	Isere, Auvergne-Rhone-Alpes	168847	8	1968	45.45281	4.7671
 Les Rosiers-sur-Loire	Maine-et-Loire, Pays de la Loire	272380	9	2365	47.3516	-0.22502
 Les Rousses	Jura, Bourgogne-Franche-Comte	103718	8	3048	46.48412	6.0633
 Les Sables-d'Olonne	Vendee, Pays de la Loire	156591	9	16105	46.49687	-1.7847
+Les Sables-d'Olonne	Vendee, Pays de la Loire	1658345	7	16105	46.49687	-1.7847
 Les Sables-d'Olonne	Vendee, Pays de la Loire	9090110	8	16105	46.49687	-1.7847
 Les Salles-du-Gardon	Gard, Occitanie	1106254	8	2789	44.20675	4.03469
 Les Sorinieres	Loire-Atlantique, Pays de la Loire	77714	8	6698	47.14744	-1.53004
@@ -780,13 +810,16 @@ Lesbury	Northumberland, England	8420815	10	1007	55.39832	-1.6283
 Lescar	Pyrenees-Atlantiques, Nouvelle-Aquitaine	167647	8	9710	43.33358	-0.43458
 Leschenault	Harvey, Western Australia	11688812	9	2772	-33.24519	115.7251
 Lesegno	Provincia di Cuneo, Piedmont	43114	8	450	44.4011	7.96943
+Leshan	Leshan Shi, Sichuan	2789892	5	662814	29.56227	103.76386
 Leshnje	Rrethi i Skraparit, Berat	1252282	8	0	40.53694	20.31333
 Lesichovo	Obshtina Lesichovo, Pazardzhik	1974012	7	1206	42.35626	24.1119
 Lesignano de'Bagni	Provincia di Parma, Emilia-Romagna	43366	8	3825	44.64346	10.30039
 Lesigny	Seine-et-Marne, Ile-de-France	403064	8	8421	48.74374	2.61518
 Lesina	Provincia di Foggia, Apulia	41564	8	5954	41.86125	15.35322
+Lesja	Lesja, Innlandet	412407	7	0	62.11837	8.86424
 Lesko	Powiat leski, Subcarpathia	1908752	8	5700	49.4701	22.33042
 Leskova Dolina	Loska Dolina	541539	8	539	45.62139	14.46056
+Leskovac	Jablanica, Central Serbia	6352793	9	94758	42.99806	21.94611
 Leskovac	Jablanica, Central Serbia	7247369	9	94758	42.99806	21.94611
 Leskovik	Rrethi i Kolonjes, Korce	1252591	8	2655	40.15139	20.59722
 Leslie	Ingham County, Michigan	135149	8	1866	42.45143	-84.43247
@@ -800,6 +833,7 @@ Lesneven	Finistere, Brittany	452920	8	7144	48.57157	-4.31745
 Lesnica	Powiat strzelecki, Opole Voivodeship	2725722	8	2897	50.43083	18.18684
 Lesnica	Powiat tatrzanski, Lesser Poland	4580181	8	1200	49.40092	20.06001
 Lesparre-Medoc	Gironde, Nouvelle-Aquitaine	110596	8	5406	45.30709	-0.93793
+Lesparre-Medoc	Gironde, Nouvelle-Aquitaine	1665392	7	5406	45.30709	-0.93793
 Lespignan	Herault, Occitanie	167406	8	2895	43.27364	3.17193
 Lespinasse	Upper Garonne, Occitanie	158859	8	2435	43.71206	1.38462
 Lesquin	North, Hauts-de-France	58175	8	6424	50.58232	3.119
@@ -813,7 +847,9 @@ Lessona	Provincia di Biella, Piedmont	45267	8	1392	45.58693	8.19433
 Lestelle-Betharram	Pyrenees-Atlantiques, Nouvelle-Aquitaine	2147147	8	1094	43.13035	-0.2095
 Lester Prairie	McLeod County, Minnesota	137623	8	1686	44.88385	-94.04164
 Lestijaervi	Kaustinen, Central Ostrobothnia	2424504	8	924	63.53333	24.65
+Lestina	Okres Sumperk, Olomoucky	429817	10	1246	49.86879	16.92748
 Lestina	Okres Sumperk, Olomoucky	438062	8	1246	49.86879	16.92748
+Lestina	Okres Sumperk, Olomoucky	440380	8	1246	49.86879	16.92748
 Lestizza	Udine, Friuli Venezia Giulia	179129	8	882	45.95656	13.14221
 Lestrem	Pas-de-Calais, Hauts-de-France	1175376	8	3925	50.61987	2.68646
 Lesve	Province de Namur, Wallonia	8489312	9	2399	50.37705	4.77785
@@ -856,6 +892,7 @@ Letux	Provincia de Zaragoza, Aragon	341504	8	416	41.25512	-0.80269
 Letzlingen	Saxony-Anhalt	1285601	9	1622	52.44615	11.48518
 Leu	Comuna Leu, Dolj	9695123	8	5404	44.18333	24
 Leuben	Saxony	192930	9	38353	51.01122	13.82029
+Leuben	Saxony	4552774	10	38353	51.01122	13.82029
 Leubnitz	Saxony	445225	9	1509	50.72313	12.3566
 Leubnitz	Saxony	8556558	9	1509	50.72313	12.3566
 Leubsdorf	Rheinland-Pfalz	443577	8	1724	50.55	7.3
@@ -984,6 +1021,7 @@ Leza	Araba / Alava, Basque Country	344036	8	229	42.56552	-2.63324
 Leza de Rio Leza	Provincia de La Rioja, La Rioja	340517	8	69	42.32952	-2.40606
 Lezajsk	Powiat lezajski, Subcarpathia	2851588	8	13958	50.26257	22.41932
 Lezajsk	Powiat lezajski, Subcarpathia	904172	7	13958	50.26257	22.41932
+Lezama	Araba / Alava, Basque Country	348896	8	2261	43.02799	-2.97257
 Lezama	Araba / Alava, Basque Country	6879629	9	2261	43.02799	-2.97257
 Lezan	Gard, Occitanie	75989	8	1073	44.01272	4.05053
 Lezardrieux	Cotes-d'Armor, Brittany	399691	8	1708	48.7853	-3.1084
